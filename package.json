@@ -12,7 +12,8 @@
     "tiles-join": "tile-join -f -o data/trees.mbtiles data/trees-other.mbtiles data/trees-important.mbtiles",
     "tiles": "npm run tiles-important && npm run tiles-other && npm run tiles-join",
     "family": "node scripts/fetch-families",
-    "pois": "node scripts/fetch-pois"
+    "pois": "node scripts/fetch-pois",
+    "build": "rm -rf data/grid/* && cp _headers data/"
   },
   "author": "Lim Chee Aun <cheeaun@gmail.com>",
   "license": "ISC",
