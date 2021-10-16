@@ -2,3 +2,4 @@
   cache-control: public, max-age=2592000
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Headers: *
+  Access-Control-Expose-Headers: *
