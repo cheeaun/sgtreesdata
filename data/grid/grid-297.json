@@ -1,0 +1,651 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 7517,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.803239,
+					1.396816
+				]
+			},
+			"properties": {
+				"OBJECTID": 7517,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "2018",
+				"Girth": "> 1.5",
+				"Public_treeid": "10968354",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1606,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.803297,
+					1.397221
+				]
+			},
+			"properties": {
+				"OBJECTID": 1606,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "10",
+				"SPCS_CD": "1655",
+				"COMMON_NM": "Rhu Ronang",
+				"SPSC_NM": "Gymnostoma nobile",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Gymnostoma nobile,Rhu Ronang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941810",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4881,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.803983,
+					1.39748
+				]
+			},
+			"properties": {
+				"OBJECTID": 4881,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941654",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4643,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.803097,
+					1.39726
+				]
+			},
+			"properties": {
+				"OBJECTID": 4643,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "10",
+				"SPCS_CD": "1655",
+				"COMMON_NM": "Rhu Ronang",
+				"SPSC_NM": "Gymnostoma nobile",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Gymnostoma nobile,Rhu Ronang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941811",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4091,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80385,
+					1.397292
+				]
+			},
+			"properties": {
+				"OBJECTID": 4091,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941652",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1815,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80345,
+					1.396753
+				]
+			},
+			"properties": {
+				"OBJECTID": 1815,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941312",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2127,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8035,
+					1.396788
+				]
+			},
+			"properties": {
+				"OBJECTID": 2127,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "10",
+				"SPCS_CD": "1862",
+				"COMMON_NM": "Bullate Eugenia",
+				"SPSC_NM": "Syzygium borneense",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium borneense,Bullate Eugenia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10941119",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2683,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.803343,
+					1.397166
+				]
+			},
+			"properties": {
+				"OBJECTID": 2683,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "10",
+				"SPCS_CD": "1655",
+				"COMMON_NM": "Rhu Ronang",
+				"SPSC_NM": "Gymnostoma nobile",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Gymnostoma nobile,Rhu Ronang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941656",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4057,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.802703,
+					1.396998
+				]
+			},
+			"properties": {
+				"OBJECTID": 4057,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1809",
+				"COMMON_NM": "Mempoyan",
+				"SPSC_NM": "Rhodamnia cinerea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Rhodamnia cinerea,Mempoyan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941650",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2371,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.803652,
+					1.397055
+				]
+			},
+			"properties": {
+				"OBJECTID": 2371,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941310",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3628,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.802875,
+					1.396893
+				]
+			},
+			"properties": {
+				"OBJECTID": 3628,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "10",
+				"SPCS_CD": "1809",
+				"COMMON_NM": "Mempoyan",
+				"SPSC_NM": "Rhodamnia cinerea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Rhodamnia cinerea,Mempoyan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941864",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4624,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.803399,
+					1.396715
+				]
+			},
+			"properties": {
+				"OBJECTID": 4624,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "10",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941118",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3362,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.802986,
+					1.396818
+				]
+			},
+			"properties": {
+				"OBJECTID": 3362,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1809",
+				"COMMON_NM": "Mempoyan",
+				"SPSC_NM": "Rhodamnia cinerea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Rhodamnia cinerea,Mempoyan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941114",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2675,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.803759,
+					1.397185
+				]
+			},
+			"properties": {
+				"OBJECTID": 2675,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941311",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 935,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.803092,
+					1.396901
+				]
+			},
+			"properties": {
+				"OBJECTID": 935,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1625",
+				"COMMON_NM": "Fern-leaf Tree",
+				"SPSC_NM": "Filicium decipiens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Filicium decipiens,Fern-leaf Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941651",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3761,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80323,
+					1.397273
+				]
+			},
+			"properties": {
+				"OBJECTID": 3761,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "10",
+				"SPCS_CD": "1655",
+				"COMMON_NM": "Rhu Ronang",
+				"SPSC_NM": "Gymnostoma nobile",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Gymnostoma nobile,Rhu Ronang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941158",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4860,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.803239,
+					1.396816
+				]
+			},
+			"properties": {
+				"OBJECTID": 4860,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "10",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941309",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5212,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.802803,
+					1.396948
+				]
+			},
+			"properties": {
+				"OBJECTID": 5212,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "10",
+				"SPCS_CD": "1809",
+				"COMMON_NM": "Mempoyan",
+				"SPSC_NM": "Rhodamnia cinerea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Rhodamnia cinerea,Mempoyan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941116",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3389,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.802776,
+					1.396945
+				]
+			},
+			"properties": {
+				"OBJECTID": 3389,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "10",
+				"SPCS_CD": "1809",
+				"COMMON_NM": "Mempoyan",
+				"SPSC_NM": "Rhodamnia cinerea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Rhodamnia cinerea,Mempoyan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941115",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

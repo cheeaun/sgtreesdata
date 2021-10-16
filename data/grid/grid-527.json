@@ -1,0 +1,277 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 2216,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.954725,
+					1.41429
+				]
+			},
+			"properties": {
+				"OBJECTID": 2216,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "5",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938472",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698885,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.951375,
+					1.410413
+				]
+			},
+			"properties": {
+				"OBJECTID": 698885,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Ixora",
+				"SPSC_NM": "Ixora Congesta",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Ixora Congesta, Ixora",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Million Tree Planting 5th Dec 0930am",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12415045",
+				"EYTreeId": "{C8463AE7-6AB2-4A4D-817D-E6A5F36E945B}",
+				"Name": "Yu Xuan",
+				"Email": "johnnylye74@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2961,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.950578,
+					1.414186
+				]
+			},
+			"properties": {
+				"OBJECTID": 2961,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "33481",
+				"COMMON_NM": null,
+				"SPSC_NM": "Ficus sp.",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus sp.,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940284",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4172,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.954719,
+					1.414325
+				]
+			},
+			"properties": {
+				"OBJECTID": 4172,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "5",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940837",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698886,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.951359,
+					1.410424
+				]
+			},
+			"properties": {
+				"OBJECTID": 698886,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Sterculia cordata",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Million Tree Planting 5th Dec 0930am",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12415046",
+				"EYTreeId": "{831D297C-0645-4EAF-8513-0EFFF8008160}",
+				"Name": "Yu Feng",
+				"Email": "johnnylye74@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698889,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.951361,
+					1.410448
+				]
+			},
+			"properties": {
+				"OBJECTID": 698889,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Aphanamixis polystachya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Aphanamixis polystachya",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Million Tree Planting 5th Dec 2020 0930am",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12415133",
+				"EYTreeId": "{E9D0DEDC-AEA7-409A-B628-4F2A128E91C4}",
+				"Name": "Judy Eng",
+				"Email": "johnnylye74@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698884,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.951355,
+					1.410403
+				]
+			},
+			"properties": {
+				"OBJECTID": 698884,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Millettia pinnata",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Million Tree Project Tree Panting 5th December 930am",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12415044",
+				"EYTreeId": "{F78F2D40-1332-4069-BB91-5864007CD0EF}",
+				"Name": "Johnny Lye",
+				"Email": "johnny@issimple.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698887,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.951377,
+					1.410435
+				]
+			},
+			"properties": {
+				"OBJECTID": 698887,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Garcinia eugeniifolia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Garcinia eugeniifolia",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Million Tree Planting 5th Dec 0930am",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12415047",
+				"EYTreeId": "{7D673C28-46EF-4EF5-8196-48772164B844}",
+				"Name": "Johnny Lye",
+				"Email": "johnnylye74@gmail.com",
+				"UserKeywords": null
+			}
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 472589,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.932377,
+					1.398
+				]
+			},
+			"properties": {
+				"OBJECTID": 472589,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12625146",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 472588,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.93241,
+					1.398029
+				]
+			},
+			"properties": {
+				"OBJECTID": 472588,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12625145",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

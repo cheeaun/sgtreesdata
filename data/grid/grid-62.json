@@ -1,0 +1,1875 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 456587,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654823,
+					1.303549
+				]
+			},
+			"properties": {
+				"OBJECTID": 456587,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1734",
+				"COMMON_NM": "Pongam",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Millettia pinnata,Pongam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12611333",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 277564,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.655125,
+					1.303246
+				]
+			},
+			"properties": {
+				"OBJECTID": 277564,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10021545",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 589422,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.65519,
+					1.304365
+				]
+			},
+			"properties": {
+				"OBJECTID": 589422,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "3",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11301765",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412749,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.650342,
+					1.308756
+				]
+			},
+			"properties": {
+				"OBJECTID": 412749,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10027957",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 286300,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.655271,
+					1.304458
+				]
+			},
+			"properties": {
+				"OBJECTID": 286300,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10415179",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257658,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.650721,
+					1.308935
+				]
+			},
+			"properties": {
+				"OBJECTID": 257658,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10028215",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257664,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649831,
+					1.307986
+				]
+			},
+			"properties": {
+				"OBJECTID": 257664,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10026969",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 456590,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654837,
+					1.303303
+				]
+			},
+			"properties": {
+				"OBJECTID": 456590,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1734",
+				"COMMON_NM": "Pongam",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Millettia pinnata,Pongam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12442829",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412752,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649839,
+					1.30824
+				]
+			},
+			"properties": {
+				"OBJECTID": 412752,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10027291",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 286297,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654907,
+					1.304082
+				]
+			},
+			"properties": {
+				"OBJECTID": 286297,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10415117",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412746,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6508,
+					1.309235
+				]
+			},
+			"properties": {
+				"OBJECTID": 412746,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10028696",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257667,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649796,
+					1.307568
+				]
+			},
+			"properties": {
+				"OBJECTID": 257667,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10026524",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257661,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.650155,
+					1.308311
+				]
+			},
+			"properties": {
+				"OBJECTID": 257661,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10027384",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257665,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649776,
+					1.307887
+				]
+			},
+			"properties": {
+				"OBJECTID": 257665,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10026848",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412755,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649561,
+					1.307941
+				]
+			},
+			"properties": {
+				"OBJECTID": 412755,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10026917",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154167,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.655172,
+					1.304632
+				]
+			},
+			"properties": {
+				"OBJECTID": 154167,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11223033",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 589426,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654988,
+					1.304428
+				]
+			},
+			"properties": {
+				"OBJECTID": 589426,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "3",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11067468",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 286298,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.655021,
+					1.304196
+				]
+			},
+			"properties": {
+				"OBJECTID": 286298,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10415151",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412747,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.650737,
+					1.309172
+				]
+			},
+			"properties": {
+				"OBJECTID": 412747,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10028544",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257656,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.650918,
+					1.309143
+				]
+			},
+			"properties": {
+				"OBJECTID": 257656,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10028506",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 395629,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.65487,
+					1.304308
+				]
+			},
+			"properties": {
+				"OBJECTID": 395629,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1734",
+				"COMMON_NM": "Pongam",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Millettia pinnata,Pongam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524160",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 433826,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.655263,
+					1.302898
+				]
+			},
+			"properties": {
+				"OBJECTID": 433826,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11272921",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257662,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.65011,
+					1.308248
+				]
+			},
+			"properties": {
+				"OBJECTID": 257662,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10027304",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 456588,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654909,
+					1.303466
+				]
+			},
+			"properties": {
+				"OBJECTID": 456588,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1734",
+				"COMMON_NM": "Pongam",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Millettia pinnata,Pongam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12442827",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412741,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6494,
+					1.307478
+				]
+			},
+			"properties": {
+				"OBJECTID": 412741,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10026452",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154164,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654633,
+					1.304067
+				]
+			},
+			"properties": {
+				"OBJECTID": 154164,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11088198",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 286295,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.65471,
+					1.303862
+				]
+			},
+			"properties": {
+				"OBJECTID": 286295,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10415051",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257659,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.650658,
+					1.308872
+				]
+			},
+			"properties": {
+				"OBJECTID": 257659,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10028123",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 286290,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654272,
+					1.303667
+				]
+			},
+			"properties": {
+				"OBJECTID": 286290,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10438381",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412742,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649474,
+					1.307405
+				]
+			},
+			"properties": {
+				"OBJECTID": 412742,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10026393",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 456589,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654586,
+					1.30354
+				]
+			},
+			"properties": {
+				"OBJECTID": 456589,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1734",
+				"COMMON_NM": "Pongam",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Millettia pinnata,Pongam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12442828",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154165,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654719,
+					1.304148
+				]
+			},
+			"properties": {
+				"OBJECTID": 154165,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11088199",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412753,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649791,
+					1.308209
+				]
+			},
+			"properties": {
+				"OBJECTID": 412753,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10027157",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 286261,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.655223,
+					1.304684
+				]
+			},
+			"properties": {
+				"OBJECTID": 286261,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "21",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10415227",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257654,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.651179,
+					1.309415
+				]
+			},
+			"properties": {
+				"OBJECTID": 257654,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10028975",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 286296,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654799,
+					1.303968
+				]
+			},
+			"properties": {
+				"OBJECTID": 286296,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10415090",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257660,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6502,
+					1.308374
+				]
+			},
+			"properties": {
+				"OBJECTID": 257660,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10027458",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 277565,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.65517,
+					1.303201
+				]
+			},
+			"properties": {
+				"OBJECTID": 277565,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10021472",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412756,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649516,
+					1.307905
+				]
+			},
+			"properties": {
+				"OBJECTID": 412756,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10026866",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 277574,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654659,
+					1.303466
+				]
+			},
+			"properties": {
+				"OBJECTID": 277574,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10022019",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412750,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.650108,
+					1.308502
+				]
+			},
+			"properties": {
+				"OBJECTID": 412750,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10027627",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257657,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.650775,
+					1.30899
+				]
+			},
+			"properties": {
+				"OBJECTID": 257657,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10028293",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 277566,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.655215,
+					1.303165
+				]
+			},
+			"properties": {
+				"OBJECTID": 277566,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10021408",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412757,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649442,
+					1.307821
+				]
+			},
+			"properties": {
+				"OBJECTID": 412757,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10026769",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412751,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.650027,
+					1.308421
+				]
+			},
+			"properties": {
+				"OBJECTID": 412751,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10027519",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 286276,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.655104,
+					1.304556
+				]
+			},
+			"properties": {
+				"OBJECTID": 286276,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "21",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10415214",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 255053,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654387,
+					1.303753
+				]
+			},
+			"properties": {
+				"OBJECTID": 255053,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "19",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10415017",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257666,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649794,
+					1.307742
+				]
+			},
+			"properties": {
+				"OBJECTID": 257666,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10026687",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 277563,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.65508,
+					1.303283
+				]
+			},
+			"properties": {
+				"OBJECTID": 277563,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10021609",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412754,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.649587,
+					1.307987
+				]
+			},
+			"properties": {
+				"OBJECTID": 412754,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10026971",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 395628,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.654516,
+					1.303898
+				]
+			},
+			"properties": {
+				"OBJECTID": 395628,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1734",
+				"COMMON_NM": "Pongam",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Millettia pinnata,Pongam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524159",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257655,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.650972,
+					1.309198
+				]
+			},
+			"properties": {
+				"OBJECTID": 257655,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10028608",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412748,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.650449,
+					1.308896
+				]
+			},
+			"properties": {
+				"OBJECTID": 412748,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10028159",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 286299,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.655119,
+					1.304298
+				]
+			},
+			"properties": {
+				"OBJECTID": 286299,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10415173",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257663,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.65002,
+					1.308176
+				]
+			},
+			"properties": {
+				"OBJECTID": 257663,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10027197",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

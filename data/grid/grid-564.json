@@ -1,0 +1,2623 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 2136,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.97085,
+					1.402199
+				]
+			},
+			"properties": {
+				"OBJECTID": 2136,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940272",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1094,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.973468,
+					1.403484
+				]
+			},
+			"properties": {
+				"OBJECTID": 1094,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "5",
+				"SPCS_CD": "31228",
+				"COMMON_NM": null,
+				"SPSC_NM": "Ficus stricta",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus stricta,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940083",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6321,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971248,
+					1.408824
+				]
+			},
+			"properties": {
+				"OBJECTID": 6321,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1439",
+				"COMMON_NM": "Getah Terup, Terap",
+				"SPSC_NM": "Artocarpus elasticus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Artocarpus elasticus,Getah Terup, Terap",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "2017",
+				"Girth": "> 1.5",
+				"Public_treeid": "10690994",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2359,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.97214,
+					1.409442
+				]
+			},
+			"properties": {
+				"OBJECTID": 2359,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938710",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1171,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970928,
+					1.402235
+				]
+			},
+			"properties": {
+				"OBJECTID": 1171,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940273",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3504,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.97073,
+					1.402375
+				]
+			},
+			"properties": {
+				"OBJECTID": 3504,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1816",
+				"COMMON_NM": "Santol",
+				"SPSC_NM": "Sandoricum koetjape",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sandoricum koetjape,Santol",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940399",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1283,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972156,
+					1.4096
+				]
+			},
+			"properties": {
+				"OBJECTID": 1283,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940940",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4872,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971175,
+					1.402339
+				]
+			},
+			"properties": {
+				"OBJECTID": 4872,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938992",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3461,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971707,
+					1.409443
+				]
+			},
+			"properties": {
+				"OBJECTID": 3461,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940593",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3799,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970674,
+					1.402359
+				]
+			},
+			"properties": {
+				"OBJECTID": 3799,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940768",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4904,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.97192,
+					1.409417
+				]
+			},
+			"properties": {
+				"OBJECTID": 4904,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940588",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4357,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970692,
+					1.402543
+				]
+			},
+			"properties": {
+				"OBJECTID": 4357,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1816",
+				"COMMON_NM": "Santol",
+				"SPSC_NM": "Sandoricum koetjape",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sandoricum koetjape,Santol",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939822",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3624,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972509,
+					1.409372
+				]
+			},
+			"properties": {
+				"OBJECTID": 3624,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938860",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1386,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972364,
+					1.409896
+				]
+			},
+			"properties": {
+				"OBJECTID": 1386,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940594",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3501,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972593,
+					1.409693
+				]
+			},
+			"properties": {
+				"OBJECTID": 3501,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1440",
+				"COMMON_NM": "Nangka",
+				"SPSC_NM": "Artocarpus heterophyllus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Artocarpus heterophyllus,Nangka",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938858",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1958,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971883,
+					1.409115
+				]
+			},
+			"properties": {
+				"OBJECTID": 1958,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938717",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4583,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971765,
+					1.409206
+				]
+			},
+			"properties": {
+				"OBJECTID": 4583,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940936",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1417,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972305,
+					1.409725
+				]
+			},
+			"properties": {
+				"OBJECTID": 1417,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938864",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1323,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972128,
+					1.409904
+				]
+			},
+			"properties": {
+				"OBJECTID": 1323,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940943",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5267,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970621,
+					1.402364
+				]
+			},
+			"properties": {
+				"OBJECTID": 5267,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938211",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6333,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972177,
+					1.409561
+				]
+			},
+			"properties": {
+				"OBJECTID": 6333,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong, Durian",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong, Durian",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "2017",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10690679",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1750,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.97133,
+					1.402491
+				]
+			},
+			"properties": {
+				"OBJECTID": 1750,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940277",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4942,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971398,
+					1.407909
+				]
+			},
+			"properties": {
+				"OBJECTID": 4942,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938480",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1604,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971385,
+					1.407939
+				]
+			},
+			"properties": {
+				"OBJECTID": 1604,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939963",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1959,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972073,
+					1.409588
+				]
+			},
+			"properties": {
+				"OBJECTID": 1959,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940591",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2500,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971382,
+					1.407915
+				]
+			},
+			"properties": {
+				"OBJECTID": 2500,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938479",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3098,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971795,
+					1.409568
+				]
+			},
+			"properties": {
+				"OBJECTID": 3098,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940596",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4816,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972171,
+					1.409566
+				]
+			},
+			"properties": {
+				"OBJECTID": 4816,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940932",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4887,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970721,
+					1.402389
+				]
+			},
+			"properties": {
+				"OBJECTID": 4887,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1865",
+				"COMMON_NM": "Jambolan",
+				"SPSC_NM": "Syzygium cumini",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium cumini,Jambolan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939638",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5073,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970542,
+					1.402472
+				]
+			},
+			"properties": {
+				"OBJECTID": 5073,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938991",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4701,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971705,
+					1.409641
+				]
+			},
+			"properties": {
+				"OBJECTID": 4701,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940934",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4163,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972463,
+					1.409203
+				]
+			},
+			"properties": {
+				"OBJECTID": 4163,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940597",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3777,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971728,
+					1.409544
+				]
+			},
+			"properties": {
+				"OBJECTID": 3777,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938859",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2746,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970736,
+					1.402391
+				]
+			},
+			"properties": {
+				"OBJECTID": 2746,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1816",
+				"COMMON_NM": "Santol",
+				"SPSC_NM": "Sandoricum koetjape",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sandoricum koetjape,Santol",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940400",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4040,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972158,
+					1.409211
+				]
+			},
+			"properties": {
+				"OBJECTID": 4040,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938861",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2119,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.97128,
+					1.402403
+				]
+			},
+			"properties": {
+				"OBJECTID": 2119,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940275",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1378,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972552,
+					1.409386
+				]
+			},
+			"properties": {
+				"OBJECTID": 1378,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938865",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2395,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.9707,
+					1.402344
+				]
+			},
+			"properties": {
+				"OBJECTID": 2395,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1816",
+				"COMMON_NM": "Santol",
+				"SPSC_NM": "Sandoricum koetjape",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sandoricum koetjape,Santol",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938026",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4078,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972305,
+					1.409472
+				]
+			},
+			"properties": {
+				"OBJECTID": 4078,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940586",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4533,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971948,
+					1.409472
+				]
+			},
+			"properties": {
+				"OBJECTID": 4533,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940937",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3508,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972029,
+					1.409136
+				]
+			},
+			"properties": {
+				"OBJECTID": 3508,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940939",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5151,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.97194,
+					1.409156
+				]
+			},
+			"properties": {
+				"OBJECTID": 5151,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940587",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5080,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972165,
+					1.409331
+				]
+			},
+			"properties": {
+				"OBJECTID": 5080,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938712",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4905,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970426,
+					1.402424
+				]
+			},
+			"properties": {
+				"OBJECTID": 4905,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940271",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1808,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971266,
+					1.408015
+				]
+			},
+			"properties": {
+				"OBJECTID": 1808,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939962",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3468,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971911,
+					1.409345
+				]
+			},
+			"properties": {
+				"OBJECTID": 3468,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940589",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5372,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970329,
+					1.402627
+				]
+			},
+			"properties": {
+				"OBJECTID": 5372,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941006",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1579,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970719,
+					1.402478
+				]
+			},
+			"properties": {
+				"OBJECTID": 1579,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1816",
+				"COMMON_NM": "Santol",
+				"SPSC_NM": "Sandoricum koetjape",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sandoricum koetjape,Santol",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940769",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1971,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.9723,
+					1.409252
+				]
+			},
+			"properties": {
+				"OBJECTID": 1971,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940590",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2412,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971966,
+					1.409657
+				]
+			},
+			"properties": {
+				"OBJECTID": 2412,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1440",
+				"COMMON_NM": "Nangka",
+				"SPSC_NM": "Artocarpus heterophyllus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Artocarpus heterophyllus,Nangka",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940584",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4361,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971922,
+					1.409622
+				]
+			},
+			"properties": {
+				"OBJECTID": 4361,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938715",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4344,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971866,
+					1.409395
+				]
+			},
+			"properties": {
+				"OBJECTID": 4344,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938711",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1072,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971906,
+					1.409397
+				]
+			},
+			"properties": {
+				"OBJECTID": 1072,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940941",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2592,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971113,
+					1.408911
+				]
+			},
+			"properties": {
+				"OBJECTID": 2592,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938842",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1450,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971333,
+					1.402532
+				]
+			},
+			"properties": {
+				"OBJECTID": 1450,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940278",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1845,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970645,
+					1.40244
+				]
+			},
+			"properties": {
+				"OBJECTID": 1845,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1504",
+				"COMMON_NM": "Silk Cotton Tree",
+				"SPSC_NM": "Ceiba pentandra",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ceiba pentandra,Silk Cotton Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938027",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4922,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972278,
+					1.409457
+				]
+			},
+			"properties": {
+				"OBJECTID": 4922,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938862",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1413,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971826,
+					1.40941
+				]
+			},
+			"properties": {
+				"OBJECTID": 1413,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938714",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2664,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972656,
+					1.409712
+				]
+			},
+			"properties": {
+				"OBJECTID": 2664,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940595",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4871,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972119,
+					1.409684
+				]
+			},
+			"properties": {
+				"OBJECTID": 4871,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940585",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4132,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971115,
+					1.402306
+				]
+			},
+			"properties": {
+				"OBJECTID": 4132,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29867",
+				"COMMON_NM": "Collared Fig",
+				"SPSC_NM": "Ficus crassiramea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus crassiramea,Collared Fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940274",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3512,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971989,
+					1.409488
+				]
+			},
+			"properties": {
+				"OBJECTID": 3512,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940592",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5055,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972345,
+					1.409443
+				]
+			},
+			"properties": {
+				"OBJECTID": 5055,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940935",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3575,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971321,
+					1.40252
+				]
+			},
+			"properties": {
+				"OBJECTID": 3575,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941036",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2994,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972304,
+					1.409905
+				]
+			},
+			"properties": {
+				"OBJECTID": 2994,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938718",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.973468,
+					1.403484
+				]
+			},
+			"properties": {
+				"OBJECTID": 6712,
+				"Type": "HERITAGE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "5",
+				"SPCS_CD": "31228",
+				"COMMON_NM": null,
+				"SPSC_NM": "Ficus stricta",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus stricta,",
+				"ACTUAL_TREE_TYPE": "HERITAGE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Found in Pulau Ubin, at granite outcrop near Police Post",
+				"Hert_age": "2016",
+				"Girth": "> 1.5",
+				"Public_treeid": "10691299",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2112,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972075,
+					1.4098
+				]
+			},
+			"properties": {
+				"OBJECTID": 2112,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940942",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5244,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970414,
+					1.402456
+				]
+			},
+			"properties": {
+				"OBJECTID": 5244,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941007",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3555,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972115,
+					1.409314
+				]
+			},
+			"properties": {
+				"OBJECTID": 3555,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938713",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4196,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970586,
+					1.402221
+				]
+			},
+			"properties": {
+				"OBJECTID": 4196,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1881",
+				"COMMON_NM": "Asam",
+				"SPSC_NM": "Tamarindus indica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tamarindus indica,Asam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941008",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4691,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971398,
+					1.408019
+				]
+			},
+			"properties": {
+				"OBJECTID": 4691,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940843",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3403,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.971301,
+					1.40243
+				]
+			},
+			"properties": {
+				"OBJECTID": 3403,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940276",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1580,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972258,
+					1.40951
+				]
+			},
+			"properties": {
+				"OBJECTID": 1580,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938716",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970445,
+					1.402354
+				]
+			},
+			"properties": {
+				"OBJECTID": 2719,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938990",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2742,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972566,
+					1.409713
+				]
+			},
+			"properties": {
+				"OBJECTID": 2742,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940933",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2450,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970277,
+					1.4027
+				]
+			},
+			"properties": {
+				"OBJECTID": 2450,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940270",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4920,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.972277,
+					1.409698
+				]
+			},
+			"properties": {
+				"OBJECTID": 4920,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938863",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

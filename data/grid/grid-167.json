@@ -1,0 +1,3745 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 476152,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705948,
+					1.427868
+				]
+			},
+			"properties": {
+				"OBJECTID": 476152,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142503",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476198,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70613,
+					1.428159
+				]
+			},
+			"properties": {
+				"OBJECTID": 476198,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143672",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425736,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706398,
+					1.429214
+				]
+			},
+			"properties": {
+				"OBJECTID": 425736,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10142639",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425707,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706404,
+					1.428644
+				]
+			},
+			"properties": {
+				"OBJECTID": 425707,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144121",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425684,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708082,
+					1.433826
+				]
+			},
+			"properties": {
+				"OBJECTID": 425684,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10146169",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578207,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706639,
+					1.429753
+				]
+			},
+			"properties": {
+				"OBJECTID": 578207,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11264277",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 339278,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706745,
+					1.429985
+				]
+			},
+			"properties": {
+				"OBJECTID": 339278,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144365",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425690,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706958,
+					1.430858
+				]
+			},
+			"properties": {
+				"OBJECTID": 425690,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10145616",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425696,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706911,
+					1.430677
+				]
+			},
+			"properties": {
+				"OBJECTID": 425696,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10144676",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476204,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706425,
+					1.429035
+				]
+			},
+			"properties": {
+				"OBJECTID": 476204,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144092",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476212,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707089,
+					1.430993
+				]
+			},
+			"properties": {
+				"OBJECTID": 476212,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144653",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177541,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705685,
+					1.427432
+				]
+			},
+			"properties": {
+				"OBJECTID": 177541,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10161954",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476189,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707194,
+					1.431303
+				]
+			},
+			"properties": {
+				"OBJECTID": 476189,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10173942",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 228607,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70823,
+					1.435031
+				]
+			},
+			"properties": {
+				"OBJECTID": 228607,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12970888",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425713,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706199,
+					1.428018
+				]
+			},
+			"properties": {
+				"OBJECTID": 425713,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143703",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425687,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708019,
+					1.433475
+				]
+			},
+			"properties": {
+				"OBJECTID": 425687,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145985",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 603451,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70806,
+					1.434801
+				]
+			},
+			"properties": {
+				"OBJECTID": 603451,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11306468",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425704,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706594,
+					1.42922
+				]
+			},
+			"properties": {
+				"OBJECTID": 425704,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144387",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476195,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706047,
+					1.427946
+				]
+			},
+			"properties": {
+				"OBJECTID": 476195,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143563",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476201,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706186,
+					1.428372
+				]
+			},
+			"properties": {
+				"OBJECTID": 476201,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143906",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425693,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707275,
+					1.431201
+				]
+			},
+			"properties": {
+				"OBJECTID": 425693,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145116",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425747,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706334,
+					1.429034
+				]
+			},
+			"properties": {
+				"OBJECTID": 425747,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10141962",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425724,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706486,
+					1.429459
+				]
+			},
+			"properties": {
+				"OBJECTID": 425724,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10143159",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 657866,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708,
+					1.43453
+				]
+			},
+			"properties": {
+				"OBJECTID": 657866,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12965507",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476192,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705977,
+					1.427742
+				]
+			},
+			"properties": {
+				"OBJECTID": 476192,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10143431",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476215,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70694,
+					1.430761
+				]
+			},
+			"properties": {
+				"OBJECTID": 476215,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144863",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425716,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706711,
+					1.430089
+				]
+			},
+			"properties": {
+				"OBJECTID": 425716,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143455",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425610,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707461,
+					1.432092
+				]
+			},
+			"properties": {
+				"OBJECTID": 425610,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145433",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425688,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707988,
+					1.433338
+				]
+			},
+			"properties": {
+				"OBJECTID": 425688,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145941",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425711,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706326,
+					1.428386
+				]
+			},
+			"properties": {
+				"OBJECTID": 425711,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143957",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 603452,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708027,
+					1.434736
+				]
+			},
+			"properties": {
+				"OBJECTID": 603452,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11084332",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425682,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708118,
+					1.434049
+				]
+			},
+			"properties": {
+				"OBJECTID": 425682,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10146236",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425705,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70656,
+					1.429124
+				]
+			},
+			"properties": {
+				"OBJECTID": 425705,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144371",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476196,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706069,
+					1.42801
+				]
+			},
+			"properties": {
+				"OBJECTID": 476196,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143600",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578205,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706471,
+					1.429328
+				]
+			},
+			"properties": {
+				"OBJECTID": 578205,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11182899",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476187,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705708,
+					1.427073
+				]
+			},
+			"properties": {
+				"OBJECTID": 476187,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143287",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476210,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707031,
+					1.430835
+				]
+			},
+			"properties": {
+				"OBJECTID": 476210,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144595",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425748,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706281,
+					1.428877
+				]
+			},
+			"properties": {
+				"OBJECTID": 425748,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141899",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425699,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706817,
+					1.429892
+				]
+			},
+			"properties": {
+				"OBJECTID": 425699,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10144489",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 228605,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708235,
+					1.434901
+				]
+			},
+			"properties": {
+				"OBJECTID": 228605,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12970886",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 657867,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707978,
+					1.43439
+				]
+			},
+			"properties": {
+				"OBJECTID": 657867,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12965508",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706596,
+					1.429781
+				]
+			},
+			"properties": {
+				"OBJECTID": 425719,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10143326",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425616,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708038,
+					1.435226
+				]
+			},
+			"properties": {
+				"OBJECTID": 425616,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10146868",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425685,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708064,
+					1.433735
+				]
+			},
+			"properties": {
+				"OBJECTID": 425685,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10146140",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425708,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706339,
+					1.428436
+				]
+			},
+			"properties": {
+				"OBJECTID": 425708,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144089",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476193,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705998,
+					1.427815
+				]
+			},
+			"properties": {
+				"OBJECTID": 476193,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143466",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476207,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706906,
+					1.430444
+				]
+			},
+			"properties": {
+				"OBJECTID": 476207,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144511",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476147,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705895,
+					1.4277
+				]
+			},
+			"properties": {
+				"OBJECTID": 476147,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142226",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578208,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706659,
+					1.42994
+				]
+			},
+			"properties": {
+				"OBJECTID": 578208,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11139038",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425691,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707416,
+					1.43164
+				]
+			},
+			"properties": {
+				"OBJECTID": 425691,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10145282",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476153,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705972,
+					1.427961
+				]
+			},
+			"properties": {
+				"OBJECTID": 476153,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142511",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425722,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706549,
+					1.429627
+				]
+			},
+			"properties": {
+				"OBJECTID": 425722,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10143253",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425702,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706719,
+					1.429571
+				]
+			},
+			"properties": {
+				"OBJECTID": 425702,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10144427",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476213,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70758,
+					1.432508
+				]
+			},
+			"properties": {
+				"OBJECTID": 476213,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144719",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425679,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708154,
+					1.434384
+				]
+			},
+			"properties": {
+				"OBJECTID": 425679,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10146349",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476190,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707295,
+					1.431608
+				]
+			},
+			"properties": {
+				"OBJECTID": 476190,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10143362",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425686,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708028,
+					1.43354
+				]
+			},
+			"properties": {
+				"OBJECTID": 425686,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10146042",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476148,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705913,
+					1.42777
+				]
+			},
+			"properties": {
+				"OBJECTID": 476148,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142272",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476208,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707112,
+					1.431065
+				]
+			},
+			"properties": {
+				"OBJECTID": 476208,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144535",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425694,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707254,
+					1.431138
+				]
+			},
+			"properties": {
+				"OBJECTID": 425694,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145072",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476202,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706258,
+					1.42858
+				]
+			},
+			"properties": {
+				"OBJECTID": 476202,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10143994",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425746,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706366,
+					1.429119
+				]
+			},
+			"properties": {
+				"OBJECTID": 425746,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10141975",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425697,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706885,
+					1.430574
+				]
+			},
+			"properties": {
+				"OBJECTID": 425697,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10144633",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425723,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706511,
+					1.42952
+				]
+			},
+			"properties": {
+				"OBJECTID": 425723,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10143184",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476191,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705952,
+					1.427675
+				]
+			},
+			"properties": {
+				"OBJECTID": 476191,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143379",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425703,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706654,
+					1.429427
+				]
+			},
+			"properties": {
+				"OBJECTID": 425703,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144406",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 657865,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708264,
+					1.434516
+				]
+			},
+			"properties": {
+				"OBJECTID": 657865,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1609",
+				"COMMON_NM": "Java Willow",
+				"SPSC_NM": "Ficus benjamina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus benjamina,Java Willow",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12965506",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476214,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706928,
+					1.430538
+				]
+			},
+			"properties": {
+				"OBJECTID": 476214,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10144777",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425680,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708145,
+					1.434284
+				]
+			},
+			"properties": {
+				"OBJECTID": 425680,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10146300",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699459,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.712289,
+					1.432948
+				]
+			},
+			"properties": {
+				"OBJECTID": 699459,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "3",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Happy Tree Friends",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Pterocarpus indicus, Happy Tree Friends",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "12998540",
+				"EYTreeId": "{630ED3AD-ABC7-4C5D-BBC0-1D8AD1FB42EB}",
+				"Name": "Hallytree Android 2",
+				"Email": "HtfA2@gmail.com",
+				"UserKeywords": "#Htf3"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425611,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70748,
+					1.432161
+				]
+			},
+			"properties": {
+				"OBJECTID": 425611,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145502",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425717,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706667,
+					1.429982
+				]
+			},
+			"properties": {
+				"OBJECTID": 425717,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10143374",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476199,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706172,
+					1.428293
+				]
+			},
+			"properties": {
+				"OBJECTID": 476199,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10143776",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425614,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707858,
+					1.43359
+				]
+			},
+			"properties": {
+				"OBJECTID": 425614,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10145676",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425683,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7081,
+					1.43397
+				]
+			},
+			"properties": {
+				"OBJECTID": 425683,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10146215",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425706,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706427,
+					1.428738
+				]
+			},
+			"properties": {
+				"OBJECTID": 425706,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144223",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476205,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706851,
+					1.430273
+				]
+			},
+			"properties": {
+				"OBJECTID": 476205,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10144452",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476145,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705872,
+					1.427631
+				]
+			},
+			"properties": {
+				"OBJECTID": 476145,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142143",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578206,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706612,
+					1.429766
+				]
+			},
+			"properties": {
+				"OBJECTID": 578206,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11182900",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476188,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705737,
+					1.427154
+				]
+			},
+			"properties": {
+				"OBJECTID": 476188,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10165962",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476211,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707063,
+					1.43091
+				]
+			},
+			"properties": {
+				"OBJECTID": 476211,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144619",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 228606,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708232,
+					1.434966
+				]
+			},
+			"properties": {
+				"OBJECTID": 228606,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12970887",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 603450,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708009,
+					1.434993
+				]
+			},
+			"properties": {
+				"OBJECTID": 603450,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11305328",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177540,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705721,
+					1.427429
+				]
+			},
+			"properties": {
+				"OBJECTID": 177540,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10166840",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425720,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706567,
+					1.429701
+				]
+			},
+			"properties": {
+				"OBJECTID": 425720,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10143285",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425714,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706108,
+					1.427592
+				]
+			},
+			"properties": {
+				"OBJECTID": 425714,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10143519",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476200,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706212,
+					1.428426
+				]
+			},
+			"properties": {
+				"OBJECTID": 476200,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143849",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425615,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707971,
+					1.433835
+				]
+			},
+			"properties": {
+				"OBJECTID": 425615,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145702",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425709,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706277,
+					1.428292
+				]
+			},
+			"properties": {
+				"OBJECTID": 425709,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10144001",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476206,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70688,
+					1.430359
+				]
+			},
+			"properties": {
+				"OBJECTID": 476206,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144490",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476194,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706028,
+					1.427881
+				]
+			},
+			"properties": {
+				"OBJECTID": 476194,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143532",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476154,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706014,
+					1.42808
+				]
+			},
+			"properties": {
+				"OBJECTID": 476154,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142520",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425692,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707374,
+					1.431529
+				]
+			},
+			"properties": {
+				"OBJECTID": 425692,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145249",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425701,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7068,
+					1.42984
+				]
+			},
+			"properties": {
+				"OBJECTID": 425701,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144451",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425609,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707436,
+					1.432016
+				]
+			},
+			"properties": {
+				"OBJECTID": 425609,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145372",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425715,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70676,
+					1.430232
+				]
+			},
+			"properties": {
+				"OBJECTID": 425715,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10143493",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706213,
+					1.428073
+				]
+			},
+			"properties": {
+				"OBJECTID": 425712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143750",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425735,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70642,
+					1.429284
+				]
+			},
+			"properties": {
+				"OBJECTID": 425735,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10142652",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425681,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.708127,
+					1.43414
+				]
+			},
+			"properties": {
+				"OBJECTID": 425681,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10146258",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476203,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706294,
+					1.428679
+				]
+			},
+			"properties": {
+				"OBJECTID": 476203,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10144039",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476197,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706094,
+					1.428072
+				]
+			},
+			"properties": {
+				"OBJECTID": 476197,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143634",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425695,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707232,
+					1.43106
+				]
+			},
+			"properties": {
+				"OBJECTID": 425695,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145036",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425689,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7079,
+					1.433038
+				]
+			},
+			"properties": {
+				"OBJECTID": 425689,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10145823",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578209,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706897,
+					1.430628
+				]
+			},
+			"properties": {
+				"OBJECTID": 578209,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11166764",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425698,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706851,
+					1.430485
+				]
+			},
+			"properties": {
+				"OBJECTID": 425698,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10144546",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476209,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707009,
+					1.43077
+				]
+			},
+			"properties": {
+				"OBJECTID": 476209,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10144565",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425749,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.706222,
+					1.428704
+				]
+			},
+			"properties": {
+				"OBJECTID": 425749,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10141878",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476217,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70738,
+					1.431858
+				]
+			},
+			"properties": {
+				"OBJECTID": 476217,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145309",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425612,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.707514,
+					1.432253
+				]
+			},
+			"properties": {
+				"OBJECTID": 425612,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145584",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425718,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70664,
+					1.429899
+				]
+			},
+			"properties": {
+				"OBJECTID": 425718,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10143347",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

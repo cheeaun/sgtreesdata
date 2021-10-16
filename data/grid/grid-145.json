@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 698584,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702395,
+					1.397048
+				]
+			},
+			"properties": {
+				"OBJECTID": 698584,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "12",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Philippine Mahogany",
+				"SPSC_NM": "Lepisanthes amoena",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lepisanthes amoena, Philippine Mahogany",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Test",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13043025",
+				"EYTreeId": "{86754890-5F6C-4559-A65F-2F39DA82BDB9}",
+				"Name": "Test",
+				"Email": "asfsd@asdf.com",
+				"UserKeywords": "#Teset"
+			}
+		}
+	]
+}

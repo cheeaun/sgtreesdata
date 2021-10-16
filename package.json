@@ -1,0 +1,30 @@
+{
+  "name": "sgtreesdata",
+  "version": "1.0.0",
+  "description": "Singapore Trees data",
+  "scripts": {
+    "trees": "node scripts/fetch-trees.mjs",
+    "chunk": "node --max-old-space-size=4096 scripts/chunk-trees",
+    "minify": "node scripts/minify-trees",
+    "pretiles": "node --max-old-space-size=4096 scripts/pre-tiles",
+    "tiles-important": "tippecanoe -f -r1 -l trees -o data/trees-important.mbtiles data/trees-important.geojson",
+    "tiles-other": "tippecanoe -f -r2 -Bg -as -ae -l trees -o data/trees-other.mbtiles data/trees-other.geojson",
+    "tiles-join": "tile-join -f -o data/trees.mbtiles data/trees-other.mbtiles data/trees-important.mbtiles",
+    "tiles": "npm run tiles-important && npm run tiles-other && npm run tiles-join",
+    "family": "node scripts/fetch-families",
+    "pois": "node scripts/fetch-pois"
+  },
+  "author": "Lim Chee Aun <cheeaun@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "@mapbox/polyline": "~1.1.1",
+    "@turf/turf": "~6.5.0",
+    "@ygoe/msgpack": "~1.0.3",
+    "brotli-size": "^4.0.0",
+    "got": "~11.8.2",
+    "lil-csv": "~1.4.4",
+    "pretty-bytes": "~5.6.0",
+    "terminal-link": "~3.0.0"
+  }
+}

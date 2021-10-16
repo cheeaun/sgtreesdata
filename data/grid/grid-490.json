@@ -1,0 +1,73 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 699386,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.929977,
+					1.427045
+				]
+			},
+			"properties": {
+				"OBJECTID": 699386,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Platter Leaf",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Platter Leaf",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13031583",
+				"EYTreeId": "{A6A72670-10D4-412B-B13C-63D71895664A}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699390,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.929892,
+					1.424128
+				]
+			},
+			"properties": {
+				"OBJECTID": 699390,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "zoom 15",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "zoom 15",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13007081",
+				"EYTreeId": "{53A10EA2-7BEE-4664-9401-0AEBE7F3AC1E}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

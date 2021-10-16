@@ -1,0 +1,6567 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 503234,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895703,
+					1.358852
+				]
+			},
+			"properties": {
+				"OBJECTID": 503234,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105512",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190242,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895486,
+					1.359472
+				]
+			},
+			"properties": {
+				"OBJECTID": 190242,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10106077",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596361,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902977,
+					1.359406
+				]
+			},
+			"properties": {
+				"OBJECTID": 596361,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11287087",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 495293,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897763,
+					1.359021
+				]
+			},
+			"properties": {
+				"OBJECTID": 495293,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1418",
+				"COMMON_NM": "Cabbage Tree",
+				"SPSC_NM": "Andira inermis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Andira inermis,Cabbage Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11371763",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 444084,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903002,
+					1.359032
+				]
+			},
+			"properties": {
+				"OBJECTID": 444084,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11266063",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596355,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902957,
+					1.358557
+				]
+			},
+			"properties": {
+				"OBJECTID": 596355,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11039258",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596006,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902405,
+					1.357129
+				]
+			},
+			"properties": {
+				"OBJECTID": 596006,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "3",
+				"SPCS_CD": "1609",
+				"COMMON_NM": "Java Willow",
+				"SPSC_NM": "Ficus benjamina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus benjamina,Java Willow",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10958296",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596352,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903222,
+					1.359009
+				]
+			},
+			"properties": {
+				"OBJECTID": 596352,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11118898",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 444078,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902749,
+					1.35853
+				]
+			},
+			"properties": {
+				"OBJECTID": 444078,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11072012",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503245,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898625,
+					1.359128
+				]
+			},
+			"properties": {
+				"OBJECTID": 503245,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10105730",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190253,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894882,
+					1.35661
+				]
+			},
+			"properties": {
+				"OBJECTID": 190253,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10103645",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 420715,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901163,
+					1.358599
+				]
+			},
+			"properties": {
+				"OBJECTID": 420715,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12462257",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 684742,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897911,
+					1.347274
+				]
+			},
+			"properties": {
+				"OBJECTID": 684742,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11313508",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 684719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898126,
+					1.347338
+				]
+			},
+			"properties": {
+				"OBJECTID": 684719,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1726",
+				"COMMON_NM": "Paper Bark Tree",
+				"SPSC_NM": "Melaleuca cajuputi",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Melaleuca cajuputi,Paper Bark Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11258648",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346990,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897549,
+					1.358816
+				]
+			},
+			"properties": {
+				"OBJECTID": 346990,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11101633",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 430198,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901273,
+					1.359011
+				]
+			},
+			"properties": {
+				"OBJECTID": 430198,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12601446",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346970,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900646,
+					1.359218
+				]
+			},
+			"properties": {
+				"OBJECTID": 346970,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11221232",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324903,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901918,
+					1.357325
+				]
+			},
+			"properties": {
+				"OBJECTID": 324903,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11143236",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 474403,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895625,
+					1.359327
+				]
+			},
+			"properties": {
+				"OBJECTID": 474403,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10105698",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452726,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895117,
+					1.357949
+				]
+			},
+			"properties": {
+				"OBJECTID": 452726,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11288620",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324889,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902684,
+					1.358414
+				]
+			},
+			"properties": {
+				"OBJECTID": 324889,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11202685",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346984,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898068,
+					1.358882
+				]
+			},
+			"properties": {
+				"OBJECTID": 346984,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11119630",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190233,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894837,
+					1.357043
+				]
+			},
+			"properties": {
+				"OBJECTID": 190233,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104010",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190239,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895247,
+					1.358346
+				]
+			},
+			"properties": {
+				"OBJECTID": 190239,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10105060",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452720,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894911,
+					1.357284
+				]
+			},
+			"properties": {
+				"OBJECTID": 452720,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11219474",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346978,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.899139,
+					1.359017
+				]
+			},
+			"properties": {
+				"OBJECTID": 346978,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11169873",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324897,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902209,
+					1.357901
+				]
+			},
+			"properties": {
+				"OBJECTID": 324897,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11187345",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 280881,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900475,
+					1.359186
+				]
+			},
+			"properties": {
+				"OBJECTID": 280881,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10105798",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452723,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89502,
+					1.357642
+				]
+			},
+			"properties": {
+				"OBJECTID": 452723,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11237292",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503237,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.896024,
+					1.358809
+				]
+			},
+			"properties": {
+				"OBJECTID": 503237,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10105473",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190245,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895237,
+					1.357733
+				]
+			},
+			"properties": {
+				"OBJECTID": 190245,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104580",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 684745,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898019,
+					1.347308
+				]
+			},
+			"properties": {
+				"OBJECTID": 684745,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1726",
+				"COMMON_NM": "Paper Bark Tree",
+				"SPSC_NM": "Melaleuca cajuputi",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Melaleuca cajuputi,Paper Bark Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11242745",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596358,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902818,
+					1.359107
+				]
+			},
+			"properties": {
+				"OBJECTID": 596358,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11039257",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 396914,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897995,
+					1.3473
+				]
+			},
+			"properties": {
+				"OBJECTID": 396914,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11242436",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452740,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895663,
+					1.359777
+				]
+			},
+			"properties": {
+				"OBJECTID": 452740,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11251611",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 495342,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.899889,
+					1.359283
+				]
+			},
+			"properties": {
+				"OBJECTID": 495342,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11370715",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 444081,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902873,
+					1.35879
+				]
+			},
+			"properties": {
+				"OBJECTID": 444081,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11072010",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596349,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903425,
+					1.359375
+				]
+			},
+			"properties": {
+				"OBJECTID": 596349,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11287091",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 420718,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901115,
+					1.358961
+				]
+			},
+			"properties": {
+				"OBJECTID": 420718,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12462260",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346987,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897704,
+					1.359
+				]
+			},
+			"properties": {
+				"OBJECTID": 346987,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11101636",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503248,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.899959,
+					1.359288
+				]
+			},
+			"properties": {
+				"OBJECTID": 503248,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105889",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190256,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894722,
+					1.356198
+				]
+			},
+			"properties": {
+				"OBJECTID": 190256,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10103356",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 511214,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898032,
+					1.347312
+				]
+			},
+			"properties": {
+				"OBJECTID": 511214,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11336355",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346967,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900845,
+					1.359245
+				]
+			},
+			"properties": {
+				"OBJECTID": 346967,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11169876",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 650805,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900261,
+					1.359335
+				]
+			},
+			"properties": {
+				"OBJECTID": 650805,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105944",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190299,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895657,
+					1.35968
+				]
+			},
+			"properties": {
+				"OBJECTID": 190299,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10106258",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452729,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895338,
+					1.358685
+				]
+			},
+			"properties": {
+				"OBJECTID": 452729,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11251605",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 420712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901297,
+					1.358891
+				]
+			},
+			"properties": {
+				"OBJECTID": 420712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12462254",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346981,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89883,
+					1.358984
+				]
+			},
+			"properties": {
+				"OBJECTID": 346981,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11169871",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324900,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902108,
+					1.357687
+				]
+			},
+			"properties": {
+				"OBJECTID": 324900,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11170063",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 511200,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8982,
+					1.34736
+				]
+			},
+			"properties": {
+				"OBJECTID": 511200,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11323883",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 283678,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89463,
+					1.356435
+				]
+			},
+			"properties": {
+				"OBJECTID": 283678,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "17",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10103555",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190236,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895045,
+					1.357724
+				]
+			},
+			"properties": {
+				"OBJECTID": 190236,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104573",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 280882,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.896861,
+					1.358739
+				]
+			},
+			"properties": {
+				"OBJECTID": 280882,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10105392",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 474421,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895383,
+					1.358232
+				]
+			},
+			"properties": {
+				"OBJECTID": 474421,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104908",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324898,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902169,
+					1.357829
+				]
+			},
+			"properties": {
+				"OBJECTID": 324898,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11143233",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452724,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895062,
+					1.357782
+				]
+			},
+			"properties": {
+				"OBJECTID": 452724,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11219475",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 650811,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900761,
+					1.359399
+				]
+			},
+			"properties": {
+				"OBJECTID": 650811,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10106012",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503240,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8967,
+					1.358881
+				]
+			},
+			"properties": {
+				"OBJECTID": 503240,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105531",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190248,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895149,
+					1.357445
+				]
+			},
+			"properties": {
+				"OBJECTID": 190248,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104347",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 444082,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.90293,
+					1.358898
+				]
+			},
+			"properties": {
+				"OBJECTID": 444082,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11072009",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596359,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902875,
+					1.359215
+				]
+			},
+			"properties": {
+				"OBJECTID": 596359,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11039256",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596307,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903361,
+					1.35966
+				]
+			},
+			"properties": {
+				"OBJECTID": 596307,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11266061",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596350,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903375,
+					1.359284
+				]
+			},
+			"properties": {
+				"OBJECTID": 596350,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11099604",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190257,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894641,
+					1.355999
+				]
+			},
+			"properties": {
+				"OBJECTID": 190257,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10103186",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596353,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.90313,
+					1.358851
+				]
+			},
+			"properties": {
+				"OBJECTID": 596353,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11287090",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190231,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895347,
+					1.358114
+				]
+			},
+			"properties": {
+				"OBJECTID": 190231,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104814",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503243,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898097,
+					1.359061
+				]
+			},
+			"properties": {
+				"OBJECTID": 503243,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105674",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190251,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895069,
+					1.357197
+				]
+			},
+			"properties": {
+				"OBJECTID": 190251,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10160512",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 540223,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903644,
+					1.359742
+				]
+			},
+			"properties": {
+				"OBJECTID": 540223,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11258309",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 420713,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901335,
+					1.358567
+				]
+			},
+			"properties": {
+				"OBJECTID": 420713,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12462255",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 495371,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.899482,
+					1.359058
+				]
+			},
+			"properties": {
+				"OBJECTID": 495371,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1322",
+				"COMMON_NM": "Kelapa",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Cocos nucifera,Kelapa",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11370612",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 396909,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897704,
+					1.347208
+				]
+			},
+			"properties": {
+				"OBJECTID": 396909,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11093245",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346982,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898716,
+					1.358962
+				]
+			},
+			"properties": {
+				"OBJECTID": 346982,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11169870",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190237,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895149,
+					1.358052
+				]
+			},
+			"properties": {
+				"OBJECTID": 190237,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104837",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324901,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901998,
+					1.357478
+				]
+			},
+			"properties": {
+				"OBJECTID": 324901,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11202883",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 684711,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898174,
+					1.347363
+				]
+			},
+			"properties": {
+				"OBJECTID": 684711,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11258838",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324895,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902366,
+					1.358224
+				]
+			},
+			"properties": {
+				"OBJECTID": 324895,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11170062",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346976,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.899846,
+					1.359113
+				]
+			},
+			"properties": {
+				"OBJECTID": 346976,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11101640",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452721,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894949,
+					1.357406
+				]
+			},
+			"properties": {
+				"OBJECTID": 452721,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11251603",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319230,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898523,
+					1.347354
+				]
+			},
+			"properties": {
+				"OBJECTID": 319230,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12582648",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 511201,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898155,
+					1.347353
+				]
+			},
+			"properties": {
+				"OBJECTID": 511201,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11333727",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 650808,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900371,
+					1.359342
+				]
+			},
+			"properties": {
+				"OBJECTID": 650808,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105949",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346993,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895674,
+					1.35868
+				]
+			},
+			"properties": {
+				"OBJECTID": 346993,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11101630",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596356,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902639,
+					1.358792
+				]
+			},
+			"properties": {
+				"OBJECTID": 596356,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11287088",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 444085,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903054,
+					1.359122
+				]
+			},
+			"properties": {
+				"OBJECTID": 444085,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11039111",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 495374,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898439,
+					1.358939
+				]
+			},
+			"properties": {
+				"OBJECTID": 495374,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11369834",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 444079,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902799,
+					1.358628
+				]
+			},
+			"properties": {
+				"OBJECTID": 444079,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11072011",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452735,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895419,
+					1.358331
+				]
+			},
+			"properties": {
+				"OBJECTID": 452735,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11288621",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503246,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89897,
+					1.359177
+				]
+			},
+			"properties": {
+				"OBJECTID": 503246,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10105776",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190254,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894856,
+					1.356546
+				]
+			},
+			"properties": {
+				"OBJECTID": 190254,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10103585",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346985,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898152,
+					1.358891
+				]
+			},
+			"properties": {
+				"OBJECTID": 346985,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11101638",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 420716,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901154,
+					1.358649
+				]
+			},
+			"properties": {
+				"OBJECTID": 420716,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12462258",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 639842,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901036,
+					1.359618
+				]
+			},
+			"properties": {
+				"OBJECTID": 639842,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12448241",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 644047,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.896026,
+					1.358642
+				]
+			},
+			"properties": {
+				"OBJECTID": 644047,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11224035",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 430199,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.9013,
+					1.358839
+				]
+			},
+			"properties": {
+				"OBJECTID": 430199,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12601447",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346973,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900125,
+					1.359149
+				]
+			},
+			"properties": {
+				"OBJECTID": 346973,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11119633",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346979,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89927,
+					1.359207
+				]
+			},
+			"properties": {
+				"OBJECTID": 346979,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11169872",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190234,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894902,
+					1.357193
+				]
+			},
+			"properties": {
+				"OBJECTID": 190234,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104176",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190240,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895271,
+					1.35845
+				]
+			},
+			"properties": {
+				"OBJECTID": 190240,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10105191",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319231,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898537,
+					1.347253
+				]
+			},
+			"properties": {
+				"OBJECTID": 319231,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12582649",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503238,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.896122,
+					1.358812
+				]
+			},
+			"properties": {
+				"OBJECTID": 503238,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105478",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 474396,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895609,
+					1.35922
+				]
+			},
+			"properties": {
+				"OBJECTID": 474396,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10105775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 684746,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8981,
+					1.34732
+				]
+			},
+			"properties": {
+				"OBJECTID": 684746,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1726",
+				"COMMON_NM": "Paper Bark Tree",
+				"SPSC_NM": "Melaleuca cajuputi",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Melaleuca cajuputi,Paper Bark Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11092388",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 650809,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900476,
+					1.35936
+				]
+			},
+			"properties": {
+				"OBJECTID": 650809,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105956",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 511210,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898046,
+					1.347314
+				]
+			},
+			"properties": {
+				"OBJECTID": 511210,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11336354",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596348,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903463,
+					1.359446
+				]
+			},
+			"properties": {
+				"OBJECTID": 596348,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11287092",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503247,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89984,
+					1.359277
+				]
+			},
+			"properties": {
+				"OBJECTID": 503247,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10105878",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346988,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897671,
+					1.358842
+				]
+			},
+			"properties": {
+				"OBJECTID": 346988,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11101635",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190255,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894758,
+					1.356307
+				]
+			},
+			"properties": {
+				"OBJECTID": 190255,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10103429",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 495375,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898353,
+					1.358936
+				]
+			},
+			"properties": {
+				"OBJECTID": 495375,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11372525",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 444080,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902832,
+					1.358695
+				]
+			},
+			"properties": {
+				"OBJECTID": 444080,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11039112",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 420719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901101,
+					1.35903
+				]
+			},
+			"properties": {
+				"OBJECTID": 420719,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12462261",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452736,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895445,
+					1.358421
+				]
+			},
+			"properties": {
+				"OBJECTID": 452736,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11288622",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 639843,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901028,
+					1.359674
+				]
+			},
+			"properties": {
+				"OBJECTID": 639843,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12448242",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346968,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.90092,
+					1.359408
+				]
+			},
+			"properties": {
+				"OBJECTID": 346968,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11169875",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 430208,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89908,
+					1.359201
+				]
+			},
+			"properties": {
+				"OBJECTID": 430208,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10105805",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 644048,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.896137,
+					1.358647
+				]
+			},
+			"properties": {
+				"OBJECTID": 644048,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11189411",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895481,
+					1.359591
+				]
+			},
+			"properties": {
+				"OBJECTID": 452730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11219478",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 474413,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895468,
+					1.358513
+				]
+			},
+			"properties": {
+				"OBJECTID": 474413,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10105127",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346974,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900012,
+					1.359145
+				]
+			},
+			"properties": {
+				"OBJECTID": 346974,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11221231",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 280880,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89976,
+					1.35927
+				]
+			},
+			"properties": {
+				"OBJECTID": 280880,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10105887",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346980,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898885,
+					1.35898
+				]
+			},
+			"properties": {
+				"OBJECTID": 346980,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11221228",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516703,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900417,
+					1.359353
+				]
+			},
+			"properties": {
+				"OBJECTID": 516703,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11372527",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190235,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894994,
+					1.357562
+				]
+			},
+			"properties": {
+				"OBJECTID": 190235,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104428",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503235,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89592,
+					1.358822
+				]
+			},
+			"properties": {
+				"OBJECTID": 503235,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105509",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190243,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895504,
+					1.359716
+				]
+			},
+			"properties": {
+				"OBJECTID": 190243,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10106286",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324899,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902149,
+					1.357765
+				]
+			},
+			"properties": {
+				"OBJECTID": 324899,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11143234",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 280883,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.896753,
+					1.358721
+				]
+			},
+			"properties": {
+				"OBJECTID": 280883,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10105368",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596362,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903052,
+					1.359549
+				]
+			},
+			"properties": {
+				"OBJECTID": 596362,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11039203",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 650812,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900837,
+					1.359407
+				]
+			},
+			"properties": {
+				"OBJECTID": 650812,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10106017",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319228,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898237,
+					1.347361
+				]
+			},
+			"properties": {
+				"OBJECTID": 319228,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12582646",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503241,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.896799,
+					1.358893
+				]
+			},
+			"properties": {
+				"OBJECTID": 503241,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105547",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190249,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895104,
+					1.357316
+				]
+			},
+			"properties": {
+				"OBJECTID": 190249,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104199",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596308,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903421,
+					1.359766
+				]
+			},
+			"properties": {
+				"OBJECTID": 596308,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11266060",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596351,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903288,
+					1.359128
+				]
+			},
+			"properties": {
+				"OBJECTID": 596351,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11118899",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596354,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903049,
+					1.358722
+				]
+			},
+			"properties": {
+				"OBJECTID": 596354,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11287089",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596305,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903169,
+					1.359328
+				]
+			},
+			"properties": {
+				"OBJECTID": 596305,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11072007",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452733,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894829,
+					1.356472
+				]
+			},
+			"properties": {
+				"OBJECTID": 452733,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11251607",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190232,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894678,
+					1.356568
+				]
+			},
+			"properties": {
+				"OBJECTID": 190232,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10103760",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503244,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898281,
+					1.359091
+				]
+			},
+			"properties": {
+				"OBJECTID": 503244,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105702",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346991,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.896478,
+					1.358684
+				]
+			},
+			"properties": {
+				"OBJECTID": 346991,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11101632",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190252,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894939,
+					1.356786
+				]
+			},
+			"properties": {
+				"OBJECTID": 190252,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10103775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 495372,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898779,
+					1.358981
+				]
+			},
+			"properties": {
+				"OBJECTID": 495372,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11370598",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 684743,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897941,
+					1.347274
+				]
+			},
+			"properties": {
+				"OBJECTID": 684743,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1726",
+				"COMMON_NM": "Paper Bark Tree",
+				"SPSC_NM": "Melaleuca cajuputi",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Melaleuca cajuputi,Paper Bark Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11242744",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 540224,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903517,
+					1.35954
+				]
+			},
+			"properties": {
+				"OBJECTID": 540224,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11298062",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452727,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895169,
+					1.358128
+				]
+			},
+			"properties": {
+				"OBJECTID": 452727,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11219477",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324890,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902617,
+					1.358283
+				]
+			},
+			"properties": {
+				"OBJECTID": 324890,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11169934",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 430197,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901264,
+					1.359065
+				]
+			},
+			"properties": {
+				"OBJECTID": 430197,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12601445",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346971,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.90032,
+					1.359177
+				]
+			},
+			"properties": {
+				"OBJECTID": 346971,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11119635",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 684712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897867,
+					1.347263
+				]
+			},
+			"properties": {
+				"OBJECTID": 684712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11242800",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324896,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902255,
+					1.358
+				]
+			},
+			"properties": {
+				"OBJECTID": 324896,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11187344",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346977,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.899714,
+					1.359262
+				]
+			},
+			"properties": {
+				"OBJECTID": 346977,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11169874",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452722,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894977,
+					1.357486
+				]
+			},
+			"properties": {
+				"OBJECTID": 452722,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11251604",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503236,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895986,
+					1.358809
+				]
+			},
+			"properties": {
+				"OBJECTID": 503236,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105472",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319229,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898237,
+					1.347378
+				]
+			},
+			"properties": {
+				"OBJECTID": 319229,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12582647",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 511202,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898083,
+					1.347322
+				]
+			},
+			"properties": {
+				"OBJECTID": 511202,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11333728",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 495341,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900315,
+					1.359337
+				]
+			},
+			"properties": {
+				"OBJECTID": 495341,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11369832",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503242,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897092,
+					1.358927
+				]
+			},
+			"properties": {
+				"OBJECTID": 503242,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105568",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596357,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902736,
+					1.358957
+				]
+			},
+			"properties": {
+				"OBJECTID": 596357,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11099602",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 444086,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903116,
+					1.359233
+				]
+			},
+			"properties": {
+				"OBJECTID": 444086,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11072008",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452734,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894893,
+					1.356664
+				]
+			},
+			"properties": {
+				"OBJECTID": 452734,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11251608",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596306,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.903273,
+					1.359502
+				]
+			},
+			"properties": {
+				"OBJECTID": 596306,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11266062",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 495373,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.898522,
+					1.358946
+				]
+			},
+			"properties": {
+				"OBJECTID": 495373,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11371856",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 420717,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901129,
+					1.358892
+				]
+			},
+			"properties": {
+				"OBJECTID": 420717,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12462259",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 495347,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900133,
+					1.359318
+				]
+			},
+			"properties": {
+				"OBJECTID": 495347,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11369755",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346986,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897819,
+					1.359021
+				]
+			},
+			"properties": {
+				"OBJECTID": 346986,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11101637",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346992,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895788,
+					1.358663
+				]
+			},
+			"properties": {
+				"OBJECTID": 346992,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11101631",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 639841,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901085,
+					1.359172
+				]
+			},
+			"properties": {
+				"OBJECTID": 639841,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12448240",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 644046,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.899367,
+					1.359228
+				]
+			},
+			"properties": {
+				"OBJECTID": 644046,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11224034",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 684744,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897977,
+					1.347281
+				]
+			},
+			"properties": {
+				"OBJECTID": 684744,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1726",
+				"COMMON_NM": "Paper Bark Tree",
+				"SPSC_NM": "Melaleuca cajuputi",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Melaleuca cajuputi,Paper Bark Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11092387",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452728,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895289,
+					1.358516
+				]
+			},
+			"properties": {
+				"OBJECTID": 452728,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11237293",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324891,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902541,
+					1.358149
+				]
+			},
+			"properties": {
+				"OBJECTID": 324891,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11169935",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346972,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900231,
+					1.359167
+				]
+			},
+			"properties": {
+				"OBJECTID": 346972,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11119634",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503233,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895637,
+					1.358886
+				]
+			},
+			"properties": {
+				"OBJECTID": 503233,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105535",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190241,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895432,
+					1.359131
+				]
+			},
+			"properties": {
+				"OBJECTID": 190241,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10105663",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 452725,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895087,
+					1.357861
+				]
+			},
+			"properties": {
+				"OBJECTID": 452725,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "8",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11219476",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 650810,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900672,
+					1.359386
+				]
+			},
+			"properties": {
+				"OBJECTID": 650810,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105995",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 503239,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.896362,
+					1.358838
+				]
+			},
+			"properties": {
+				"OBJECTID": 503239,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105497",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190247,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895185,
+					1.35759
+				]
+			},
+			"properties": {
+				"OBJECTID": 190247,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104451",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 444083,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.90297,
+					1.358972
+				]
+			},
+			"properties": {
+				"OBJECTID": 444083,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11266064",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596360,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.90294,
+					1.359321
+				]
+			},
+			"properties": {
+				"OBJECTID": 596360,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11039204",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190258,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.894605,
+					1.3559
+				]
+			},
+			"properties": {
+				"OBJECTID": 190258,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10103099",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 495350,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900961,
+					1.359424
+				]
+			},
+			"properties": {
+				"OBJECTID": 495350,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11372521",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 420714,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901171,
+					1.358541
+				]
+			},
+			"properties": {
+				"OBJECTID": 420714,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12462256",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 650807,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900195,
+					1.35933
+				]
+			},
+			"properties": {
+				"OBJECTID": 650807,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10105947",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346989,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.897579,
+					1.358819
+				]
+			},
+			"properties": {
+				"OBJECTID": 346989,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11101634",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190238,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.895194,
+					1.358195
+				]
+			},
+			"properties": {
+				"OBJECTID": 190238,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1589",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Erythrophleum suaveolens",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Erythrophleum suaveolens,Red Water Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10104956",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346969,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.900689,
+					1.359226
+				]
+			},
+			"properties": {
+				"OBJECTID": 346969,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11101642",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324902,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.901949,
+					1.357402
+				]
+			},
+			"properties": {
+				"OBJECTID": 324902,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11143235",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346983,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.89864,
+					1.358955
+				]
+			},
+			"properties": {
+				"OBJECTID": 346983,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11119631",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346975,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.899913,
+					1.359119
+				]
+			},
+			"properties": {
+				"OBJECTID": 346975,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1461",
+				"COMMON_NM": "Flame Tree",
+				"SPSC_NM": "Brachychiton acerifolius",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Brachychiton acerifolius,Flame Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11101641",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 324894,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.902441,
+					1.358432
+				]
+			},
+			"properties": {
+				"OBJECTID": 324894,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "8",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11187196",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

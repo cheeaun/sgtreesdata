@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 700130,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.005791,
+					1.326549
+				]
+			},
+			"properties": {
+				"OBJECTID": 700130,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "12",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Angsana",
+				"SPSC_NM": "Lepisanthes amoena",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lepisanthes amoena, Angsana",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Test please ignore",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13031625",
+				"EYTreeId": "{38408103-44AA-4319-8562-78F25B02568E}",
+				"Name": "Test",
+				"Email": "Test@test.com",
+				"UserKeywords": "#TestPleaseignore"
+			}
+		}
+	]
+}

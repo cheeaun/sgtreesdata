@@ -1,0 +1,651 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 576464,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643243,
+					1.292626
+				]
+			},
+			"properties": {
+				"OBJECTID": 576464,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "14",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11437519",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 547819,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643579,
+					1.292594
+				]
+			},
+			"properties": {
+				"OBJECTID": 547819,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11436544",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 576467,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.642891,
+					1.292653
+				]
+			},
+			"properties": {
+				"OBJECTID": 576467,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "14",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11437522",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 186555,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643449,
+					1.292795
+				]
+			},
+			"properties": {
+				"OBJECTID": 186555,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11436540",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 576461,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.642966,
+					1.292835
+				]
+			},
+			"properties": {
+				"OBJECTID": 576461,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "14",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11437516",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 547820,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643692,
+					1.292765
+				]
+			},
+			"properties": {
+				"OBJECTID": 547820,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11436545",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 576462,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643072,
+					1.292825
+				]
+			},
+			"properties": {
+				"OBJECTID": 576462,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "14",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11437517",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 547817,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.64339,
+					1.292629
+				]
+			},
+			"properties": {
+				"OBJECTID": 547817,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11436542",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 186553,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643548,
+					1.292811
+				]
+			},
+			"properties": {
+				"OBJECTID": 186553,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11436538",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 576468,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.642815,
+					1.292661
+				]
+			},
+			"properties": {
+				"OBJECTID": 576468,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "14",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11437523",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 547818,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643473,
+					1.292622
+				]
+			},
+			"properties": {
+				"OBJECTID": 547818,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11436543",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 576465,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643186,
+					1.292635
+				]
+			},
+			"properties": {
+				"OBJECTID": 576465,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "14",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11437520",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 547821,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643689,
+					1.29258
+				]
+			},
+			"properties": {
+				"OBJECTID": 547821,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11436546",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 576466,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643064,
+					1.292638
+				]
+			},
+			"properties": {
+				"OBJECTID": 576466,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "14",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11437521",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 547816,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643359,
+					1.292782
+				]
+			},
+			"properties": {
+				"OBJECTID": 547816,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11436541",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 186554,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643499,
+					1.292808
+				]
+			},
+			"properties": {
+				"OBJECTID": 186554,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11436539",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 576460,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.642788,
+					1.292857
+				]
+			},
+			"properties": {
+				"OBJECTID": 576460,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "14",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11581765",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 576469,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.642735,
+					1.292669
+				]
+			},
+			"properties": {
+				"OBJECTID": 576469,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "14",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11437524",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 576463,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.643173,
+					1.292809
+				]
+			},
+			"properties": {
+				"OBJECTID": 576463,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "14",
+				"SPCS_CD": "1540",
+				"COMMON_NM": "Katak Puru",
+				"SPSC_NM": "Cynometra cauliflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra cauliflora,Katak Puru",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11437518",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

@@ -1,0 +1,4221 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 447742,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614927,
+					1.250198
+				]
+			},
+			"properties": {
+				"OBJECTID": 447742,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957668",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447734,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.248689
+				]
+			},
+			"properties": {
+				"OBJECTID": 447734,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957660",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599309,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614517,
+					1.255942
+				]
+			},
+			"properties": {
+				"OBJECTID": 599309,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957758",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599349,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614659,
+					1.251457
+				]
+			},
+			"properties": {
+				"OBJECTID": 599349,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957798",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599355,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614781,
+					1.250924
+				]
+			},
+			"properties": {
+				"OBJECTID": 599355,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957804",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447725,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614976,
+					1.247844
+				]
+			},
+			"properties": {
+				"OBJECTID": 447725,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957651",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447731,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.248407
+				]
+			},
+			"properties": {
+				"OBJECTID": 447731,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957657",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599315,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614519,
+					1.255287
+				]
+			},
+			"properties": {
+				"OBJECTID": 599315,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957764",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599292,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614513,
+					1.257798
+				]
+			},
+			"properties": {
+				"OBJECTID": 599292,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957741",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447745,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6149,
+					1.250463
+				]
+			},
+			"properties": {
+				"OBJECTID": 447745,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957671",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599286,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614511,
+					1.258453
+				]
+			},
+			"properties": {
+				"OBJECTID": 599286,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957735",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599335,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614523,
+					1.25365
+				]
+			},
+			"properties": {
+				"OBJECTID": 599335,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957784",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599329,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614523,
+					1.253759
+				]
+			},
+			"properties": {
+				"OBJECTID": 599329,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957778",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599352,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614729,
+					1.251199
+				]
+			},
+			"properties": {
+				"OBJECTID": 599352,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957801",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447714,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614977,
+					1.246812
+				]
+			},
+			"properties": {
+				"OBJECTID": 447714,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958422",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599346,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614599,
+					1.251733
+				]
+			},
+			"properties": {
+				"OBJECTID": 599346,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957795",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599358,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614855,
+					1.250651
+				]
+			},
+			"properties": {
+				"OBJECTID": 599358,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957807",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447722,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614976,
+					1.247563
+				]
+			},
+			"properties": {
+				"OBJECTID": 447722,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957648",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599312,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614518,
+					1.255615
+				]
+			},
+			"properties": {
+				"OBJECTID": 599312,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957761",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599298,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614514,
+					1.257143
+				]
+			},
+			"properties": {
+				"OBJECTID": 599298,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957747",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 529265,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614582,
+					1.251824
+				]
+			},
+			"properties": {
+				"OBJECTID": 529265,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11306903",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599306,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614517,
+					1.25627
+				]
+			},
+			"properties": {
+				"OBJECTID": 599306,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957755",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447728,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614976,
+					1.248126
+				]
+			},
+			"properties": {
+				"OBJECTID": 447728,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957654",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599361,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.249158
+				]
+			},
+			"properties": {
+				"OBJECTID": 599361,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957584",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599289,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614512,
+					1.258125
+				]
+			},
+			"properties": {
+				"OBJECTID": 599289,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957738",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599295,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614514,
+					1.25747
+				]
+			},
+			"properties": {
+				"OBJECTID": 599295,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957744",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599338,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614524,
+					1.253323
+				]
+			},
+			"properties": {
+				"OBJECTID": 599338,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957787",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599318,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61452,
+					1.25496
+				]
+			},
+			"properties": {
+				"OBJECTID": 599318,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957767",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447748,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614508,
+					1.252518
+				]
+			},
+			"properties": {
+				"OBJECTID": 447748,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957674",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447805,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61451,
+					1.258889
+				]
+			},
+			"properties": {
+				"OBJECTID": 447805,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957731",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599332,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.249627
+				]
+			},
+			"properties": {
+				"OBJECTID": 599332,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957781",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599326,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614522,
+					1.254087
+				]
+			},
+			"properties": {
+				"OBJECTID": 599326,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447717,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614977,
+					1.247094
+				]
+			},
+			"properties": {
+				"OBJECTID": 447717,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958425",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447740,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614945,
+					1.250021
+				]
+			},
+			"properties": {
+				"OBJECTID": 447740,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957666",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447723,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614976,
+					1.247657
+				]
+			},
+			"properties": {
+				"OBJECTID": 447723,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957649",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599347,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614624,
+					1.25164
+				]
+			},
+			"properties": {
+				"OBJECTID": 599347,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957796",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599301,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614515,
+					1.256815
+				]
+			},
+			"properties": {
+				"OBJECTID": 599301,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957750",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599307,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614517,
+					1.256161
+				]
+			},
+			"properties": {
+				"OBJECTID": 599307,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957756",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599353,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614746,
+					1.251107
+				]
+			},
+			"properties": {
+				"OBJECTID": 599353,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957802",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599364,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614534,
+					1.252423
+				]
+			},
+			"properties": {
+				"OBJECTID": 599364,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957599",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447729,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614976,
+					1.24822
+				]
+			},
+			"properties": {
+				"OBJECTID": 447729,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957655",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599290,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614512,
+					1.258016
+				]
+			},
+			"properties": {
+				"OBJECTID": 599290,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957739",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599313,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614518,
+					1.255506
+				]
+			},
+			"properties": {
+				"OBJECTID": 599313,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957762",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699871,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.616624,
+					1.246964
+				]
+			},
+			"properties": {
+				"OBJECTID": 699871,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Test",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13031718",
+				"EYTreeId": "{EA8EF7A7-DB43-4583-BE50-4684AB8031C8}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": "#Test"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599341,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614525,
+					1.252995
+				]
+			},
+			"properties": {
+				"OBJECTID": 599341,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957790",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599321,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614521,
+					1.254632
+				]
+			},
+			"properties": {
+				"OBJECTID": 599321,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957770",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599333,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.249721
+				]
+			},
+			"properties": {
+				"OBJECTID": 599333,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957782",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447806,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61451,
+					1.25878
+				]
+			},
+			"properties": {
+				"OBJECTID": 447806,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957732",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599284,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614511,
+					1.258671
+				]
+			},
+			"properties": {
+				"OBJECTID": 599284,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957733",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599327,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614522,
+					1.253978
+				]
+			},
+			"properties": {
+				"OBJECTID": 599327,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957776",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447743,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614918,
+					1.250286
+				]
+			},
+			"properties": {
+				"OBJECTID": 447743,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957669",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447720,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614976,
+					1.247375
+				]
+			},
+			"properties": {
+				"OBJECTID": 447720,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958428",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447737,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.24897
+				]
+			},
+			"properties": {
+				"OBJECTID": 447737,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957663",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599310,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614518,
+					1.255833
+				]
+			},
+			"properties": {
+				"OBJECTID": 599310,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957759",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599350,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614676,
+					1.251366
+				]
+			},
+			"properties": {
+				"OBJECTID": 599350,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957799",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599356,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614821,
+					1.250822
+				]
+			},
+			"properties": {
+				"OBJECTID": 599356,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957805",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447726,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614976,
+					1.247938
+				]
+			},
+			"properties": {
+				"OBJECTID": 447726,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957652",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599304,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614516,
+					1.256488
+				]
+			},
+			"properties": {
+				"OBJECTID": 599304,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957753",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599293,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614513,
+					1.257689
+				]
+			},
+			"properties": {
+				"OBJECTID": 599293,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957742",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599344,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614564,
+					1.251915
+				]
+			},
+			"properties": {
+				"OBJECTID": 599344,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957793",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599287,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614511,
+					1.258344
+				]
+			},
+			"properties": {
+				"OBJECTID": 599287,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957736",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599324,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614521,
+					1.254305
+				]
+			},
+			"properties": {
+				"OBJECTID": 599324,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957773",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447746,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614502,
+					1.252697
+				]
+			},
+			"properties": {
+				"OBJECTID": 447746,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957672",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599330,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.24944
+				]
+			},
+			"properties": {
+				"OBJECTID": 599330,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957779",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599305,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614516,
+					1.256379
+				]
+			},
+			"properties": {
+				"OBJECTID": 599305,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957754",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447744,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614909,
+					1.250375
+				]
+			},
+			"properties": {
+				"OBJECTID": 447744,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957670",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447715,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614977,
+					1.246906
+				]
+			},
+			"properties": {
+				"OBJECTID": 447715,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958423",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447738,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.249064
+				]
+			},
+			"properties": {
+				"OBJECTID": 447738,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957664",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599299,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614515,
+					1.257034
+				]
+			},
+			"properties": {
+				"OBJECTID": 599299,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957748",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599345,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614582,
+					1.251824
+				]
+			},
+			"properties": {
+				"OBJECTID": 599345,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957794",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599359,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614873,
+					1.25056
+				]
+			},
+			"properties": {
+				"OBJECTID": 599359,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957808",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447721,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614976,
+					1.247469
+				]
+			},
+			"properties": {
+				"OBJECTID": 447721,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957647",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599296,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614514,
+					1.257361
+				]
+			},
+			"properties": {
+				"OBJECTID": 599296,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957745",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599319,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61452,
+					1.254851
+				]
+			},
+			"properties": {
+				"OBJECTID": 599319,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957768",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599362,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.249252
+				]
+			},
+			"properties": {
+				"OBJECTID": 599362,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957585",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599339,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614524,
+					1.253214
+				]
+			},
+			"properties": {
+				"OBJECTID": 599339,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957788",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599288,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614512,
+					1.258234
+				]
+			},
+			"properties": {
+				"OBJECTID": 599288,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957737",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447804,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61451,
+					1.258999
+				]
+			},
+			"properties": {
+				"OBJECTID": 447804,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957730",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599325,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614522,
+					1.254196
+				]
+			},
+			"properties": {
+				"OBJECTID": 599325,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957774",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447718,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614977,
+					1.247187
+				]
+			},
+			"properties": {
+				"OBJECTID": 447718,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958426",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447741,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614936,
+					1.250109
+				]
+			},
+			"properties": {
+				"OBJECTID": 447741,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957667",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447724,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614976,
+					1.24775
+				]
+			},
+			"properties": {
+				"OBJECTID": 447724,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957650",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447735,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.248783
+				]
+			},
+			"properties": {
+				"OBJECTID": 447735,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957661",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599348,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614641,
+					1.251549
+				]
+			},
+			"properties": {
+				"OBJECTID": 599348,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957797",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599302,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614515,
+					1.256706
+				]
+			},
+			"properties": {
+				"OBJECTID": 599302,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957751",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599308,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614517,
+					1.256051
+				]
+			},
+			"properties": {
+				"OBJECTID": 599308,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957757",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.248501
+				]
+			},
+			"properties": {
+				"OBJECTID": 447732,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957658",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599342,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614529,
+					1.252098
+				]
+			},
+			"properties": {
+				"OBJECTID": 599342,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957791",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599316,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614519,
+					1.255178
+				]
+			},
+			"properties": {
+				"OBJECTID": 599316,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957765",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599365,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614518,
+					1.252295
+				]
+			},
+			"properties": {
+				"OBJECTID": 599365,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957600",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599336,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614523,
+					1.253541
+				]
+			},
+			"properties": {
+				"OBJECTID": 599336,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957785",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599285,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614511,
+					1.258562
+				]
+			},
+			"properties": {
+				"OBJECTID": 599285,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957734",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 223065,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614659,
+					1.251457
+				]
+			},
+			"properties": {
+				"OBJECTID": 223065,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "11",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10068724",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447713,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614977,
+					1.246718
+				]
+			},
+			"properties": {
+				"OBJECTID": 447713,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958421",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447716,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614977,
+					1.247
+				]
+			},
+			"properties": {
+				"OBJECTID": 447716,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958424",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614977,
+					1.247281
+				]
+			},
+			"properties": {
+				"OBJECTID": 447719,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958427",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447727,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614976,
+					1.248032
+				]
+			},
+			"properties": {
+				"OBJECTID": 447727,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957653",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.248314
+				]
+			},
+			"properties": {
+				"OBJECTID": 447730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957656",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447733,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.248595
+				]
+			},
+			"properties": {
+				"OBJECTID": 447733,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957659",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447736,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.248877
+				]
+			},
+			"properties": {
+				"OBJECTID": 447736,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957662",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447739,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614955,
+					1.249933
+				]
+			},
+			"properties": {
+				"OBJECTID": 447739,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957665",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447747,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614505,
+					1.252608
+				]
+			},
+			"properties": {
+				"OBJECTID": 447747,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957673",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599291,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614512,
+					1.257907
+				]
+			},
+			"properties": {
+				"OBJECTID": 599291,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957740",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599294,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614513,
+					1.25758
+				]
+			},
+			"properties": {
+				"OBJECTID": 599294,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957743",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599297,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614514,
+					1.257252
+				]
+			},
+			"properties": {
+				"OBJECTID": 599297,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957746",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599300,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614515,
+					1.256925
+				]
+			},
+			"properties": {
+				"OBJECTID": 599300,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957749",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599303,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614516,
+					1.256597
+				]
+			},
+			"properties": {
+				"OBJECTID": 599303,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957752",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599311,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614518,
+					1.255724
+				]
+			},
+			"properties": {
+				"OBJECTID": 599311,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957760",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599314,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614519,
+					1.255397
+				]
+			},
+			"properties": {
+				"OBJECTID": 599314,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957763",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599317,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61452,
+					1.255069
+				]
+			},
+			"properties": {
+				"OBJECTID": 599317,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957766",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599320,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61452,
+					1.254742
+				]
+			},
+			"properties": {
+				"OBJECTID": 599320,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957769",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599322,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614521,
+					1.254523
+				]
+			},
+			"properties": {
+				"OBJECTID": 599322,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957771",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599323,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614521,
+					1.254414
+				]
+			},
+			"properties": {
+				"OBJECTID": 599323,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957772",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599328,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614523,
+					1.253868
+				]
+			},
+			"properties": {
+				"OBJECTID": 599328,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957777",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599331,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.249534
+				]
+			},
+			"properties": {
+				"OBJECTID": 599331,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957780",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599334,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.249815
+				]
+			},
+			"properties": {
+				"OBJECTID": 599334,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957783",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599337,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614524,
+					1.253432
+				]
+			},
+			"properties": {
+				"OBJECTID": 599337,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957786",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599340,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614525,
+					1.253104
+				]
+			},
+			"properties": {
+				"OBJECTID": 599340,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957789",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599343,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614547,
+					1.252007
+				]
+			},
+			"properties": {
+				"OBJECTID": 599343,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957792",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599351,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614694,
+					1.251274
+				]
+			},
+			"properties": {
+				"OBJECTID": 599351,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957800",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599354,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614764,
+					1.251016
+				]
+			},
+			"properties": {
+				"OBJECTID": 599354,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957803",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599357,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614838,
+					1.250743
+				]
+			},
+			"properties": {
+				"OBJECTID": 599357,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957806",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599363,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.249346
+				]
+			},
+			"properties": {
+				"OBJECTID": 599363,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957586",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599366,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614536,
+					1.252204
+				]
+			},
+			"properties": {
+				"OBJECTID": 599366,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957601",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

@@ -1,0 +1,2759 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 78045,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004757,
+					1.371829
+				]
+			},
+			"properties": {
+				"OBJECTID": 78045,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11008522",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 306114,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007679,
+					1.368253
+				]
+			},
+			"properties": {
+				"OBJECTID": 306114,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11133807",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 195437,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007785,
+					1.368213
+				]
+			},
+			"properties": {
+				"OBJECTID": 195437,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11374133",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599950,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007608,
+					1.368286
+				]
+			},
+			"properties": {
+				"OBJECTID": 599950,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10113953",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548741,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004727,
+					1.371747
+				]
+			},
+			"properties": {
+				"OBJECTID": 548741,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12428630",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548747,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004747,
+					1.372208
+				]
+			},
+			"properties": {
+				"OBJECTID": 548747,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12428636",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 24079,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004742,
+					1.371436
+				]
+			},
+			"properties": {
+				"OBJECTID": 24079,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12999748",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 29784,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004765,
+					1.371913
+				]
+			},
+			"properties": {
+				"OBJECTID": 29784,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "10",
+				"SPCS_CD": "1722",
+				"COMMON_NM": "Pokok sapu tangan",
+				"SPSC_NM": "Cynometra browneoides",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cynometra browneoides,Pokok sapu tangan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11022753",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78034,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004739,
+					1.371596
+				]
+			},
+			"properties": {
+				"OBJECTID": 78034,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11021485",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180289,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004487,
+					1.371911
+				]
+			},
+			"properties": {
+				"OBJECTID": 180289,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12592096",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161125,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007352,
+					1.3687
+				]
+			},
+			"properties": {
+				"OBJECTID": 161125,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974570",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 178188,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004479,
+					1.371839
+				]
+			},
+			"properties": {
+				"OBJECTID": 178188,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12488000",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78054,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004802,
+					1.371691
+				]
+			},
+			"properties": {
+				"OBJECTID": 78054,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11021480",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548744,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004741,
+					1.371985
+				]
+			},
+			"properties": {
+				"OBJECTID": 548744,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12428633",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 354990,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.00449,
+					1.371868
+				]
+			},
+			"properties": {
+				"OBJECTID": 354990,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1726",
+				"COMMON_NM": "Paper Bark Tree",
+				"SPSC_NM": "Melaleuca cajuputi",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Melaleuca cajuputi,Paper Bark Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12598440",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78048,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004749,
+					1.371648
+				]
+			},
+			"properties": {
+				"OBJECTID": 78048,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11017351",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 29787,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004759,
+					1.371757
+				]
+			},
+			"properties": {
+				"OBJECTID": 29787,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "10",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11005239",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78042,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004756,
+					1.371777
+				]
+			},
+			"properties": {
+				"OBJECTID": 78042,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11021487",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548738,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004716,
+					1.371546
+				]
+			},
+			"properties": {
+				"OBJECTID": 548738,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12428627",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78031,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004796,
+					1.371613
+				]
+			},
+			"properties": {
+				"OBJECTID": 78031,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1865",
+				"COMMON_NM": "Jambolan",
+				"SPSC_NM": "Syzygium cumini",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium cumini,Jambolan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11022566",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161116,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007044,
+					1.368829
+				]
+			},
+			"properties": {
+				"OBJECTID": 161116,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974562",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78051,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004757,
+					1.371633
+				]
+			},
+			"properties": {
+				"OBJECTID": 78051,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11022568",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 178185,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004495,
+					1.372216
+				]
+			},
+			"properties": {
+				"OBJECTID": 178185,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12428643",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 263910,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007692,
+					1.368558
+				]
+			},
+			"properties": {
+				"OBJECTID": 263910,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11379286",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 354991,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004719,
+					1.371821
+				]
+			},
+			"properties": {
+				"OBJECTID": 354991,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1726",
+				"COMMON_NM": "Paper Bark Tree",
+				"SPSC_NM": "Melaleuca cajuputi",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Melaleuca cajuputi,Paper Bark Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12598441",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 29788,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004759,
+					1.371557
+				]
+			},
+			"properties": {
+				"OBJECTID": 29788,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "10",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10984602",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78043,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004757,
+					1.371847
+				]
+			},
+			"properties": {
+				"OBJECTID": 78043,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11021488",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548739,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004719,
+					1.3716
+				]
+			},
+			"properties": {
+				"OBJECTID": 548739,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12428628",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599948,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.00755,
+					1.368307
+				]
+			},
+			"properties": {
+				"OBJECTID": 599948,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11409626",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 299940,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007853,
+					1.36818
+				]
+			},
+			"properties": {
+				"OBJECTID": 299940,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10114602",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 29782,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004775,
+					1.372062
+				]
+			},
+			"properties": {
+				"OBJECTID": 29782,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "10",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11005238",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 461580,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004752,
+					1.372355
+				]
+			},
+			"properties": {
+				"OBJECTID": 461580,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12434791",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599954,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007809,
+					1.368197
+				]
+			},
+			"properties": {
+				"OBJECTID": 599954,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10113058",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78040,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.00475,
+					1.371728
+				]
+			},
+			"properties": {
+				"OBJECTID": 78040,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11017341",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161117,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007122,
+					1.368793
+				]
+			},
+			"properties": {
+				"OBJECTID": 161117,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974563",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161123,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007192,
+					1.368766
+				]
+			},
+			"properties": {
+				"OBJECTID": 161123,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974569",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 178186,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004489,
+					1.372108
+				]
+			},
+			"properties": {
+				"OBJECTID": 178186,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12428644",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 29785,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004765,
+					1.371854
+				]
+			},
+			"properties": {
+				"OBJECTID": 29785,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "10",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10995033",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78046,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004793,
+					1.371836
+				]
+			},
+			"properties": {
+				"OBJECTID": 78046,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11022567",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 465427,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004596,
+					1.37163
+				]
+			},
+			"properties": {
+				"OBJECTID": 465427,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12489459",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548742,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004733,
+					1.371789
+				]
+			},
+			"properties": {
+				"OBJECTID": 548742,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12428631",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78057,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004759,
+					1.371872
+				]
+			},
+			"properties": {
+				"OBJECTID": 78057,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11017342",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78037,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004747,
+					1.371526
+				]
+			},
+			"properties": {
+				"OBJECTID": 78037,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11017338",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161134,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007296,
+					1.368718
+				]
+			},
+			"properties": {
+				"OBJECTID": 161134,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974579",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180290,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004512,
+					1.372298
+				]
+			},
+			"properties": {
+				"OBJECTID": 180290,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12592097",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 178189,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004462,
+					1.371569
+				]
+			},
+			"properties": {
+				"OBJECTID": 178189,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12488001",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78049,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004759,
+					1.371594
+				]
+			},
+			"properties": {
+				"OBJECTID": 78049,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11008531",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 300012,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007633,
+					1.36859
+				]
+			},
+			"properties": {
+				"OBJECTID": 300012,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11380488",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 465428,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004592,
+					1.371545
+				]
+			},
+			"properties": {
+				"OBJECTID": 465428,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "13",
+				"SPCS_CD": "29061",
+				"COMMON_NM": null,
+				"SPSC_NM": "Jacaranda obtusifolia subsp. rhombifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Jacaranda obtusifolia subsp. rhombifolia,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12489460",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78032,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004759,
+					1.371665
+				]
+			},
+			"properties": {
+				"OBJECTID": 78032,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11017334",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548745,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004745,
+					1.372119
+				]
+			},
+			"properties": {
+				"OBJECTID": 548745,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12428634",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78038,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.00475,
+					1.371699
+				]
+			},
+			"properties": {
+				"OBJECTID": 78038,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11008530",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 354989,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004509,
+					1.372236
+				]
+			},
+			"properties": {
+				"OBJECTID": 354989,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1726",
+				"COMMON_NM": "Paper Bark Tree",
+				"SPSC_NM": "Melaleuca cajuputi",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Melaleuca cajuputi,Paper Bark Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12598604",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 263911,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007806,
+					1.368498
+				]
+			},
+			"properties": {
+				"OBJECTID": 263911,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11379287",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78052,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004814,
+					1.371763
+				]
+			},
+			"properties": {
+				"OBJECTID": 78052,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "33520",
+				"COMMON_NM": null,
+				"SPSC_NM": "Syzygium sp.",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium sp.,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11017346",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78044,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004759,
+					1.371816
+				]
+			},
+			"properties": {
+				"OBJECTID": 78044,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11008518",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 465425,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004632,
+					1.372296
+				]
+			},
+			"properties": {
+				"OBJECTID": 465425,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12489457",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 29783,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004775,
+					1.371981
+				]
+			},
+			"properties": {
+				"OBJECTID": 29783,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "10",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11022752",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 263934,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007486,
+					1.368653
+				]
+			},
+			"properties": {
+				"OBJECTID": 263934,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11379297",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599943,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007746,
+					1.368531
+				]
+			},
+			"properties": {
+				"OBJECTID": 599943,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11380489",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78035,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004744,
+					1.371625
+				]
+			},
+			"properties": {
+				"OBJECTID": 78035,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11008521",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78041,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004749,
+					1.371745
+				]
+			},
+			"properties": {
+				"OBJECTID": 78041,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11022580",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78055,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.00477,
+					1.371897
+				]
+			},
+			"properties": {
+				"OBJECTID": 78055,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11008523",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 520934,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004584,
+					1.371461
+				]
+			},
+			"properties": {
+				"OBJECTID": 520934,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "4",
+				"SPCS_CD": "29061",
+				"COMMON_NM": null,
+				"SPSC_NM": "Jacaranda obtusifolia subsp. rhombifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Jacaranda obtusifolia subsp. rhombifolia,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12487141",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78047,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004809,
+					1.371827
+				]
+			},
+			"properties": {
+				"OBJECTID": 78047,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "33411",
+				"COMMON_NM": null,
+				"SPSC_NM": "Saraca sp.",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Saraca sp.,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11017345",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 29786,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004759,
+					1.371804
+				]
+			},
+			"properties": {
+				"OBJECTID": 29786,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "10",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10995034",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78030,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004788,
+					1.371456
+				]
+			},
+			"properties": {
+				"OBJECTID": 78030,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11021483",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 465426,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004606,
+					1.371767
+				]
+			},
+			"properties": {
+				"OBJECTID": 465426,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12489458",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548743,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004736,
+					1.371848
+				]
+			},
+			"properties": {
+				"OBJECTID": 548743,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12428632",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78036,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004745,
+					1.371503
+				]
+			},
+			"properties": {
+				"OBJECTID": 78036,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11021486",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161127,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.007412,
+					1.368678
+				]
+			},
+			"properties": {
+				"OBJECTID": 161127,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974572",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78056,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004761,
+					1.371888
+				]
+			},
+			"properties": {
+				"OBJECTID": 78056,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11022572",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78050,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004752,
+					1.37148
+				]
+			},
+			"properties": {
+				"OBJECTID": 78050,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11022581",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548740,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004728,
+					1.371695
+				]
+			},
+			"properties": {
+				"OBJECTID": 548740,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12428629",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 465429,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004591,
+					1.371516
+				]
+			},
+			"properties": {
+				"OBJECTID": 465429,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12489461",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548746,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004746,
+					1.372163
+				]
+			},
+			"properties": {
+				"OBJECTID": 548746,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12428635",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78033,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004749,
+					1.371679
+				]
+			},
+			"properties": {
+				"OBJECTID": 78033,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11017350",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78039,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004761,
+					1.371717
+				]
+			},
+			"properties": {
+				"OBJECTID": 78039,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11022579",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78053,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004801,
+					1.371712
+				]
+			},
+			"properties": {
+				"OBJECTID": 78053,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11017335",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375854,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.00449,
+					1.372024
+				]
+			},
+			"properties": {
+				"OBJECTID": 375854,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12528169",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 178187,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.004484,
+					1.371947
+				]
+			},
+			"properties": {
+				"OBJECTID": 178187,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12487999",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

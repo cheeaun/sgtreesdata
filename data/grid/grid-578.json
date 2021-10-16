@@ -1,0 +1,651 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 302673,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983075,
+					1.344465
+				]
+			},
+			"properties": {
+				"OBJECTID": 302673,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12537887",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 454996,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983398,
+					1.344453
+				]
+			},
+			"properties": {
+				"OBJECTID": 454996,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484881",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 455004,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982767,
+					1.342939
+				]
+			},
+			"properties": {
+				"OBJECTID": 455004,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484889",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 451979,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982778,
+					1.344431
+				]
+			},
+			"properties": {
+				"OBJECTID": 451979,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12958215",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699438,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983364,
+					1.347074
+				]
+			},
+			"properties": {
+				"OBJECTID": 699438,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "5",
+				"SPCS_CD": "0",
+				"COMMON_NM": "ha",
+				"SPSC_NM": "Plumeria rubra",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Plumeria rubra, ha",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "White Champaca",
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "12934854",
+				"EYTreeId": "{38D10774-682A-4E14-BE6C-DA1D5E061DBA}",
+				"Name": "Mr Ding Tai Lee",
+				"Email": "dingtailee@lee.com",
+				"UserKeywords": "#Singapore,#2021,#NewYear,#Covid19"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 302670,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.98288,
+					1.343873
+				]
+			},
+			"properties": {
+				"OBJECTID": 302670,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12537884",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 455002,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982874,
+					1.34318
+				]
+			},
+			"properties": {
+				"OBJECTID": 455002,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484887",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 554736,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983136,
+					1.34386
+				]
+			},
+			"properties": {
+				"OBJECTID": 554736,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "22",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12586658",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 302671,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.98292,
+					1.344091
+				]
+			},
+			"properties": {
+				"OBJECTID": 302671,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12537885",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 454999,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982986,
+					1.343443
+				]
+			},
+			"properties": {
+				"OBJECTID": 454999,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484884",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412509,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.9832,
+					1.34403
+				]
+			},
+			"properties": {
+				"OBJECTID": 412509,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "3",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12495200",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 455000,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982926,
+					1.343315
+				]
+			},
+			"properties": {
+				"OBJECTID": 455000,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484885",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 302669,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982743,
+					1.343661
+				]
+			},
+			"properties": {
+				"OBJECTID": 302669,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12537883",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 454997,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.98307,
+					1.343696
+				]
+			},
+			"properties": {
+				"OBJECTID": 454997,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484882",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412507,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983281,
+					1.344266
+				]
+			},
+			"properties": {
+				"OBJECTID": 412507,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "3",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12494777",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 455003,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.98282,
+					1.343053
+				]
+			},
+			"properties": {
+				"OBJECTID": 455003,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484888",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 302672,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983046,
+					1.344268
+				]
+			},
+			"properties": {
+				"OBJECTID": 302672,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12537886",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 454998,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983046,
+					1.343594
+				]
+			},
+			"properties": {
+				"OBJECTID": 454998,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484883",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 451978,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982761,
+					1.34437
+				]
+			},
+			"properties": {
+				"OBJECTID": 451978,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12958214",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

@@ -1,0 +1,1365 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 3178,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.9669,
+					1.41652
+				]
+			},
+			"properties": {
+				"OBJECTID": 3178,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "5",
+				"SPCS_CD": "31228",
+				"COMMON_NM": null,
+				"SPSC_NM": "Ficus stricta",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus stricta,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938475",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4892,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96737,
+					1.41536
+				]
+			},
+			"properties": {
+				"OBJECTID": 4892,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "5",
+				"SPCS_CD": "31228",
+				"COMMON_NM": null,
+				"SPSC_NM": "Ficus stricta",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus stricta,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939953",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4546,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965343,
+					1.417169
+				]
+			},
+			"properties": {
+				"OBJECTID": 4546,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940125",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5350,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965026,
+					1.418418
+				]
+			},
+			"properties": {
+				"OBJECTID": 5350,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940124",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1563,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965259,
+					1.417143
+				]
+			},
+			"properties": {
+				"OBJECTID": 1563,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940139",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1125,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965309,
+					1.417101
+				]
+			},
+			"properties": {
+				"OBJECTID": 1125,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939992",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1243,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96772,
+					1.414745
+				]
+			},
+			"properties": {
+				"OBJECTID": 1243,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940881",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6933,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966828,
+					1.416486
+				]
+			},
+			"properties": {
+				"OBJECTID": 6933,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "2017",
+				"Girth": "> 1.5",
+				"Public_treeid": "10690252",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3152,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96357,
+					1.418158
+				]
+			},
+			"properties": {
+				"OBJECTID": 3152,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "29693",
+				"COMMON_NM": "Eye of the Crocodile",
+				"SPSC_NM": "Bruguiera hainesii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bruguiera hainesii,Eye of the Crocodile",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940100",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1000,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968793,
+					1.414875
+				]
+			},
+			"properties": {
+				"OBJECTID": 1000,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940520",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4796,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.964977,
+					1.418442
+				]
+			},
+			"properties": {
+				"OBJECTID": 4796,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "2005",
+				"COMMON_NM": "Kelat Layu",
+				"SPSC_NM": "Lepisanthes rubiginosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Lepisanthes rubiginosa,Kelat Layu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940527",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2222,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965272,
+					1.417111
+				]
+			},
+			"properties": {
+				"OBJECTID": 2222,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940884",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1630,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967708,
+					1.414867
+				]
+			},
+			"properties": {
+				"OBJECTID": 1630,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938660",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1544,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965074,
+					1.41832
+				]
+			},
+			"properties": {
+				"OBJECTID": 1544,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "2003",
+				"COMMON_NM": "Pinang Punai",
+				"SPSC_NM": "Elaeocarpus pedunculatus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Elaeocarpus pedunculatus,Pinang Punai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940879",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1252,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96353,
+					1.41819
+				]
+			},
+			"properties": {
+				"OBJECTID": 1252,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "30527",
+				"COMMON_NM": "Mangrove Cannonball Tree",
+				"SPSC_NM": "Xylocarpus granatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xylocarpus granatum,Mangrove Cannonball Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939976",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3075,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967663,
+					1.414877
+				]
+			},
+			"properties": {
+				"OBJECTID": 3075,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939983",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1266,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967691,
+					1.414866
+				]
+			},
+			"properties": {
+				"OBJECTID": 1266,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938659",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1727,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.963637,
+					1.418175
+				]
+			},
+			"properties": {
+				"OBJECTID": 1727,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1973",
+				"COMMON_NM": "Bakau tandok",
+				"SPSC_NM": "Rhizophora apiculata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Rhizophora apiculata,Bakau tandok",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12395286",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1731,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965027,
+					1.418397
+				]
+			},
+			"properties": {
+				"OBJECTID": 1731,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "31233",
+				"COMMON_NM": "Malayan Teak",
+				"SPSC_NM": "Vitex pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Vitex pinnata,Malayan Teak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940517",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3414,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967691,
+					1.414858
+				]
+			},
+			"properties": {
+				"OBJECTID": 3414,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940533",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2564,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965044,
+					1.418256
+				]
+			},
+			"properties": {
+				"OBJECTID": 2564,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940518",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5174,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965045,
+					1.41836
+				]
+			},
+			"properties": {
+				"OBJECTID": 5174,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940528",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4831,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967707,
+					1.414839
+				]
+			},
+			"properties": {
+				"OBJECTID": 4831,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940882",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6150,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.9669,
+					1.41652
+				]
+			},
+			"properties": {
+				"OBJECTID": 6150,
+				"Type": "HERITAGE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "5",
+				"SPCS_CD": "31228",
+				"COMMON_NM": null,
+				"SPSC_NM": "Ficus stricta",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus stricta,",
+				"ACTUAL_TREE_TYPE": "HERITAGE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Found in Pulau Ubin, along Jalan Noordin, beside road",
+				"Hert_age": "2016",
+				"Girth": "> 1.5",
+				"Public_treeid": "10689718",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3325,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965292,
+					1.417168
+				]
+			},
+			"properties": {
+				"OBJECTID": 3325,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940539",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2335,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965334,
+					1.41711
+				]
+			},
+			"properties": {
+				"OBJECTID": 2335,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940858",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698729,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.964555,
+					1.420753
+				]
+			},
+			"properties": {
+				"OBJECTID": 698729,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18m",
+				"AGE": "9",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Philippine Mahogany",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Philippine Mahogany",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Proud",
+				"Hert_age": "",
+				"Girth": "> 1.5m",
+				"Public_treeid": "11419760",
+				"EYTreeId": "{29BB5E28-0223-4CA2-AAAF-603802B17166}",
+				"Name": "Jun Loong Tree No.4",
+				"Email": "lohjunloong@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699393,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.961327,
+					1.41973
+				]
+			},
+			"properties": {
+				"OBJECTID": 699393,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "zoom17",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "zoom17",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13007084",
+				"EYTreeId": "{3E62FF1C-A2B1-426A-BB05-9CC79C88958A}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5071,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.963541,
+					1.418146
+				]
+			},
+			"properties": {
+				"OBJECTID": 5071,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1973",
+				"COMMON_NM": "Bakau tandok",
+				"SPSC_NM": "Rhizophora apiculata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Rhizophora apiculata,Bakau tandok",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941049",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6191,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96737,
+					1.41536
+				]
+			},
+			"properties": {
+				"OBJECTID": 6191,
+				"Type": "HERITAGE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "5",
+				"SPCS_CD": "31228",
+				"COMMON_NM": null,
+				"SPSC_NM": "Ficus stricta",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus stricta,",
+				"ACTUAL_TREE_TYPE": "HERITAGE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Found in Pulau Ubin, along Jalan Noordin, within forested area ~7m away from road",
+				"Hert_age": "2016",
+				"Girth": "> 1.5",
+				"Public_treeid": "10690240",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2888,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.963504,
+					1.41818
+				]
+			},
+			"properties": {
+				"OBJECTID": 2888,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "30527",
+				"COMMON_NM": "Mangrove Cannonball Tree",
+				"SPSC_NM": "Xylocarpus granatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xylocarpus granatum,Mangrove Cannonball Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939977",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2733,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965053,
+					1.418345
+				]
+			},
+			"properties": {
+				"OBJECTID": 2733,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31233",
+				"COMMON_NM": "Malayan Teak",
+				"SPSC_NM": "Vitex pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Vitex pinnata,Malayan Teak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938803",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3472,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967743,
+					1.414838
+				]
+			},
+			"properties": {
+				"OBJECTID": 3472,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940538",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1153,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.963977,
+					1.418204
+				]
+			},
+			"properties": {
+				"OBJECTID": 1153,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1973",
+				"COMMON_NM": "Bakau tandok",
+				"SPSC_NM": "Rhizophora apiculata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Rhizophora apiculata,Bakau tandok",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11906211",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5201,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.963479,
+					1.418174
+				]
+			},
+			"properties": {
+				"OBJECTID": 5201,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1973",
+				"COMMON_NM": "Bakau tandok",
+				"SPSC_NM": "Rhizophora apiculata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Rhizophora apiculata,Bakau tandok",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940136",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3818,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966828,
+					1.416486
+				]
+			},
+			"properties": {
+				"OBJECTID": 3818,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "4",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940542",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6363,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968793,
+					1.414875
+				]
+			},
+			"properties": {
+				"OBJECTID": 6363,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "2017",
+				"Girth": "> 1.5",
+				"Public_treeid": "10691344",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4010,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967663,
+					1.414906
+				]
+			},
+			"properties": {
+				"OBJECTID": 4010,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939984",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2089,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96481,
+					1.418345
+				]
+			},
+			"properties": {
+				"OBJECTID": 2089,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940537",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3054,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967734,
+					1.414826
+				]
+			},
+			"properties": {
+				"OBJECTID": 3054,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940532",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

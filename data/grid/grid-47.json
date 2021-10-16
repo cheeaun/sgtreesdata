@@ -1,0 +1,787 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 626554,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.638121,
+					1.347345
+				]
+			},
+			"properties": {
+				"OBJECTID": 626554,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10094259",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626560,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637664,
+					1.34776
+				]
+			},
+			"properties": {
+				"OBJECTID": 626560,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10094752",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 202688,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637134,
+					1.347403
+				]
+			},
+			"properties": {
+				"OBJECTID": 202688,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "20",
+				"SPCS_CD": "1410",
+				"COMMON_NM": "Red-leaved Pulai",
+				"SPSC_NM": "Alstonia angustifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Alstonia angustifolia,Red-leaved Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10173161",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180787,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637744,
+					1.347318
+				]
+			},
+			"properties": {
+				"OBJECTID": 180787,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10094219",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180790,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637528,
+					1.34748
+				]
+			},
+			"properties": {
+				"OBJECTID": 180790,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10094434",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626552,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637196,
+					1.347209
+				]
+			},
+			"properties": {
+				"OBJECTID": 626552,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10094075",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626563,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.63778,
+					1.347652
+				]
+			},
+			"properties": {
+				"OBJECTID": 626563,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10094665",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180785,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637878,
+					1.347209
+				]
+			},
+			"properties": {
+				"OBJECTID": 180785,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10094074",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180791,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637456,
+					1.347517
+				]
+			},
+			"properties": {
+				"OBJECTID": 180791,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10094481",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180788,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637672,
+					1.347372
+				]
+			},
+			"properties": {
+				"OBJECTID": 180788,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10094288",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 202689,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637156,
+					1.347258
+				]
+			},
+			"properties": {
+				"OBJECTID": 202689,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "20",
+				"SPCS_CD": "1410",
+				"COMMON_NM": "Red-leaved Pulai",
+				"SPSC_NM": "Alstonia angustifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Alstonia angustifolia,Red-leaved Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10156546",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626558,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637986,
+					1.347462
+				]
+			},
+			"properties": {
+				"OBJECTID": 626558,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10094401",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626561,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637604,
+					1.347818
+				]
+			},
+			"properties": {
+				"OBJECTID": 626561,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10094854",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 202686,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.636972,
+					1.347386
+				]
+			},
+			"properties": {
+				"OBJECTID": 202686,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "20",
+				"SPCS_CD": "1410",
+				"COMMON_NM": "Red-leaved Pulai",
+				"SPSC_NM": "Alstonia angustifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Alstonia angustifolia,Red-leaved Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10161255",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626564,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637817,
+					1.347608
+				]
+			},
+			"properties": {
+				"OBJECTID": 626564,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10094590",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180786,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637807,
+					1.347272
+				]
+			},
+			"properties": {
+				"OBJECTID": 180786,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10094166",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626556,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.638049,
+					1.347399
+				]
+			},
+			"properties": {
+				"OBJECTID": 626556,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10094324",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180789,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6376,
+					1.347426
+				]
+			},
+			"properties": {
+				"OBJECTID": 180789,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10094363",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626553,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637153,
+					1.347401
+				]
+			},
+			"properties": {
+				"OBJECTID": 626553,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10171503",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 202690,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637178,
+					1.347254
+				]
+			},
+			"properties": {
+				"OBJECTID": 202690,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "20",
+				"SPCS_CD": "1410",
+				"COMMON_NM": "Red-leaved Pulai",
+				"SPSC_NM": "Alstonia angustifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Alstonia angustifolia,Red-leaved Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10094140",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626559,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637874,
+					1.347558
+				]
+			},
+			"properties": {
+				"OBJECTID": 626559,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10094503",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 202687,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637056,
+					1.347403
+				]
+			},
+			"properties": {
+				"OBJECTID": 202687,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "20",
+				"SPCS_CD": "1410",
+				"COMMON_NM": "Red-leaved Pulai",
+				"SPSC_NM": "Alstonia angustifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Alstonia angustifolia,Red-leaved Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10155805",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180792,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.637393,
+					1.347562
+				]
+			},
+			"properties": {
+				"OBJECTID": 180792,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10094534",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

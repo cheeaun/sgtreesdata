@@ -1,0 +1,5071 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 578508,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667826,
+					1.296255
+				]
+			},
+			"properties": {
+				"OBJECTID": 578508,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10172520",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144334,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66776,
+					1.296187
+				]
+			},
+			"properties": {
+				"OBJECTID": 144334,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346008",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144311,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667581,
+					1.296033
+				]
+			},
+			"properties": {
+				"OBJECTID": 144311,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345994",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417286,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665872,
+					1.295464
+				]
+			},
+			"properties": {
+				"OBJECTID": 417286,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10174239",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683806,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666986,
+					1.295383
+				]
+			},
+			"properties": {
+				"OBJECTID": 683806,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346056",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683800,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666933,
+					1.295337
+				]
+			},
+			"properties": {
+				"OBJECTID": 683800,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346042",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578502,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667234,
+					1.295762
+				]
+			},
+			"properties": {
+				"OBJECTID": 578502,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013584",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 274507,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665686,
+					1.296762
+				]
+			},
+			"properties": {
+				"OBJECTID": 274507,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11447647",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683837,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667357,
+					1.295848
+				]
+			},
+			"properties": {
+				"OBJECTID": 683837,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346032",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417300,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665825,
+					1.295295
+				]
+			},
+			"properties": {
+				"OBJECTID": 417300,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10012982",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683809,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667217,
+					1.295739
+				]
+			},
+			"properties": {
+				"OBJECTID": 683809,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346018",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683786,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666429,
+					1.295079
+				]
+			},
+			"properties": {
+				"OBJECTID": 683786,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345990",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683829,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666692,
+					1.295295
+				]
+			},
+			"properties": {
+				"OBJECTID": 683829,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346024",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417306,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666316,
+					1.294689
+				]
+			},
+			"properties": {
+				"OBJECTID": 417306,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10012729",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 301634,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665677,
+					1.296748
+				]
+			},
+			"properties": {
+				"OBJECTID": 301634,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11356831",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144377,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667137,
+					1.295675
+				]
+			},
+			"properties": {
+				"OBJECTID": 144377,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346054",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683803,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666598,
+					1.295216
+				]
+			},
+			"properties": {
+				"OBJECTID": 683803,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345971",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144308,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667505,
+					1.295972
+				]
+			},
+			"properties": {
+				"OBJECTID": 144308,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346051",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578505,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667528,
+					1.296005
+				]
+			},
+			"properties": {
+				"OBJECTID": 578505,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013856",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417289,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666526,
+					1.294657
+				]
+			},
+			"properties": {
+				"OBJECTID": 417289,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10012644",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578488,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667719,
+					1.295985
+				]
+			},
+			"properties": {
+				"OBJECTID": 578488,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013737",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417274,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665432,
+					1.296219
+				]
+			},
+			"properties": {
+				"OBJECTID": 417274,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10014050",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257495,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665423,
+					1.29659
+				]
+			},
+			"properties": {
+				"OBJECTID": 257495,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10014326",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683797,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666775,
+					1.295195
+				]
+			},
+			"properties": {
+				"OBJECTID": 683797,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346011",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578499,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666836,
+					1.295419
+				]
+			},
+			"properties": {
+				"OBJECTID": 578499,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013276",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417283,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665644,
+					1.295753
+				]
+			},
+			"properties": {
+				"OBJECTID": 417283,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10157201",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417303,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66609,
+					1.29497
+				]
+			},
+			"properties": {
+				"OBJECTID": 417303,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10012775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417280,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66532,
+					1.296266
+				]
+			},
+			"properties": {
+				"OBJECTID": 417280,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10014144",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683789,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666473,
+					1.294952
+				]
+			},
+			"properties": {
+				"OBJECTID": 683789,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346009",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 446211,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66766,
+					1.295939
+				]
+			},
+			"properties": {
+				"OBJECTID": 446211,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11417761",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578496,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666381,
+					1.295044
+				]
+			},
+			"properties": {
+				"OBJECTID": 578496,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10012906",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 125679,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665645,
+					1.296741
+				]
+			},
+			"properties": {
+				"OBJECTID": 125679,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "1734",
+				"COMMON_NM": "Pongam",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Millettia pinnata,Pongam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12510940",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683840,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667437,
+					1.295913
+				]
+			},
+			"properties": {
+				"OBJECTID": 683840,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346033",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144314,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667685,
+					1.296122
+				]
+			},
+			"properties": {
+				"OBJECTID": 144314,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346052",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417297,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665668,
+					1.295494
+				]
+			},
+			"properties": {
+				"OBJECTID": 417297,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013507",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417309,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666585,
+					1.294381
+				]
+			},
+			"properties": {
+				"OBJECTID": 417309,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10012652",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144302,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667683,
+					1.295959
+				]
+			},
+			"properties": {
+				"OBJECTID": 144302,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346060",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417292,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667119,
+					1.294358
+				]
+			},
+			"properties": {
+				"OBJECTID": 417292,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10012468",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683804,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667234,
+					1.295585
+				]
+			},
+			"properties": {
+				"OBJECTID": 683804,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346002",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144309,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667521,
+					1.295989
+				]
+			},
+			"properties": {
+				"OBJECTID": 144309,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346022",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417269,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665581,
+					1.296571
+				]
+			},
+			"properties": {
+				"OBJECTID": 417269,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10014288",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257496,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665396,
+					1.296681
+				]
+			},
+			"properties": {
+				"OBJECTID": 257496,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10014397",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500595,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666801,
+					1.294321
+				]
+			},
+			"properties": {
+				"OBJECTID": 500595,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11132282",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144326,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667862,
+					1.296278
+				]
+			},
+			"properties": {
+				"OBJECTID": 144326,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346045",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578500,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66694,
+					1.295518
+				]
+			},
+			"properties": {
+				"OBJECTID": 578500,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013347",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683798,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666876,
+					1.295283
+				]
+			},
+			"properties": {
+				"OBJECTID": 683798,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346012",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417304,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666179,
+					1.294866
+				]
+			},
+			"properties": {
+				"OBJECTID": 417304,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10012751",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 642550,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666647,
+					1.295103
+				]
+			},
+			"properties": {
+				"OBJECTID": 642550,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11293206",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 696384,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666963,
+					1.294276
+				]
+			},
+			"properties": {
+				"OBJECTID": 696384,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10012450",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683815,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666926,
+					1.295498
+				]
+			},
+			"properties": {
+				"OBJECTID": 683815,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346021",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683792,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666538,
+					1.295009
+				]
+			},
+			"properties": {
+				"OBJECTID": 683792,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345965",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 250400,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665497,
+					1.295925
+				]
+			},
+			"properties": {
+				"OBJECTID": 250400,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1411",
+				"COMMON_NM": "Pulai",
+				"SPSC_NM": "Alstonia angustiloba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Alstonia angustiloba,Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11366340",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578491,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667422,
+					1.295748
+				]
+			},
+			"properties": {
+				"OBJECTID": 578491,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10013544",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 505330,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666621,
+					1.295075
+				]
+			},
+			"properties": {
+				"OBJECTID": 505330,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11417239",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683835,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667297,
+					1.295801
+				]
+			},
+			"properties": {
+				"OBJECTID": 683835,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345976",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683784,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666362,
+					1.29503
+				]
+			},
+			"properties": {
+				"OBJECTID": 683784,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345970",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417298,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665728,
+					1.295417
+				]
+			},
+			"properties": {
+				"OBJECTID": 417298,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013265",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417312,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666897,
+					1.293994
+				]
+			},
+			"properties": {
+				"OBJECTID": 417312,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10012262",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144303,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667828,
+					1.296079
+				]
+			},
+			"properties": {
+				"OBJECTID": 144303,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346035",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683801,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666512,
+					1.295146
+				]
+			},
+			"properties": {
+				"OBJECTID": 683801,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346013",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417272,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665408,
+					1.296488
+				]
+			},
+			"properties": {
+				"OBJECTID": 417272,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10014227",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417295,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66709,
+					1.294048
+				]
+			},
+			"properties": {
+				"OBJECTID": 417295,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10012325",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683795,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6667,
+					1.29514
+				]
+			},
+			"properties": {
+				"OBJECTID": 683795,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345966",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683841,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667458,
+					1.295932
+				]
+			},
+			"properties": {
+				"OBJECTID": 683841,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346034",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578497,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666477,
+					1.295127
+				]
+			},
+			"properties": {
+				"OBJECTID": 578497,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10012992",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578503,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667368,
+					1.295871
+				]
+			},
+			"properties": {
+				"OBJECTID": 578503,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10170972",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417281,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665286,
+					1.296197
+				]
+			},
+			"properties": {
+				"OBJECTID": 417281,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10014115",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683838,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667389,
+					1.295874
+				]
+			},
+			"properties": {
+				"OBJECTID": 683838,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346063",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417301,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665941,
+					1.295154
+				]
+			},
+			"properties": {
+				"OBJECTID": 417301,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10012879",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578494,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666737,
+					1.295164
+				]
+			},
+			"properties": {
+				"OBJECTID": 578494,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10013028",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 446209,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667812,
+					1.296067
+				]
+			},
+			"properties": {
+				"OBJECTID": 446209,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11417759",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683812,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667077,
+					1.295623
+				]
+			},
+			"properties": {
+				"OBJECTID": 683812,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345992",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683832,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66677,
+					1.295358
+				]
+			},
+			"properties": {
+				"OBJECTID": 683832,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345981",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144300,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667486,
+					1.295792
+				]
+			},
+			"properties": {
+				"OBJECTID": 144300,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346004",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417290,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666701,
+					1.294449
+				]
+			},
+			"properties": {
+				"OBJECTID": 417290,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10012472",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578506,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667619,
+					1.296079
+				]
+			},
+			"properties": {
+				"OBJECTID": 578506,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10175189",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417296,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665441,
+					1.295785
+				]
+			},
+			"properties": {
+				"OBJECTID": 417296,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10013616",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683796,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666723,
+					1.295155
+				]
+			},
+			"properties": {
+				"OBJECTID": 683796,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346023",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578489,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667637,
+					1.295915
+				]
+			},
+			"properties": {
+				"OBJECTID": 578489,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10013689",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417273,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66545,
+					1.296265
+				]
+			},
+			"properties": {
+				"OBJECTID": 417273,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10014090",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257494,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665423,
+					1.296536
+				]
+			},
+			"properties": {
+				"OBJECTID": 257494,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10014281",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 125638,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665693,
+					1.296777
+				]
+			},
+			"properties": {
+				"OBJECTID": 125638,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "16",
+				"SPCS_CD": "1734",
+				"COMMON_NM": "Pongam",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Millettia pinnata,Pongam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12510899",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578498,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66663,
+					1.295244
+				]
+			},
+			"properties": {
+				"OBJECTID": 578498,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10013101",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417284,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665764,
+					1.295611
+				]
+			},
+			"properties": {
+				"OBJECTID": 417284,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10013397",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578495,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666486,
+					1.294967
+				]
+			},
+			"properties": {
+				"OBJECTID": 578495,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10012844",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683790,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666506,
+					1.294979
+				]
+			},
+			"properties": {
+				"OBJECTID": 683790,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345964",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 446212,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667448,
+					1.29577
+				]
+			},
+			"properties": {
+				"OBJECTID": 446212,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11417762",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683813,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666855,
+					1.295441
+				]
+			},
+			"properties": {
+				"OBJECTID": 683813,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346050",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683839,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667417,
+					1.295896
+				]
+			},
+			"properties": {
+				"OBJECTID": 683839,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346059",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 125678,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665738,
+					1.296818
+				]
+			},
+			"properties": {
+				"OBJECTID": 125678,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "16",
+				"SPCS_CD": "1734",
+				"COMMON_NM": "Pongam",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Millettia pinnata,Pongam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12510939",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144315,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667717,
+					1.296148
+				]
+			},
+			"properties": {
+				"OBJECTID": 144315,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345975",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683833,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66679,
+					1.295375
+				]
+			},
+			"properties": {
+				"OBJECTID": 683833,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346058",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144301,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667598,
+					1.295886
+				]
+			},
+			"properties": {
+				"OBJECTID": 144301,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346005",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417310,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666665,
+					1.29428
+				]
+			},
+			"properties": {
+				"OBJECTID": 417310,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10012622",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417293,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667195,
+					1.294291
+				]
+			},
+			"properties": {
+				"OBJECTID": 417293,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10012458",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144335,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667787,
+					1.296209
+				]
+			},
+			"properties": {
+				"OBJECTID": 144335,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345984",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417270,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665566,
+					1.29654
+				]
+			},
+			"properties": {
+				"OBJECTID": 417270,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10014267",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144312,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667609,
+					1.296057
+				]
+			},
+			"properties": {
+				"OBJECTID": 144312,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345995",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683807,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666668,
+					1.295275
+				]
+			},
+			"properties": {
+				"OBJECTID": 683807,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346057",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417287,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666051,
+					1.29523
+				]
+			},
+			"properties": {
+				"OBJECTID": 417287,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013192",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683799,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666908,
+					1.295312
+				]
+			},
+			"properties": {
+				"OBJECTID": 683799,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346041",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683793,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66658,
+					1.295041
+				]
+			},
+			"properties": {
+				"OBJECTID": 683793,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346040",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500596,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667071,
+					1.294333
+				]
+			},
+			"properties": {
+				"OBJECTID": 500596,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11132277",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 642551,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666552,
+					1.295022
+				]
+			},
+			"properties": {
+				"OBJECTID": 642551,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11293207",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578492,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666953,
+					1.295354
+				]
+			},
+			"properties": {
+				"OBJECTID": 578492,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10013185",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683787,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666458,
+					1.295105
+				]
+			},
+			"properties": {
+				"OBJECTID": 683787,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346039",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683836,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667329,
+					1.295825
+				]
+			},
+			"properties": {
+				"OBJECTID": 683836,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346062",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683810,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666994,
+					1.295553
+				]
+			},
+			"properties": {
+				"OBJECTID": 683810,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346019",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417299,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66577,
+					1.295371
+				]
+			},
+			"properties": {
+				"OBJECTID": 417299,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013090",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683830,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666719,
+					1.295321
+				]
+			},
+			"properties": {
+				"OBJECTID": 683830,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345980",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144304,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667861,
+					1.296101
+				]
+			},
+			"properties": {
+				"OBJECTID": 144304,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345982",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417307,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666386,
+					1.294607
+				]
+			},
+			"properties": {
+				"OBJECTID": 417307,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10012715",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683802,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666555,
+					1.295177
+				]
+			},
+			"properties": {
+				"OBJECTID": 683802,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346043",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144307,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667488,
+					1.295958
+				]
+			},
+			"properties": {
+				"OBJECTID": 144307,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345993",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417271,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66555,
+					1.296498
+				]
+			},
+			"properties": {
+				"OBJECTID": 417271,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10014245",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417294,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667171,
+					1.294108
+				]
+			},
+			"properties": {
+				"OBJECTID": 417294,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10012348",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578487,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667789,
+					1.296045
+				]
+			},
+			"properties": {
+				"OBJECTID": 578487,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013828",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144336,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667816,
+					1.296234
+				]
+			},
+			"properties": {
+				"OBJECTID": 144336,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346036",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683808,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667178,
+					1.295704
+				]
+			},
+			"properties": {
+				"OBJECTID": 683808,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346044",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144313,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667657,
+					1.296097
+				]
+			},
+			"properties": {
+				"OBJECTID": 144313,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345974",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417288,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666241,
+					1.295024
+				]
+			},
+			"properties": {
+				"OBJECTID": 417288,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10012884",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578504,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667465,
+					1.295951
+				]
+			},
+			"properties": {
+				"OBJECTID": 578504,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013806",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683794,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666678,
+					1.295118
+				]
+			},
+			"properties": {
+				"OBJECTID": 683794,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346010",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417282,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665549,
+					1.295857
+				]
+			},
+			"properties": {
+				"OBJECTID": 417282,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10013694",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417279,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665363,
+					1.296379
+				]
+			},
+			"properties": {
+				"OBJECTID": 417279,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10014219",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417302,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666011,
+					1.295068
+				]
+			},
+			"properties": {
+				"OBJECTID": 417302,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10012827",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578493,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666836,
+					1.295254
+				]
+			},
+			"properties": {
+				"OBJECTID": 578493,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10013102",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683811,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667038,
+					1.295591
+				]
+			},
+			"properties": {
+				"OBJECTID": 683811,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345972",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683788,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666451,
+					1.294933
+				]
+			},
+			"properties": {
+				"OBJECTID": 683788,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345991",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 446210,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667745,
+					1.29601
+				]
+			},
+			"properties": {
+				"OBJECTID": 446210,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11417760",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683831,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666747,
+					1.295338
+				]
+			},
+			"properties": {
+				"OBJECTID": 683831,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346003",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417308,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666462,
+					1.294517
+				]
+			},
+			"properties": {
+				"OBJECTID": 417308,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10012684",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417268,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665618,
+					1.296648
+				]
+			},
+			"properties": {
+				"OBJECTID": 417268,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10014327",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578507,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667725,
+					1.296168
+				]
+			},
+			"properties": {
+				"OBJECTID": 578507,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10014014",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417291,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667251,
+					1.294195
+				]
+			},
+			"properties": {
+				"OBJECTID": 417291,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10012399",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144379,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66727,
+					1.295783
+				]
+			},
+			"properties": {
+				"OBJECTID": 144379,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346031",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257497,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665378,
+					1.296735
+				]
+			},
+			"properties": {
+				"OBJECTID": 257497,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10014442",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683805,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667268,
+					1.295611
+				]
+			},
+			"properties": {
+				"OBJECTID": 683805,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346055",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144310,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667552,
+					1.296011
+				]
+			},
+			"properties": {
+				"OBJECTID": 144310,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345973",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578501,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6671,
+					1.295641
+				]
+			},
+			"properties": {
+				"OBJECTID": 578501,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013406",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417285,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.665963,
+					1.295357
+				]
+			},
+			"properties": {
+				"OBJECTID": 417285,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013367",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578490,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.667535,
+					1.295836
+				]
+			},
+			"properties": {
+				"OBJECTID": 578490,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10013620",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 696383,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666894,
+					1.294282
+				]
+			},
+			"properties": {
+				"OBJECTID": 696383,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10012456",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683814,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666891,
+					1.295471
+				]
+			},
+			"properties": {
+				"OBJECTID": 683814,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346020",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683791,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666522,
+					1.294992
+				]
+			},
+			"properties": {
+				"OBJECTID": 683791,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346001",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683785,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666402,
+					1.295059
+				]
+			},
+			"properties": {
+				"OBJECTID": 683785,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11345963",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683834,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666817,
+					1.295398
+				]
+			},
+			"properties": {
+				"OBJECTID": 683834,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11346025",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417311,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666457,
+					1.294749
+				]
+			},
+			"properties": {
+				"OBJECTID": 417311,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10013131",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 417305,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.666592,
+					1.294579
+				]
+			},
+			"properties": {
+				"OBJECTID": 417305,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "Broad-leafed Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,Broad-leafed Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10012540",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

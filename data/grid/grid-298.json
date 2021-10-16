@@ -1,0 +1,1365 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 2894,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805097,
+					1.398981
+				]
+			},
+			"properties": {
+				"OBJECTID": 2894,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939336",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 529800,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806279,
+					1.410101
+				]
+			},
+			"properties": {
+				"OBJECTID": 529800,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603947",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3272,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805144,
+					1.399122
+				]
+			},
+			"properties": {
+				"OBJECTID": 3272,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1537",
+				"COMMON_NM": "Derum",
+				"SPSC_NM": "Cratoxylum formosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cratoxylum formosum,Derum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938641",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2614,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805612,
+					1.399501
+				]
+			},
+			"properties": {
+				"OBJECTID": 2614,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "10",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941848",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1801,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805067,
+					1.399038
+				]
+			},
+			"properties": {
+				"OBJECTID": 1801,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1537",
+				"COMMON_NM": "Derum",
+				"SPSC_NM": "Cratoxylum formosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cratoxylum formosum,Derum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938642",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 529797,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806306,
+					1.410051
+				]
+			},
+			"properties": {
+				"OBJECTID": 529797,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603944",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 334807,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806391,
+					1.409872
+				]
+			},
+			"properties": {
+				"OBJECTID": 334807,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12623984",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 358777,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806416,
+					1.410108
+				]
+			},
+			"properties": {
+				"OBJECTID": 358777,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603923",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 529798,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806298,
+					1.41007
+				]
+			},
+			"properties": {
+				"OBJECTID": 529798,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603945",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1215,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806197,
+					1.400725
+				]
+			},
+			"properties": {
+				"OBJECTID": 1215,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "10",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941147",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 334808,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806333,
+					1.410016
+				]
+			},
+			"properties": {
+				"OBJECTID": 334808,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12623986",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 358792,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806363,
+					1.409928
+				]
+			},
+			"properties": {
+				"OBJECTID": 358792,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603938",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 529795,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806335,
+					1.40999
+				]
+			},
+			"properties": {
+				"OBJECTID": 529795,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603942",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1985,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806213,
+					1.400828
+				]
+			},
+			"properties": {
+				"OBJECTID": 1985,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "10",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941847",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3805,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806289,
+					1.400249
+				]
+			},
+			"properties": {
+				"OBJECTID": 3805,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "10",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941882",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 358795,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806355,
+					1.409944
+				]
+			},
+			"properties": {
+				"OBJECTID": 358795,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603941",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2005,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805799,
+					1.399709
+				]
+			},
+			"properties": {
+				"OBJECTID": 2005,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "10",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941849",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5308,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806035,
+					1.400015
+				]
+			},
+			"properties": {
+				"OBJECTID": 5308,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941952",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 529796,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806314,
+					1.410031
+				]
+			},
+			"properties": {
+				"OBJECTID": 529796,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603943",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3153,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805875,
+					1.399724
+				]
+			},
+			"properties": {
+				"OBJECTID": 3153,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "10",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941950",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1453,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805434,
+					1.399205
+				]
+			},
+			"properties": {
+				"OBJECTID": 1453,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939717",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3122,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.804067,
+					1.397578
+				]
+			},
+			"properties": {
+				"OBJECTID": 3122,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941655",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1957,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806019,
+					1.39985
+				]
+			},
+			"properties": {
+				"OBJECTID": 1957,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "10",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941951",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 529799,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806288,
+					1.410088
+				]
+			},
+			"properties": {
+				"OBJECTID": 529799,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603946",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 358790,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806381,
+					1.409892
+				]
+			},
+			"properties": {
+				"OBJECTID": 358790,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603936",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2939,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805848,
+					1.399816
+				]
+			},
+			"properties": {
+				"OBJECTID": 2939,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "10",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941148",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3966,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805724,
+					1.399504
+				]
+			},
+			"properties": {
+				"OBJECTID": 3966,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "10",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941713",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3070,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80557,
+					1.399421
+				]
+			},
+			"properties": {
+				"OBJECTID": 3070,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1537",
+				"COMMON_NM": "Derum",
+				"SPSC_NM": "Cratoxylum formosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cratoxylum formosum,Derum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940339",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 468004,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80641,
+					1.410124
+				]
+			},
+			"properties": {
+				"OBJECTID": 468004,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12623955",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 358793,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806405,
+					1.409835
+				]
+			},
+			"properties": {
+				"OBJECTID": 358793,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603939",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3042,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80543,
+					1.399373
+				]
+			},
+			"properties": {
+				"OBJECTID": 3042,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1537",
+				"COMMON_NM": "Derum",
+				"SPSC_NM": "Cratoxylum formosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cratoxylum formosum,Derum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938835",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 358779,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806372,
+					1.409911
+				]
+			},
+			"properties": {
+				"OBJECTID": 358779,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603925",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 358791,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806418,
+					1.409803
+				]
+			},
+			"properties": {
+				"OBJECTID": 358791,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603937",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4047,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80414,
+					1.397663
+				]
+			},
+			"properties": {
+				"OBJECTID": 4047,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941865",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 358794,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806347,
+					1.409965
+				]
+			},
+			"properties": {
+				"OBJECTID": 358794,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603940",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 358788,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806412,
+					1.409818
+				]
+			},
+			"properties": {
+				"OBJECTID": 358788,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12603934",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3918,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805967,
+					1.399879
+				]
+			},
+			"properties": {
+				"OBJECTID": 3918,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "10",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941342",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4116,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805272,
+					1.399254
+				]
+			},
+			"properties": {
+				"OBJECTID": 4116,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1537",
+				"COMMON_NM": "Derum",
+				"SPSC_NM": "Cratoxylum formosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cratoxylum formosum,Derum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941561",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4877,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.806283,
+					1.400088
+				]
+			},
+			"properties": {
+				"OBJECTID": 4877,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "10",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10941714",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2607,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.805214,
+					1.399201
+				]
+			},
+			"properties": {
+				"OBJECTID": 2607,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1537",
+				"COMMON_NM": "Derum",
+				"SPSC_NM": "Cratoxylum formosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cratoxylum formosum,Derum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938836",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

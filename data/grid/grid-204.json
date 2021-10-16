@@ -1,0 +1,8913 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 198139,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743414,
+					1.417738
+				]
+			},
+			"properties": {
+				"OBJECTID": 198139,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629615",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198162,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74291,
+					1.419203
+				]
+			},
+			"properties": {
+				"OBJECTID": 198162,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629638",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198185,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743217,
+					1.421315
+				]
+			},
+			"properties": {
+				"OBJECTID": 198185,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629661",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612422,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743398,
+					1.410359
+				]
+			},
+			"properties": {
+				"OBJECTID": 612422,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138792",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216877,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742006,
+					1.418704
+				]
+			},
+			"properties": {
+				"OBJECTID": 216877,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023324",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198168,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742757,
+					1.419617
+				]
+			},
+			"properties": {
+				"OBJECTID": 198168,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629644",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198191,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742924,
+					1.421219
+				]
+			},
+			"properties": {
+				"OBJECTID": 198191,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629667",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399427,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743293,
+					1.414565
+				]
+			},
+			"properties": {
+				"OBJECTID": 399427,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023357",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287597,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742199,
+					1.417729
+				]
+			},
+			"properties": {
+				"OBJECTID": 287597,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140921",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287585,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743062,
+					1.415241
+				]
+			},
+			"properties": {
+				"OBJECTID": 287585,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140305",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216871,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742366,
+					1.417674
+				]
+			},
+			"properties": {
+				"OBJECTID": 216871,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023318",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612385,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743265,
+					1.414635
+				]
+			},
+			"properties": {
+				"OBJECTID": 612385,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10157994",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287591,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742617,
+					1.416554
+				]
+			},
+			"properties": {
+				"OBJECTID": 287591,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140657",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287582,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742904,
+					1.416126
+				]
+			},
+			"properties": {
+				"OBJECTID": 287582,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10172997",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1861,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731081,
+					1.420627
+				]
+			},
+			"properties": {
+				"OBJECTID": 1861,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "3",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939607",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198174,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742646,
+					1.419657
+				]
+			},
+			"properties": {
+				"OBJECTID": 198174,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629650",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399447,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743417,
+					1.411148
+				]
+			},
+			"properties": {
+				"OBJECTID": 399447,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023377",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612382,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743408,
+					1.414235
+				]
+			},
+			"properties": {
+				"OBJECTID": 612382,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10171347",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1887,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.730946,
+					1.420447
+				]
+			},
+			"properties": {
+				"OBJECTID": 1887,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939597",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399424,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742989,
+					1.415475
+				]
+			},
+			"properties": {
+				"OBJECTID": 399424,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023354",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 513255,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743442,
+					1.417098
+				]
+			},
+			"properties": {
+				"OBJECTID": 513255,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "17",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12522187",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216860,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743244,
+					1.41517
+				]
+			},
+			"properties": {
+				"OBJECTID": 216860,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023307",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 675373,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74195,
+					1.418869
+				]
+			},
+			"properties": {
+				"OBJECTID": 675373,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1519",
+				"COMMON_NM": "闭花木",
+				"SPSC_NM": "Cleistanthus sumatranus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cleistanthus sumatranus,闭花木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11371397",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198205,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743322,
+					1.421778
+				]
+			},
+			"properties": {
+				"OBJECTID": 198205,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629026",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287574,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742291,
+					1.41791
+				]
+			},
+			"properties": {
+				"OBJECTID": 287574,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140973",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287562,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74184,
+					1.420014
+				]
+			},
+			"properties": {
+				"OBJECTID": 287562,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141342",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198148,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743428,
+					1.417414
+				]
+			},
+			"properties": {
+				"OBJECTID": 198148,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629624",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216891,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741811,
+					1.420229
+				]
+			},
+			"properties": {
+				"OBJECTID": 216891,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023338",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287568,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741915,
+					1.418978
+				]
+			},
+			"properties": {
+				"OBJECTID": 287568,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141137",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3690,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731885,
+					1.421126
+				]
+			},
+			"properties": {
+				"OBJECTID": 3690,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11342046",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612362,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743234,
+					1.410259
+				]
+			},
+			"properties": {
+				"OBJECTID": 612362,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138426",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407078,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743324,
+					1.415401
+				]
+			},
+			"properties": {
+				"OBJECTID": 407078,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10140173",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287594,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742406,
+					1.417135
+				]
+			},
+			"properties": {
+				"OBJECTID": 287594,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140749",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198188,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742805,
+					1.420875
+				]
+			},
+			"properties": {
+				"OBJECTID": 198188,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629664",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287571,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742236,
+					1.418064
+				]
+			},
+			"properties": {
+				"OBJECTID": 287571,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141051",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216897,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742122,
+					1.417947
+				]
+			},
+			"properties": {
+				"OBJECTID": 216897,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023344",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216874,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742187,
+					1.418202
+				]
+			},
+			"properties": {
+				"OBJECTID": 216874,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023321",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198119,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742606,
+					1.420141
+				]
+			},
+			"properties": {
+				"OBJECTID": 198119,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141370",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198165,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742789,
+					1.419256
+				]
+			},
+			"properties": {
+				"OBJECTID": 198165,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629641",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198142,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743196,
+					1.417683
+				]
+			},
+			"properties": {
+				"OBJECTID": 198142,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629618",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216880,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741897,
+					1.419017
+				]
+			},
+			"properties": {
+				"OBJECTID": 216880,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023327",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 339144,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741755,
+					1.41893
+				]
+			},
+			"properties": {
+				"OBJECTID": 339144,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141122",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216857,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743299,
+					1.414986
+				]
+			},
+			"properties": {
+				"OBJECTID": 216857,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023304",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287588,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742905,
+					1.415708
+				]
+			},
+			"properties": {
+				"OBJECTID": 287588,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140463",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198182,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742921,
+					1.420402
+				]
+			},
+			"properties": {
+				"OBJECTID": 198182,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629658",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 288713,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742423,
+					1.420351
+				]
+			},
+			"properties": {
+				"OBJECTID": 288713,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141411",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1855,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.732267,
+					1.421564
+				]
+			},
+			"properties": {
+				"OBJECTID": 1855,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939791",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 381130,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743089,
+					1.421328
+				]
+			},
+			"properties": {
+				"OBJECTID": 381130,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12467758",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198171,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742757,
+					1.419852
+				]
+			},
+			"properties": {
+				"OBJECTID": 198171,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629647",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612388,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743105,
+					1.415128
+				]
+			},
+			"properties": {
+				"OBJECTID": 612388,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140052",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216868,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742516,
+					1.417269
+				]
+			},
+			"properties": {
+				"OBJECTID": 216868,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023315",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1895,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731973,
+					1.42108
+				]
+			},
+			"properties": {
+				"OBJECTID": 1895,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "3",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939783",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198151,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743155,
+					1.418062
+				]
+			},
+			"properties": {
+				"OBJECTID": 198151,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629627",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399421,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742747,
+					1.416161
+				]
+			},
+			"properties": {
+				"OBJECTID": 399421,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023351",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 116740,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742615,
+					1.416944
+				]
+			},
+			"properties": {
+				"OBJECTID": 116740,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023400",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1864,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731698,
+					1.421099
+				]
+			},
+			"properties": {
+				"OBJECTID": 1864,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "32912",
+				"COMMON_NM": "Mangas",
+				"SPSC_NM": "Mangifera indica 'R2E2'",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Mangifera indica 'R2E2',Mangas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939602",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407061,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743417,
+					1.415436
+				]
+			},
+			"properties": {
+				"OBJECTID": 407061,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10140187",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1884,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731641,
+					1.420807
+				]
+			},
+			"properties": {
+				"OBJECTID": 1884,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939288",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612365,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743356,
+					1.41089
+				]
+			},
+			"properties": {
+				"OBJECTID": 612365,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138570",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198159,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742652,
+					1.41956
+				]
+			},
+			"properties": {
+				"OBJECTID": 198159,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629635",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399450,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74331,
+					1.410648
+				]
+			},
+			"properties": {
+				"OBJECTID": 399450,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023380",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198202,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743207,
+					1.42158
+				]
+			},
+			"properties": {
+				"OBJECTID": 198202,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629023",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198208,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743414,
+					1.421915
+				]
+			},
+			"properties": {
+				"OBJECTID": 198208,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629029",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216894,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74174,
+					1.419017
+				]
+			},
+			"properties": {
+				"OBJECTID": 216894,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023341",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287565,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741718,
+					1.419649
+				]
+			},
+			"properties": {
+				"OBJECTID": 287565,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141260",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216875,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742065,
+					1.418523
+				]
+			},
+			"properties": {
+				"OBJECTID": 216875,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023322",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612420,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743454,
+					1.410712
+				]
+			},
+			"properties": {
+				"OBJECTID": 612420,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138846",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216898,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742229,
+					1.417653
+				]
+			},
+			"properties": {
+				"OBJECTID": 216898,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023345",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 339147,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741639,
+					1.419297
+				]
+			},
+			"properties": {
+				"OBJECTID": 339147,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10141247",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198143,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743355,
+					1.417886
+				]
+			},
+			"properties": {
+				"OBJECTID": 198143,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629619",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198120,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741769,
+					1.419921
+				]
+			},
+			"properties": {
+				"OBJECTID": 198120,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10141324",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198189,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742784,
+					1.420804
+				]
+			},
+			"properties": {
+				"OBJECTID": 198189,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629665",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198166,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742783,
+					1.419316
+				]
+			},
+			"properties": {
+				"OBJECTID": 198166,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629642",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216869,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742492,
+					1.417336
+				]
+			},
+			"properties": {
+				"OBJECTID": 216869,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023316",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 288714,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742464,
+					1.420161
+				]
+			},
+			"properties": {
+				"OBJECTID": 288714,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10141377",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1856,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731513,
+					1.421064
+				]
+			},
+			"properties": {
+				"OBJECTID": 1856,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939787",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 381131,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743044,
+					1.421234
+				]
+			},
+			"properties": {
+				"OBJECTID": 381131,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12467759",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 116743,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743451,
+					1.410645
+				]
+			},
+			"properties": {
+				"OBJECTID": 116743,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023403",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198183,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742965,
+					1.420595
+				]
+			},
+			"properties": {
+				"OBJECTID": 198183,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629659",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1890,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.732246,
+					1.421278
+				]
+			},
+			"properties": {
+				"OBJECTID": 1890,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939402",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612391,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743271,
+					1.415048
+				]
+			},
+			"properties": {
+				"OBJECTID": 612391,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10139994",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399425,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743046,
+					1.415287
+				]
+			},
+			"properties": {
+				"OBJECTID": 399425,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023355",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 435721,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74295,
+					1.418996
+				]
+			},
+			"properties": {
+				"OBJECTID": 435721,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "17",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12637001",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287589,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742731,
+					1.416216
+				]
+			},
+			"properties": {
+				"OBJECTID": 287589,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140517",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198177,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742869,
+					1.419852
+				]
+			},
+			"properties": {
+				"OBJECTID": 198177,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629653",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399422,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742822,
+					1.415924
+				]
+			},
+			"properties": {
+				"OBJECTID": 399422,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023352",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 675371,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742593,
+					1.420334
+				]
+			},
+			"properties": {
+				"OBJECTID": 675371,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1519",
+				"COMMON_NM": "闭花木",
+				"SPSC_NM": "Cleistanthus sumatranus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cleistanthus sumatranus,闭花木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11371396",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198197,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743129,
+					1.421654
+				]
+			},
+			"properties": {
+				"OBJECTID": 198197,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629018",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216883,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74173,
+					1.419605
+				]
+			},
+			"properties": {
+				"OBJECTID": 216883,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023330",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287580,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742603,
+					1.416987
+				]
+			},
+			"properties": {
+				"OBJECTID": 287580,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140615",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407076,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743154,
+					1.415563
+				]
+			},
+			"properties": {
+				"OBJECTID": 407076,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10140264",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198160,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742885,
+					1.419468
+				]
+			},
+			"properties": {
+				"OBJECTID": 198160,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629636",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 409924,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74323,
+					1.410185
+				]
+			},
+			"properties": {
+				"OBJECTID": 409924,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "3",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11051986",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612368,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743451,
+					1.411303
+				]
+			},
+			"properties": {
+				"OBJECTID": 612368,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138750",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216889,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741761,
+					1.419891
+				]
+			},
+			"properties": {
+				"OBJECTID": 216889,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023336",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287566,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741741,
+					1.419524
+				]
+			},
+			"properties": {
+				"OBJECTID": 287566,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141241",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198154,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743028,
+					1.418099
+				]
+			},
+			"properties": {
+				"OBJECTID": 198154,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629630",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198203,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74324,
+					1.421627
+				]
+			},
+			"properties": {
+				"OBJECTID": 198203,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629024",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 339150,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742381,
+					1.420168
+				]
+			},
+			"properties": {
+				"OBJECTID": 339150,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10156481",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198140,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743245,
+					1.418171
+				]
+			},
+			"properties": {
+				"OBJECTID": 198140,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629616",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198163,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742684,
+					1.419258
+				]
+			},
+			"properties": {
+				"OBJECTID": 198163,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629639",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287569,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741993,
+					1.418741
+				]
+			},
+			"properties": {
+				"OBJECTID": 287569,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141128",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 381128,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743178,
+					1.421526
+				]
+			},
+			"properties": {
+				"OBJECTID": 381128,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12467756",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1876,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731543,
+					1.420757
+				]
+			},
+			"properties": {
+				"OBJECTID": 1876,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939595",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 288711,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742213,
+					1.420366
+				]
+			},
+			"properties": {
+				"OBJECTID": 288711,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141407",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 7023,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742984,
+					1.41881
+				]
+			},
+			"properties": {
+				"OBJECTID": 7023,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "1997",
+				"Girth": "> 1.5",
+				"Public_treeid": "10969682",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216855,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74338,
+					1.41476
+				]
+			},
+			"properties": {
+				"OBJECTID": 216855,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023302",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612423,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743367,
+					1.410165
+				]
+			},
+			"properties": {
+				"OBJECTID": 612423,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138748",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399428,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743325,
+					1.414469
+				]
+			},
+			"properties": {
+				"OBJECTID": 399428,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023358",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198169,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742759,
+					1.419698
+				]
+			},
+			"properties": {
+				"OBJECTID": 198169,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629645",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287586,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742993,
+					1.415448
+				]
+			},
+			"properties": {
+				"OBJECTID": 287586,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140330",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216872,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742336,
+					1.417766
+				]
+			},
+			"properties": {
+				"OBJECTID": 216872,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023319",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216866,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742562,
+					1.417083
+				]
+			},
+			"properties": {
+				"OBJECTID": 216866,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023313",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287592,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742524,
+					1.416812
+				]
+			},
+			"properties": {
+				"OBJECTID": 287592,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140706",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198180,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742661,
+					1.420031
+				]
+			},
+			"properties": {
+				"OBJECTID": 198180,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629656",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1893,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.732213,
+					1.421133
+				]
+			},
+			"properties": {
+				"OBJECTID": 1893,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939404",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216863,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742879,
+					1.416182
+				]
+			},
+			"properties": {
+				"OBJECTID": 216863,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023310",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1862,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731027,
+					1.420599
+				]
+			},
+			"properties": {
+				"OBJECTID": 1862,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1860",
+				"COMMON_NM": "Jambu Air Mawar",
+				"SPSC_NM": "Syzygium aqueum",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium aqueum,Jambu Air Mawar",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939298",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612383,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743378,
+					1.41432
+				]
+			},
+			"properties": {
+				"OBJECTID": 612383,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10139608",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198200,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743303,
+					1.421938
+				]
+			},
+			"properties": {
+				"OBJECTID": 198200,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629021",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287583,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74303,
+					1.415755
+				]
+			},
+			"properties": {
+				"OBJECTID": 287583,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140454",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 7223,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742831,
+					1.420926
+				]
+			},
+			"properties": {
+				"OBJECTID": 7223,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "1997",
+				"Girth": "> 1.5",
+				"Public_treeid": "10969260",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216886,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742348,
+					1.420175
+				]
+			},
+			"properties": {
+				"OBJECTID": 216886,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023333",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399448,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743407,
+					1.4111
+				]
+			},
+			"properties": {
+				"OBJECTID": 399448,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023378",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399419,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742558,
+					1.416711
+				]
+			},
+			"properties": {
+				"OBJECTID": 399419,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023349",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 675374,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742195,
+					1.418179
+				]
+			},
+			"properties": {
+				"OBJECTID": 675374,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1519",
+				"COMMON_NM": "闭花木",
+				"SPSC_NM": "Cleistanthus sumatranus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cleistanthus sumatranus,闭花木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11372199",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287577,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742424,
+					1.417518
+				]
+			},
+			"properties": {
+				"OBJECTID": 287577,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140868",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399468,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741762,
+					1.41896
+				]
+			},
+			"properties": {
+				"OBJECTID": 399468,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023398",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 675354,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742815,
+					1.415978
+				]
+			},
+			"properties": {
+				"OBJECTID": 675354,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11369508",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287563,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741917,
+					1.42009
+				]
+			},
+			"properties": {
+				"OBJECTID": 287563,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141362",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198157,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742864,
+					1.418506
+				]
+			},
+			"properties": {
+				"OBJECTID": 198157,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629633",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198206,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743357,
+					1.421825
+				]
+			},
+			"properties": {
+				"OBJECTID": 198206,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629027",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407073,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743313,
+					1.415589
+				]
+			},
+			"properties": {
+				"OBJECTID": 407073,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10140288",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216892,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741545,
+					1.419687
+				]
+			},
+			"properties": {
+				"OBJECTID": 216892,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023339",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1870,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.732395,
+					1.421825
+				]
+			},
+			"properties": {
+				"OBJECTID": 1870,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939786",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287595,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742478,
+					1.416942
+				]
+			},
+			"properties": {
+				"OBJECTID": 287595,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140771",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287572,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742351,
+					1.417734
+				]
+			},
+			"properties": {
+				"OBJECTID": 287572,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10140913",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 339151,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74184,
+					1.420251
+				]
+			},
+			"properties": {
+				"OBJECTID": 339151,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10141385",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407071,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743421,
+					1.415627
+				]
+			},
+			"properties": {
+				"OBJECTID": 407071,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10140314",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1877,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731358,
+					1.420618
+				]
+			},
+			"properties": {
+				"OBJECTID": 1877,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "29703",
+				"COMMON_NM": "Durian Duan",
+				"SPSC_NM": "Durio singaporensis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Durio singaporensis,Durian Duan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939592",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 339145,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741821,
+					1.418821
+				]
+			},
+			"properties": {
+				"OBJECTID": 339145,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10141131",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198141,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743282,
+					1.41748
+				]
+			},
+			"properties": {
+				"OBJECTID": 198141,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629617",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287587,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742929,
+					1.41564
+				]
+			},
+			"properties": {
+				"OBJECTID": 287587,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140353",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612389,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74322,
+					1.415208
+				]
+			},
+			"properties": {
+				"OBJECTID": 612389,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140118",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198181,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74291,
+					1.420277
+				]
+			},
+			"properties": {
+				"OBJECTID": 198181,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629657",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216858,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743263,
+					1.415082
+				]
+			},
+			"properties": {
+				"OBJECTID": 216858,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023305",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198172,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742762,
+					1.419981
+				]
+			},
+			"properties": {
+				"OBJECTID": 198172,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629648",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 381129,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743149,
+					1.421472
+				]
+			},
+			"properties": {
+				"OBJECTID": 381129,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "18",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12467757",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216867,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742534,
+					1.417167
+				]
+			},
+			"properties": {
+				"OBJECTID": 216867,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023314",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1894,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.732081,
+					1.42108
+				]
+			},
+			"properties": {
+				"OBJECTID": 1894,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "3",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939784",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216887,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742522,
+					1.420153
+				]
+			},
+			"properties": {
+				"OBJECTID": 216887,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023334",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198152,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743098,
+					1.418196
+				]
+			},
+			"properties": {
+				"OBJECTID": 198152,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629628",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216864,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742663,
+					1.416826
+				]
+			},
+			"properties": {
+				"OBJECTID": 216864,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023311",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1885,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731248,
+					1.420496
+				]
+			},
+			"properties": {
+				"OBJECTID": 1885,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "3",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939291",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407060,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743373,
+					1.415418
+				]
+			},
+			"properties": {
+				"OBJECTID": 407060,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10140184",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287584,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743223,
+					1.415315
+				]
+			},
+			"properties": {
+				"OBJECTID": 287584,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140281",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399420,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741752,
+					1.418985
+				]
+			},
+			"properties": {
+				"OBJECTID": 399420,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023350",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287578,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74251,
+					1.417292
+				]
+			},
+			"properties": {
+				"OBJECTID": 287578,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10140833",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1857,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.73111,
+					1.420828
+				]
+			},
+			"properties": {
+				"OBJECTID": 1857,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939793",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287564,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741725,
+					1.419745
+				]
+			},
+			"properties": {
+				"OBJECTID": 287564,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141293",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216881,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741766,
+					1.419439
+				]
+			},
+			"properties": {
+				"OBJECTID": 216881,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023328",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216893,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741602,
+					1.419401
+				]
+			},
+			"properties": {
+				"OBJECTID": 216893,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023340",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198158,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742761,
+					1.418861
+				]
+			},
+			"properties": {
+				"OBJECTID": 198158,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629634",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612366,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743392,
+					1.411056
+				]
+			},
+			"properties": {
+				"OBJECTID": 612366,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138606",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399451,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743303,
+					1.41061
+				]
+			},
+			"properties": {
+				"OBJECTID": 399451,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023381",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 427887,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741805,
+					1.419393
+				]
+			},
+			"properties": {
+				"OBJECTID": 427887,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "7",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11169436",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1865,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731784,
+					1.421187
+				]
+			},
+			"properties": {
+				"OBJECTID": 1865,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "3",
+				"SPCS_CD": "29703",
+				"COMMON_NM": "Durian Duan",
+				"SPSC_NM": "Durio singaporensis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Durio singaporensis,Durian Duan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939293",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1871,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731846,
+					1.421353
+				]
+			},
+			"properties": {
+				"OBJECTID": 1871,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "29703",
+				"COMMON_NM": "Durian Duan",
+				"SPSC_NM": "Durio singaporensis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Durio singaporensis,Durian Duan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939605",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407074,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743262,
+					1.415569
+				]
+			},
+			"properties": {
+				"OBJECTID": 407074,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10140283",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198201,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742974,
+					1.421332
+				]
+			},
+			"properties": {
+				"OBJECTID": 198201,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629022",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 409939,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743359,
+					1.410958
+				]
+			},
+			"properties": {
+				"OBJECTID": 409939,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "3",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11135103",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198161,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742899,
+					1.41941
+				]
+			},
+			"properties": {
+				"OBJECTID": 198161,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629637",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 675380,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742081,
+					1.418474
+				]
+			},
+			"properties": {
+				"OBJECTID": 675380,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "1",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11370362",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216878,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741968,
+					1.418811
+				]
+			},
+			"properties": {
+				"OBJECTID": 216878,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023325",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 339148,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741583,
+					1.419464
+				]
+			},
+			"properties": {
+				"OBJECTID": 339148,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141287",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198138,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743365,
+					1.41729
+				]
+			},
+			"properties": {
+				"OBJECTID": 198138,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629614",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198192,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742828,
+					1.420942
+				]
+			},
+			"properties": {
+				"OBJECTID": 198192,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629668",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1891,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.732285,
+					1.421234
+				]
+			},
+			"properties": {
+				"OBJECTID": 1891,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939781",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198121,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741573,
+					1.419897
+				]
+			},
+			"properties": {
+				"OBJECTID": 198121,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10141313",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198184,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743122,
+					1.421117
+				]
+			},
+			"properties": {
+				"OBJECTID": 198184,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629660",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612392,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743309,
+					1.414943
+				]
+			},
+			"properties": {
+				"OBJECTID": 612392,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10174045",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612386,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743211,
+					1.414808
+				]
+			},
+			"properties": {
+				"OBJECTID": 612386,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10139884",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198178,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742877,
+					1.420018
+				]
+			},
+			"properties": {
+				"OBJECTID": 198178,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629654",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287581,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742729,
+					1.41663
+				]
+			},
+			"properties": {
+				"OBJECTID": 287581,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140569",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198175,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74265,
+					1.419779
+				]
+			},
+			"properties": {
+				"OBJECTID": 198175,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629651",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198198,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743092,
+					1.42158
+				]
+			},
+			"properties": {
+				"OBJECTID": 198198,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629019",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216861,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742916,
+					1.41607
+				]
+			},
+			"properties": {
+				"OBJECTID": 216861,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023308",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399423,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742917,
+					1.415687
+				]
+			},
+			"properties": {
+				"OBJECTID": 399423,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023353",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216884,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74172,
+					1.419701
+				]
+			},
+			"properties": {
+				"OBJECTID": 216884,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023331",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399417,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74249,
+					1.416911
+				]
+			},
+			"properties": {
+				"OBJECTID": 399417,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023347",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287575,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742322,
+					1.417819
+				]
+			},
+			"properties": {
+				"OBJECTID": 287575,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140929",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216890,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742336,
+					1.420363
+				]
+			},
+			"properties": {
+				"OBJECTID": 216890,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023337",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287561,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741975,
+					1.420132
+				]
+			},
+			"properties": {
+				"OBJECTID": 287561,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141369",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198155,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742987,
+					1.418492
+				]
+			},
+			"properties": {
+				"OBJECTID": 198155,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629631",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 409925,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743253,
+					1.410368
+				]
+			},
+			"properties": {
+				"OBJECTID": 409925,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "3",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11066119",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612363,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743288,
+					1.410528
+				]
+			},
+			"properties": {
+				"OBJECTID": 612363,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138455",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198149,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743359,
+					1.417579
+				]
+			},
+			"properties": {
+				"OBJECTID": 198149,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629625",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198204,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743266,
+					1.421685
+				]
+			},
+			"properties": {
+				"OBJECTID": 198204,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629025",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407077,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743106,
+					1.415584
+				]
+			},
+			"properties": {
+				"OBJECTID": 407077,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10140259",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198164,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742676,
+					1.419326
+				]
+			},
+			"properties": {
+				"OBJECTID": 198164,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629640",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287570,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74215,
+					1.418309
+				]
+			},
+			"properties": {
+				"OBJECTID": 287570,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141089",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287593,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742506,
+					1.416863
+				]
+			},
+			"properties": {
+				"OBJECTID": 287593,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140726",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198187,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742885,
+					1.421112
+				]
+			},
+			"properties": {
+				"OBJECTID": 198187,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629663",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 675358,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742679,
+					1.416775
+				]
+			},
+			"properties": {
+				"OBJECTID": 675358,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1519",
+				"COMMON_NM": "闭花木",
+				"SPSC_NM": "Cleistanthus sumatranus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cleistanthus sumatranus,闭花木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11372156",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 339149,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741769,
+					1.420203
+				]
+			},
+			"properties": {
+				"OBJECTID": 339149,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141365",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216873,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742258,
+					1.417996
+				]
+			},
+			"properties": {
+				"OBJECTID": 216873,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023320",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 675381,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742212,
+					1.418124
+				]
+			},
+			"properties": {
+				"OBJECTID": 675381,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11371462",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612393,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743384,
+					1.41474
+				]
+			},
+			"properties": {
+				"OBJECTID": 612393,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10170079",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 288712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742568,
+					1.420126
+				]
+			},
+			"properties": {
+				"OBJECTID": 288712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141375",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216879,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741928,
+					1.418931
+				]
+			},
+			"properties": {
+				"OBJECTID": 216879,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023326",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198170,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742756,
+					1.419778
+				]
+			},
+			"properties": {
+				"OBJECTID": 198170,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629646",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1892,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.73223,
+					1.421153
+				]
+			},
+			"properties": {
+				"OBJECTID": 1892,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939782",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612387,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743147,
+					1.41501
+				]
+			},
+			"properties": {
+				"OBJECTID": 612387,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10139976",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198179,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742883,
+					1.420096
+				]
+			},
+			"properties": {
+				"OBJECTID": 198179,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629655",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216865,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742634,
+					1.416888
+				]
+			},
+			"properties": {
+				"OBJECTID": 216865,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023312",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399429,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743394,
+					1.41426
+				]
+			},
+			"properties": {
+				"OBJECTID": 399429,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023359",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198176,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742876,
+					1.419599
+				]
+			},
+			"properties": {
+				"OBJECTID": 198176,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629652",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612384,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743325,
+					1.414512
+				]
+			},
+			"properties": {
+				"OBJECTID": 612384,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10161518",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399469,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741805,
+					1.419972
+				]
+			},
+			"properties": {
+				"OBJECTID": 399469,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023399",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198199,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743053,
+					1.421508
+				]
+			},
+			"properties": {
+				"OBJECTID": 198199,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629020",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216862,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742892,
+					1.416154
+				]
+			},
+			"properties": {
+				"OBJECTID": 216862,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023309",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216885,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741883,
+					1.420055
+				]
+			},
+			"properties": {
+				"OBJECTID": 216885,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023332",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1863,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.732192,
+					1.421524
+				]
+			},
+			"properties": {
+				"OBJECTID": 1863,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1871",
+				"COMMON_NM": "Salam",
+				"SPSC_NM": "Syzygium polyanthum",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium polyanthum,Salam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939601",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 339143,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742309,
+					1.41742
+				]
+			},
+			"properties": {
+				"OBJECTID": 339143,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141092",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 675375,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742569,
+					1.416681
+				]
+			},
+			"properties": {
+				"OBJECTID": 675375,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1519",
+				"COMMON_NM": "闭花木",
+				"SPSC_NM": "Cleistanthus sumatranus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cleistanthus sumatranus,闭花木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11370326",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287576,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742352,
+					1.417733
+				]
+			},
+			"properties": {
+				"OBJECTID": 287576,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140883",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198193,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742709,
+					1.420459
+				]
+			},
+			"properties": {
+				"OBJECTID": 198193,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629014",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198207,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743385,
+					1.421872
+				]
+			},
+			"properties": {
+				"OBJECTID": 198207,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629028",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399449,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743386,
+					1.411012
+				]
+			},
+			"properties": {
+				"OBJECTID": 399449,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023379",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198156,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74281,
+					1.419167
+				]
+			},
+			"properties": {
+				"OBJECTID": 198156,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629632",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612364,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743321,
+					1.4107
+				]
+			},
+			"properties": {
+				"OBJECTID": 612364,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138537",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198150,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743252,
+					1.417834
+				]
+			},
+			"properties": {
+				"OBJECTID": 198150,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629626",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1869,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.73234,
+					1.421868
+				]
+			},
+			"properties": {
+				"OBJECTID": 1869,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "3",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939604",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216899,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742321,
+					1.41739
+				]
+			},
+			"properties": {
+				"OBJECTID": 216899,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023346",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216876,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742037,
+					1.418589
+				]
+			},
+			"properties": {
+				"OBJECTID": 216876,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023323",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407072,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743367,
+					1.415608
+				]
+			},
+			"properties": {
+				"OBJECTID": 407072,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10140298",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287596,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742333,
+					1.417345
+				]
+			},
+			"properties": {
+				"OBJECTID": 287596,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140872",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287573,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742255,
+					1.41801
+				]
+			},
+			"properties": {
+				"OBJECTID": 287573,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141001",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198167,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74276,
+					1.419551
+				]
+			},
+			"properties": {
+				"OBJECTID": 198167,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629643",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198144,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743143,
+					1.418359
+				]
+			},
+			"properties": {
+				"OBJECTID": 198144,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12629620",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 339146,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741865,
+					1.418695
+				]
+			},
+			"properties": {
+				"OBJECTID": 339146,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141144",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612421,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743427,
+					1.410552
+				]
+			},
+			"properties": {
+				"OBJECTID": 612421,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138825",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198190,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742748,
+					1.420633
+				]
+			},
+			"properties": {
+				"OBJECTID": 198190,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629666",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612390,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743246,
+					1.415119
+				]
+			},
+			"properties": {
+				"OBJECTID": 612390,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140030",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198173,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742768,
+					1.420057
+				]
+			},
+			"properties": {
+				"OBJECTID": 198173,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629649",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399426,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743127,
+					1.415046
+				]
+			},
+			"properties": {
+				"OBJECTID": 399426,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023356",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287590,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742655,
+					1.416439
+				]
+			},
+			"properties": {
+				"OBJECTID": 287590,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10159839",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399446,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74344,
+					1.411257
+				]
+			},
+			"properties": {
+				"OBJECTID": 399446,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023376",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1886,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.730989,
+					1.420464
+				]
+			},
+			"properties": {
+				"OBJECTID": 1886,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939598",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216888,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742506,
+					1.420347
+				]
+			},
+			"properties": {
+				"OBJECTID": 216888,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023335",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 675372,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742159,
+					1.420161
+				]
+			},
+			"properties": {
+				"OBJECTID": 675372,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11369453",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287579,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.742528,
+					1.41723
+				]
+			},
+			"properties": {
+				"OBJECTID": 287579,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10140806",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1860,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.731618,
+					1.421038
+				]
+			},
+			"properties": {
+				"OBJECTID": 1860,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "3",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939790",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399452,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743227,
+					1.410216
+				]
+			},
+			"properties": {
+				"OBJECTID": 399452,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1467",
+				"COMMON_NM": "Otak Udang",
+				"SPSC_NM": "Buchanania arborescens",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Buchanania arborescens,Otak Udang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023382",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216882,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741732,
+					1.419556
+				]
+			},
+			"properties": {
+				"OBJECTID": 216882,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023329",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198196,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743167,
+					1.421723
+				]
+			},
+			"properties": {
+				"OBJECTID": 198196,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12629017",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 612367,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743428,
+					1.411198
+				]
+			},
+			"properties": {
+				"OBJECTID": 612367,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138655",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216896,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741552,
+					1.419824
+				]
+			},
+			"properties": {
+				"OBJECTID": 216896,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1481",
+				"COMMON_NM": "Bintangor Laut",
+				"SPSC_NM": "Calophyllum inophyllum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum inophyllum,Bintangor Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13023343",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 287567,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.741887,
+					1.419062
+				]
+			},
+			"properties": {
+				"OBJECTID": 287567,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10172998",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1866,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.73105,
+					1.420538
+				]
+			},
+			"properties": {
+				"OBJECTID": 1866,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1871",
+				"COMMON_NM": "Salam",
+				"SPSC_NM": "Syzygium polyanthum",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium polyanthum,Salam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939593",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 407075,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743216,
+					1.41555
+				]
+			},
+			"properties": {
+				"OBJECTID": 407075,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10140268",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198153,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743049,
+					1.418319
+				]
+			},
+			"properties": {
+				"OBJECTID": 198153,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1686",
+				"COMMON_NM": "African Mahogany",
+				"SPSC_NM": "Khaya senegalensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya senegalensis,African Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12629629",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

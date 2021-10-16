@@ -1,0 +1,3813 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 447765,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614972,
+					1.243114
+				]
+			},
+			"properties": {
+				"OBJECTID": 447765,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957691",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154693,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614809,
+					1.245002
+				]
+			},
+			"properties": {
+				"OBJECTID": 154693,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967627",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663809,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614814,
+					1.243922
+				]
+			},
+			"properties": {
+				"OBJECTID": 663809,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950684",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154647,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61481,
+					1.242217
+				]
+			},
+			"properties": {
+				"OBJECTID": 154647,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967581",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154739,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614805,
+					1.24592
+				]
+			},
+			"properties": {
+				"OBJECTID": 154739,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950523",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447771,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.242427
+				]
+			},
+			"properties": {
+				"OBJECTID": 447771,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957697",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154653,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.242407
+				]
+			},
+			"properties": {
+				"OBJECTID": 154653,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967587",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447708,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614967,
+					1.245287
+				]
+			},
+			"properties": {
+				"OBJECTID": 447708,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958416",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447702,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614965,
+					1.245974
+				]
+			},
+			"properties": {
+				"OBJECTID": 447702,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958410",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663806,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.242864
+				]
+			},
+			"properties": {
+				"OBJECTID": 663806,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950681",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154696,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614809,
+					1.245056
+				]
+			},
+			"properties": {
+				"OBJECTID": 154696,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967630",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154667,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614813,
+					1.244084
+				]
+			},
+			"properties": {
+				"OBJECTID": 154667,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967601",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447762,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614972,
+					1.243457
+				]
+			},
+			"properties": {
+				"OBJECTID": 447762,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957688",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447768,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614973,
+					1.242771
+				]
+			},
+			"properties": {
+				"OBJECTID": 447768,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957694",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154750,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.242788
+				]
+			},
+			"properties": {
+				"OBJECTID": 154750,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950534",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447774,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.242084
+				]
+			},
+			"properties": {
+				"OBJECTID": 447774,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957700",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154650,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614814,
+					1.243868
+				]
+			},
+			"properties": {
+				"OBJECTID": 154650,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967584",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 448773,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614968,
+					1.244715
+				]
+			},
+			"properties": {
+				"OBJECTID": 448773,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12940839",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614805,
+					1.245758
+				]
+			},
+			"properties": {
+				"OBJECTID": 154730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950514",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447705,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614966,
+					1.24563
+				]
+			},
+			"properties": {
+				"OBJECTID": 447705,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958413",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447754,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614969,
+					1.244372
+				]
+			},
+			"properties": {
+				"OBJECTID": 447754,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957680",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154687,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61481,
+					1.244786
+				]
+			},
+			"properties": {
+				"OBJECTID": 154687,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967621",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154736,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.24275
+				]
+			},
+			"properties": {
+				"OBJECTID": 154736,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950520",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447699,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614964,
+					1.246317
+				]
+			},
+			"properties": {
+				"OBJECTID": 447699,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958407",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447711,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614968,
+					1.244944
+				]
+			},
+			"properties": {
+				"OBJECTID": 447711,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958419",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154673,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614813,
+					1.244246
+				]
+			},
+			"properties": {
+				"OBJECTID": 154673,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967607",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154691,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614809,
+					1.244948
+				]
+			},
+			"properties": {
+				"OBJECTID": 154691,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967625",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154737,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614805,
+					1.245866
+				]
+			},
+			"properties": {
+				"OBJECTID": 154737,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950521",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447763,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614972,
+					1.243343
+				]
+			},
+			"properties": {
+				"OBJECTID": 447763,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957689",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154808,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614803,
+					1.246244
+				]
+			},
+			"properties": {
+				"OBJECTID": 154808,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950592",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447769,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.242656
+				]
+			},
+			"properties": {
+				"OBJECTID": 447769,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957695",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154682,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.244516
+				]
+			},
+			"properties": {
+				"OBJECTID": 154682,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967616",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447706,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614966,
+					1.245516
+				]
+			},
+			"properties": {
+				"OBJECTID": 447706,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958414",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154754,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.242826
+				]
+			},
+			"properties": {
+				"OBJECTID": 154754,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950538",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154688,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61481,
+					1.24484
+				]
+			},
+			"properties": {
+				"OBJECTID": 154688,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967622",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447700,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614964,
+					1.246202
+				]
+			},
+			"properties": {
+				"OBJECTID": 447700,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958408",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663804,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61481,
+					1.242331
+				]
+			},
+			"properties": {
+				"OBJECTID": 663804,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950679",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447757,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61497,
+					1.244029
+				]
+			},
+			"properties": {
+				"OBJECTID": 447757,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957683",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154725,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.242597
+				]
+			},
+			"properties": {
+				"OBJECTID": 154725,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950509",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447766,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614973,
+					1.242999
+				]
+			},
+			"properties": {
+				"OBJECTID": 447766,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957692",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154648,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61481,
+					1.242255
+				]
+			},
+			"properties": {
+				"OBJECTID": 154648,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967582",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154671,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614813,
+					1.244192
+				]
+			},
+			"properties": {
+				"OBJECTID": 154671,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967605",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663812,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614804,
+					1.246028
+				]
+			},
+			"properties": {
+				"OBJECTID": 663812,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950687",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154805,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614804,
+					1.246136
+				]
+			},
+			"properties": {
+				"OBJECTID": 154805,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950589",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154702,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614808,
+					1.245218
+				]
+			},
+			"properties": {
+				"OBJECTID": 154702,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967636",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154685,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.244678
+				]
+			},
+			"properties": {
+				"OBJECTID": 154685,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967619",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447709,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614967,
+					1.245173
+				]
+			},
+			"properties": {
+				"OBJECTID": 447709,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958417",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447760,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614971,
+					1.243686
+				]
+			},
+			"properties": {
+				"OBJECTID": 447760,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957686",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154722,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.242559
+				]
+			},
+			"properties": {
+				"OBJECTID": 154722,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950506",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154734,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614805,
+					1.245812
+				]
+			},
+			"properties": {
+				"OBJECTID": 154734,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950518",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447703,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614965,
+					1.245859
+				]
+			},
+			"properties": {
+				"OBJECTID": 447703,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958411",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154728,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.242635
+				]
+			},
+			"properties": {
+				"OBJECTID": 154728,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950512",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154720,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614806,
+					1.245596
+				]
+			},
+			"properties": {
+				"OBJECTID": 154720,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950504",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447761,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614971,
+					1.243571
+				]
+			},
+			"properties": {
+				"OBJECTID": 447761,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957687",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154689,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614809,
+					1.244894
+				]
+			},
+			"properties": {
+				"OBJECTID": 154689,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967623",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154703,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614808,
+					1.245272
+				]
+			},
+			"properties": {
+				"OBJECTID": 154703,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967637",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.243016
+				]
+			},
+			"properties": {
+				"OBJECTID": 663730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950605",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447775,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.24197
+				]
+			},
+			"properties": {
+				"OBJECTID": 447775,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957701",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154729,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.242673
+				]
+			},
+			"properties": {
+				"OBJECTID": 154729,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950513",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447755,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614969,
+					1.244258
+				]
+			},
+			"properties": {
+				"OBJECTID": 447755,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957681",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154709,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614807,
+					1.24538
+				]
+			},
+			"properties": {
+				"OBJECTID": 154709,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967643",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154686,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61481,
+					1.244732
+				]
+			},
+			"properties": {
+				"OBJECTID": 154686,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967620",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 599368,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614969,
+					1.244601
+				]
+			},
+			"properties": {
+				"OBJECTID": 599368,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957509",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614968,
+					1.24483
+				]
+			},
+			"properties": {
+				"OBJECTID": 447712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958420",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154723,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614806,
+					1.24565
+				]
+			},
+			"properties": {
+				"OBJECTID": 154723,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950507",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154680,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.244462
+				]
+			},
+			"properties": {
+				"OBJECTID": 154680,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967614",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447698,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614964,
+					1.246431
+				]
+			},
+			"properties": {
+				"OBJECTID": 447698,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958406",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663810,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614814,
+					1.24403
+				]
+			},
+			"properties": {
+				"OBJECTID": 663810,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950685",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154669,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614813,
+					1.244138
+				]
+			},
+			"properties": {
+				"OBJECTID": 154669,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967603",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447764,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614972,
+					1.243228
+				]
+			},
+			"properties": {
+				"OBJECTID": 447764,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957690",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154700,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614808,
+					1.245164
+				]
+			},
+			"properties": {
+				"OBJECTID": 154700,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967634",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663733,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.243092
+				]
+			},
+			"properties": {
+				"OBJECTID": 663733,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950608",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447772,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.242313
+				]
+			},
+			"properties": {
+				"OBJECTID": 447772,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957698",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154803,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614804,
+					1.246082
+				]
+			},
+			"properties": {
+				"OBJECTID": 154803,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950587",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154706,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614807,
+					1.245326
+				]
+			},
+			"properties": {
+				"OBJECTID": 154706,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967640",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663727,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.24294
+				]
+			},
+			"properties": {
+				"OBJECTID": 663727,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950602",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154657,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.242483
+				]
+			},
+			"properties": {
+				"OBJECTID": 154657,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967591",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154683,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.24457
+				]
+			},
+			"properties": {
+				"OBJECTID": 154683,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967617",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.242712
+				]
+			},
+			"properties": {
+				"OBJECTID": 154732,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950516",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447758,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61497,
+					1.243915
+				]
+			},
+			"properties": {
+				"OBJECTID": 447758,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957684",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154649,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61481,
+					1.242293
+				]
+			},
+			"properties": {
+				"OBJECTID": 154649,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967583",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154652,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.242369
+				]
+			},
+			"properties": {
+				"OBJECTID": 154652,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967586",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154655,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.242445
+				]
+			},
+			"properties": {
+				"OBJECTID": 154655,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967589",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154664,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614814,
+					1.243976
+				]
+			},
+			"properties": {
+				"OBJECTID": 154664,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967598",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154675,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.2443
+				]
+			},
+			"properties": {
+				"OBJECTID": 154675,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967609",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154677,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.244354
+				]
+			},
+			"properties": {
+				"OBJECTID": 154677,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967611",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154678,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.244408
+				]
+			},
+			"properties": {
+				"OBJECTID": 154678,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967612",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154684,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.244624
+				]
+			},
+			"properties": {
+				"OBJECTID": 154684,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967618",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154698,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614808,
+					1.24511
+				]
+			},
+			"properties": {
+				"OBJECTID": 154698,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967632",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614807,
+					1.245434
+				]
+			},
+			"properties": {
+				"OBJECTID": 154712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12967646",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154715,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614807,
+					1.245488
+				]
+			},
+			"properties": {
+				"OBJECTID": 154715,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950499",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154718,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614806,
+					1.245542
+				]
+			},
+			"properties": {
+				"OBJECTID": 154718,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950502",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154726,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614806,
+					1.245704
+				]
+			},
+			"properties": {
+				"OBJECTID": 154726,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950510",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154807,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614803,
+					1.24619
+				]
+			},
+			"properties": {
+				"OBJECTID": 154807,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950591",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447701,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614965,
+					1.246088
+				]
+			},
+			"properties": {
+				"OBJECTID": 447701,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958409",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447704,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614966,
+					1.245745
+				]
+			},
+			"properties": {
+				"OBJECTID": 447704,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958412",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447707,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614966,
+					1.245402
+				]
+			},
+			"properties": {
+				"OBJECTID": 447707,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958415",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447710,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614967,
+					1.245058
+				]
+			},
+			"properties": {
+				"OBJECTID": 447710,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12958418",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447753,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614969,
+					1.244486
+				]
+			},
+			"properties": {
+				"OBJECTID": 447753,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957679",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447756,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.61497,
+					1.244143
+				]
+			},
+			"properties": {
+				"OBJECTID": 447756,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957682",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447759,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614971,
+					1.2438
+				]
+			},
+			"properties": {
+				"OBJECTID": 447759,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957685",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447767,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614973,
+					1.242885
+				]
+			},
+			"properties": {
+				"OBJECTID": 447767,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957693",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447770,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614974,
+					1.242542
+				]
+			},
+			"properties": {
+				"OBJECTID": 447770,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957696",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 447773,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614975,
+					1.242199
+				]
+			},
+			"properties": {
+				"OBJECTID": 447773,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12957699",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614803,
+					1.246299
+				]
+			},
+			"properties": {
+				"OBJECTID": 663719,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950594",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663728,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.242978
+				]
+			},
+			"properties": {
+				"OBJECTID": 663728,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950603",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663731,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.243054
+				]
+			},
+			"properties": {
+				"OBJECTID": 663731,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950606",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663805,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614811,
+					1.242521
+				]
+			},
+			"properties": {
+				"OBJECTID": 663805,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950680",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663807,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.242902
+				]
+			},
+			"properties": {
+				"OBJECTID": 663807,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950682",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663808,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614812,
+					1.24313
+				]
+			},
+			"properties": {
+				"OBJECTID": 663808,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950683",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 663811,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.614804,
+					1.245974
+				]
+			},
+			"properties": {
+				"OBJECTID": 663811,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12950686",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699872,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.613863,
+					1.244933
+				]
+			},
+			"properties": {
+				"OBJECTID": 699872,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Test",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13031719",
+				"EYTreeId": "{1AA6C58D-C298-4C19-B3FE-EAA381880FFA}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": "#Test"
+			}
+		}
+	]
+}

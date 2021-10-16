@@ -1,0 +1,7825 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 141603,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700511,
+					1.372386
+				]
+			},
+			"properties": {
+				"OBJECTID": 141603,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12472420",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412076,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694946,
+					1.372945
+				]
+			},
+			"properties": {
+				"OBJECTID": 412076,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11437223",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588180,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694628,
+					1.372396
+				]
+			},
+			"properties": {
+				"OBJECTID": 588180,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11113011",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307325,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699394,
+					1.372446
+				]
+			},
+			"properties": {
+				"OBJECTID": 307325,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425821",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470834,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694712,
+					1.372932
+				]
+			},
+			"properties": {
+				"OBJECTID": 470834,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11326426",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307356,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697919,
+					1.372525
+				]
+			},
+			"properties": {
+				"OBJECTID": 307356,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425852",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 655279,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698577,
+					1.372482
+				]
+			},
+			"properties": {
+				"OBJECTID": 655279,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12949330",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307319,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699716,
+					1.372432
+				]
+			},
+			"properties": {
+				"OBJECTID": 307319,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425815",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588629,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697322,
+					1.372723
+				]
+			},
+			"properties": {
+				"OBJECTID": 588629,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425767",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588635,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697103,
+					1.372831
+				]
+			},
+			"properties": {
+				"OBJECTID": 588635,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425773",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588240,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694814,
+					1.373275
+				]
+			},
+			"properties": {
+				"OBJECTID": 588240,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11049701",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470842,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694685,
+					1.372865
+				]
+			},
+			"properties": {
+				"OBJECTID": 470842,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11341007",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 655273,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696614,
+					1.373071
+				]
+			},
+			"properties": {
+				"OBJECTID": 655273,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12949324",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307313,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699674,
+					1.372436
+				]
+			},
+			"properties": {
+				"OBJECTID": 307313,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425809",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275368,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695001,
+					1.373118
+				]
+			},
+			"properties": {
+				"OBJECTID": 275368,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441780",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470828,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694879,
+					1.373571
+				]
+			},
+			"properties": {
+				"OBJECTID": 470828,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11338370",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588621,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697506,
+					1.372632
+				]
+			},
+			"properties": {
+				"OBJECTID": 588621,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425759",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307336,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69874,
+					1.372479
+				]
+			},
+			"properties": {
+				"OBJECTID": 307336,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425832",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314853,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697753,
+					1.381037
+				]
+			},
+			"properties": {
+				"OBJECTID": 314853,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441712",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314879,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697824,
+					1.381106
+				]
+			},
+			"properties": {
+				"OBJECTID": 314879,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441723",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588174,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694813,
+					1.372943
+				]
+			},
+			"properties": {
+				"OBJECTID": 588174,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1556",
+				"COMMON_NM": "Velvet Persimmon",
+				"SPSC_NM": "Diospyros blancoi",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Diospyros blancoi,Velvet Persimmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11049695",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626757,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695092,
+					1.373394
+				]
+			},
+			"properties": {
+				"OBJECTID": 626757,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441771",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412082,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69481,
+					1.372494
+				]
+			},
+			"properties": {
+				"OBJECTID": 412082,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11437229",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275374,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694984,
+					1.373061
+				]
+			},
+			"properties": {
+				"OBJECTID": 275374,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11441786",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307342,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698775,
+					1.37247
+				]
+			},
+			"properties": {
+				"OBJECTID": 307342,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425838",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588652,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696948,
+					1.372908
+				]
+			},
+			"properties": {
+				"OBJECTID": 588652,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12481785",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 141600,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699165,
+					1.372463
+				]
+			},
+			"properties": {
+				"OBJECTID": 141600,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12472417",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 655393,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699433,
+					1.372443
+				]
+			},
+			"properties": {
+				"OBJECTID": 655393,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12949425",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144889,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695424,
+					1.373891
+				]
+			},
+			"properties": {
+				"OBJECTID": 144889,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12422181",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275377,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694834,
+					1.372636
+				]
+			},
+			"properties": {
+				"OBJECTID": 275377,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441790",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307345,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698631,
+					1.372479
+				]
+			},
+			"properties": {
+				"OBJECTID": 307345,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425841",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 141606,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699657,
+					1.372434
+				]
+			},
+			"properties": {
+				"OBJECTID": 141606,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12472423",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275360,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69508,
+					1.373348
+				]
+			},
+			"properties": {
+				"OBJECTID": 275360,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441772",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307322,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699797,
+					1.372427
+				]
+			},
+			"properties": {
+				"OBJECTID": 307322,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425818",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588177,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69467,
+					1.37252
+				]
+			},
+			"properties": {
+				"OBJECTID": 588177,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1556",
+				"COMMON_NM": "Velvet Persimmon",
+				"SPSC_NM": "Diospyros blancoi",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Diospyros blancoi,Velvet Persimmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11112975",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412079,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694876,
+					1.372764
+				]
+			},
+			"properties": {
+				"OBJECTID": 412079,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11437226",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307353,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698167,
+					1.37249
+				]
+			},
+			"properties": {
+				"OBJECTID": 307353,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12425849",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588246,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694784,
+					1.373182
+				]
+			},
+			"properties": {
+				"OBJECTID": 588246,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211323",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588638,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696926,
+					1.372912
+				]
+			},
+			"properties": {
+				"OBJECTID": 588638,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425776",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307316,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69987,
+					1.372415
+				]
+			},
+			"properties": {
+				"OBJECTID": 307316,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425812",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588632,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697239,
+					1.37276
+				]
+			},
+			"properties": {
+				"OBJECTID": 588632,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425770",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307362,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697582,
+					1.372612
+				]
+			},
+			"properties": {
+				"OBJECTID": 307362,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425804",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307359,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697825,
+					1.372537
+				]
+			},
+			"properties": {
+				"OBJECTID": 307359,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425855",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588243,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694793,
+					1.373208
+				]
+			},
+			"properties": {
+				"OBJECTID": 588243,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211381",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144886,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695476,
+					1.373849
+				]
+			},
+			"properties": {
+				"OBJECTID": 144886,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12422178",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626754,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695113,
+					1.373464
+				]
+			},
+			"properties": {
+				"OBJECTID": 626754,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11441768",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314856,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697288,
+					1.380508
+				]
+			},
+			"properties": {
+				"OBJECTID": 314856,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441715",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588171,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694726,
+					1.372696
+				]
+			},
+			"properties": {
+				"OBJECTID": 588171,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211747",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470831,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694883,
+					1.37363
+				]
+			},
+			"properties": {
+				"OBJECTID": 470831,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11328089",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588641,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696729,
+					1.373015
+				]
+			},
+			"properties": {
+				"OBJECTID": 588641,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425785",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 403549,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697184,
+					1.380307
+				]
+			},
+			"properties": {
+				"OBJECTID": 403549,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441708",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314870,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697474,
+					1.380831
+				]
+			},
+			"properties": {
+				"OBJECTID": 314870,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441721",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588649,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697782,
+					1.372543
+				]
+			},
+			"properties": {
+				"OBJECTID": 588649,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12481781",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275371,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694993,
+					1.373088
+				]
+			},
+			"properties": {
+				"OBJECTID": 275371,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441783",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307333,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698999,
+					1.372471
+				]
+			},
+			"properties": {
+				"OBJECTID": 307333,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425829",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307339,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698859,
+					1.372468
+				]
+			},
+			"properties": {
+				"OBJECTID": 307339,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425835",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588655,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698128,
+					1.372497
+				]
+			},
+			"properties": {
+				"OBJECTID": 588655,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12481788",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470840,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694721,
+					1.372963
+				]
+			},
+			"properties": {
+				"OBJECTID": 470840,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11325022",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588633,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697199,
+					1.372784
+				]
+			},
+			"properties": {
+				"OBJECTID": 588633,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425771",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307348,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698606,
+					1.372476
+				]
+			},
+			"properties": {
+				"OBJECTID": 307348,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425844",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 141601,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699227,
+					1.37246
+				]
+			},
+			"properties": {
+				"OBJECTID": 141601,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12472418",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588249,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694834,
+					1.373333
+				]
+			},
+			"properties": {
+				"OBJECTID": 588249,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11112994",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588178,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694652,
+					1.372461
+				]
+			},
+			"properties": {
+				"OBJECTID": 588178,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1556",
+				"COMMON_NM": "Velvet Persimmon",
+				"SPSC_NM": "Diospyros blancoi",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Diospyros blancoi,Velvet Persimmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11112976",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412080,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694923,
+					1.37287
+				]
+			},
+			"properties": {
+				"OBJECTID": 412080,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11437227",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271651,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694502,
+					1.374024
+				]
+			},
+			"properties": {
+				"OBJECTID": 271651,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12493698",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588627,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697367,
+					1.372704
+				]
+			},
+			"properties": {
+				"OBJECTID": 588627,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425765",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307354,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698071,
+					1.372503
+				]
+			},
+			"properties": {
+				"OBJECTID": 307354,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425850",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307317,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699828,
+					1.372427
+				]
+			},
+			"properties": {
+				"OBJECTID": 307317,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425813",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626752,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695122,
+					1.373495
+				]
+			},
+			"properties": {
+				"OBJECTID": 626752,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441766",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626755,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695105,
+					1.373437
+				]
+			},
+			"properties": {
+				"OBJECTID": 626755,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441769",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307360,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697666,
+					1.372584
+				]
+			},
+			"properties": {
+				"OBJECTID": 307360,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425856",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144887,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695454,
+					1.373867
+				]
+			},
+			"properties": {
+				"OBJECTID": 144887,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12422179",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588172,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694825,
+					1.372984
+				]
+			},
+			"properties": {
+				"OBJECTID": 588172,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1556",
+				"COMMON_NM": "Velvet Persimmon",
+				"SPSC_NM": "Diospyros blancoi",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Diospyros blancoi,Velvet Persimmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211803",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314851,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69733,
+					1.380393
+				]
+			},
+			"properties": {
+				"OBJECTID": 314851,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441710",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588644,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696551,
+					1.373096
+				]
+			},
+			"properties": {
+				"OBJECTID": 588644,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425788",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314908,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697171,
+					1.380043
+				]
+			},
+			"properties": {
+				"OBJECTID": 314908,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12441726",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 403544,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697011,
+					1.37994
+				]
+			},
+			"properties": {
+				"OBJECTID": 403544,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441705",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588650,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697695,
+					1.372575
+				]
+			},
+			"properties": {
+				"OBJECTID": 588650,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12481782",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275372,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694962,
+					1.373
+				]
+			},
+			"properties": {
+				"OBJECTID": 275372,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441784",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275366,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695046,
+					1.37324
+				]
+			},
+			"properties": {
+				"OBJECTID": 275366,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11441778",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 118335,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697063,
+					1.379733
+				]
+			},
+			"properties": {
+				"OBJECTID": 118335,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "13048167",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307340,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698834,
+					1.372476
+				]
+			},
+			"properties": {
+				"OBJECTID": 307340,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425836",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307334,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699108,
+					1.372467
+				]
+			},
+			"properties": {
+				"OBJECTID": 307334,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425830",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699461,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696624,
+					1.37332
+				]
+			},
+			"properties": {
+				"OBJECTID": 699461,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "kk",
+				"SPSC_NM": "Palaquium gutta",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Palaquium gutta, kk",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12998541",
+				"EYTreeId": "{9CC25D3E-ABC7-48DE-993F-D463D1FEBAE5}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 403538,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697237,
+					1.380142
+				]
+			},
+			"properties": {
+				"OBJECTID": 403538,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441703",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 173809,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694855,
+					1.373397
+				]
+			},
+			"properties": {
+				"OBJECTID": 173809,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11164684",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588656,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698154,
+					1.372492
+				]
+			},
+			"properties": {
+				"OBJECTID": 588656,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12481789",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 141604,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699456,
+					1.372443
+				]
+			},
+			"properties": {
+				"OBJECTID": 141604,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12472421",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412077,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694866,
+					1.372739
+				]
+			},
+			"properties": {
+				"OBJECTID": 412077,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11437224",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307351,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698209,
+					1.37249
+				]
+			},
+			"properties": {
+				"OBJECTID": 307351,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425847",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307328,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699131,
+					1.372467
+				]
+			},
+			"properties": {
+				"OBJECTID": 307328,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425824",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307320,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699739,
+					1.372436
+				]
+			},
+			"properties": {
+				"OBJECTID": 307320,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425816",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470843,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694666,
+					1.372822
+				]
+			},
+			"properties": {
+				"OBJECTID": 470843,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11341008",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588630,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697125,
+					1.372822
+				]
+			},
+			"properties": {
+				"OBJECTID": 588630,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425768",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588636,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696973,
+					1.372889
+				]
+			},
+			"properties": {
+				"OBJECTID": 588636,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425774",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470837,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694616,
+					1.372689
+				]
+			},
+			"properties": {
+				"OBJECTID": 470837,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11326616",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307357,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697891,
+					1.372528
+				]
+			},
+			"properties": {
+				"OBJECTID": 307357,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425853",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314885,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697692,
+					1.38115
+				]
+			},
+			"properties": {
+				"OBJECTID": 314885,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441725",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307314,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699549,
+					1.372441
+				]
+			},
+			"properties": {
+				"OBJECTID": 307314,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425810",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307311,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699614,
+					1.372434
+				]
+			},
+			"properties": {
+				"OBJECTID": 307311,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425807",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314854,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697423,
+					1.38054
+				]
+			},
+			"properties": {
+				"OBJECTID": 314854,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12441713",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588241,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694823,
+					1.373294
+				]
+			},
+			"properties": {
+				"OBJECTID": 588241,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11211808",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588169,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694833,
+					1.373011
+				]
+			},
+			"properties": {
+				"OBJECTID": 588169,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211318",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588624,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697387,
+					1.372689
+				]
+			},
+			"properties": {
+				"OBJECTID": 588624,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425762",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588647,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697484,
+					1.372648
+				]
+			},
+			"properties": {
+				"OBJECTID": 588647,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425793",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588175,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694771,
+					1.372822
+				]
+			},
+			"properties": {
+				"OBJECTID": 588175,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1556",
+				"COMMON_NM": "Velvet Persimmon",
+				"SPSC_NM": "Diospyros blancoi",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Diospyros blancoi,Velvet Persimmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11113000",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470829,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694886,
+					1.373658
+				]
+			},
+			"properties": {
+				"OBJECTID": 470829,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11326615",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 403541,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697033,
+					1.38
+				]
+			},
+			"properties": {
+				"OBJECTID": 403541,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12441704",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275375,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694855,
+					1.372716
+				]
+			},
+			"properties": {
+				"OBJECTID": 275375,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11441788",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275363,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695055,
+					1.37328
+				]
+			},
+			"properties": {
+				"OBJECTID": 275363,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11441775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144884,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695766,
+					1.373733
+				]
+			},
+			"properties": {
+				"OBJECTID": 144884,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12422176",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307331,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69906,
+					1.372473
+				]
+			},
+			"properties": {
+				"OBJECTID": 307331,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425827",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 655394,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699419,
+					1.372452
+				]
+			},
+			"properties": {
+				"OBJECTID": 655394,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12949426",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588653,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69754,
+					1.372629
+				]
+			},
+			"properties": {
+				"OBJECTID": 588653,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12481786",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275369,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69502,
+					1.373169
+				]
+			},
+			"properties": {
+				"OBJECTID": 275369,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441781",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307337,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698961,
+					1.372466
+				]
+			},
+			"properties": {
+				"OBJECTID": 307337,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425833",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275378,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69482,
+					1.372596
+				]
+			},
+			"properties": {
+				"OBJECTID": 275378,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441791",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307352,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698102,
+					1.372499
+				]
+			},
+			"properties": {
+				"OBJECTID": 307352,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425848",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307346,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698686,
+					1.372482
+				]
+			},
+			"properties": {
+				"OBJECTID": 307346,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425842",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307323,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699209,
+					1.372465
+				]
+			},
+			"properties": {
+				"OBJECTID": 307323,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425819",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 141607,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699525,
+					1.372444
+				]
+			},
+			"properties": {
+				"OBJECTID": 141607,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12472424",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588639,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696754,
+					1.372996
+				]
+			},
+			"properties": {
+				"OBJECTID": 588639,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425779",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588247,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694771,
+					1.373135
+				]
+			},
+			"properties": {
+				"OBJECTID": 588247,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211383",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 655277,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697306,
+					1.372728
+				]
+			},
+			"properties": {
+				"OBJECTID": 655277,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12949328",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588625,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697412,
+					1.372681
+				]
+			},
+			"properties": {
+				"OBJECTID": 588625,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425763",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307363,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697623,
+					1.372597
+				]
+			},
+			"properties": {
+				"OBJECTID": 307363,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425805",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470838,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694704,
+					1.372903
+				]
+			},
+			"properties": {
+				"OBJECTID": 470838,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11339589",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307315,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699691,
+					1.372438
+				]
+			},
+			"properties": {
+				"OBJECTID": 307315,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425811",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588631,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697268,
+					1.372751
+				]
+			},
+			"properties": {
+				"OBJECTID": 588631,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425769",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307312,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699587,
+					1.372443
+				]
+			},
+			"properties": {
+				"OBJECTID": 307312,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425808",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588244,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694765,
+					1.373121
+				]
+			},
+			"properties": {
+				"OBJECTID": 588244,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11211382",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588170,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694778,
+					1.372847
+				]
+			},
+			"properties": {
+				"OBJECTID": 588170,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211319",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626753,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695088,
+					1.373373
+				]
+			},
+			"properties": {
+				"OBJECTID": 626753,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11441767",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588642,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696606,
+					1.373069
+				]
+			},
+			"properties": {
+				"OBJECTID": 588642,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425786",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588648,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697857,
+					1.372533
+				]
+			},
+			"properties": {
+				"OBJECTID": 588648,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425795",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470832,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694886,
+					1.3736
+				]
+			},
+			"properties": {
+				"OBJECTID": 470832,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11339587",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 403550,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697304,
+					1.380319
+				]
+			},
+			"properties": {
+				"OBJECTID": 403550,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441709",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 655283,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69888,
+					1.372473
+				]
+			},
+			"properties": {
+				"OBJECTID": 655283,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12949334",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275364,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694935,
+					1.372918
+				]
+			},
+			"properties": {
+				"OBJECTID": 275364,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441776",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307332,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699042,
+					1.372464
+				]
+			},
+			"properties": {
+				"OBJECTID": 307332,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425828",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144885,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695533,
+					1.373816
+				]
+			},
+			"properties": {
+				"OBJECTID": 144885,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12422177",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314857,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697142,
+					1.37997
+				]
+			},
+			"properties": {
+				"OBJECTID": 314857,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12441716",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588654,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698189,
+					1.37249
+				]
+			},
+			"properties": {
+				"OBJECTID": 588654,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12481787",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 173807,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69483,
+					1.373319
+				]
+			},
+			"properties": {
+				"OBJECTID": 173807,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11168695",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275370,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695012,
+					1.373144
+				]
+			},
+			"properties": {
+				"OBJECTID": 275370,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11441782",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 403536,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696905,
+					1.379446
+				]
+			},
+			"properties": {
+				"OBJECTID": 403536,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441701",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588181,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69466,
+					1.372494
+				]
+			},
+			"properties": {
+				"OBJECTID": 588181,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11113012",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307326,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69925,
+					1.372457
+				]
+			},
+			"properties": {
+				"OBJECTID": 307326,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425822",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588250,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694807,
+					1.373255
+				]
+			},
+			"properties": {
+				"OBJECTID": 588250,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11112995",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307349,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698325,
+					1.37249
+				]
+			},
+			"properties": {
+				"OBJECTID": 307349,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425845",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588628,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697347,
+					1.372707
+				]
+			},
+			"properties": {
+				"OBJECTID": 588628,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425766",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 141610,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699473,
+					1.372444
+				]
+			},
+			"properties": {
+				"OBJECTID": 141610,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12472427",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 655280,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698539,
+					1.372481
+				]
+			},
+			"properties": {
+				"OBJECTID": 655280,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12949331",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470835,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694651,
+					1.372776
+				]
+			},
+			"properties": {
+				"OBJECTID": 470835,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11341005",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307355,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698045,
+					1.372505
+				]
+			},
+			"properties": {
+				"OBJECTID": 307355,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425851",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 263350,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698555,
+					1.372487
+				]
+			},
+			"properties": {
+				"OBJECTID": 263350,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13031517",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 371548,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69473,
+					1.372986
+				]
+			},
+			"properties": {
+				"OBJECTID": 371548,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13014218",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470841,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694752,
+					1.373045
+				]
+			},
+			"properties": {
+				"OBJECTID": 470841,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11326428",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588645,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696665,
+					1.373039
+				]
+			},
+			"properties": {
+				"OBJECTID": 588645,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425790",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144888,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695706,
+					1.37374
+				]
+			},
+			"properties": {
+				"OBJECTID": 144888,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12422180",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626756,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695098,
+					1.373415
+				]
+			},
+			"properties": {
+				"OBJECTID": 626756,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441770",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588622,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697463,
+					1.372655
+				]
+			},
+			"properties": {
+				"OBJECTID": 588622,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425760",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412083,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694781,
+					1.372393
+				]
+			},
+			"properties": {
+				"OBJECTID": 412083,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11437230",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588173,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694742,
+					1.372748
+				]
+			},
+			"properties": {
+				"OBJECTID": 588173,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1556",
+				"COMMON_NM": "Velvet Persimmon",
+				"SPSC_NM": "Diospyros blancoi",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Diospyros blancoi,Velvet Persimmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211804",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588651,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696631,
+					1.373061
+				]
+			},
+			"properties": {
+				"OBJECTID": 588651,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12481784",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314860,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697577,
+					1.380757
+				]
+			},
+			"properties": {
+				"OBJECTID": 314860,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12441718",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275361,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695073,
+					1.373325
+				]
+			},
+			"properties": {
+				"OBJECTID": 275361,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441773",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 141599,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700408,
+					1.372388
+				]
+			},
+			"properties": {
+				"OBJECTID": 141599,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12472416",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307343,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698899,
+					1.372474
+				]
+			},
+			"properties": {
+				"OBJECTID": 307343,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425839",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588167,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694816,
+					1.372962
+				]
+			},
+			"properties": {
+				"OBJECTID": 588167,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211745",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275367,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695036,
+					1.373217
+				]
+			},
+			"properties": {
+				"OBJECTID": 275367,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441779",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307335,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698723,
+					1.372471
+				]
+			},
+			"properties": {
+				"OBJECTID": 307335,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425831",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 220336,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693088,
+					1.374139
+				]
+			},
+			"properties": {
+				"OBJECTID": 220336,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588251,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694778,
+					1.37316
+				]
+			},
+			"properties": {
+				"OBJECTID": 588251,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211371",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412078,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694884,
+					1.372794
+				]
+			},
+			"properties": {
+				"OBJECTID": 412078,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11437225",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307327,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699194,
+					1.372458
+				]
+			},
+			"properties": {
+				"OBJECTID": 307327,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425823",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307321,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69976,
+					1.37243
+				]
+			},
+			"properties": {
+				"OBJECTID": 307321,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425817",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307350,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698366,
+					1.372487
+				]
+			},
+			"properties": {
+				"OBJECTID": 307350,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425846",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 141605,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699441,
+					1.372444
+				]
+			},
+			"properties": {
+				"OBJECTID": 141605,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12472422",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314884,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697559,
+					1.380955
+				]
+			},
+			"properties": {
+				"OBJECTID": 314884,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12441724",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470836,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694738,
+					1.373009
+				]
+			},
+			"properties": {
+				"OBJECTID": 470836,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11326427",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588637,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697004,
+					1.372881
+				]
+			},
+			"properties": {
+				"OBJECTID": 588637,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307358,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697947,
+					1.372517
+				]
+			},
+			"properties": {
+				"OBJECTID": 307358,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425854",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307361,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697608,
+					1.372595
+				]
+			},
+			"properties": {
+				"OBJECTID": 307361,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425806",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588242,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694848,
+					1.373372
+				]
+			},
+			"properties": {
+				"OBJECTID": 588242,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11211380",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588646,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697046,
+					1.372858
+				]
+			},
+			"properties": {
+				"OBJECTID": 588646,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425791",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588623,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697438,
+					1.372668
+				]
+			},
+			"properties": {
+				"OBJECTID": 588623,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425761",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314855,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69734,
+					1.380585
+				]
+			},
+			"properties": {
+				"OBJECTID": 314855,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441714",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 655281,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698914,
+					1.372471
+				]
+			},
+			"properties": {
+				"OBJECTID": 655281,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12949332",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470830,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694879,
+					1.373548
+				]
+			},
+			"properties": {
+				"OBJECTID": 470830,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11328088",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 403548,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697238,
+					1.380428
+				]
+			},
+			"properties": {
+				"OBJECTID": 403548,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441707",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588176,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694716,
+					1.372666
+				]
+			},
+			"properties": {
+				"OBJECTID": 588176,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1556",
+				"COMMON_NM": "Velvet Persimmon",
+				"SPSC_NM": "Diospyros blancoi",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Diospyros blancoi,Velvet Persimmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11112974",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275376,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694845,
+					1.372677
+				]
+			},
+			"properties": {
+				"OBJECTID": 275376,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441789",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307344,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698661,
+					1.372482
+				]
+			},
+			"properties": {
+				"OBJECTID": 307344,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425840",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275362,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695066,
+					1.373303
+				]
+			},
+			"properties": {
+				"OBJECTID": 275362,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441774",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307330,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699157,
+					1.37246
+				]
+			},
+			"properties": {
+				"OBJECTID": 307330,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12425826",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588168,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694756,
+					1.372786
+				]
+			},
+			"properties": {
+				"OBJECTID": 588168,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211746",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307338,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698941,
+					1.372472
+				]
+			},
+			"properties": {
+				"OBJECTID": 307338,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425834",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314861,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697618,
+					1.381043
+				]
+			},
+			"properties": {
+				"OBJECTID": 314861,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441719",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 655395,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699779,
+					1.372427
+				]
+			},
+			"properties": {
+				"OBJECTID": 655395,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12949427",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 403537,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697113,
+					1.379886
+				]
+			},
+			"properties": {
+				"OBJECTID": 403537,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12441702",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588657,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698022,
+					1.372506
+				]
+			},
+			"properties": {
+				"OBJECTID": 588657,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12481790",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588634,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697021,
+					1.372866
+				]
+			},
+			"properties": {
+				"OBJECTID": 588634,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425772",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 263354,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697559,
+					1.372622
+				]
+			},
+			"properties": {
+				"OBJECTID": 263354,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13031521",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588179,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694703,
+					1.372631
+				]
+			},
+			"properties": {
+				"OBJECTID": 588179,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11113010",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275379,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694811,
+					1.372561
+				]
+			},
+			"properties": {
+				"OBJECTID": 275379,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11441792",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307347,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698423,
+					1.372484
+				]
+			},
+			"properties": {
+				"OBJECTID": 307347,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425843",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 141608,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699498,
+					1.372438
+				]
+			},
+			"properties": {
+				"OBJECTID": 141608,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12472425",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307324,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699361,
+					1.372455
+				]
+			},
+			"properties": {
+				"OBJECTID": 307324,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425820",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588248,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69476,
+					1.373102
+				]
+			},
+			"properties": {
+				"OBJECTID": 588248,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211809",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588640,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696776,
+					1.372991
+				]
+			},
+			"properties": {
+				"OBJECTID": 588640,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425780",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470833,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694634,
+					1.372735
+				]
+			},
+			"properties": {
+				"OBJECTID": 470833,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11339588",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626751,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69513,
+					1.37352
+				]
+			},
+			"properties": {
+				"OBJECTID": 626751,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11441765",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588626,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697211,
+					1.372772
+				]
+			},
+			"properties": {
+				"OBJECTID": 588626,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1630",
+				"COMMON_NM": "Gelugor",
+				"SPSC_NM": "Garcinia atroviridis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia atroviridis,Gelugor",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425764",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 655278,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698493,
+					1.372483
+				]
+			},
+			"properties": {
+				"OBJECTID": 655278,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12949329",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307318,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699845,
+					1.372421
+				]
+			},
+			"properties": {
+				"OBJECTID": 307318,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425814",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470839,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694677,
+					1.372848
+				]
+			},
+			"properties": {
+				"OBJECTID": 470839,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11341006",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314878,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69721,
+					1.380082
+				]
+			},
+			"properties": {
+				"OBJECTID": 314878,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12441722",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412087,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694799,
+					1.372442
+				]
+			},
+			"properties": {
+				"OBJECTID": 412087,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11437234",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588245,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694799,
+					1.373229
+				]
+			},
+			"properties": {
+				"OBJECTID": 588245,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11211749",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314852,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697271,
+					1.380244
+				]
+			},
+			"properties": {
+				"OBJECTID": 314852,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441711",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 403545,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69709,
+					1.380121
+				]
+			},
+			"properties": {
+				"OBJECTID": 403545,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12441706",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470827,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694872,
+					1.373483
+				]
+			},
+			"properties": {
+				"OBJECTID": 470827,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11338369",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 412081,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694917,
+					1.372853
+				]
+			},
+			"properties": {
+				"OBJECTID": 412081,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "29419",
+				"COMMON_NM": "Kembang",
+				"SPSC_NM": "Sterculia cordata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia cordata,Kembang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11437228",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 588643,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.696652,
+					1.373052
+				]
+			},
+			"properties": {
+				"OBJECTID": 588643,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425787",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275373,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694973,
+					1.373032
+				]
+			},
+			"properties": {
+				"OBJECTID": 275373,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441785",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 307341,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.698804,
+					1.372476
+				]
+			},
+			"properties": {
+				"OBJECTID": 307341,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1627",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Flacourtia inermis,Batoko Plum",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12425837",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 275365,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.695027,
+					1.373192
+				]
+			},
+			"properties": {
+				"OBJECTID": 275365,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11441777",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 314858,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.697653,
+					1.380856
+				]
+			},
+			"properties": {
+				"OBJECTID": 314858,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12441717",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 173808,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.694864,
+					1.373421
+				]
+			},
+			"properties": {
+				"OBJECTID": 173808,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11284930",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

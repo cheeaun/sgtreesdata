@@ -1,0 +1,447 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 698751,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.690319,
+					1.376317
+				]
+			},
+			"properties": {
+				"OBJECTID": 698751,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ?15m",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "load test",
+				"Hert_age": "",
+				"Girth": "> 1.5m",
+				"Public_treeid": "11662370",
+				"EYTreeId": "{38F61582-9922-4537-8890-EA2C65A335A0}",
+				"Name": "load test",
+				"Email": "load.test@test.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 220341,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692231,
+					1.374112
+				]
+			},
+			"properties": {
+				"OBJECTID": 220341,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484780",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 220338,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692979,
+					1.374154
+				]
+			},
+			"properties": {
+				"OBJECTID": 220338,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484777",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698754,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.690319,
+					1.376317
+				]
+			},
+			"properties": {
+				"OBJECTID": 698754,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ?15m",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "load test",
+				"Hert_age": "",
+				"Girth": "> 1.5m",
+				"Public_treeid": "11662373",
+				"EYTreeId": "{385A9C4B-EDB0-4B21-9CE0-140E9B595A37}",
+				"Name": "load test",
+				"Email": "load.test@test.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 220339,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692865,
+					1.374167
+				]
+			},
+			"properties": {
+				"OBJECTID": 220339,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484778",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698752,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.690319,
+					1.376317
+				]
+			},
+			"properties": {
+				"OBJECTID": 698752,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ?15m",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "load test",
+				"Hert_age": "",
+				"Girth": "> 1.5m",
+				"Public_treeid": "11662371",
+				"EYTreeId": "{8FA044F2-94EB-405B-9095-3BA78893A1C1}",
+				"Name": "load test",
+				"Email": "load.test@test.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661678,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692577,
+					1.374192
+				]
+			},
+			"properties": {
+				"OBJECTID": 661678,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484793",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 220342,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692145,
+					1.374065
+				]
+			},
+			"properties": {
+				"OBJECTID": 220342,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484781",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 220337,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693036,
+					1.374146
+				]
+			},
+			"properties": {
+				"OBJECTID": 220337,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484776",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661667,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692048,
+					1.373974
+				]
+			},
+			"properties": {
+				"OBJECTID": 661667,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484782",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698750,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.690319,
+					1.376317
+				]
+			},
+			"properties": {
+				"OBJECTID": 698750,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ?15m",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "load test",
+				"Hert_age": "",
+				"Girth": "> 1.5m",
+				"Public_treeid": "11662369",
+				"EYTreeId": "{50F13ED0-974C-4DF5-BDC9-72D9D5966D68}",
+				"Name": "load test",
+				"Email": "load.test@test.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698753,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.690319,
+					1.376317
+				]
+			},
+			"properties": {
+				"OBJECTID": 698753,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ?15m",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "load test",
+				"Hert_age": "",
+				"Girth": "> 1.5m",
+				"Public_treeid": "11662372",
+				"EYTreeId": "{ADD30820-E11C-43E8-8976-EAA236DB3E27}",
+				"Name": "load test",
+				"Email": "load.test@test.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 220340,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692423,
+					1.374173
+				]
+			},
+			"properties": {
+				"OBJECTID": 220340,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12484779",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

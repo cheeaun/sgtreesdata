@@ -1,0 +1,1875 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 361608,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983031,
+					1.371655
+				]
+			},
+			"properties": {
+				"OBJECTID": 361608,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117255",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361614,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983255,
+					1.371899
+				]
+			},
+			"properties": {
+				"OBJECTID": 361614,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117467",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361620,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983372,
+					1.372053
+				]
+			},
+			"properties": {
+				"OBJECTID": 361620,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117593",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361597,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982761,
+					1.37133
+				]
+			},
+			"properties": {
+				"OBJECTID": 361597,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117049",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699833,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.991947,
+					1.361179
+				]
+			},
+			"properties": {
+				"OBJECTID": 699833,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "changi airport tree",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13031677",
+				"EYTreeId": "{A1B64CEE-AE99-4816-999D-1F519FA7B66B}",
+				"Name": "sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#changiairporttree"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361611,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983167,
+					1.371813
+				]
+			},
+			"properties": {
+				"OBJECTID": 361611,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117401",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548735,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983034,
+					1.371423
+				]
+			},
+			"properties": {
+				"OBJECTID": 548735,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "13",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10117106",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361617,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983309,
+					1.371981
+				]
+			},
+			"properties": {
+				"OBJECTID": 361617,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117530",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 169815,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983561,
+					1.372279
+				]
+			},
+			"properties": {
+				"OBJECTID": 169815,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "20",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117785",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 221546,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982845,
+					1.371218
+				]
+			},
+			"properties": {
+				"OBJECTID": 221546,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10116971",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361612,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983201,
+					1.371854
+				]
+			},
+			"properties": {
+				"OBJECTID": 361612,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117425",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361606,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982977,
+					1.371592
+				]
+			},
+			"properties": {
+				"OBJECTID": 361606,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117218",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548736,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.98307,
+					1.371471
+				]
+			},
+			"properties": {
+				"OBJECTID": 548736,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1809",
+				"COMMON_NM": "Mempoyan",
+				"SPSC_NM": "Rhodamnia cinerea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Rhodamnia cinerea,Mempoyan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10117131",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982816,
+					1.371154
+				]
+			},
+			"properties": {
+				"OBJECTID": 548730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "13",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10116918",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 153829,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983121,
+					1.371755
+				]
+			},
+			"properties": {
+				"OBJECTID": 153829,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10117342",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361626,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983507,
+					1.372216
+				]
+			},
+			"properties": {
+				"OBJECTID": 361626,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10117733",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361603,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982914,
+					1.37151
+				]
+			},
+			"properties": {
+				"OBJECTID": 361603,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117163",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361615,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983273,
+					1.371926
+				]
+			},
+			"properties": {
+				"OBJECTID": 361615,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117480",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 665948,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983594,
+					1.37233
+				]
+			},
+			"properties": {
+				"OBJECTID": 665948,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10117833",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361609,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983076,
+					1.371709
+				]
+			},
+			"properties": {
+				"OBJECTID": 361609,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117305",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361623,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983426,
+					1.372116
+				]
+			},
+			"properties": {
+				"OBJECTID": 361623,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117643",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361600,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982824,
+					1.371402
+				]
+			},
+			"properties": {
+				"OBJECTID": 361600,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117095",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 153832,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983525,
+					1.372035
+				]
+			},
+			"properties": {
+				"OBJECTID": 153832,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10117576",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548733,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982918,
+					1.371272
+				]
+			},
+			"properties": {
+				"OBJECTID": 548733,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "13",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10117005",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361604,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982941,
+					1.371547
+				]
+			},
+			"properties": {
+				"OBJECTID": 361604,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117185",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548737,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983091,
+					1.3715
+				]
+			},
+			"properties": {
+				"OBJECTID": 548737,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "13",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10117158",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361610,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983103,
+					1.371728
+				]
+			},
+			"properties": {
+				"OBJECTID": 361610,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117316",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361618,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983336,
+					1.371999
+				]
+			},
+			"properties": {
+				"OBJECTID": 361618,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117548",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361624,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983444,
+					1.372134
+				]
+			},
+			"properties": {
+				"OBJECTID": 361624,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117656",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548734,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982954,
+					1.37132
+				]
+			},
+			"properties": {
+				"OBJECTID": 548734,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1982",
+				"COMMON_NM": "Malayan Teak",
+				"SPSC_NM": "Vitex pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Vitex pinnata,Malayan Teak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10117040",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 169814,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983543,
+					1.372261
+				]
+			},
+			"properties": {
+				"OBJECTID": 169814,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "20",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10117767",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 153833,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983462,
+					1.372162
+				]
+			},
+			"properties": {
+				"OBJECTID": 153833,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10117676",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 221547,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982928,
+					1.371316
+				]
+			},
+			"properties": {
+				"OBJECTID": 221547,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117035",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361601,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982848,
+					1.371431
+				]
+			},
+			"properties": {
+				"OBJECTID": 361601,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117111",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361607,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983004,
+					1.371628
+				]
+			},
+			"properties": {
+				"OBJECTID": 361607,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117238",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 153830,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983246,
+					1.371691
+				]
+			},
+			"properties": {
+				"OBJECTID": 153830,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10117289",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361598,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982785,
+					1.371354
+				]
+			},
+			"properties": {
+				"OBJECTID": 361598,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117062",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548731,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982871,
+					1.371212
+				]
+			},
+			"properties": {
+				"OBJECTID": 548731,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1982",
+				"COMMON_NM": "Malayan Teak",
+				"SPSC_NM": "Vitex pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Vitex pinnata,Malayan Teak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10116967",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361621,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.98339,
+					1.37208
+				]
+			},
+			"properties": {
+				"OBJECTID": 361621,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10117612",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361627,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983525,
+					1.372243
+				]
+			},
+			"properties": {
+				"OBJECTID": 361627,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117756",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361616,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983291,
+					1.371954
+				]
+			},
+			"properties": {
+				"OBJECTID": 361616,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117506",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 665949,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983609,
+					1.372351
+				]
+			},
+			"properties": {
+				"OBJECTID": 665949,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1293",
+				"COMMON_NM": "Northern Bangalow Palm",
+				"SPSC_NM": "Archontophoenix alexandrae",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Archontophoenix alexandrae,Northern Bangalow Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10117855",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361602,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982869,
+					1.371456
+				]
+			},
+			"properties": {
+				"OBJECTID": 361602,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117126",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699832,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.991904,
+					1.361383
+				]
+			},
+			"properties": {
+				"OBJECTID": 699832,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "3",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "airport tree",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13031676",
+				"EYTreeId": "{5400E83D-4B40-4BB1-9F35-2ECBC593496B}",
+				"Name": "sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#changiairport"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361599,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982806,
+					1.371375
+				]
+			},
+			"properties": {
+				"OBJECTID": 361599,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117078",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 153831,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.98348,
+					1.371972
+				]
+			},
+			"properties": {
+				"OBJECTID": 153831,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1389",
+				"COMMON_NM": "Royal Palm",
+				"SPSC_NM": "Roystonea regia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Roystonea regia,Royal Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10117521",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361622,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983408,
+					1.372098
+				]
+			},
+			"properties": {
+				"OBJECTID": 361622,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10117629",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982879,
+					1.371234
+				]
+			},
+			"properties": {
+				"OBJECTID": 548732,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "13",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10116984",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361613,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983228,
+					1.371872
+				]
+			},
+			"properties": {
+				"OBJECTID": 361613,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117440",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361605,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982959,
+					1.371565
+				]
+			},
+			"properties": {
+				"OBJECTID": 361605,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117200",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 548729,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982771,
+					1.371116
+				]
+			},
+			"properties": {
+				"OBJECTID": 548729,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "13",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10428046",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361619,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983354,
+					1.372026
+				]
+			},
+			"properties": {
+				"OBJECTID": 361619,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117569",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 153828,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983004,
+					1.37142
+				]
+			},
+			"properties": {
+				"OBJECTID": 153828,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1388",
+				"COMMON_NM": "Palmiste",
+				"SPSC_NM": "Roystonea oleracea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Roystonea oleracea,Palmiste",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10117104",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361596,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.982743,
+					1.371302
+				]
+			},
+			"properties": {
+				"OBJECTID": 361596,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117025",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 361625,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983489,
+					1.372189
+				]
+			},
+			"properties": {
+				"OBJECTID": 361625,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "1395",
+				"COMMON_NM": "Christmas Palm",
+				"SPSC_NM": "Adonidia merrillii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adonidia merrillii,Christmas Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10117703",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

@@ -1,0 +1,3405 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 698788,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668733,
+					1.255516
+				]
+			},
+			"properties": {
+				"OBJECTID": 698788,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Cerbera cultivar (red leaves) ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cerbera cultivar (red leaves) ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394022",
+				"EYTreeId": "{9F7219D7-91E0-4B36-ABF9-D0DAC1AACE79}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699621,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670715,
+					1.251386
+				]
+			},
+			"properties": {
+				"OBJECTID": 699621,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Flacourtia inermis, Batoko Plum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394604",
+				"EYTreeId": "{A704E290-4161-4944-9E75-293FFD199197}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698811,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669862,
+					1.253147
+				]
+			},
+			"properties": {
+				"OBJECTID": 698811,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Malayan Crape Myrtle",
+				"SPSC_NM": "Lagerstroemia floribunda",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lagerstroemia floribunda, Malayan Crape Myrtle",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394046",
+				"EYTreeId": "{75322B79-18DA-4E61-9D01-42372754BFEB}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699638,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670137,
+					1.252566
+				]
+			},
+			"properties": {
+				"OBJECTID": 699638,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pianggu",
+				"SPSC_NM": "Horsfieldia irya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia irya, Pianggu",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394893",
+				"EYTreeId": "{851621AF-D6D9-451A-A32E-00C17BF4F028}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698794,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669032,
+					1.254943
+				]
+			},
+			"properties": {
+				"OBJECTID": 698794,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Katong Laut",
+				"SPSC_NM": "Cynometra ramiflora ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cynometra ramiflora , Katong Laut",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394028",
+				"EYTreeId": "{19EAFA3F-762C-40F3-A98A-81D3CA1F7F04}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698805,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669243,
+					1.254487
+				]
+			},
+			"properties": {
+				"OBJECTID": 698805,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Desmodium umbellatum 'Aurea'",
+				"SPSC_NM": "Dendrolobium umbellatum 'Aurea'",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum 'Aurea', Desmodium umbellatum 'Aurea'",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394039",
+				"EYTreeId": "{5B844BEC-0070-4AE1-BD40-D3CE5D83AEFE}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698802,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669284,
+					1.254367
+				]
+			},
+			"properties": {
+				"OBJECTID": 698802,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Malayan Crape Myrtle ",
+				"SPSC_NM": "Lagerstromeia floribunda ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lagerstromeia floribunda , Malayan Crape Myrtle ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394036",
+				"EYTreeId": "{4B637904-4B48-44D0-8F36-4318380F374E}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699632,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670251,
+					1.252317
+				]
+			},
+			"properties": {
+				"OBJECTID": 699632,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Malayan Crape Myrtle ",
+				"SPSC_NM": "Lagerstroemia floribunda",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lagerstroemia floribunda, Malayan Crape Myrtle ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394887",
+				"EYTreeId": "{6D5622BF-8F78-41D1-A997-29B4AA885ADD}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700196,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671286,
+					1.250204
+				]
+			},
+			"properties": {
+				"OBJECTID": 700196,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Katong Laut",
+				"SPSC_NM": "Cynometra ramiflora ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cynometra ramiflora , Katong Laut",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394002",
+				"EYTreeId": "{2A29DBE6-4972-44A3-ADCC-D8FC7AF213E4}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698822,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671767,
+					1.249174
+				]
+			},
+			"properties": {
+				"OBJECTID": 698822,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Desmodium umbellatum 'Aurea'",
+				"SPSC_NM": "Dendrolobium umbellatum 'Aurea'",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum 'Aurea', Desmodium umbellatum 'Aurea'",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393985",
+				"EYTreeId": "{39C644CC-1E18-4C7B-8539-F2AC11E4C4BF}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698828,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671457,
+					1.249757
+				]
+			},
+			"properties": {
+				"OBJECTID": 698828,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Malayan Crape Myrtle",
+				"SPSC_NM": "Lagerstromeia floribunda",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lagerstromeia floribunda, Malayan Crape Myrtle",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393991",
+				"EYTreeId": "{6E2B47B9-6E08-402A-8EAC-AD7AA74B88F8}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699612,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671092,
+					1.250535
+				]
+			},
+			"properties": {
+				"OBJECTID": 699612,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Malayan Crape Myrtle",
+				"SPSC_NM": "Lagerstroemia speciosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lagerstroemia speciosa, Malayan Crape Myrtle",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394620",
+				"EYTreeId": "{621BF44A-5053-46B2-AB7A-EFA1D26B6665}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698814,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669827,
+					1.253275
+				]
+			},
+			"properties": {
+				"OBJECTID": 698814,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Desmodium umbellatum 'Aurea'",
+				"SPSC_NM": "Dendrolobium umbellatum 'Aurea'",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum 'Aurea', Desmodium umbellatum 'Aurea'",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394049",
+				"EYTreeId": "{D8F8A43C-C5A0-468A-B241-4154477FF403}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698791,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669048,
+					1.254841
+				]
+			},
+			"properties": {
+				"OBJECTID": 698791,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Common Putat",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia racemosa, Common Putat",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394025",
+				"EYTreeId": "{FA10B359-5241-4C27-9D5B-28143908EAEB}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699618,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671019,
+					1.250714
+				]
+			},
+			"properties": {
+				"OBJECTID": 699618,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pianggu",
+				"SPSC_NM": "Horsfieldia irya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia irya, Pianggu",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394601",
+				"EYTreeId": "{8E9DAD99-6D8F-4192-AAC1-3C540FEC3447}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699624,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670664,
+					1.251462
+				]
+			},
+			"properties": {
+				"OBJECTID": 699624,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Yellow Flame",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum, Yellow Flame",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394607",
+				"EYTreeId": "{AE17EF94-542F-46B5-AA64-17982019BDD3}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698785,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668772,
+					1.25543
+				]
+			},
+			"properties": {
+				"OBJECTID": 698785,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Malayan Crape Myrtle",
+				"SPSC_NM": "Lagerstromeia floribunda ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lagerstromeia floribunda , Malayan Crape Myrtle",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394019",
+				"EYTreeId": "{31F15B0B-D6CB-4C42-BCA3-16FC6C8966D8}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700188,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671439,
+					1.249864
+				]
+			},
+			"properties": {
+				"OBJECTID": 700188,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Desmodium umbellatum 'Aurea'",
+				"SPSC_NM": "Dendrolobium umbellatum 'Aurea'",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum 'Aurea', Desmodium umbellatum 'Aurea'",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393994",
+				"EYTreeId": "{07A4E1FE-1FDF-4E5C-AD2D-2E5160BDCEBF}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698808,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66918,
+					1.254581
+				]
+			},
+			"properties": {
+				"OBJECTID": 698808,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pianggu",
+				"SPSC_NM": "Horsfieldia irya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia irya, Pianggu",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394042",
+				"EYTreeId": "{BD54E881-36A4-4CE0-85E2-82F330434762}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699635,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670207,
+					1.252457
+				]
+			},
+			"properties": {
+				"OBJECTID": 699635,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Desmodium umbellatum 'Aurea'",
+				"SPSC_NM": "Dendrolobium umbellatum 'Aurea'",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum 'Aurea', Desmodium umbellatum 'Aurea'",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394890",
+				"EYTreeId": "{04F0AFF4-579F-444B-A654-C1DB1DEA1C07}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698825,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671717,
+					1.249272
+				]
+			},
+			"properties": {
+				"OBJECTID": 698825,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Horsfieldia polyspherula",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia polyspherula",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393988",
+				"EYTreeId": "{C3929D19-D8FB-4EAF-A3F4-D157F0ABF4F3}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698782,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668654,
+					1.255737
+				]
+			},
+			"properties": {
+				"OBJECTID": 698782,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Horsfieldia polyspherula",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia polyspherula",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394016",
+				"EYTreeId": "{7DC6B64F-AE94-4F11-91CD-8D59293B2237}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699615,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671069,
+					1.250639
+				]
+			},
+			"properties": {
+				"OBJECTID": 699615,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Desmodium umbellatum 'Aurea'",
+				"SPSC_NM": "Dendrolobium umbellatum 'Aurea'",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum 'Aurea', Desmodium umbellatum 'Aurea'",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394598",
+				"EYTreeId": "{FE8FD441-FB03-48D1-A2FA-BBC89D44C639}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700199,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671223,
+					1.250279
+				]
+			},
+			"properties": {
+				"OBJECTID": 700199,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Cerbera cultivar (red leaves) ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cerbera cultivar (red leaves) ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394005",
+				"EYTreeId": "{221B3DF7-CE8C-4341-AAEA-32F70F583692}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699619,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671026,
+					1.250746
+				]
+			},
+			"properties": {
+				"OBJECTID": 699619,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Horsfieldia polyspherula",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia polyspherula",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394602",
+				"EYTreeId": "{05C505EB-BCF1-4081-B97D-B264B3AE2E8E}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700191,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671384,
+					1.249919
+				]
+			},
+			"properties": {
+				"OBJECTID": 700191,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pianggu",
+				"SPSC_NM": "Horsfieldia irya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia irya, Pianggu",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393997",
+				"EYTreeId": "{41C263FF-A083-4A7F-835E-E174F4DB0B59}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698809,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669174,
+					1.254628
+				]
+			},
+			"properties": {
+				"OBJECTID": 698809,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Horsfieldia polyspherula",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia polyspherula",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394043",
+				"EYTreeId": "{FF48264A-601B-4FFB-A560-3C619EE99C5C}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698786,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668787,
+					1.25546
+				]
+			},
+			"properties": {
+				"OBJECTID": 698786,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Katong Laut",
+				"SPSC_NM": "Cynometra ramiflora ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cynometra ramiflora , Katong Laut",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394020",
+				"EYTreeId": "{F9BF8EC9-0BD4-46D3-86F9-DA099256D8C3}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699627,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670637,
+					1.251559
+				]
+			},
+			"properties": {
+				"OBJECTID": 699627,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Shore Laurel",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Neolitsea cassia, Shore Laurel",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394610",
+				"EYTreeId": "{5B85871E-F109-4771-8DE0-9E5444892589}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698800,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669316,
+					1.254293
+				]
+			},
+			"properties": {
+				"OBJECTID": 698800,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Common Putat",
+				"SPSC_NM": "Barringtonia racemosa ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia racemosa , Common Putat",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394034",
+				"EYTreeId": "{F4246B4B-5CEC-4226-9611-55FC750BFADF}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699636,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670169,
+					1.252489
+				]
+			},
+			"properties": {
+				"OBJECTID": 699636,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Cerbera cultivar (red leaves)",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cerbera cultivar (red leaves)",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394891",
+				"EYTreeId": "{618B4274-4DC7-4920-88F8-10EF9BFCE757}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698826,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671484,
+					1.249701
+				]
+			},
+			"properties": {
+				"OBJECTID": 698826,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Common Putat",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia racemosa, Common Putat",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393989",
+				"EYTreeId": "{A837BBD7-CCA1-4081-9DB1-732E9E65CEF9}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699630,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670277,
+					1.252252
+				]
+			},
+			"properties": {
+				"OBJECTID": 699630,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Common Putat",
+				"SPSC_NM": "Barringtonia racemosa ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia racemosa , Common Putat",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394885",
+				"EYTreeId": "{A34861EA-4462-465F-9986-4066BA83C018}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698783,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668792,
+					1.25538
+				]
+			},
+			"properties": {
+				"OBJECTID": 698783,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Common Putat",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia racemosa, Common Putat",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394017",
+				"EYTreeId": "{B73C3ED2-5022-4C1F-B02B-31AE3CA52E87}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698820,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671793,
+					1.249108
+				]
+			},
+			"properties": {
+				"OBJECTID": 698820,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Katong Laut ",
+				"SPSC_NM": "Cynometra ramiflora ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cynometra ramiflora , Katong Laut ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393983",
+				"EYTreeId": "{11B019E0-3184-4D96-AFCC-1AB0240AC94A}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699616,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671041,
+					1.250656
+				]
+			},
+			"properties": {
+				"OBJECTID": 699616,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Cerbera cultivar (red leaves)",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cerbera cultivar (red leaves)",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394599",
+				"EYTreeId": "{5F7BD3D8-028E-44B1-AEC2-8C6D17B16AE6}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700194,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671323,
+					1.250129
+				]
+			},
+			"properties": {
+				"OBJECTID": 700194,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Flacourtia inermis, Batoko Plum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394000",
+				"EYTreeId": "{997A9131-A77D-4495-94A0-2EE5B7D63A0F}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699610,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671127,
+					1.250474
+				]
+			},
+			"properties": {
+				"OBJECTID": 699610,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Common Putat",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia racemosa, Common Putat",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394618",
+				"EYTreeId": "{809703F4-1040-4427-89CD-E09803D7B557}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700200,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671229,
+					1.250316
+				]
+			},
+			"properties": {
+				"OBJECTID": 700200,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Shore Laurel",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Neolitsea cassia, Shore Laurel",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394006",
+				"EYTreeId": "{66399BDC-79ED-445C-822C-C59075AFC194}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698789,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668732,
+					1.255555
+				]
+			},
+			"properties": {
+				"OBJECTID": 698789,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Shore Laurel",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Neolitsea cassia, Shore Laurel",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394023",
+				"EYTreeId": "{825BAF85-A129-4ABD-9B97-9E276D93604F}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698806,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669206,
+					1.254516
+				]
+			},
+			"properties": {
+				"OBJECTID": 698806,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Cerbera cultivar (red leaves) ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cerbera cultivar (red leaves) ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394040",
+				"EYTreeId": "{EBE6DC60-4ABC-417B-A272-A2E6FF5EFE4D}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699639,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670127,
+					1.252614
+				]
+			},
+			"properties": {
+				"OBJECTID": 699639,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Horsfieldia polyspherula",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia polyspherula",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394894",
+				"EYTreeId": "{7267078B-8A40-4196-A44E-8FD7255F73E4}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698797,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668986,
+					1.255048
+				]
+			},
+			"properties": {
+				"OBJECTID": 698797,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Shore Laurel",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Neolitsea cassia, Shore Laurel",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394031",
+				"EYTreeId": "{B2D11022-B8CA-4B5C-B89F-34AD3E4FA8D3}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699633,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.67025,
+					1.252377
+				]
+			},
+			"properties": {
+				"OBJECTID": 699633,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Katong Laut",
+				"SPSC_NM": "Cynometra ramiflora",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cynometra ramiflora, Katong Laut",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394888",
+				"EYTreeId": "{CD9E6E4C-F2E7-45FF-B141-B795DAC4033A}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699607,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671198,
+					1.250374
+				]
+			},
+			"properties": {
+				"OBJECTID": 699607,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Horsfieldia polyspherula",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia polyspherula",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394615",
+				"EYTreeId": "{04DB1A65-684A-4BD7-8E3A-8DCBF96FB6DC}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698803,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669281,
+					1.254415
+				]
+			},
+			"properties": {
+				"OBJECTID": 698803,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Katong Laut",
+				"SPSC_NM": "Cynometra ramiflora ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cynometra ramiflora , Katong Laut",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394037",
+				"EYTreeId": "{9A3EE0E4-0A2F-4EE2-A650-E9BFCFBAEB2E}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698780,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.67182,
+					1.248979
+				]
+			},
+			"properties": {
+				"OBJECTID": 698780,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Common Putat ",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia racemosa, Common Putat ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12372015",
+				"EYTreeId": "{72CDFA40-B7DB-4AAE-95B8-575C5E46C7BE}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "Karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699613,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671106,
+					1.250583
+				]
+			},
+			"properties": {
+				"OBJECTID": 699613,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Katong Laut",
+				"SPSC_NM": "Cynometra ramiflora",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cynometra ramiflora, Katong Laut",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394621",
+				"EYTreeId": "{66B01ED7-4230-45C8-B8AB-F4C036001C55}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698817,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669766,
+					1.253368
+				]
+			},
+			"properties": {
+				"OBJECTID": 698817,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pianggu",
+				"SPSC_NM": "Horsfieldia irya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia irya, Pianggu",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394052",
+				"EYTreeId": "{AB04FE98-6AC7-492B-98BC-D3676AF3ED2A}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700197,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671256,
+					1.250216
+				]
+			},
+			"properties": {
+				"OBJECTID": 700197,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Yellow Flame ",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum, Yellow Flame ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394003",
+				"EYTreeId": "{B58BEDDE-3A29-42E0-A85A-8AD2ED372FF3}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698823,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671738,
+					1.249182
+				]
+			},
+			"properties": {
+				"OBJECTID": 698823,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Cerbera cultivar (red leaves) ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cerbera cultivar (red leaves) ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393986",
+				"EYTreeId": "{38303279-E0A7-4D38-81CA-E4D639625336}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700189,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.67141,
+					1.249875
+				]
+			},
+			"properties": {
+				"OBJECTID": 700189,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Cerbera cultivar (red leaves) ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cerbera cultivar (red leaves) ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393995",
+				"EYTreeId": "{9CD00C0F-FC8F-4B07-80A5-B90C6D4F0382}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698815,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669794,
+					1.253295
+				]
+			},
+			"properties": {
+				"OBJECTID": 698815,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Cerbera cultivar (red leaves) ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cerbera cultivar (red leaves) ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394050",
+				"EYTreeId": "{8A3CBA7D-5E31-4456-A907-B2904D510A23}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698792,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66906,
+					1.25489
+				]
+			},
+			"properties": {
+				"OBJECTID": 698792,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Flacourtia inermis, Batoko Plum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394026",
+				"EYTreeId": "{5F4C2164-110D-43DA-B494-6A36CF562AA1}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699625,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.67066,
+					1.251498
+				]
+			},
+			"properties": {
+				"OBJECTID": 699625,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Desmodium umbellatum 'Aurea'",
+				"SPSC_NM": "Dendrolobium umbellatum 'Aurea'",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum 'Aurea', Desmodium umbellatum 'Aurea'",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394608",
+				"EYTreeId": "{3037622F-74AC-481D-8026-1F096455B977}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698798,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.66895,
+					1.255056
+				]
+			},
+			"properties": {
+				"OBJECTID": 698798,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pianggu",
+				"SPSC_NM": "Horsfieldia irya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia irya, Pianggu",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394032",
+				"EYTreeId": "{9EC6C78A-C019-4E31-9C5D-4CAD49229A82}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699634,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670208,
+					1.252405
+				]
+			},
+			"properties": {
+				"OBJECTID": 699634,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Small-leaved Nutmeg",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Knema globularia, Small-leaved Nutmeg",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394889",
+				"EYTreeId": "{5AA0D09D-3133-4C30-9968-FEDB4288F8FE}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699608,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668764,
+					1.255503
+				]
+			},
+			"properties": {
+				"OBJECTID": 699608,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Desmodium umbellatum 'Aurea'",
+				"SPSC_NM": "Dendrolobium umbellatum 'Aurea'",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum 'Aurea', Desmodium umbellatum 'Aurea'",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394616",
+				"EYTreeId": "{820703BB-8582-4388-AEB6-83721074979C}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698804,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669244,
+					1.254441
+				]
+			},
+			"properties": {
+				"OBJECTID": 698804,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Yellow Flame",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum, Yellow Flame",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394038",
+				"EYTreeId": "{74B31616-6EC5-4F64-A214-3059600AEF17}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698781,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669717,
+					1.253414
+				]
+			},
+			"properties": {
+				"OBJECTID": 698781,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Horsfieldia polyspherula",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia polyspherula",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12372021",
+				"EYTreeId": "{0BB79786-B733-4F91-B5FE-9DD5531A9DC9}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "Karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699614,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671069,
+					1.250598
+				]
+			},
+			"properties": {
+				"OBJECTID": 699614,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Yellow Flame",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum, Yellow Flame",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394597",
+				"EYTreeId": "{FAC66C91-909E-42A4-8656-03697E2569AF}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698818,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671826,
+					1.249059
+				]
+			},
+			"properties": {
+				"OBJECTID": 698818,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Flacourtia inermis, Batoko Plum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394053",
+				"EYTreeId": "{832FB9BD-8595-4295-BA94-3209278E915C}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700198,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671256,
+					1.250259
+				]
+			},
+			"properties": {
+				"OBJECTID": 700198,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Desmodium umbellatum 'Aurea'",
+				"SPSC_NM": "Dendrolobium umbellatum 'Aurea'",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum 'Aurea', Desmodium umbellatum 'Aurea'",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394004",
+				"EYTreeId": "{483DDACA-F382-4AA0-AD79-EBB9AB9A7753}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698824,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671742,
+					1.249221
+				]
+			},
+			"properties": {
+				"OBJECTID": 698824,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Shore Laurel",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Neolitsea cassia, Shore Laurel",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393987",
+				"EYTreeId": "{5D13BF38-1018-490D-8C4F-136F2E5FB922}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700186,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671474,
+					1.2498
+				]
+			},
+			"properties": {
+				"OBJECTID": 700186,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Katong Laut ",
+				"SPSC_NM": "Cynometra ramiflora",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cynometra ramiflora, Katong Laut ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393992",
+				"EYTreeId": "{5A0D68B7-E02B-46DA-8E52-97E55946B2B0}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700192,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671395,
+					1.24996
+				]
+			},
+			"properties": {
+				"OBJECTID": 700192,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Horsfieldia polyspherula",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia polyspherula",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393998",
+				"EYTreeId": "{9220A0FE-9BC1-4192-9B93-073516760046}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698812,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669858,
+					1.253196
+				]
+			},
+			"properties": {
+				"OBJECTID": 698812,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Katong Laut",
+				"SPSC_NM": "Cynometra ramiflora ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cynometra ramiflora , Katong Laut",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394047",
+				"EYTreeId": "{17E5F75B-3268-4BE4-8F4C-52E0CE009639}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699622,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670679,
+					1.251398
+				]
+			},
+			"properties": {
+				"OBJECTID": 699622,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Malayan Crape Myrtle",
+				"SPSC_NM": "Lagerstromeia floribunda",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lagerstromeia floribunda, Malayan Crape Myrtle",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394605",
+				"EYTreeId": "{2F6C914C-9C34-4BC0-A488-A6596B61E996}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698795,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669003,
+					1.254953
+				]
+			},
+			"properties": {
+				"OBJECTID": 698795,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Yellow Flame ",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum, Yellow Flame ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394029",
+				"EYTreeId": "{B2B30686-7962-4200-AF62-F090B0C4610D}",
+				"Name": "PAT/OMT Jurong Island 2020 ",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699637,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670174,
+					1.252543
+				]
+			},
+			"properties": {
+				"OBJECTID": 699637,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Shore Laurel",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Neolitsea cassia, Shore Laurel",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394892",
+				"EYTreeId": "{F0EAF817-A9A6-4A1C-B4CF-C15AC40B51E1}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699628,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670601,
+					1.251581
+				]
+			},
+			"properties": {
+				"OBJECTID": 699628,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pianggu",
+				"SPSC_NM": "Horsfieldia irya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia irya, Pianggu",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394611",
+				"EYTreeId": "{2D1CBFA5-0BA9-4FAA-B3C7-8DA16F751D2D}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698801,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669315,
+					1.254349
+				]
+			},
+			"properties": {
+				"OBJECTID": 698801,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Flacourtia inermis, Batoko Plum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "12394035",
+				"EYTreeId": "{9FC05E18-9BAD-4935-957B-6F500C70A51D}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699631,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670291,
+					1.252294
+				]
+			},
+			"properties": {
+				"OBJECTID": 699631,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Flacourtia inermis, Batoko Plum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394886",
+				"EYTreeId": "{E59330C4-3F64-4014-BAA6-1888EDCDECFF}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700195,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671281,
+					1.250149
+				]
+			},
+			"properties": {
+				"OBJECTID": 700195,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Malayan Crape Myrtle",
+				"SPSC_NM": "Lagerstroemia floribunda",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lagerstroemia floribunda, Malayan Crape Myrtle",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394001",
+				"EYTreeId": "{09B7EB62-7215-4461-9799-2C1B1B606EE1}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "Karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698784,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668804,
+					1.255421
+				]
+			},
+			"properties": {
+				"OBJECTID": 698784,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Flacourtia inermis, Batoko Plum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394018",
+				"EYTreeId": "{4C9B0264-2723-4F20-9703-1BFDE6536EC9}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698787,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668756,
+					1.255472
+				]
+			},
+			"properties": {
+				"OBJECTID": 698787,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Yellow Flame",
+				"SPSC_NM": "Peltophorum pterocarpum ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum , Yellow Flame",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394021",
+				"EYTreeId": "{FFCBEAC4-17C3-4644-9A7D-2B830818C6EF}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698790,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668654,
+					1.255689
+				]
+			},
+			"properties": {
+				"OBJECTID": 698790,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pianggu",
+				"SPSC_NM": "Horsfieldia irya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia irya, Pianggu",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394024",
+				"EYTreeId": "{F80209AB-6C62-4BCF-B8D2-31BFEAB1A313}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698793,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669028,
+					1.254903
+				]
+			},
+			"properties": {
+				"OBJECTID": 698793,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Malayan Crape Myrtle ",
+				"SPSC_NM": "Lagerstroemia floribunda",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lagerstroemia floribunda, Malayan Crape Myrtle ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394027",
+				"EYTreeId": "{171E1AC7-234C-460A-B76B-EBEEBCE0D0C7}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698796,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669005,
+					1.254992
+				]
+			},
+			"properties": {
+				"OBJECTID": 698796,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Desmodium umbellatum 'Aurea'",
+				"SPSC_NM": "Dendrolobium umbellatum 'Aurea'",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum 'Aurea', Desmodium umbellatum 'Aurea'",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394030",
+				"EYTreeId": "{43599920-36FE-4B96-9A3A-3E263DBC6688}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698799,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668956,
+					1.255096
+				]
+			},
+			"properties": {
+				"OBJECTID": 698799,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Horsfieldia polyspherula",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia polyspherula",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394033",
+				"EYTreeId": "{A5A72F84-FE93-4F59-823F-3A741A309F7D}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698807,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669216,
+					1.25456
+				]
+			},
+			"properties": {
+				"OBJECTID": 698807,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Shore Laurel",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Neolitsea cassia, Shore Laurel",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394041",
+				"EYTreeId": "{0F3D1850-B821-4E7A-A6BB-2D348836F936}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698810,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669897,
+					1.253121
+				]
+			},
+			"properties": {
+				"OBJECTID": 698810,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Flacourtia inermis, Batoko Plum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394045",
+				"EYTreeId": "{EE5A6E24-054D-496D-95F9-BC4FB5DD3DB6}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698813,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669825,
+					1.253222
+				]
+			},
+			"properties": {
+				"OBJECTID": 698813,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Yellow Flame",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum, Yellow Flame",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394048",
+				"EYTreeId": "{BE2367F0-6046-4315-9AEE-AD2E3BFFA24C}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698816,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669794,
+					1.253344
+				]
+			},
+			"properties": {
+				"OBJECTID": 698816,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Shore Laurel",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Neolitsea cassia, Shore Laurel",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394051",
+				"EYTreeId": "{FA1630E2-6935-4343-9CDF-BD48A6600E19}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698819,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671795,
+					1.249059
+				]
+			},
+			"properties": {
+				"OBJECTID": 698819,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Malayan Crape Myrtle ",
+				"SPSC_NM": "Lagerstroemia floribunda ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lagerstroemia floribunda , Malayan Crape Myrtle ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393982",
+				"EYTreeId": "{1857995D-1019-49AD-B8F6-C8DAA848112C}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698821,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.67175,
+					1.249132
+				]
+			},
+			"properties": {
+				"OBJECTID": 698821,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Yellow Flame",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum, Yellow Flame",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393984",
+				"EYTreeId": "{0321255D-528A-418F-9888-3DCDE449AC5E}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698827,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671492,
+					1.249745
+				]
+			},
+			"properties": {
+				"OBJECTID": 698827,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Flacourtia inermis, Batoko Plum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393990",
+				"EYTreeId": "{EC47FB2D-39C0-44ED-9714-06290E4E72E8}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699605,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671717,
+					1.249237
+				]
+			},
+			"properties": {
+				"OBJECTID": 699605,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pianggu",
+				"SPSC_NM": "Horsfieldia irya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia irya, Pianggu",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394613",
+				"EYTreeId": "{5E8497DC-F54F-4C89-BEA5-C31FC1A2029B}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699606,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671198,
+					1.250329
+				]
+			},
+			"properties": {
+				"OBJECTID": 699606,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pianggu",
+				"SPSC_NM": "Horsfieldia irya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia irya, Pianggu",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394614",
+				"EYTreeId": "{CC4ACBA2-4575-4F45-B809-0A4620B60377}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699609,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.668973,
+					1.255012
+				]
+			},
+			"properties": {
+				"OBJECTID": 699609,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Cerbera cultivar (red leaves) ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cerbera cultivar (red leaves) ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394617",
+				"EYTreeId": "{D9FB7ECA-E5EB-47C9-B8E6-426F767EB572}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699611,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671128,
+					1.250519
+				]
+			},
+			"properties": {
+				"OBJECTID": 699611,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Batoko Plum",
+				"SPSC_NM": "Flacourtia inermis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Flacourtia inermis, Batoko Plum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394619",
+				"EYTreeId": "{D69FEB77-0751-425A-91CA-D79E97C9A3FE}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699617,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671045,
+					1.250699
+				]
+			},
+			"properties": {
+				"OBJECTID": 699617,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Shore Laurel",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Neolitsea cassia, Shore Laurel",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394600",
+				"EYTreeId": "{EFEC9958-B95A-4E2F-B495-0F9849BA3F04}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699620,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670707,
+					1.251344
+				]
+			},
+			"properties": {
+				"OBJECTID": 699620,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Common Putat",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia racemosa, Common Putat",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394603",
+				"EYTreeId": "{BBD339FF-9B19-480C-B2EB-4B5935E90D11}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699623,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670691,
+					1.251439
+				]
+			},
+			"properties": {
+				"OBJECTID": 699623,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Katong Laut",
+				"SPSC_NM": "Cynometra ramiflora",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cynometra ramiflora, Katong Laut",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394606",
+				"EYTreeId": "{4C232B5C-CD9F-4D27-B408-BD1C7F5ECD59}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699626,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670628,
+					1.251518
+				]
+			},
+			"properties": {
+				"OBJECTID": 699626,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Cerbera cultivar (red leaves)",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cerbera cultivar (red leaves)",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394609",
+				"EYTreeId": "{ED5DB497-07B8-4CE6-A73D-53C1E973D57B}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699629,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.670602,
+					1.251629
+				]
+			},
+			"properties": {
+				"OBJECTID": 699629,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Horsfieldia polyspherula",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Horsfieldia polyspherula",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394612",
+				"EYTreeId": "{344E9FAC-EA7C-42E5-9AC1-0D04BF482D23}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699640,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.669894,
+					1.253078
+				]
+			},
+			"properties": {
+				"OBJECTID": 699640,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Common Putat",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia racemosa, Common Putat",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12394895",
+				"EYTreeId": "{559DBDBB-2A0C-423D-A259-C8527B74AB4D}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700187,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671433,
+					1.249811
+				]
+			},
+			"properties": {
+				"OBJECTID": 700187,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Yellow Flame",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum, Yellow Flame",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393993",
+				"EYTreeId": "{BF3C7A9A-E144-45C0-B9EE-0A26F5619050}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700190,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671423,
+					1.249915
+				]
+			},
+			"properties": {
+				"OBJECTID": 700190,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Shore Laurel",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Neolitsea cassia, Shore Laurel",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393996",
+				"EYTreeId": "{D9219D1B-2247-4A18-A698-EA186F48856D}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700193,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.671307,
+					1.25008
+				]
+			},
+			"properties": {
+				"OBJECTID": 700193,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Common Putat",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia racemosa, Common Putat",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Happy Planting!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12393999",
+				"EYTreeId": "{99E749BB-F7F2-4430-9027-28CE15F603B7}",
+				"Name": "PAT/OMT Jurong Island 2020",
+				"Email": "karen_bp_lee@nparks.gov.sg",
+				"UserKeywords": null
+			}
+		}
+	]
+}

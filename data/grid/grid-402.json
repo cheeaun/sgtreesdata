@@ -1,0 +1,5887 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 620720,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870098,
+					1.27737
+				]
+			},
+			"properties": {
+				"OBJECTID": 620720,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11147568",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620789,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870965,
+					1.278192
+				]
+			},
+			"properties": {
+				"OBJECTID": 620789,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148901",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676329,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.876174,
+					1.282605
+				]
+			},
+			"properties": {
+				"OBJECTID": 676329,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459686",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676335,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.876268,
+					1.282673
+				]
+			},
+			"properties": {
+				"OBJECTID": 676335,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459688",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619670,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871082,
+					1.27813
+				]
+			},
+			"properties": {
+				"OBJECTID": 619670,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103952",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201371,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870086,
+					1.278932
+				]
+			},
+			"properties": {
+				"OBJECTID": 201371,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10949063",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 573000,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.87114,
+					1.278427
+				]
+			},
+			"properties": {
+				"OBJECTID": 573000,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11174774",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619661,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870603,
+					1.278829
+				]
+			},
+			"properties": {
+				"OBJECTID": 619661,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103964",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676275,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877081,
+					1.283302
+				]
+			},
+			"properties": {
+				"OBJECTID": 676275,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459640",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390233,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869979,
+					1.27744
+				]
+			},
+			"properties": {
+				"OBJECTID": 390233,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11147535",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619664,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871078,
+					1.278564
+				]
+			},
+			"properties": {
+				"OBJECTID": 619664,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11148921",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 514772,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871129,
+					1.278432
+				]
+			},
+			"properties": {
+				"OBJECTID": 514772,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1771",
+				"COMMON_NM": "Kemudu",
+				"SPSC_NM": "Pisonia grandis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Pisonia grandis,Kemudu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11235368",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869651,
+					1.277024
+				]
+			},
+			"properties": {
+				"OBJECTID": 620732,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11147576",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871127,
+					1.278443
+				]
+			},
+			"properties": {
+				"OBJECTID": 620712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1771",
+				"COMMON_NM": "Kemudu",
+				"SPSC_NM": "Pisonia grandis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Pisonia grandis,Kemudu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11147575",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620783,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870957,
+					1.278465
+				]
+			},
+			"properties": {
+				"OBJECTID": 620783,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11147570",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260332,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871421,
+					1.278296
+				]
+			},
+			"properties": {
+				"OBJECTID": 260332,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11087981",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486125,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870012,
+					1.27828
+				]
+			},
+			"properties": {
+				"OBJECTID": 486125,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10949065",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620726,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869907,
+					1.27721
+				]
+			},
+			"properties": {
+				"OBJECTID": 620726,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148946",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260326,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871624,
+					1.278353
+				]
+			},
+			"properties": {
+				"OBJECTID": 260326,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1784",
+				"COMMON_NM": "Jati Laut",
+				"SPSC_NM": "Podocarpus polystachyus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Podocarpus polystachyus,Jati Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11087980",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486119,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870239,
+					1.278328
+				]
+			},
+			"properties": {
+				"OBJECTID": 486119,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10966218",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260320,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871459,
+					1.27838
+				]
+			},
+			"properties": {
+				"OBJECTID": 260320,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11293054",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620792,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870854,
+					1.278088
+				]
+			},
+			"properties": {
+				"OBJECTID": 620792,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148938",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201368,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869727,
+					1.278996
+				]
+			},
+			"properties": {
+				"OBJECTID": 201368,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10945942",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620786,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871003,
+					1.278342
+				]
+			},
+			"properties": {
+				"OBJECTID": 620786,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148936",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676286,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.876785,
+					1.283064
+				]
+			},
+			"properties": {
+				"OBJECTID": 676286,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12459643",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619658,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870495,
+					1.278925
+				]
+			},
+			"properties": {
+				"OBJECTID": 619658,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11121499",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619667,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871141,
+					1.27831
+				]
+			},
+			"properties": {
+				"OBJECTID": 619667,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103951",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201374,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870251,
+					1.278685
+				]
+			},
+			"properties": {
+				"OBJECTID": 201374,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10945947",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390230,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870123,
+					1.277545
+				]
+			},
+			"properties": {
+				"OBJECTID": 390230,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11223545",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201377,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870267,
+					1.278532
+				]
+			},
+			"properties": {
+				"OBJECTID": 201377,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10946099",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676272,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877303,
+					1.283526
+				]
+			},
+			"properties": {
+				"OBJECTID": 676272,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459572",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620803,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870365,
+					1.277726
+				]
+			},
+			"properties": {
+				"OBJECTID": 620803,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121522",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620729,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.86976,
+					1.277107
+				]
+			},
+			"properties": {
+				"OBJECTID": 620729,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11121469",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390224,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870307,
+					1.277683
+				]
+			},
+			"properties": {
+				"OBJECTID": 390224,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121462",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260329,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871506,
+					1.278412
+				]
+			},
+			"properties": {
+				"OBJECTID": 260329,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11206168",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260335,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871595,
+					1.278266
+				]
+			},
+			"properties": {
+				"OBJECTID": 260335,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1784",
+				"COMMON_NM": "Jati Laut",
+				"SPSC_NM": "Podocarpus polystachyus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Podocarpus polystachyus,Jati Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11206112",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486122,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870155,
+					1.278122
+				]
+			},
+			"properties": {
+				"OBJECTID": 486122,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10945943",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486128,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870045,
+					1.278573
+				]
+			},
+			"properties": {
+				"OBJECTID": 486128,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10945940",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676338,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.876021,
+					1.282372
+				]
+			},
+			"properties": {
+				"OBJECTID": 676338,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12459691",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260323,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871485,
+					1.278402
+				]
+			},
+			"properties": {
+				"OBJECTID": 260323,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11087973",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486116,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870417,
+					1.278422
+				]
+			},
+			"properties": {
+				"OBJECTID": 486116,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10966220",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676246,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877452,
+					1.283722
+				]
+			},
+			"properties": {
+				"OBJECTID": 676246,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12459570",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620723,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870175,
+					1.2774
+				]
+			},
+			"properties": {
+				"OBJECTID": 620723,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148944",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260321,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871428,
+					1.278332
+				]
+			},
+			"properties": {
+				"OBJECTID": 260321,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11087945",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620718,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870352,
+					1.277534
+				]
+			},
+			"properties": {
+				"OBJECTID": 620718,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11223557",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676287,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.876705,
+					1.283005
+				]
+			},
+			"properties": {
+				"OBJECTID": 676287,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12459644",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620787,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871004,
+					1.278293
+				]
+			},
+			"properties": {
+				"OBJECTID": 620787,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121482",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 191994,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877753,
+					1.284234
+				]
+			},
+			"properties": {
+				"OBJECTID": 191994,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12968419",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676327,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.876444,
+					1.282806
+				]
+			},
+			"properties": {
+				"OBJECTID": 676327,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459684",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619659,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870533,
+					1.278891
+				]
+			},
+			"properties": {
+				"OBJECTID": 619659,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121500",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486131,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870014,
+					1.278832
+				]
+			},
+			"properties": {
+				"OBJECTID": 486131,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10945945",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201369,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869826,
+					1.278936
+				]
+			},
+			"properties": {
+				"OBJECTID": 201369,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10946094",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201380,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870155,
+					1.278331
+				]
+			},
+			"properties": {
+				"OBJECTID": 201380,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10945668",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260330,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871527,
+					1.278417
+				]
+			},
+			"properties": {
+				"OBJECTID": 260330,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11060822",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 514770,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870695,
+					1.277774
+				]
+			},
+			"properties": {
+				"OBJECTID": 514770,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1771",
+				"COMMON_NM": "Kemudu",
+				"SPSC_NM": "Pisonia grandis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Pisonia grandis,Kemudu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11139635",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620781,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870868,
+					1.278578
+				]
+			},
+			"properties": {
+				"OBJECTID": 620781,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103971",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 298913,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870086,
+					1.277339
+				]
+			},
+			"properties": {
+				"OBJECTID": 298913,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11310643",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486123,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.87004,
+					1.278154
+				]
+			},
+			"properties": {
+				"OBJECTID": 486123,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10966219",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486117,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870292,
+					1.278409
+				]
+			},
+			"properties": {
+				"OBJECTID": 486117,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10966223",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260324,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.87142,
+					1.27828
+				]
+			},
+			"properties": {
+				"OBJECTID": 260324,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11206159",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620724,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870007,
+					1.277281
+				]
+			},
+			"properties": {
+				"OBJECTID": 620724,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103978",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676247,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877638,
+					1.283999
+				]
+			},
+			"properties": {
+				"OBJECTID": 676247,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459571",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620790,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870945,
+					1.278164
+				]
+			},
+			"properties": {
+				"OBJECTID": 620790,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148937",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619673,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870758,
+					1.27784
+				]
+			},
+			"properties": {
+				"OBJECTID": 619673,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103816",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 573001,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871048,
+					1.278597
+				]
+			},
+			"properties": {
+				"OBJECTID": 573001,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11174775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619656,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870393,
+					1.278975
+				]
+			},
+			"properties": {
+				"OBJECTID": 619656,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11121493",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201372,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870185,
+					1.278855
+				]
+			},
+			"properties": {
+				"OBJECTID": 201372,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10946090",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390228,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870206,
+					1.277606
+				]
+			},
+			"properties": {
+				"OBJECTID": 390228,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103986",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619662,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870631,
+					1.278787
+				]
+			},
+			"properties": {
+				"OBJECTID": 619662,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148927",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390236,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869554,
+					1.277123
+				]
+			},
+			"properties": {
+				"OBJECTID": 390236,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121529",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486134,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869861,
+					1.27905
+				]
+			},
+			"properties": {
+				"OBJECTID": 486134,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10946089",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620798,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870627,
+					1.277916
+				]
+			},
+			"properties": {
+				"OBJECTID": 620798,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148950",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619665,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871128,
+					1.278461
+				]
+			},
+			"properties": {
+				"OBJECTID": 619665,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11121418",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620801,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870474,
+					1.27781
+				]
+			},
+			"properties": {
+				"OBJECTID": 620801,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121461",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620784,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870972,
+					1.278438
+				]
+			},
+			"properties": {
+				"OBJECTID": 620784,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11147571",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620735,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869497,
+					1.276909
+				]
+			},
+			"properties": {
+				"OBJECTID": 620735,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11147531",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260327,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871546,
+					1.278415
+				]
+			},
+			"properties": {
+				"OBJECTID": 260327,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11206111",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620715,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870521,
+					1.27766
+				]
+			},
+			"properties": {
+				"OBJECTID": 620715,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11103941",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620727,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869852,
+					1.277171
+				]
+			},
+			"properties": {
+				"OBJECTID": 620727,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11223550",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486120,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869941,
+					1.278003
+				]
+			},
+			"properties": {
+				"OBJECTID": 486120,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10949062",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676244,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877576,
+					1.283907
+				]
+			},
+			"properties": {
+				"OBJECTID": 676244,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459568",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620770,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870041,
+					1.277306
+				]
+			},
+			"properties": {
+				"OBJECTID": 620770,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11121481",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486114,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870263,
+					1.278199
+				]
+			},
+			"properties": {
+				"OBJECTID": 486114,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10946092",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620721,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870197,
+					1.277418
+				]
+			},
+			"properties": {
+				"OBJECTID": 620721,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11103968",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 247561,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870399,
+					1.278579
+				]
+			},
+			"properties": {
+				"OBJECTID": 247561,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12370526",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620785,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870989,
+					1.278407
+				]
+			},
+			"properties": {
+				"OBJECTID": 620785,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121519",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619657,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870449,
+					1.278953
+				]
+			},
+			"properties": {
+				"OBJECTID": 619657,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11147600",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390237,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869452,
+					1.27705
+				]
+			},
+			"properties": {
+				"OBJECTID": 390237,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11103930",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486129,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870008,
+					1.278746
+				]
+			},
+			"properties": {
+				"OBJECTID": 486129,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10946088",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619668,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.87114,
+					1.278249
+				]
+			},
+			"properties": {
+				"OBJECTID": 619668,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148920",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620793,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870815,
+					1.278061
+				]
+			},
+			"properties": {
+				"OBJECTID": 620793,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121521",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620799,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869985,
+					1.277445
+				]
+			},
+			"properties": {
+				"OBJECTID": 620799,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148951",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390231,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870086,
+					1.277517
+				]
+			},
+			"properties": {
+				"OBJECTID": 390231,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148952",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486135,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.86988,
+					1.279132
+				]
+			},
+			"properties": {
+				"OBJECTID": 486135,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10945941",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201375,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870117,
+					1.278683
+				]
+			},
+			"properties": {
+				"OBJECTID": 201375,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10966225",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201378,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.87018,
+					1.278495
+				]
+			},
+			"properties": {
+				"OBJECTID": 201378,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10946100",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869711,
+					1.277067
+				]
+			},
+			"properties": {
+				"OBJECTID": 620730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121470",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620802,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870426,
+					1.277773
+				]
+			},
+			"properties": {
+				"OBJECTID": 620802,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11223543",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260336,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871627,
+					1.278343
+				]
+			},
+			"properties": {
+				"OBJECTID": 260336,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1784",
+				"COMMON_NM": "Jati Laut",
+				"SPSC_NM": "Podocarpus polystachyus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Podocarpus polystachyus,Jati Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11206113",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620736,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.86942,
+					1.276849
+				]
+			},
+			"properties": {
+				"OBJECTID": 620736,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121490",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676339,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.875942,
+					1.282317
+				]
+			},
+			"properties": {
+				"OBJECTID": 676339,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12459692",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620716,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870476,
+					1.277626
+				]
+			},
+			"properties": {
+				"OBJECTID": 620716,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11147525",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486115,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870383,
+					1.278252
+				]
+			},
+			"properties": {
+				"OBJECTID": 486115,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10945948",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676245,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877514,
+					1.283815
+				]
+			},
+			"properties": {
+				"OBJECTID": 676245,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459569",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620722,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870126,
+					1.277365
+				]
+			},
+			"properties": {
+				"OBJECTID": 620722,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11103985",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870295,
+					1.277492
+				]
+			},
+			"properties": {
+				"OBJECTID": 620719,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121488",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260322,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871439,
+					1.27835
+				]
+			},
+			"properties": {
+				"OBJECTID": 260322,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11087972",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619654,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871108,
+					1.278511
+				]
+			},
+			"properties": {
+				"OBJECTID": 619654,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11147385",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676259,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877229,
+					1.283445
+				]
+			},
+			"properties": {
+				"OBJECTID": 676259,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459582",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676336,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877726,
+					1.284181
+				]
+			},
+			"properties": {
+				"OBJECTID": 676336,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459689",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619660,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870567,
+					1.27886
+				]
+			},
+			"properties": {
+				"OBJECTID": 619660,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11147539",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486132,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.86994,
+					1.278865
+				]
+			},
+			"properties": {
+				"OBJECTID": 486132,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10966221",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619671,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871029,
+					1.278066
+				]
+			},
+			"properties": {
+				"OBJECTID": 619671,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11103953",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676328,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.876365,
+					1.282743
+				]
+			},
+			"properties": {
+				"OBJECTID": 676328,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459685",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201381,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870174,
+					1.278257
+				]
+			},
+			"properties": {
+				"OBJECTID": 201381,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10949064",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676276,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877017,
+					1.283244
+				]
+			},
+			"properties": {
+				"OBJECTID": 676276,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459641",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390234,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869671,
+					1.277214
+				]
+			},
+			"properties": {
+				"OBJECTID": 390234,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121528",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486138,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869649,
+					1.279185
+				]
+			},
+			"properties": {
+				"OBJECTID": 486138,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10945946",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620796,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870651,
+					1.277941
+				]
+			},
+			"properties": {
+				"OBJECTID": 620796,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148902",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260333,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871572,
+					1.278249
+				]
+			},
+			"properties": {
+				"OBJECTID": 260333,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1784",
+				"COMMON_NM": "Jati Laut",
+				"SPSC_NM": "Podocarpus polystachyus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Podocarpus polystachyus,Jati Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11293056",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620782,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870908,
+					1.278528
+				]
+			},
+			"properties": {
+				"OBJECTID": 620782,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11148900",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 514771,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870435,
+					1.277598
+				]
+			},
+			"properties": {
+				"OBJECTID": 514771,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1771",
+				"COMMON_NM": "Kemudu",
+				"SPSC_NM": "Pisonia grandis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Pisonia grandis,Kemudu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11139525",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620733,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869595,
+					1.276975
+				]
+			},
+			"properties": {
+				"OBJECTID": 620733,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11223563",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486126,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870033,
+					1.278316
+				]
+			},
+			"properties": {
+				"OBJECTID": 486126,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10946096",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620713,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870631,
+					1.277743
+				]
+			},
+			"properties": {
+				"OBJECTID": 620713,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11147567",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260325,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871421,
+					1.278311
+				]
+			},
+			"properties": {
+				"OBJECTID": 260325,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11087974",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486118,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869992,
+					1.277942
+				]
+			},
+			"properties": {
+				"OBJECTID": 486118,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10945669",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 435850,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870949,
+					1.27799
+				]
+			},
+			"properties": {
+				"OBJECTID": 435850,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11275166",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620791,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870898,
+					1.278128
+				]
+			},
+			"properties": {
+				"OBJECTID": 620791,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121520",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619655,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871138,
+					1.27844
+				]
+			},
+			"properties": {
+				"OBJECTID": 619655,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11147594",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620797,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870678,
+					1.277953
+				]
+			},
+			"properties": {
+				"OBJECTID": 620797,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148903",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619672,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870828,
+					1.277894
+				]
+			},
+			"properties": {
+				"OBJECTID": 619672,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11121501",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676277,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.876954,
+					1.283186
+				]
+			},
+			"properties": {
+				"OBJECTID": 676277,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12459642",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201382,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870142,
+					1.278215
+				]
+			},
+			"properties": {
+				"OBJECTID": 201382,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10946091",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390235,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.86962,
+					1.277174
+				]
+			},
+			"properties": {
+				"OBJECTID": 390235,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11148953",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390229,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870166,
+					1.277576
+				]
+			},
+			"properties": {
+				"OBJECTID": 390229,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103987",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486133,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869943,
+					1.278982
+				]
+			},
+			"properties": {
+				"OBJECTID": 486133,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10946101",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619663,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871115,
+					1.278498
+				]
+			},
+			"properties": {
+				"OBJECTID": 619663,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11223487",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619666,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871144,
+					1.278401
+				]
+			},
+			"properties": {
+				"OBJECTID": 619666,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11147591",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201373,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870338,
+					1.278772
+				]
+			},
+			"properties": {
+				"OBJECTID": 201373,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10949066",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260334,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871584,
+					1.278258
+				]
+			},
+			"properties": {
+				"OBJECTID": 260334,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1784",
+				"COMMON_NM": "Jati Laut",
+				"SPSC_NM": "Podocarpus polystachyus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Podocarpus polystachyus,Jati Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11087993",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486121,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870074,
+					1.27806
+				]
+			},
+			"properties": {
+				"OBJECTID": 486121,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10946095",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486127,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870038,
+					1.278382
+				]
+			},
+			"properties": {
+				"OBJECTID": 486127,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10946097",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 290281,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870929,
+					1.278506
+				]
+			},
+			"properties": {
+				"OBJECTID": 290281,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11274824",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620734,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869544,
+					1.276942
+				]
+			},
+			"properties": {
+				"OBJECTID": 620734,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103969",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620714,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870559,
+					1.277688
+				]
+			},
+			"properties": {
+				"OBJECTID": 620714,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11223555",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260328,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871619,
+					1.278366
+				]
+			},
+			"properties": {
+				"OBJECTID": 260328,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11206120",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676337,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877679,
+					1.284083
+				]
+			},
+			"properties": {
+				"OBJECTID": 676337,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12459690",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620728,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869792,
+					1.27713
+				]
+			},
+			"properties": {
+				"OBJECTID": 620728,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103937",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620788,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870991,
+					1.278248
+				]
+			},
+			"properties": {
+				"OBJECTID": 620788,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121475",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676288,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877171,
+					1.283381
+				]
+			},
+			"properties": {
+				"OBJECTID": 676288,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459645",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676334,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.876077,
+					1.282535
+				]
+			},
+			"properties": {
+				"OBJECTID": 676334,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459687",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 619669,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.87112,
+					1.278201
+				]
+			},
+			"properties": {
+				"OBJECTID": 619669,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11223494",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201370,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870096,
+					1.278826
+				]
+			},
+			"properties": {
+				"OBJECTID": 201370,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10966222",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390226,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870264,
+					1.277651
+				]
+			},
+			"properties": {
+				"OBJECTID": 390226,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103929",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260337,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871471,
+					1.278392
+				]
+			},
+			"properties": {
+				"OBJECTID": 260337,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11087994",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 420866,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.87155,
+					1.278234
+				]
+			},
+			"properties": {
+				"OBJECTID": 420866,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11197993",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486130,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869957,
+					1.278776
+				]
+			},
+			"properties": {
+				"OBJECTID": 486130,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10945944",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390238,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869404,
+					1.277015
+				]
+			},
+			"properties": {
+				"OBJECTID": 390238,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11103931",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620800,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870526,
+					1.277846
+				]
+			},
+			"properties": {
+				"OBJECTID": 620800,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121460",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620794,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870777,
+					1.278033
+				]
+			},
+			"properties": {
+				"OBJECTID": 620794,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121476",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201376,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870163,
+					1.278595
+				]
+			},
+			"properties": {
+				"OBJECTID": 201376,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10946098",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676274,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.877392,
+					1.28362
+				]
+			},
+			"properties": {
+				"OBJECTID": 676274,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459639",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 390232,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.87005,
+					1.277494
+				]
+			},
+			"properties": {
+				"OBJECTID": 390232,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "6",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11121477",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620780,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870851,
+					1.278597
+				]
+			},
+			"properties": {
+				"OBJECTID": 620780,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11223561",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620731,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869681,
+					1.277045
+				]
+			},
+			"properties": {
+				"OBJECTID": 620731,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11147526",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201379,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870139,
+					1.278407
+				]
+			},
+			"properties": {
+				"OBJECTID": 201379,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10966226",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620711,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871097,
+					1.278538
+				]
+			},
+			"properties": {
+				"OBJECTID": 620711,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1771",
+				"COMMON_NM": "Kemudu",
+				"SPSC_NM": "Pisonia grandis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Pisonia grandis,Kemudu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11103984",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 260331,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.871448,
+					1.278365
+				]
+			},
+			"properties": {
+				"OBJECTID": 260331,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11087996",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486124,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869994,
+					1.278208
+				]
+			},
+			"properties": {
+				"OBJECTID": 486124,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10966224",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620725,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.869966,
+					1.277253
+				]
+			},
+			"properties": {
+				"OBJECTID": 620725,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11121489",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 676340,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.87581,
+					1.282343
+				]
+			},
+			"properties": {
+				"OBJECTID": 676340,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12459693",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 620717,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.870384,
+					1.277557
+				]
+			},
+			"properties": {
+				"OBJECTID": 620717,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1474",
+				"COMMON_NM": "Brazilian Ironwood",
+				"SPSC_NM": "Libidibia ferrea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Libidibia ferrea,Brazilian Ironwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11223556",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

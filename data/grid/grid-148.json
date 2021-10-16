@@ -1,0 +1,5649 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 476175,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705094,
+					1.425755
+				]
+			},
+			"properties": {
+				"OBJECTID": 476175,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143053",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161546,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703581,
+					1.428425
+				]
+			},
+			"properties": {
+				"OBJECTID": 161546,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10169379",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425753,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703868,
+					1.422848
+				]
+			},
+			"properties": {
+				"OBJECTID": 425753,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10141785",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375677,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704628,
+					1.427778
+				]
+			},
+			"properties": {
+				"OBJECTID": 375677,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11266564",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161577,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703399,
+					1.428363
+				]
+			},
+			"properties": {
+				"OBJECTID": 161577,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10168841",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476158,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704319,
+					1.424216
+				]
+			},
+			"properties": {
+				"OBJECTID": 476158,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10142642",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177561,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705317,
+					1.427442
+				]
+			},
+			"properties": {
+				"OBJECTID": 177561,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10168840",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161586,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702744,
+					1.42872
+				]
+			},
+			"properties": {
+				"OBJECTID": 161586,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10174005",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425744,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704607,
+					1.42442
+				]
+			},
+			"properties": {
+				"OBJECTID": 425744,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142484",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 578210,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703941,
+					1.422999
+				]
+			},
+			"properties": {
+				"OBJECTID": 578210,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11166765",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161560,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702862,
+					1.428804
+				]
+			},
+			"properties": {
+				"OBJECTID": 161560,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10169380",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161580,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703035,
+					1.42854
+				]
+			},
+			"properties": {
+				"OBJECTID": 161580,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10157500",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476161,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704464,
+					1.42447
+				]
+			},
+			"properties": {
+				"OBJECTID": 476161,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10142694",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 179917,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704818,
+					1.427676
+				]
+			},
+			"properties": {
+				"OBJECTID": 179917,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11185271",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375663,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704,
+					1.428236
+				]
+			},
+			"properties": {
+				"OBJECTID": 375663,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11249338",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161554,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703233,
+					1.428595
+				]
+			},
+			"properties": {
+				"OBJECTID": 161554,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10170832",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161566,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704204,
+					1.427979
+				]
+			},
+			"properties": {
+				"OBJECTID": 161566,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10164885",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476169,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704783,
+					1.425134
+				]
+			},
+			"properties": {
+				"OBJECTID": 476169,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142886",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425727,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705337,
+					1.425993
+				]
+			},
+			"properties": {
+				"OBJECTID": 425727,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143048",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476181,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705373,
+					1.426354
+				]
+			},
+			"properties": {
+				"OBJECTID": 476181,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143142",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177547,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705357,
+					1.427589
+				]
+			},
+			"properties": {
+				"OBJECTID": 177547,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10158909",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425733,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705124,
+					1.425539
+				]
+			},
+			"properties": {
+				"OBJECTID": 425733,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142799",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 250834,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704918,
+					1.424867
+				]
+			},
+			"properties": {
+				"OBJECTID": 250834,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12967001",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161574,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703672,
+					1.428242
+				]
+			},
+			"properties": {
+				"OBJECTID": 161574,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10156160",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177558,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705441,
+					1.427383
+				]
+			},
+			"properties": {
+				"OBJECTID": 177558,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10165566",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224339,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702738,
+					1.428647
+				]
+			},
+			"properties": {
+				"OBJECTID": 224339,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11089376",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161589,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703081,
+					1.428514
+				]
+			},
+			"properties": {
+				"OBJECTID": 161589,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10156777",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375666,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704143,
+					1.428153
+				]
+			},
+			"properties": {
+				"OBJECTID": 375666,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11266571",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425750,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704269,
+					1.423704
+				]
+			},
+			"properties": {
+				"OBJECTID": 425750,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10141837",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161543,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704889,
+					1.427801
+				]
+			},
+			"properties": {
+				"OBJECTID": 161543,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10156775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375674,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704615,
+					1.427943
+				]
+			},
+			"properties": {
+				"OBJECTID": 375674,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11249334",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476155,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704976,
+					1.425514
+				]
+			},
+			"properties": {
+				"OBJECTID": 476155,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142555",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161583,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70287,
+					1.428619
+				]
+			},
+			"properties": {
+				"OBJECTID": 161583,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10163534",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375660,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703771,
+					1.428329
+				]
+			},
+			"properties": {
+				"OBJECTID": 375660,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11071048",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177544,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705491,
+					1.427526
+				]
+			},
+			"properties": {
+				"OBJECTID": 177544,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10169377",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161557,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70305,
+					1.428683
+				]
+			},
+			"properties": {
+				"OBJECTID": 161557,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10175384",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177564,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704425,
+					1.427879
+				]
+			},
+			"properties": {
+				"OBJECTID": 177564,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10165816",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476141,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703799,
+					1.423014
+				]
+			},
+			"properties": {
+				"OBJECTID": 476141,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142041",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 179920,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705,
+					1.4276
+				]
+			},
+			"properties": {
+				"OBJECTID": 179920,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11140115",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177550,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705112,
+					1.427691
+				]
+			},
+			"properties": {
+				"OBJECTID": 177550,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10172805",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476172,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704894,
+					1.425492
+				]
+			},
+			"properties": {
+				"OBJECTID": 476172,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10142975",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161563,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704323,
+					1.427929
+				]
+			},
+			"properties": {
+				"OBJECTID": 161563,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10171439",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476178,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705223,
+					1.426024
+				]
+			},
+			"properties": {
+				"OBJECTID": 476178,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143100",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 7352,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704227,
+					1.423608
+				]
+			},
+			"properties": {
+				"OBJECTID": 7352,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "1997",
+				"Girth": "> 1.5",
+				"Public_treeid": "10969676",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 250835,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704873,
+					1.424773
+				]
+			},
+			"properties": {
+				"OBJECTID": 250835,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12967002",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375669,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70431,
+					1.428071
+				]
+			},
+			"properties": {
+				"OBJECTID": 375669,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11266569",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161569,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703883,
+					1.428138
+				]
+			},
+			"properties": {
+				"OBJECTID": 161569,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10166842",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177553,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705651,
+					1.427291
+				]
+			},
+			"properties": {
+				"OBJECTID": 177553,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10159577",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161552,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703304,
+					1.428561
+				]
+			},
+			"properties": {
+				"OBJECTID": 161552,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10163532",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161575,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703582,
+					1.428282
+				]
+			},
+			"properties": {
+				"OBJECTID": 161575,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10173415",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177559,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7054,
+					1.4274
+				]
+			},
+			"properties": {
+				"OBJECTID": 177559,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10166155",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425751,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703955,
+					1.423055
+				]
+			},
+			"properties": {
+				"OBJECTID": 425751,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141809",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476156,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703971,
+					1.423419
+				]
+			},
+			"properties": {
+				"OBJECTID": 476156,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142599",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375675,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704522,
+					1.42783
+				]
+			},
+			"properties": {
+				"OBJECTID": 375675,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11266566",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425742,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70479,
+					1.424804
+				]
+			},
+			"properties": {
+				"OBJECTID": 425742,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142531",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 179915,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704729,
+					1.427722
+				]
+			},
+			"properties": {
+				"OBJECTID": 179915,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11266613",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161558,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702948,
+					1.428724
+				]
+			},
+			"properties": {
+				"OBJECTID": 161558,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10172807",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476167,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704693,
+					1.42494
+				]
+			},
+			"properties": {
+				"OBJECTID": 476167,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142805",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425725,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705558,
+					1.426458
+				]
+			},
+			"properties": {
+				"OBJECTID": 425725,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10143102",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476144,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703863,
+					1.423159
+				]
+			},
+			"properties": {
+				"OBJECTID": 476144,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142078",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375661,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703929,
+					1.42826
+				]
+			},
+			"properties": {
+				"OBJECTID": 375661,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11071047",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476173,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705043,
+					1.425636
+				]
+			},
+			"properties": {
+				"OBJECTID": 476173,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142994",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177545,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705452,
+					1.42754
+				]
+			},
+			"properties": {
+				"OBJECTID": 177545,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10162889",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476176,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705146,
+					1.425871
+				]
+			},
+			"properties": {
+				"OBJECTID": 476176,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143071",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161572,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703735,
+					1.428207
+				]
+			},
+			"properties": {
+				"OBJECTID": 161572,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10168163",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375672,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704539,
+					1.427977
+				]
+			},
+			"properties": {
+				"OBJECTID": 375672,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11266567",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177556,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705517,
+					1.427351
+				]
+			},
+			"properties": {
+				"OBJECTID": 177556,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10168839",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425731,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7052,
+					1.425675
+				]
+			},
+			"properties": {
+				"OBJECTID": 425731,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142926",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161549,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703407,
+					1.428506
+				]
+			},
+			"properties": {
+				"OBJECTID": 161549,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10159605",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161578,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703304,
+					1.428404
+				]
+			},
+			"properties": {
+				"OBJECTID": 161578,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10156161",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425739,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70495,
+					1.425113
+				]
+			},
+			"properties": {
+				"OBJECTID": 425739,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142578",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177562,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705254,
+					1.427475
+				]
+			},
+			"properties": {
+				"OBJECTID": 177562,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10174269",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161541,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704973,
+					1.427759
+				]
+			},
+			"properties": {
+				"OBJECTID": 161541,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10157497",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375678,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704684,
+					1.427743
+				]
+			},
+			"properties": {
+				"OBJECTID": 375678,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11140118",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476164,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704576,
+					1.424687
+				]
+			},
+			"properties": {
+				"OBJECTID": 476164,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10142733",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 344354,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703677,
+					1.428379
+				]
+			},
+			"properties": {
+				"OBJECTID": 344354,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11125164",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177542,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705637,
+					1.427446
+				]
+			},
+			"properties": {
+				"OBJECTID": 177542,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10160734",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161581,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702975,
+					1.428564
+				]
+			},
+			"properties": {
+				"OBJECTID": 161581,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10173416",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 179918,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704868,
+					1.427654
+				]
+			},
+			"properties": {
+				"OBJECTID": 179918,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11140117",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476170,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704929,
+					1.425431
+				]
+			},
+			"properties": {
+				"OBJECTID": 476170,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142922",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425728,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705297,
+					1.425912
+				]
+			},
+			"properties": {
+				"OBJECTID": 425728,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143014",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161555,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703177,
+					1.428622
+				]
+			},
+			"properties": {
+				"OBJECTID": 161555,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10160955",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476184,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705555,
+					1.426784
+				]
+			},
+			"properties": {
+				"OBJECTID": 476184,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143218",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161561,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702817,
+					1.42883
+				]
+			},
+			"properties": {
+				"OBJECTID": 161561,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10155580",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425734,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705118,
+					1.425502
+				]
+			},
+			"properties": {
+				"OBJECTID": 425734,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142756",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 250833,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705204,
+					1.425488
+				]
+			},
+			"properties": {
+				"OBJECTID": 250833,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12967000",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161573,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703697,
+					1.428223
+				]
+			},
+			"properties": {
+				"OBJECTID": 161573,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10171440",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177557,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705478,
+					1.427366
+				]
+			},
+			"properties": {
+				"OBJECTID": 177557,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10174001",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161550,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70337,
+					1.428526
+				]
+			},
+			"properties": {
+				"OBJECTID": 161550,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10158271",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425740,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704817,
+					1.424872
+				]
+			},
+			"properties": {
+				"OBJECTID": 425740,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10142553",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 179921,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704771,
+					1.427858
+				]
+			},
+			"properties": {
+				"OBJECTID": 179921,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11185270",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375667,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704193,
+					1.42813
+				]
+			},
+			"properties": {
+				"OBJECTID": 375667,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11266570",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161544,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704725,
+					1.427882
+				]
+			},
+			"properties": {
+				"OBJECTID": 161544,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10158270",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375673,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704572,
+					1.427956
+				]
+			},
+			"properties": {
+				"OBJECTID": 375673,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11249335",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161584,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702769,
+					1.428632
+				]
+			},
+			"properties": {
+				"OBJECTID": 161584,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10172808",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 344355,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703629,
+					1.428403
+				]
+			},
+			"properties": {
+				"OBJECTID": 344355,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11076903",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476185,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705606,
+					1.426863
+				]
+			},
+			"properties": {
+				"OBJECTID": 476185,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10143244",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476142,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70382,
+					1.423059
+				]
+			},
+			"properties": {
+				"OBJECTID": 476142,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10142059",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476165,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704612,
+					1.424768
+				]
+			},
+			"properties": {
+				"OBJECTID": 476165,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10142751",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177551,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705042,
+					1.427725
+				]
+			},
+			"properties": {
+				"OBJECTID": 177551,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10160256",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161556,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703108,
+					1.42865
+				]
+			},
+			"properties": {
+				"OBJECTID": 161556,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10158911",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476171,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704846,
+					1.425249
+				]
+			},
+			"properties": {
+				"OBJECTID": 476171,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142951",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476179,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705292,
+					1.426173
+				]
+			},
+			"properties": {
+				"OBJECTID": 476179,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143116",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161564,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704281,
+					1.427941
+				]
+			},
+			"properties": {
+				"OBJECTID": 161564,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10158272",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161547,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703521,
+					1.428451
+				]
+			},
+			"properties": {
+				"OBJECTID": 161547,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10157498",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161570,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703844,
+					1.428156
+				]
+			},
+			"properties": {
+				"OBJECTID": 161570,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10158273",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375670,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704353,
+					1.428055
+				]
+			},
+			"properties": {
+				"OBJECTID": 375670,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11266568",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177554,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705614,
+					1.427304
+				]
+			},
+			"properties": {
+				"OBJECTID": 177554,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10155577",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161576,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703469,
+					1.428327
+				]
+			},
+			"properties": {
+				"OBJECTID": 161576,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10166843",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177560,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705366,
+					1.427419
+				]
+			},
+			"properties": {
+				"OBJECTID": 177560,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10174268",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425754,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703827,
+					1.422759
+				]
+			},
+			"properties": {
+				"OBJECTID": 425754,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141759",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476159,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704378,
+					1.424319
+				]
+			},
+			"properties": {
+				"OBJECTID": 476159,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142659",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425743,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70471,
+					1.424655
+				]
+			},
+			"properties": {
+				"OBJECTID": 425743,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10142505",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425737,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705032,
+					1.425238
+				]
+			},
+			"properties": {
+				"OBJECTID": 425737,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142609",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375676,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704563,
+					1.427803
+				]
+			},
+			"properties": {
+				"OBJECTID": 375676,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11266565",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161587,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702764,
+					1.428765
+				]
+			},
+			"properties": {
+				"OBJECTID": 161587,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10163535",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476162,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704501,
+					1.424536
+				]
+			},
+			"properties": {
+				"OBJECTID": 476162,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142704",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476168,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704747,
+					1.425052
+				]
+			},
+			"properties": {
+				"OBJECTID": 476168,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142832",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425726,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705546,
+					1.426426
+				]
+			},
+			"properties": {
+				"OBJECTID": 425726,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143078",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375664,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704044,
+					1.428198
+				]
+			},
+			"properties": {
+				"OBJECTID": 375664,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11249337",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476182,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705411,
+					1.426434
+				]
+			},
+			"properties": {
+				"OBJECTID": 476182,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143156",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161553,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703271,
+					1.428578
+				]
+			},
+			"properties": {
+				"OBJECTID": 161553,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10156776",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161567,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704165,
+					1.427994
+				]
+			},
+			"properties": {
+				"OBJECTID": 161567,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10170833",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177548,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705229,
+					1.427644
+				]
+			},
+			"properties": {
+				"OBJECTID": 177548,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10169540",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161548,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703441,
+					1.428489
+				]
+			},
+			"properties": {
+				"OBJECTID": 161548,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10164883",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161571,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703785,
+					1.428182
+				]
+			},
+			"properties": {
+				"OBJECTID": 161571,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10163533",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375671,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704393,
+					1.428041
+				]
+			},
+			"properties": {
+				"OBJECTID": 375671,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11249336",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177555,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705567,
+					1.427327
+				]
+			},
+			"properties": {
+				"OBJECTID": 177555,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10165565",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705132,
+					1.425571
+				]
+			},
+			"properties": {
+				"OBJECTID": 425732,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142894",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161542,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704931,
+					1.42778
+				]
+			},
+			"properties": {
+				"OBJECTID": 161542,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10156159",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375665,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704095,
+					1.428178
+				]
+			},
+			"properties": {
+				"OBJECTID": 375665,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11071046",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161579,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703144,
+					1.428485
+				]
+			},
+			"properties": {
+				"OBJECTID": 161579,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10171441",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177563,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704483,
+					1.42785
+				]
+			},
+			"properties": {
+				"OBJECTID": 177563,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10165567",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476160,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704441,
+					1.424418
+				]
+			},
+			"properties": {
+				"OBJECTID": 476160,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142677",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425738,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705007,
+					1.425201
+				]
+			},
+			"properties": {
+				"OBJECTID": 425738,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10142588",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161588,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702784,
+					1.428799
+				]
+			},
+			"properties": {
+				"OBJECTID": 161588,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10163536",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375659,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703713,
+					1.428355
+				]
+			},
+			"properties": {
+				"OBJECTID": 375659,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11286462",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177543,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705544,
+					1.427505
+				]
+			},
+			"properties": {
+				"OBJECTID": 177543,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10166841",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161582,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702921,
+					1.428593
+				]
+			},
+			"properties": {
+				"OBJECTID": 161582,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10156162",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476163,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704522,
+					1.424594
+				]
+			},
+			"properties": {
+				"OBJECTID": 476163,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142719",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476140,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703743,
+					1.422895
+				]
+			},
+			"properties": {
+				"OBJECTID": 476140,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142020",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 179919,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704932,
+					1.427629
+				]
+			},
+			"properties": {
+				"OBJECTID": 179919,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11140116",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177549,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705155,
+					1.427673
+				]
+			},
+			"properties": {
+				"OBJECTID": 177549,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10158910",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161568,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704123,
+					1.428015
+				]
+			},
+			"properties": {
+				"OBJECTID": 161568,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10160956",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476183,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705508,
+					1.426661
+				]
+			},
+			"properties": {
+				"OBJECTID": 476183,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143190",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161562,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704375,
+					1.427899
+				]
+			},
+			"properties": {
+				"OBJECTID": 161562,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10157499",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476177,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705176,
+					1.425927
+				]
+			},
+			"properties": {
+				"OBJECTID": 476177,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143086",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 250836,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704854,
+					1.424749
+				]
+			},
+			"properties": {
+				"OBJECTID": 250836,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1609",
+				"COMMON_NM": "Java Willow",
+				"SPSC_NM": "Ficus benjamina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus benjamina,Java Willow",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12967003",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161551,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703345,
+					1.428541
+				]
+			},
+			"properties": {
+				"OBJECTID": 161551,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10164884",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161545,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70466,
+					1.42792
+				]
+			},
+			"properties": {
+				"OBJECTID": 161545,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10161955",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425729,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70524,
+					1.42577
+				]
+			},
+			"properties": {
+				"OBJECTID": 425729,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142958",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 179922,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704838,
+					1.427819
+				]
+			},
+			"properties": {
+				"OBJECTID": 179922,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11140418",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476157,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704144,
+					1.423854
+				]
+			},
+			"properties": {
+				"OBJECTID": 476157,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142623",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375668,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704264,
+					1.428095
+				]
+			},
+			"properties": {
+				"OBJECTID": 375668,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11071045",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161585,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702734,
+					1.428697
+				]
+			},
+			"properties": {
+				"OBJECTID": 161585,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10174004",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161559,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702895,
+					1.428767
+				]
+			},
+			"properties": {
+				"OBJECTID": 161559,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10161599",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 179916,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704779,
+					1.4277
+				]
+			},
+			"properties": {
+				"OBJECTID": 179916,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11185272",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476143,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703851,
+					1.423119
+				]
+			},
+			"properties": {
+				"OBJECTID": 476143,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10142065",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476186,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705668,
+					1.42699
+				]
+			},
+			"properties": {
+				"OBJECTID": 476186,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143268",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476166,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704648,
+					1.424859
+				]
+			},
+			"properties": {
+				"OBJECTID": 476166,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10142777",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 375662,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.703946,
+					1.42825
+				]
+			},
+			"properties": {
+				"OBJECTID": 375662,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11249339",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161565,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.704239,
+					1.427963
+				]
+			},
+			"properties": {
+				"OBJECTID": 161565,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "15",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10165568",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177552,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705001,
+					1.42774
+				]
+			},
+			"properties": {
+				"OBJECTID": 177552,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10172806",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476174,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705004,
+					1.425576
+				]
+			},
+			"properties": {
+				"OBJECTID": 476174,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143016",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476180,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705326,
+					1.426268
+				]
+			},
+			"properties": {
+				"OBJECTID": 476180,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10143131",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177546,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.705411,
+					1.427558
+				]
+			},
+			"properties": {
+				"OBJECTID": 177546,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1666",
+				"COMMON_NM": "Merawan Siput Jantan",
+				"SPSC_NM": "Hopea odorata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Hopea odorata,Merawan Siput Jantan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10169378",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

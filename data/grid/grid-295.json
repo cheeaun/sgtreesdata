@@ -1,0 +1,73 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 698991,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80016,
+					1.365434
+				]
+			},
+			"properties": {
+				"OBJECTID": 698991,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "this is a test tree",
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "12658140",
+				"EYTreeId": "{5DB7849E-DFE0-4BB7-9DEF-0F435059F9D5}",
+				"Name": "Nate",
+				"Email": "Nate@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698992,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.800254,
+					1.364598
+				]
+			},
+			"properties": {
+				"OBJECTID": 698992,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "this is a test tree",
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "12658141",
+				"EYTreeId": "{0337E826-0AE7-40FB-B82B-C079FA32B009}",
+				"Name": "Nate",
+				"Email": "Nate@gmail.com",
+				"UserKeywords": null
+			}
+		}
+	]
+}

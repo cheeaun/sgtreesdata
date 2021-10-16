@@ -1,0 +1,345 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 297524,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.78139,
+					1.3599
+				]
+			},
+			"properties": {
+				"OBJECTID": 297524,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "29062",
+				"COMMON_NM": "Tembusu Tikus",
+				"SPSC_NM": "Pteleocarpa lamponga",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pteleocarpa lamponga,Tembusu Tikus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11292974",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 297518,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.781254,
+					1.360197
+				]
+			},
+			"properties": {
+				"OBJECTID": 297518,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11292972",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 297521,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.781347,
+					1.359995
+				]
+			},
+			"properties": {
+				"OBJECTID": 297521,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11088078",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 297522,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.78133,
+					1.360034
+				]
+			},
+			"properties": {
+				"OBJECTID": 297522,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1412",
+				"COMMON_NM": "White Cheesewood",
+				"SPSC_NM": "Alstonia scholaris",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Alstonia scholaris,White Cheesewood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11087267",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 297525,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.781404,
+					1.359873
+				]
+			},
+			"properties": {
+				"OBJECTID": 297525,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11088107",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 297519,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.781272,
+					1.360157
+				]
+			},
+			"properties": {
+				"OBJECTID": 297519,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11292973",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 297526,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.781422,
+					1.359836
+				]
+			},
+			"properties": {
+				"OBJECTID": 297526,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11087296",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 384315,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.781291,
+					1.360118
+				]
+			},
+			"properties": {
+				"OBJECTID": 384315,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1964",
+				"COMMON_NM": "White Mahogany",
+				"SPSC_NM": "Khaya anthotheca",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Khaya anthotheca,White Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10170752",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 297520,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.78131,
+					1.360076
+				]
+			},
+			"properties": {
+				"OBJECTID": 297520,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11171328",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 297523,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.781377,
+					1.359927
+				]
+			},
+			"properties": {
+				"OBJECTID": 297523,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "29062",
+				"COMMON_NM": "Tembusu Tikus",
+				"SPSC_NM": "Pteleocarpa lamponga",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pteleocarpa lamponga,Tembusu Tikus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11293177",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

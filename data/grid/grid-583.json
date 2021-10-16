@@ -1,0 +1,2759 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 3464,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989456,
+					1.408642
+				]
+			},
+			"properties": {
+				"OBJECTID": 3464,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "33520",
+				"COMMON_NM": null,
+				"SPSC_NM": "Syzygium sp.",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium sp.,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12849403",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989411,
+					1.408613
+				]
+			},
+			"properties": {
+				"OBJECTID": 1712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12849404",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2090,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989492,
+					1.408275
+				]
+			},
+			"properties": {
+				"OBJECTID": 2090,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12850104",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3759,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988788,
+					1.408806
+				]
+			},
+			"properties": {
+				"OBJECTID": 3759,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "0",
+				"SPCS_CD": "29807",
+				"COMMON_NM": null,
+				"SPSC_NM": "Elaeocarpus sp.",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Elaeocarpus sp.,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "13003292",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1197,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988643,
+					1.40861
+				]
+			},
+			"properties": {
+				"OBJECTID": 1197,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939635",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3335,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988526,
+					1.40734
+				]
+			},
+			"properties": {
+				"OBJECTID": 3335,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "30430",
+				"COMMON_NM": "Mangrove Apple",
+				"SPSC_NM": "Sonneratia alba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sonneratia alba,Mangrove Apple",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938473",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1583,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989159,
+					1.408636
+				]
+			},
+			"properties": {
+				"OBJECTID": 1583,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12850101",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5176,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989472,
+					1.408895
+				]
+			},
+			"properties": {
+				"OBJECTID": 5176,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "0",
+				"SPCS_CD": "1624",
+				"COMMON_NM": "Variegated fig",
+				"SPSC_NM": "Ficus variegata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus variegata,Variegated fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12849402",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3633,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988587,
+					1.409554
+				]
+			},
+			"properties": {
+				"OBJECTID": 3633,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939712",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1818,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983437,
+					1.409726
+				]
+			},
+			"properties": {
+				"OBJECTID": 1818,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941045",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2774,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989432,
+					1.408529
+				]
+			},
+			"properties": {
+				"OBJECTID": 2774,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "33481",
+				"COMMON_NM": null,
+				"SPSC_NM": "Ficus sp.",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus sp.,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12849415",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4062,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989405,
+					1.408664
+				]
+			},
+			"properties": {
+				"OBJECTID": 4062,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12849407",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2187,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988346,
+					1.409916
+				]
+			},
+			"properties": {
+				"OBJECTID": 2187,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940310",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1005,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989505,
+					1.408328
+				]
+			},
+			"properties": {
+				"OBJECTID": 1005,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12850108",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2588,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988502,
+					1.409529
+				]
+			},
+			"properties": {
+				"OBJECTID": 2588,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939335",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2388,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983587,
+					1.409917
+				]
+			},
+			"properties": {
+				"OBJECTID": 2388,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938839",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2834,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988617,
+					1.409582
+				]
+			},
+			"properties": {
+				"OBJECTID": 2834,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940307",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1409,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988784,
+					1.408434
+				]
+			},
+			"properties": {
+				"OBJECTID": 1409,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938885",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1194,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988831,
+					1.408463
+				]
+			},
+			"properties": {
+				"OBJECTID": 1194,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940224",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3587,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988841,
+					1.408794
+				]
+			},
+			"properties": {
+				"OBJECTID": 3587,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "13003296",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3550,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988536,
+					1.409533
+				]
+			},
+			"properties": {
+				"OBJECTID": 3550,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939713",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2313,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988521,
+					1.409871
+				]
+			},
+			"properties": {
+				"OBJECTID": 2313,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941066",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3439,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989149,
+					1.408607
+				]
+			},
+			"properties": {
+				"OBJECTID": 3439,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940616",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2932,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989431,
+					1.40862
+				]
+			},
+			"properties": {
+				"OBJECTID": 2932,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12849405",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2122,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988829,
+					1.408789
+				]
+			},
+			"properties": {
+				"OBJECTID": 2122,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "13003293",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1175,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988997,
+					1.408426
+				]
+			},
+			"properties": {
+				"OBJECTID": 1175,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940221",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3359,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989043,
+					1.40855
+				]
+			},
+			"properties": {
+				"OBJECTID": 3359,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938884",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2743,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983658,
+					1.409767
+				]
+			},
+			"properties": {
+				"OBJECTID": 2743,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940346",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2079,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988646,
+					1.408651
+				]
+			},
+			"properties": {
+				"OBJECTID": 2079,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939820",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4776,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.98885,
+					1.4088
+				]
+			},
+			"properties": {
+				"OBJECTID": 4776,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "13003294",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3396,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989461,
+					1.40859
+				]
+			},
+			"properties": {
+				"OBJECTID": 3396,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12849411",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3837,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989136,
+					1.408308
+				]
+			},
+			"properties": {
+				"OBJECTID": 3837,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938756",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1922,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989395,
+					1.408686
+				]
+			},
+			"properties": {
+				"OBJECTID": 1922,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12849408",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1736,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988469,
+					1.409938
+				]
+			},
+			"properties": {
+				"OBJECTID": 1736,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939329",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2686,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988992,
+					1.408456
+				]
+			},
+			"properties": {
+				"OBJECTID": 2686,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940222",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3313,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988495,
+					1.409551
+				]
+			},
+			"properties": {
+				"OBJECTID": 3313,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939716",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2826,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989253,
+					1.408066
+				]
+			},
+			"properties": {
+				"OBJECTID": 2826,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938881",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1799,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983406,
+					1.409571
+				]
+			},
+			"properties": {
+				"OBJECTID": 1799,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941046",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983495,
+					1.409537
+				]
+			},
+			"properties": {
+				"OBJECTID": 2732,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938840",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2076,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.985455,
+					1.40801
+				]
+			},
+			"properties": {
+				"OBJECTID": 2076,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "5",
+				"SPCS_CD": "1411",
+				"COMMON_NM": "Pulai",
+				"SPSC_NM": "Alstonia angustiloba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Alstonia angustiloba,Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940085",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3264,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988508,
+					1.409494
+				]
+			},
+			"properties": {
+				"OBJECTID": 3264,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940309",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4587,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988521,
+					1.409563
+				]
+			},
+			"properties": {
+				"OBJECTID": 4587,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939332",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3399,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983396,
+					1.409601
+				]
+			},
+			"properties": {
+				"OBJECTID": 3399,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940291",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2566,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988706,
+					1.408574
+				]
+			},
+			"properties": {
+				"OBJECTID": 2566,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "13003295",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2936,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988662,
+					1.40859
+				]
+			},
+			"properties": {
+				"OBJECTID": 2936,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939636",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1988,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.98372,
+					1.409591
+				]
+			},
+			"properties": {
+				"OBJECTID": 1988,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939002",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2529,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988508,
+					1.409511
+				]
+			},
+			"properties": {
+				"OBJECTID": 2529,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938946",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1155,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988533,
+					1.409496
+				]
+			},
+			"properties": {
+				"OBJECTID": 1155,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940308",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2432,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989454,
+					1.408639
+				]
+			},
+			"properties": {
+				"OBJECTID": 2432,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12849406",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2641,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988292,
+					1.407361
+				]
+			},
+			"properties": {
+				"OBJECTID": 2641,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "5",
+				"SPCS_CD": "30430",
+				"COMMON_NM": "Mangrove Apple",
+				"SPSC_NM": "Sonneratia alba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sonneratia alba,Mangrove Apple",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938474",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2014,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989435,
+					1.408211
+				]
+			},
+			"properties": {
+				"OBJECTID": 2014,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1428",
+				"COMMON_NM": "Cook Pine",
+				"SPSC_NM": "Araucaria columnaris",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Araucaria columnaris,Cook Pine",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940617",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6142,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.985455,
+					1.40801
+				]
+			},
+			"properties": {
+				"OBJECTID": 6142,
+				"Type": "HERITAGE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "5",
+				"SPCS_CD": "1411",
+				"COMMON_NM": "Pulai, Common Pulai",
+				"SPSC_NM": "Alstonia angustiloba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Alstonia angustiloba,Pulai, Common Pulai",
+				"ACTUAL_TREE_TYPE": "HERITAGE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Found in Pulau Ubin, Jalan Durian after Pekakak Hut, former Kampong Melayu",
+				"Hert_age": "2016",
+				"Girth": "> 1.5",
+				"Public_treeid": "10689713",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1018,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989455,
+					1.40823
+				]
+			},
+			"properties": {
+				"OBJECTID": 1018,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12850102",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1688,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988543,
+					1.40955
+				]
+			},
+			"properties": {
+				"OBJECTID": 1688,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939330",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3125,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983686,
+					1.409687
+				]
+			},
+			"properties": {
+				"OBJECTID": 3125,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940347",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1951,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989377,
+					1.408828
+				]
+			},
+			"properties": {
+				"OBJECTID": 1951,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940845",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2329,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989344,
+					1.408721
+				]
+			},
+			"properties": {
+				"OBJECTID": 2329,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "29864",
+				"COMMON_NM": "Stem-fruited Fig",
+				"SPSC_NM": "Ficus caulocarpa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus caulocarpa,Stem-fruited Fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940489",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2501,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989253,
+					1.408955
+				]
+			},
+			"properties": {
+				"OBJECTID": 2501,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "2003",
+				"COMMON_NM": "Pinang Punai",
+				"SPSC_NM": "Elaeocarpus pedunculatus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Elaeocarpus pedunculatus,Pinang Punai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939967",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2950,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989442,
+					1.408543
+				]
+			},
+			"properties": {
+				"OBJECTID": 2950,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "33520",
+				"COMMON_NM": null,
+				"SPSC_NM": "Syzygium sp.",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium sp.,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12849413",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1090,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989158,
+					1.408655
+				]
+			},
+			"properties": {
+				"OBJECTID": 1090,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12850106",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3535,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989498,
+					1.408648
+				]
+			},
+			"properties": {
+				"OBJECTID": 3535,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939969",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 996,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988999,
+					1.408498
+				]
+			},
+			"properties": {
+				"OBJECTID": 996,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938883",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2092,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989085,
+					1.408401
+				]
+			},
+			"properties": {
+				"OBJECTID": 2092,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "29864",
+				"COMMON_NM": "Stem-fruited Fig",
+				"SPSC_NM": "Ficus caulocarpa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus caulocarpa,Stem-fruited Fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938882",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3120,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989477,
+					1.408756
+				]
+			},
+			"properties": {
+				"OBJECTID": 3120,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "33520",
+				"COMMON_NM": null,
+				"SPSC_NM": "Syzygium sp.",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium sp.,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12850105",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6177,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988526,
+					1.40734
+				]
+			},
+			"properties": {
+				"OBJECTID": 6177,
+				"Type": "HERITAGE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "5",
+				"SPCS_CD": "30430",
+				"COMMON_NM": "Perepat, Mangrove Apple, Pedada, Pidada",
+				"SPSC_NM": "Sonneratia alba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sonneratia alba,Perepat, Mangrove Apple, Pedada, Pidada",
+				"ACTUAL_TREE_TYPE": "HERITAGE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Found in Pulau Ubin, near Chek Jawa",
+				"Hert_age": "2016",
+				"Girth": "> 1.5",
+				"Public_treeid": "10689720",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2908,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989399,
+					1.408583
+				]
+			},
+			"properties": {
+				"OBJECTID": 2908,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940846",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1534,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989155,
+					1.408653
+				]
+			},
+			"properties": {
+				"OBJECTID": 1534,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12850107",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4680,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.983763,
+					1.409454
+				]
+			},
+			"properties": {
+				"OBJECTID": 4680,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938841",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3151,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989499,
+					1.408841
+				]
+			},
+			"properties": {
+				"OBJECTID": 3151,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940488",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3492,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989169,
+					1.408331
+				]
+			},
+			"properties": {
+				"OBJECTID": 3492,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940987",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5169,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989604,
+					1.408325
+				]
+			},
+			"properties": {
+				"OBJECTID": 5169,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940968",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2095,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989449,
+					1.408562
+				]
+			},
+			"properties": {
+				"OBJECTID": 2095,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12849409",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2035,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989473,
+					1.40866
+				]
+			},
+			"properties": {
+				"OBJECTID": 2035,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "33520",
+				"COMMON_NM": null,
+				"SPSC_NM": "Syzygium sp.",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium sp.,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12849410",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2570,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989237,
+					1.408167
+				]
+			},
+			"properties": {
+				"OBJECTID": 2570,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1428",
+				"COMMON_NM": "Cook Pine",
+				"SPSC_NM": "Araucaria columnaris",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Araucaria columnaris,Cook Pine",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940220",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5106,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989437,
+					1.408544
+				]
+			},
+			"properties": {
+				"OBJECTID": 5106,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12849412",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1239,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989398,
+					1.408505
+				]
+			},
+			"properties": {
+				"OBJECTID": 1239,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12850103",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1288,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988535,
+					1.409514
+				]
+			},
+			"properties": {
+				"OBJECTID": 1288,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940306",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3005,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989453,
+					1.408171
+				]
+			},
+			"properties": {
+				"OBJECTID": 3005,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1428",
+				"COMMON_NM": "Cook Pine",
+				"SPSC_NM": "Araucaria columnaris",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Araucaria columnaris,Cook Pine",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938744",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6151,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988292,
+					1.407361
+				]
+			},
+			"properties": {
+				"OBJECTID": 6151,
+				"Type": "HERITAGE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "5",
+				"SPCS_CD": "30430",
+				"COMMON_NM": "Perepat, Mangrove Apple, Pedada, Pidada",
+				"SPSC_NM": "Sonneratia alba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sonneratia alba,Perepat, Mangrove Apple, Pedada, Pidada",
+				"ACTUAL_TREE_TYPE": "HERITAGE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Found in Pulau Ubin, near Chek Jawa",
+				"Hert_age": "2016",
+				"Girth": "> 1.5",
+				"Public_treeid": "10689719",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4522,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.988852,
+					1.40874
+				]
+			},
+			"properties": {
+				"OBJECTID": 4522,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "2",
+				"SPCS_CD": "1624",
+				"COMMON_NM": "Variegated fig",
+				"SPSC_NM": "Ficus variegata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus variegata,Variegated fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940402",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3148,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.989357,
+					1.408677
+				]
+			},
+			"properties": {
+				"OBJECTID": 3148,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "0",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12849414",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

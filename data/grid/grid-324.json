@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 698598,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.824915,
+					1.251158
+				]
+			},
+			"properties": {
+				"OBJECTID": 698598,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Mimusops elengi L.",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Mimusops elengi L.",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13043299",
+				"EYTreeId": "{10B4FA5B-21CB-4486-A948-96D3F7ABB72B}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

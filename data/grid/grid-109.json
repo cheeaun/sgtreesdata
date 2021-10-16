@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 698582,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.677979,
+					1.420524
+				]
+			},
+			"properties": {
+				"OBJECTID": 698582,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "test",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13043023",
+				"EYTreeId": "{FBAA62C0-499E-46E0-BE58-308267561A13}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": "#testtest1"
+			}
+		}
+	]
+}

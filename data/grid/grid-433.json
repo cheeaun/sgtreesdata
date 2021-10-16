@@ -1,0 +1,4017 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 271467,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885042,
+					1.423968
+				]
+			},
+			"properties": {
+				"OBJECTID": 271467,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11556643",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527516,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882904,
+					1.4254
+				]
+			},
+			"properties": {
+				"OBJECTID": 527516,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584504",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 370576,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887607,
+					1.42278
+				]
+			},
+			"properties": {
+				"OBJECTID": 370576,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1782",
+				"COMMON_NM": "Big-leaved Podocarp",
+				"SPSC_NM": "Podocarpus macrophyllus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Podocarpus macrophyllus,Big-leaved Podocarp",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11555753",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527562,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884269,
+					1.424611
+				]
+			},
+			"properties": {
+				"OBJECTID": 527562,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584554",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224651,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883352,
+					1.42514
+				]
+			},
+			"properties": {
+				"OBJECTID": 224651,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11574176",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 540474,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885065,
+					1.424133
+				]
+			},
+			"properties": {
+				"OBJECTID": 540474,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11576305",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 686940,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884791,
+					1.424299
+				]
+			},
+			"properties": {
+				"OBJECTID": 686940,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11567311",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 327210,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887643,
+					1.422759
+				]
+			},
+			"properties": {
+				"OBJECTID": 327210,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11569666",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527556,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884723,
+					1.424339
+				]
+			},
+			"properties": {
+				"OBJECTID": 527556,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584546",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224402,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883779,
+					1.424709
+				]
+			},
+			"properties": {
+				"OBJECTID": 224402,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11556633",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614022,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884274,
+					1.424421
+				]
+			},
+			"properties": {
+				"OBJECTID": 614022,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584474",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527513,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883048,
+					1.425313
+				]
+			},
+			"properties": {
+				"OBJECTID": 527513,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584500",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527570,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.88385,
+					1.424849
+				]
+			},
+			"properties": {
+				"OBJECTID": 527570,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584563",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527576,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883478,
+					1.425066
+				]
+			},
+			"properties": {
+				"OBJECTID": 527576,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584569",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527519,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882393,
+					1.425719
+				]
+			},
+			"properties": {
+				"OBJECTID": 527519,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584507",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527542,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885889,
+					1.423699
+				]
+			},
+			"properties": {
+				"OBJECTID": 527542,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584530",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271464,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884406,
+					1.424348
+				]
+			},
+			"properties": {
+				"OBJECTID": 271464,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11556640",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527550,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885221,
+					1.424044
+				]
+			},
+			"properties": {
+				"OBJECTID": 527550,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584539",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 686946,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884756,
+					1.424319
+				]
+			},
+			"properties": {
+				"OBJECTID": 686946,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11567317",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614019,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885229,
+					1.423858
+				]
+			},
+			"properties": {
+				"OBJECTID": 614019,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11584471",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527553,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.88509,
+					1.424119
+				]
+			},
+			"properties": {
+				"OBJECTID": 527553,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584543",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527510,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883276,
+					1.425181
+				]
+			},
+			"properties": {
+				"OBJECTID": 527510,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584496",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 629485,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887198,
+					1.422751
+				]
+			},
+			"properties": {
+				"OBJECTID": 629485,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11089692",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527559,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884449,
+					1.424498
+				]
+			},
+			"properties": {
+				"OBJECTID": 527559,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584550",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486763,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882048,
+					1.425946
+				]
+			},
+			"properties": {
+				"OBJECTID": 486763,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11565572",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224405,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884101,
+					1.424517
+				]
+			},
+			"properties": {
+				"OBJECTID": 224405,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11556636",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257824,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883625,
+					1.424797
+				]
+			},
+			"properties": {
+				"OBJECTID": 257824,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11586692",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527522,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882289,
+					1.425781
+				]
+			},
+			"properties": {
+				"OBJECTID": 527522,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584510",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527573,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883537,
+					1.425029
+				]
+			},
+			"properties": {
+				"OBJECTID": 527573,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584566",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 327207,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887486,
+					1.422845
+				]
+			},
+			"properties": {
+				"OBJECTID": 327207,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11569664",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527568,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883945,
+					1.424792
+				]
+			},
+			"properties": {
+				"OBJECTID": 527568,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584561",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224649,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883112,
+					1.425277
+				]
+			},
+			"properties": {
+				"OBJECTID": 224649,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11574173",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224400,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883508,
+					1.424867
+				]
+			},
+			"properties": {
+				"OBJECTID": 224400,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11556631",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527551,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885141,
+					1.424089
+				]
+			},
+			"properties": {
+				"OBJECTID": 527551,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584541",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527545,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885651,
+					1.423816
+				]
+			},
+			"properties": {
+				"OBJECTID": 527545,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584533",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 335641,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882328,
+					1.425757
+				]
+			},
+			"properties": {
+				"OBJECTID": 335641,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11565574",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614020,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885118,
+					1.423924
+				]
+			},
+			"properties": {
+				"OBJECTID": 614020,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584472",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527554,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.88494,
+					1.424211
+				]
+			},
+			"properties": {
+				"OBJECTID": 527554,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584544",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527511,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883251,
+					1.425198
+				]
+			},
+			"properties": {
+				"OBJECTID": 527511,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584497",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486764,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882219,
+					1.425831
+				]
+			},
+			"properties": {
+				"OBJECTID": 486764,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11565573",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527525,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882134,
+					1.425881
+				]
+			},
+			"properties": {
+				"OBJECTID": 527525,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584513",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 402107,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.88452,
+					1.424277
+				]
+			},
+			"properties": {
+				"OBJECTID": 402107,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "13014191",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527574,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883568,
+					1.425012
+				]
+			},
+			"properties": {
+				"OBJECTID": 527574,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584567",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527565,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884155,
+					1.424668
+				]
+			},
+			"properties": {
+				"OBJECTID": 527565,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584557",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527517,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882526,
+					1.425634
+				]
+			},
+			"properties": {
+				"OBJECTID": 527517,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584505",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271470,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885498,
+					1.423717
+				]
+			},
+			"properties": {
+				"OBJECTID": 271470,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11556646",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614014,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883455,
+					1.424898
+				]
+			},
+			"properties": {
+				"OBJECTID": 614014,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584466",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271462,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884322,
+					1.424392
+				]
+			},
+			"properties": {
+				"OBJECTID": 271462,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11556638",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 540475,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885193,
+					1.424062
+				]
+			},
+			"properties": {
+				"OBJECTID": 540475,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11576306",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527548,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.88535,
+					1.423971
+				]
+			},
+			"properties": {
+				"OBJECTID": 527548,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584536",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527577,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.88345,
+					1.425082
+				]
+			},
+			"properties": {
+				"OBJECTID": 527577,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584570",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614023,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884176,
+					1.424474
+				]
+			},
+			"properties": {
+				"OBJECTID": 614023,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11584475",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614017,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885435,
+					1.423752
+				]
+			},
+			"properties": {
+				"OBJECTID": 614017,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584469",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527557,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884518,
+					1.424458
+				]
+			},
+			"properties": {
+				"OBJECTID": 527557,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584548",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486761,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882016,
+					1.425966
+				]
+			},
+			"properties": {
+				"OBJECTID": 486761,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11565570",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224403,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883965,
+					1.424599
+				]
+			},
+			"properties": {
+				"OBJECTID": 224403,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11556634",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527514,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882955,
+					1.425365
+				]
+			},
+			"properties": {
+				"OBJECTID": 527514,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584502",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527528,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882109,
+					1.425894
+				]
+			},
+			"properties": {
+				"OBJECTID": 527528,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584516",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527571,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883785,
+					1.42489
+				]
+			},
+			"properties": {
+				"OBJECTID": 527571,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584564",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 327205,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887293,
+					1.422947
+				]
+			},
+			"properties": {
+				"OBJECTID": 327205,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11569662",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527543,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885807,
+					1.423743
+				]
+			},
+			"properties": {
+				"OBJECTID": 527543,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584531",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527520,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882351,
+					1.425742
+				]
+			},
+			"properties": {
+				"OBJECTID": 527520,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584508",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271465,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884899,
+					1.424055
+				]
+			},
+			"properties": {
+				"OBJECTID": 271465,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11556641",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527566,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884203,
+					1.424643
+				]
+			},
+			"properties": {
+				"OBJECTID": 527566,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584558",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271471,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885651,
+					1.423627
+				]
+			},
+			"properties": {
+				"OBJECTID": 271471,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11556647",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527549,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885253,
+					1.424027
+				]
+			},
+			"properties": {
+				"OBJECTID": 527549,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584538",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 257826,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883547,
+					1.424841
+				]
+			},
+			"properties": {
+				"OBJECTID": 257826,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11586693",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 540476,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885577,
+					1.423855
+				]
+			},
+			"properties": {
+				"OBJECTID": 540476,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11576307",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614015,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883355,
+					1.424933
+				]
+			},
+			"properties": {
+				"OBJECTID": 614015,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584467",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224641,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.881987,
+					1.425983
+				]
+			},
+			"properties": {
+				"OBJECTID": 224641,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11574171",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 486762,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882032,
+					1.425959
+				]
+			},
+			"properties": {
+				"OBJECTID": 486762,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11565571",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614018,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885298,
+					1.423819
+				]
+			},
+			"properties": {
+				"OBJECTID": 614018,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11584470",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527509,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8833,
+					1.425169
+				]
+			},
+			"properties": {
+				"OBJECTID": 527509,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584495",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527560,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884552,
+					1.424438
+				]
+			},
+			"properties": {
+				"OBJECTID": 527560,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584551",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224404,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.88405,
+					1.424551
+				]
+			},
+			"properties": {
+				"OBJECTID": 224404,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11556635",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527572,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883603,
+					1.424994
+				]
+			},
+			"properties": {
+				"OBJECTID": 527572,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584565",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 327206,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887329,
+					1.422928
+				]
+			},
+			"properties": {
+				"OBJECTID": 327206,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1782",
+				"COMMON_NM": "Big-leaved Podocarp",
+				"SPSC_NM": "Podocarpus macrophyllus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Podocarpus macrophyllus,Big-leaved Podocarp",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11569663",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527523,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882198,
+					1.425838
+				]
+			},
+			"properties": {
+				"OBJECTID": 527523,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584511",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271468,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885174,
+					1.42389
+				]
+			},
+			"properties": {
+				"OBJECTID": 271468,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11556644",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527563,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884232,
+					1.424625
+				]
+			},
+			"properties": {
+				"OBJECTID": 527563,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584555",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 370575,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887361,
+					1.422913
+				]
+			},
+			"properties": {
+				"OBJECTID": 370575,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1782",
+				"COMMON_NM": "Big-leaved Podocarp",
+				"SPSC_NM": "Podocarpus macrophyllus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Podocarpus macrophyllus,Big-leaved Podocarp",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11555752",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224650,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883185,
+					1.425238
+				]
+			},
+			"properties": {
+				"OBJECTID": 224650,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11574174",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 540473,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884965,
+					1.424194
+				]
+			},
+			"properties": {
+				"OBJECTID": 540473,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11576304",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527552,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885116,
+					1.424103
+				]
+			},
+			"properties": {
+				"OBJECTID": 527552,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584542",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527546,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885614,
+					1.423836
+				]
+			},
+			"properties": {
+				"OBJECTID": 527546,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584534",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614012,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883904,
+					1.424632
+				]
+			},
+			"properties": {
+				"OBJECTID": 614012,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11584464",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 556468,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887551,
+					1.422807
+				]
+			},
+			"properties": {
+				"OBJECTID": 556468,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13013985",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 327209,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887525,
+					1.422824
+				]
+			},
+			"properties": {
+				"OBJECTID": 327209,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11569665",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224401,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883681,
+					1.424763
+				]
+			},
+			"properties": {
+				"OBJECTID": 224401,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11556632",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527512,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883227,
+					1.425211
+				]
+			},
+			"properties": {
+				"OBJECTID": 527512,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584498",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614021,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.88484,
+					1.424091
+				]
+			},
+			"properties": {
+				"OBJECTID": 614021,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584473",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527526,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882059,
+					1.425929
+				]
+			},
+			"properties": {
+				"OBJECTID": 527526,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584514",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527569,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.88388,
+					1.424828
+				]
+			},
+			"properties": {
+				"OBJECTID": 527569,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584562",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527575,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883507,
+					1.425049
+				]
+			},
+			"properties": {
+				"OBJECTID": 527575,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584568",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527518,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882478,
+					1.425667
+				]
+			},
+			"properties": {
+				"OBJECTID": 527518,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584506",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527541,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885916,
+					1.423684
+				]
+			},
+			"properties": {
+				"OBJECTID": 527541,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584529",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527564,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884182,
+					1.42465
+				]
+			},
+			"properties": {
+				"OBJECTID": 527564,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584556",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271469,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885357,
+					1.423765
+				]
+			},
+			"properties": {
+				"OBJECTID": 271469,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11556645",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271463,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884224,
+					1.424448
+				]
+			},
+			"properties": {
+				"OBJECTID": 271463,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11556639",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614013,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883733,
+					1.424739
+				]
+			},
+			"properties": {
+				"OBJECTID": 614013,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584465",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527547,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885478,
+					1.423905
+				]
+			},
+			"properties": {
+				"OBJECTID": 527547,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584535",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527578,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883422,
+					1.425095
+				]
+			},
+			"properties": {
+				"OBJECTID": 527578,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584571",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527558,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884483,
+					1.424477
+				]
+			},
+			"properties": {
+				"OBJECTID": 527558,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584549",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527515,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882927,
+					1.425384
+				]
+			},
+			"properties": {
+				"OBJECTID": 527515,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584503",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527521,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.88224,
+					1.425837
+				]
+			},
+			"properties": {
+				"OBJECTID": 527521,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "9",
+				"SPCS_CD": "1531",
+				"COMMON_NM": "Sebestens",
+				"SPSC_NM": "Cordia sebestena",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cordia sebestena,Sebestens",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11584509",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527567,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884044,
+					1.424734
+				]
+			},
+			"properties": {
+				"OBJECTID": 527567,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584559",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527544,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885772,
+					1.423759
+				]
+			},
+			"properties": {
+				"OBJECTID": 527544,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584532",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271466,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884966,
+					1.42402
+				]
+			},
+			"properties": {
+				"OBJECTID": 271466,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11556642",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 540471,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884106,
+					1.424698
+				]
+			},
+			"properties": {
+				"OBJECTID": 540471,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11576302",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224399,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.883408,
+					1.424927
+				]
+			},
+			"properties": {
+				"OBJECTID": 224399,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11556630",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 614016,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.885712,
+					1.423594
+				]
+			},
+			"properties": {
+				"OBJECTID": 614016,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584468",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 335642,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882578,
+					1.425605
+				]
+			},
+			"properties": {
+				"OBJECTID": 335642,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11565575",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527555,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884861,
+					1.424258
+				]
+			},
+			"properties": {
+				"OBJECTID": 527555,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584545",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224642,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882084,
+					1.425912
+				]
+			},
+			"properties": {
+				"OBJECTID": 224642,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11574172",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527561,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884422,
+					1.424515
+				]
+			},
+			"properties": {
+				"OBJECTID": 527561,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584552",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 327201,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.887264,
+					1.422964
+				]
+			},
+			"properties": {
+				"OBJECTID": 327201,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1782",
+				"COMMON_NM": "Big-leaved Podocarp",
+				"SPSC_NM": "Podocarpus macrophyllus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Podocarpus macrophyllus,Big-leaved Podocarp",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11569661",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 402057,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.884015,
+					1.424575
+				]
+			},
+			"properties": {
+				"OBJECTID": 402057,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "0",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13014141",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 527524,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.882154,
+					1.425867
+				]
+			},
+			"properties": {
+				"OBJECTID": 527524,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11584512",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

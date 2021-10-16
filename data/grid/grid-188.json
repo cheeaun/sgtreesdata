@@ -1,0 +1,1501 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 4314,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726856,
+					1.449376
+				]
+			},
+			"properties": {
+				"OBJECTID": 4314,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "30430",
+				"COMMON_NM": "Mangrove Apple",
+				"SPSC_NM": "Sonneratia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sonneratia alba,Mangrove Apple",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940953",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3650,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72777,
+					1.449665
+				]
+			},
+			"properties": {
+				"OBJECTID": 3650,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1600",
+				"COMMON_NM": "Buta-Buta",
+				"SPSC_NM": "Excoecaria agallocha",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Excoecaria agallocha,Buta-Buta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940735",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 971,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728896,
+					1.449305
+				]
+			},
+			"properties": {
+				"OBJECTID": 971,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "0",
+				"SPCS_CD": "1971",
+				"COMMON_NM": "Api Api",
+				"SPSC_NM": "Avicennia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia alba,Api Api",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "13023598",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3684,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72491,
+					1.448183
+				]
+			},
+			"properties": {
+				"OBJECTID": 3684,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "5",
+				"SPCS_CD": "1609",
+				"COMMON_NM": "Java Willow",
+				"SPSC_NM": "Ficus benjamina",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus benjamina,Java Willow",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938652",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 979,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72744,
+					1.449537
+				]
+			},
+			"properties": {
+				"OBJECTID": 979,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1971",
+				"COMMON_NM": "Api Api",
+				"SPSC_NM": "Avicennia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia alba,Api Api",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "13023599",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3647,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728856,
+					1.449288
+				]
+			},
+			"properties": {
+				"OBJECTID": 3647,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940001",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 968,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.727938,
+					1.449726
+				]
+			},
+			"properties": {
+				"OBJECTID": 968,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1975",
+				"COMMON_NM": "Api Api Ludat",
+				"SPSC_NM": "Avicennia officinalis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia officinalis,Api Api Ludat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "13023595",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5253,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726709,
+					1.448698
+				]
+			},
+			"properties": {
+				"OBJECTID": 5253,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1600",
+				"COMMON_NM": "Buta-Buta",
+				"SPSC_NM": "Excoecaria agallocha",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Excoecaria agallocha,Buta-Buta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940509",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5259,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.727057,
+					1.449327
+				]
+			},
+			"properties": {
+				"OBJECTID": 5259,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1975",
+				"COMMON_NM": "Api Api Ludat",
+				"SPSC_NM": "Avicennia officinalis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia officinalis,Api Api Ludat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940738",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1455,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.719281,
+					1.448983
+				]
+			},
+			"properties": {
+				"OBJECTID": 1455,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "0",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "13037024",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4303,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728901,
+					1.448662
+				]
+			},
+			"properties": {
+				"OBJECTID": 4303,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1971",
+				"COMMON_NM": "Api Api",
+				"SPSC_NM": "Avicennia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia alba,Api Api",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939999",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5254,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726686,
+					1.448531
+				]
+			},
+			"properties": {
+				"OBJECTID": 5254,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1600",
+				"COMMON_NM": "Buta-Buta",
+				"SPSC_NM": "Excoecaria agallocha",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Excoecaria agallocha,Buta-Buta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940510",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3682,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726151,
+					1.448768
+				]
+			},
+			"properties": {
+				"OBJECTID": 3682,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "5",
+				"SPCS_CD": "30430",
+				"COMMON_NM": "Mangrove Apple",
+				"SPSC_NM": "Sonneratia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sonneratia alba,Mangrove Apple",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941617",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3041,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72144,
+					1.449813
+				]
+			},
+			"properties": {
+				"OBJECTID": 3041,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938994",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3639,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72683,
+					1.449323
+				]
+			},
+			"properties": {
+				"OBJECTID": 3639,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "30430",
+				"COMMON_NM": "Mangrove Apple",
+				"SPSC_NM": "Sonneratia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sonneratia alba,Mangrove Apple",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940109",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4338,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.727886,
+					1.449669
+				]
+			},
+			"properties": {
+				"OBJECTID": 4338,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940041",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4315,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726688,
+					1.448638
+				]
+			},
+			"properties": {
+				"OBJECTID": 4315,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1971",
+				"COMMON_NM": "Api Api",
+				"SPSC_NM": "Avicennia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia alba,Api Api",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940982",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3651,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.727605,
+					1.44964
+				]
+			},
+			"properties": {
+				"OBJECTID": 3651,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1971",
+				"COMMON_NM": "Api Api",
+				"SPSC_NM": "Avicennia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia alba,Api Api",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940736",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4046,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.719798,
+					1.449482
+				]
+			},
+			"properties": {
+				"OBJECTID": 4046,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940282",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3648,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.729028,
+					1.449541
+				]
+			},
+			"properties": {
+				"OBJECTID": 3648,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1973",
+				"COMMON_NM": "Bakau tandok",
+				"SPSC_NM": "Rhizophora apiculata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Rhizophora apiculata,Bakau tandok",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940106",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3685,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.724893,
+					1.448127
+				]
+			},
+			"properties": {
+				"OBJECTID": 3685,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "29280",
+				"COMMON_NM": "Api-api Bulu",
+				"SPSC_NM": "Avicennia rumphiana",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia rumphiana,Api-api Bulu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938653",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3642,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.727274,
+					1.449426
+				]
+			},
+			"properties": {
+				"OBJECTID": 3642,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1975",
+				"COMMON_NM": "Api Api Ludat",
+				"SPSC_NM": "Avicennia officinalis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia officinalis,Api Api Ludat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940508",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 969,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728018,
+					1.449704
+				]
+			},
+			"properties": {
+				"OBJECTID": 969,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "13023596",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4301,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728556,
+					1.4481
+				]
+			},
+			"properties": {
+				"OBJECTID": 4301,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "30430",
+				"COMMON_NM": "Mangrove Apple",
+				"SPSC_NM": "Sonneratia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sonneratia alba,Mangrove Apple",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940105",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5260,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726964,
+					1.449284
+				]
+			},
+			"properties": {
+				"OBJECTID": 5260,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "5",
+				"SPCS_CD": "1975",
+				"COMMON_NM": "Api Api Ludat",
+				"SPSC_NM": "Avicennia officinalis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia officinalis,Api Api Ludat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940739",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3643,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.727191,
+					1.44941
+				]
+			},
+			"properties": {
+				"OBJECTID": 3643,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1975",
+				"COMMON_NM": "Api Api Ludat",
+				"SPSC_NM": "Avicennia officinalis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia officinalis,Api Api Ludat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940737",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5286,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.721927,
+					1.449211
+				]
+			},
+			"properties": {
+				"OBJECTID": 5286,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1971",
+				"COMMON_NM": "Api Api",
+				"SPSC_NM": "Avicennia alba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Avicennia alba,Api Api",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938440",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.719772,
+					1.448818
+				]
+			},
+			"properties": {
+				"OBJECTID": 1719,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11760445",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3852,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72173,
+					1.448561
+				]
+			},
+			"properties": {
+				"OBJECTID": 3852,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1600",
+				"COMMON_NM": "Buta-Buta",
+				"SPSC_NM": "Excoecaria agallocha",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Excoecaria agallocha,Buta-Buta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939894",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3646,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728881,
+					1.449301
+				]
+			},
+			"properties": {
+				"OBJECTID": 3646,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1971",
+				"COMMON_NM": "Api Api",
+				"SPSC_NM": "Avicennia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia alba,Api Api",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940000",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3683,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726156,
+					1.447956
+				]
+			},
+			"properties": {
+				"OBJECTID": 3683,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1971",
+				"COMMON_NM": "Api Api",
+				"SPSC_NM": "Avicennia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia alba,Api Api",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940766",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3640,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.727544,
+					1.449577
+				]
+			},
+			"properties": {
+				"OBJECTID": 3640,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1975",
+				"COMMON_NM": "Api Api Ludat",
+				"SPSC_NM": "Avicennia officinalis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia officinalis,Api Api Ludat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940002",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4316,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726489,
+					1.448249
+				]
+			},
+			"properties": {
+				"OBJECTID": 4316,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940204",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3641,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72746,
+					1.449581
+				]
+			},
+			"properties": {
+				"OBJECTID": 3641,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1971",
+				"COMMON_NM": "Api Api",
+				"SPSC_NM": "Avicennia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia alba,Api Api",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940108",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5252,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726724,
+					1.448782
+				]
+			},
+			"properties": {
+				"OBJECTID": 5252,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1975",
+				"COMMON_NM": "Api Api Ludat",
+				"SPSC_NM": "Avicennia officinalis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia officinalis,Api Api Ludat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940110",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4880,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.721483,
+					1.449861
+				]
+			},
+			"properties": {
+				"OBJECTID": 4880,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940262",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5258,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.727154,
+					1.449403
+				]
+			},
+			"properties": {
+				"OBJECTID": 5258,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1971",
+				"COMMON_NM": "Api Api",
+				"SPSC_NM": "Avicennia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia alba,Api Api",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940003",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 970,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728132,
+					1.449714
+				]
+			},
+			"properties": {
+				"OBJECTID": 970,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1600",
+				"COMMON_NM": "Buta-Buta",
+				"SPSC_NM": "Excoecaria agallocha",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Excoecaria agallocha,Buta-Buta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "13023597",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3649,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.729046,
+					1.449554
+				]
+			},
+			"properties": {
+				"OBJECTID": 3649,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1975",
+				"COMMON_NM": "Api Api Ludat",
+				"SPSC_NM": "Avicennia officinalis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia officinalis,Api Api Ludat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940507",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4302,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728641,
+					1.448438
+				]
+			},
+			"properties": {
+				"OBJECTID": 4302,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940506",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5255,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726363,
+					1.448032
+				]
+			},
+			"properties": {
+				"OBJECTID": 5255,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "29280",
+				"COMMON_NM": "Api-api Bulu",
+				"SPSC_NM": "Avicennia rumphiana",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia rumphiana,Api-api Bulu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940848",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3638,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726853,
+					1.449363
+				]
+			},
+			"properties": {
+				"OBJECTID": 3638,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "30430",
+				"COMMON_NM": "Mangrove Apple",
+				"SPSC_NM": "Sonneratia alba",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sonneratia alba,Mangrove Apple",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940005",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3981,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72201,
+					1.449354
+				]
+			},
+			"properties": {
+				"OBJECTID": 3981,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "5",
+				"SPCS_CD": "31233",
+				"COMMON_NM": "Malayan Teak",
+				"SPSC_NM": "Vitex pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Vitex pinnata,Malayan Teak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940028",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5261,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726849,
+					1.44923
+				]
+			},
+			"properties": {
+				"OBJECTID": 5261,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1975",
+				"COMMON_NM": "Api Api Ludat",
+				"SPSC_NM": "Avicennia officinalis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Avicennia officinalis,Api Api Ludat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940004",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

@@ -1,0 +1,7383 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 53525,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941909,
+					1.387447
+				]
+			},
+			"properties": {
+				"OBJECTID": 53525,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469464",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35549,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94462,
+					1.385201
+				]
+			},
+			"properties": {
+				"OBJECTID": 35549,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469076",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15226,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943884,
+					1.386097
+				]
+			},
+			"properties": {
+				"OBJECTID": 15226,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469252",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68728,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942498,
+					1.386307
+				]
+			},
+			"properties": {
+				"OBJECTID": 68728,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469301",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939209,
+					1.388188
+				]
+			},
+			"properties": {
+				"OBJECTID": 67732,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469679",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68751,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94266,
+					1.386343
+				]
+			},
+			"properties": {
+				"OBJECTID": 68751,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469309",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68699,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940422,
+					1.388306
+				]
+			},
+			"properties": {
+				"OBJECTID": 68699,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469719",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68722,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941743,
+					1.386623
+				]
+			},
+			"properties": {
+				"OBJECTID": 68722,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469350",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68745,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944259,
+					1.385393
+				]
+			},
+			"properties": {
+				"OBJECTID": 68745,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469115",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15220,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94355,
+					1.386287
+				]
+			},
+			"properties": {
+				"OBJECTID": 15220,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469298",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53494,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941132,
+					1.387964
+				]
+			},
+			"properties": {
+				"OBJECTID": 53494,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469590",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15266,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943736,
+					1.385171
+				]
+			},
+			"properties": {
+				"OBJECTID": 15266,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469067",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53540,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942571,
+					1.386787
+				]
+			},
+			"properties": {
+				"OBJECTID": 53540,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469373",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53485,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94092,
+					1.388145
+				]
+			},
+			"properties": {
+				"OBJECTID": 53485,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469659",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15237,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944125,
+					1.385945
+				]
+			},
+			"properties": {
+				"OBJECTID": 15237,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469216",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15214,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943456,
+					1.386396
+				]
+			},
+			"properties": {
+				"OBJECTID": 15214,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469318",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53491,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941058,
+					1.388065
+				]
+			},
+			"properties": {
+				"OBJECTID": 53491,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469627",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67720,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939074,
+					1.387835
+				]
+			},
+			"properties": {
+				"OBJECTID": 67720,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469552",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68739,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943567,
+					1.385601
+				]
+			},
+			"properties": {
+				"OBJECTID": 68739,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469156",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68765,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94177,
+					1.387121
+				]
+			},
+			"properties": {
+				"OBJECTID": 68765,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469416",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68696,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940045,
+					1.388469
+				]
+			},
+			"properties": {
+				"OBJECTID": 68696,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469770",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15243,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944355,
+					1.385655
+				]
+			},
+			"properties": {
+				"OBJECTID": 15243,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469163",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15206,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943114,
+					1.386567
+				]
+			},
+			"properties": {
+				"OBJECTID": 15206,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469345",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53517,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941585,
+					1.387564
+				]
+			},
+			"properties": {
+				"OBJECTID": 53517,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469482",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35566,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944765,
+					1.385103
+				]
+			},
+			"properties": {
+				"OBJECTID": 35566,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469059",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 9598,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944646,
+					1.385305
+				]
+			},
+			"properties": {
+				"OBJECTID": 9598,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "6",
+				"SPCS_CD": "1322",
+				"COMMON_NM": "Kelapa",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Kelapa",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11012493",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68759,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94177,
+					1.38723
+				]
+			},
+			"properties": {
+				"OBJECTID": 68759,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469443",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67726,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.93982,
+					1.388405
+				]
+			},
+			"properties": {
+				"OBJECTID": 67726,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469755",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68708,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941042,
+					1.387872
+				]
+			},
+			"properties": {
+				"OBJECTID": 68708,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469560",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68725,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942103,
+					1.386424
+				]
+			},
+			"properties": {
+				"OBJECTID": 68725,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469321",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67729,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.938985,
+					1.387844
+				]
+			},
+			"properties": {
+				"OBJECTID": 67729,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469555",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68702,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940575,
+					1.388125
+				]
+			},
+			"properties": {
+				"OBJECTID": 68702,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469649",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68771,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942804,
+					1.38656
+				]
+			},
+			"properties": {
+				"OBJECTID": 68771,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469344",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35546,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944551,
+					1.385285
+				]
+			},
+			"properties": {
+				"OBJECTID": 35546,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469091",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35552,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944566,
+					1.38501
+				]
+			},
+			"properties": {
+				"OBJECTID": 35552,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10469041",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68748,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943379,
+					1.385981
+				]
+			},
+			"properties": {
+				"OBJECTID": 68748,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469221",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35569,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94407,
+					1.38498
+				]
+			},
+			"properties": {
+				"OBJECTID": 35569,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10532432",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15217,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943403,
+					1.38622
+				]
+			},
+			"properties": {
+				"OBJECTID": 15217,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469284",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53534,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942701,
+					1.386947
+				]
+			},
+			"properties": {
+				"OBJECTID": 53534,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469397",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68731,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942803,
+					1.386162
+				]
+			},
+			"properties": {
+				"OBJECTID": 68731,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469271",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15223,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943839,
+					1.386182
+				]
+			},
+			"properties": {
+				"OBJECTID": 15223,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469273",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68762,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941797,
+					1.387275
+				]
+			},
+			"properties": {
+				"OBJECTID": 68762,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469450",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 28138,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944603,
+					1.385322
+				]
+			},
+			"properties": {
+				"OBJECTID": 28138,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12936344",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53514,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941549,
+					1.387649
+				]
+			},
+			"properties": {
+				"OBJECTID": 53514,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469502",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15234,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94404,
+					1.386019
+				]
+			},
+			"properties": {
+				"OBJECTID": 15234,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469231",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15240,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94399,
+					1.385888
+				]
+			},
+			"properties": {
+				"OBJECTID": 15240,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469209",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68742,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944133,
+					1.385321
+				]
+			},
+			"properties": {
+				"OBJECTID": 68742,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469098",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941644,
+					1.386886
+				]
+			},
+			"properties": {
+				"OBJECTID": 68719,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469385",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15260,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943845,
+					1.385041
+				]
+			},
+			"properties": {
+				"OBJECTID": 15260,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469045",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68768,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942453,
+					1.386868
+				]
+			},
+			"properties": {
+				"OBJECTID": 68768,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469383",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35555,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944658,
+					1.385085
+				]
+			},
+			"properties": {
+				"OBJECTID": 35555,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469053",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53508,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941381,
+					1.38777
+				]
+			},
+			"properties": {
+				"OBJECTID": 53508,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469539",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15246,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944412,
+					1.385529
+				]
+			},
+			"properties": {
+				"OBJECTID": 15246,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469149",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68705,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940764,
+					1.388098
+				]
+			},
+			"properties": {
+				"OBJECTID": 68705,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469637",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68711,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941141,
+					1.387673
+				]
+			},
+			"properties": {
+				"OBJECTID": 68711,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469506",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67723,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939326,
+					1.388161
+				]
+			},
+			"properties": {
+				"OBJECTID": 67723,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469666",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 28181,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943617,
+					1.386007
+				]
+			},
+			"properties": {
+				"OBJECTID": 28181,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12938556",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68703,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940656,
+					1.388179
+				]
+			},
+			"properties": {
+				"OBJECTID": 68703,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469675",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68774,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943136,
+					1.386434
+				]
+			},
+			"properties": {
+				"OBJECTID": 68774,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469323",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68726,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942327,
+					1.386343
+				]
+			},
+			"properties": {
+				"OBJECTID": 68726,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469308",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53523,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941841,
+					1.38743
+				]
+			},
+			"properties": {
+				"OBJECTID": 53523,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469463",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35547,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944605,
+					1.385255
+				]
+			},
+			"properties": {
+				"OBJECTID": 35547,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469087",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53483,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939597,
+					1.388882
+				]
+			},
+			"properties": {
+				"OBJECTID": 53483,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "16",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469853",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15218,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943552,
+					1.386204
+				]
+			},
+			"properties": {
+				"OBJECTID": 15218,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469279",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68734,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943163,
+					1.386045
+				]
+			},
+			"properties": {
+				"OBJECTID": 68734,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469239",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53535,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942781,
+					1.386892
+				]
+			},
+			"properties": {
+				"OBJECTID": 53535,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469388",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68737,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943316,
+					1.385791
+				]
+			},
+			"properties": {
+				"OBJECTID": 68737,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469186",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68714,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941357,
+					1.387555
+				]
+			},
+			"properties": {
+				"OBJECTID": 68714,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469477",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68763,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941842,
+					1.387239
+				]
+			},
+			"properties": {
+				"OBJECTID": 68763,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469444",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 28139,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943706,
+					1.385973
+				]
+			},
+			"properties": {
+				"OBJECTID": 28139,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12937217",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68694,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939623,
+					1.388478
+				]
+			},
+			"properties": {
+				"OBJECTID": 68694,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67738,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939164,
+					1.38826
+				]
+			},
+			"properties": {
+				"OBJECTID": 67738,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469707",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15212,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943422,
+					1.386451
+				]
+			},
+			"properties": {
+				"OBJECTID": 15212,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469326",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68743,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944286,
+					1.385204
+				]
+			},
+			"properties": {
+				"OBJECTID": 68743,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469077",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68720,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94159,
+					1.386795
+				]
+			},
+			"properties": {
+				"OBJECTID": 68720,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469376",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15235,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944069,
+					1.385983
+				]
+			},
+			"properties": {
+				"OBJECTID": 15235,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469223",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15241,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944156,
+					1.385804
+				]
+			},
+			"properties": {
+				"OBJECTID": 15241,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469191",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68706,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940854,
+					1.388035
+				]
+			},
+			"properties": {
+				"OBJECTID": 68706,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469613",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35564,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944718,
+					1.385064
+				]
+			},
+			"properties": {
+				"OBJECTID": 35564,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469049",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53509,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941407,
+					1.38772
+				]
+			},
+			"properties": {
+				"OBJECTID": 53509,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469520",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67724,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939578,
+					1.388351
+				]
+			},
+			"properties": {
+				"OBJECTID": 67724,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469736",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68757,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941779,
+					1.386832
+				]
+			},
+			"properties": {
+				"OBJECTID": 68757,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469380",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 28182,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943604,
+					1.385927
+				]
+			},
+			"properties": {
+				"OBJECTID": 28182,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12938557",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53526,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941953,
+					1.387429
+				]
+			},
+			"properties": {
+				"OBJECTID": 53526,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469462",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 69318,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944536,
+					1.385391
+				]
+			},
+			"properties": {
+				"OBJECTID": 69318,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1322",
+				"COMMON_NM": "Kelapa",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Kelapa",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11011846",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53480,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.93926,
+					1.388546
+				]
+			},
+			"properties": {
+				"OBJECTID": 53480,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469796",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68700,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940521,
+					1.388252
+				]
+			},
+			"properties": {
+				"OBJECTID": 68700,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469701",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68723,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941959,
+					1.386524
+				]
+			},
+			"properties": {
+				"OBJECTID": 68723,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469337",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68746,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943792,
+					1.385592
+				]
+			},
+			"properties": {
+				"OBJECTID": 68746,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469154",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53532,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942693,
+					1.3869
+				]
+			},
+			"properties": {
+				"OBJECTID": 53532,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469390",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15229,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944123,
+					1.386094
+				]
+			},
+			"properties": {
+				"OBJECTID": 15229,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469251",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15275,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944462,
+					1.385024
+				]
+			},
+			"properties": {
+				"OBJECTID": 15275,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10532440",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15221,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943772,
+					1.386307
+				]
+			},
+			"properties": {
+				"OBJECTID": 15221,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469300",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53486,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940978,
+					1.388136
+				]
+			},
+			"properties": {
+				"OBJECTID": 53486,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469654",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68691,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939802,
+					1.388604
+				]
+			},
+			"properties": {
+				"OBJECTID": 68691,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469810",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35561,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944648,
+					1.385005
+				]
+			},
+			"properties": {
+				"OBJECTID": 35561,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10469040",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15238,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944068,
+					1.386035
+				]
+			},
+			"properties": {
+				"OBJECTID": 15238,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469237",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15215,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943258,
+					1.386312
+				]
+			},
+			"properties": {
+				"OBJECTID": 15215,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469303",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68740,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943819,
+					1.385457
+				]
+			},
+			"properties": {
+				"OBJECTID": 68740,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469135",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53492,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941067,
+					1.387966
+				]
+			},
+			"properties": {
+				"OBJECTID": 53492,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469592",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68766,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942255,
+					1.386976
+				]
+			},
+			"properties": {
+				"OBJECTID": 68766,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1962",
+				"COMMON_NM": "Burma Padauk",
+				"SPSC_NM": "Pterocarpus macrocarpus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus macrocarpus,Burma Padauk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469402",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68717,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94151,
+					1.386994
+				]
+			},
+			"properties": {
+				"OBJECTID": 68717,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469404",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15209,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943207,
+					1.386555
+				]
+			},
+			"properties": {
+				"OBJECTID": 15209,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469343",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68697,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940171,
+					1.388423
+				]
+			},
+			"properties": {
+				"OBJECTID": 68697,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469759",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35567,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944804,
+					1.385158
+				]
+			},
+			"properties": {
+				"OBJECTID": 35567,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469061",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 9599,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944705,
+					1.385282
+				]
+			},
+			"properties": {
+				"OBJECTID": 9599,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1322",
+				"COMMON_NM": "Kelapa",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Kelapa",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11012494",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35553,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944589,
+					1.385029
+				]
+			},
+			"properties": {
+				"OBJECTID": 35553,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469043",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67727,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939973,
+					1.388387
+				]
+			},
+			"properties": {
+				"OBJECTID": 67727,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469750",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68760,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941806,
+					1.387211
+				]
+			},
+			"properties": {
+				"OBJECTID": 68760,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469439",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68754,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942103,
+					1.386515
+				]
+			},
+			"properties": {
+				"OBJECTID": 68754,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469335",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67721,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939137,
+					1.387908
+				]
+			},
+			"properties": {
+				"OBJECTID": 67721,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469571",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68749,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943136,
+					1.386144
+				]
+			},
+			"properties": {
+				"OBJECTID": 68749,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469264",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68701,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940431,
+					1.388206
+				]
+			},
+			"properties": {
+				"OBJECTID": 68701,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469689",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939047,
+					1.387944
+				]
+			},
+			"properties": {
+				"OBJECTID": 67730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469585",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68772,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942866,
+					1.386488
+				]
+			},
+			"properties": {
+				"OBJECTID": 68772,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469333",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53521,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941811,
+					1.387499
+				]
+			},
+			"properties": {
+				"OBJECTID": 53521,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469468",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 96804,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943113,
+					1.386352
+				]
+			},
+			"properties": {
+				"OBJECTID": 96804,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1730",
+				"COMMON_NM": "Na Tree",
+				"SPSC_NM": "Mesua ferrea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mesua ferrea,Na Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10469310",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35545,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944493,
+					1.385434
+				]
+			},
+			"properties": {
+				"OBJECTID": 35545,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469129",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53481,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939307,
+					1.388558
+				]
+			},
+			"properties": {
+				"OBJECTID": 53481,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469799",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15270,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94415,
+					1.385037
+				]
+			},
+			"properties": {
+				"OBJECTID": 15270,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10532436",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15224,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943724,
+					1.386194
+				]
+			},
+			"properties": {
+				"OBJECTID": 15224,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469276",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942902,
+					1.386198
+				]
+			},
+			"properties": {
+				"OBJECTID": 68732,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469277",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68692,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939919,
+					1.38865
+				]
+			},
+			"properties": {
+				"OBJECTID": 68692,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469816",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35562,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944671,
+					1.385025
+				]
+			},
+			"properties": {
+				"OBJECTID": 35562,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10469042",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53515,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941596,
+					1.387639
+				]
+			},
+			"properties": {
+				"OBJECTID": 53515,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469499",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68761,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941743,
+					1.387266
+				]
+			},
+			"properties": {
+				"OBJECTID": 68761,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469449",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 28137,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944411,
+					1.385359
+				]
+			},
+			"properties": {
+				"OBJECTID": 28137,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12936343",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15216,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943357,
+					1.38628
+				]
+			},
+			"properties": {
+				"OBJECTID": 15216,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469295",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68718,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941608,
+					1.387012
+				]
+			},
+			"properties": {
+				"OBJECTID": 68718,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469406",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68741,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94381,
+					1.385375
+				]
+			},
+			"properties": {
+				"OBJECTID": 68741,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469109",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15210,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943363,
+					1.386575
+				]
+			},
+			"properties": {
+				"OBJECTID": 15210,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469346",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15259,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943922,
+					1.385177
+				]
+			},
+			"properties": {
+				"OBJECTID": 15259,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469069",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68698,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940297,
+					1.388369
+				]
+			},
+			"properties": {
+				"OBJECTID": 68698,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469743",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53507,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941341,
+					1.38783
+				]
+			},
+			"properties": {
+				"OBJECTID": 53507,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469550",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35556,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944705,
+					1.385122
+				]
+			},
+			"properties": {
+				"OBJECTID": 35556,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469062",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941231,
+					1.3877
+				]
+			},
+			"properties": {
+				"OBJECTID": 68712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469514",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67722,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939245,
+					1.388043
+				]
+			},
+			"properties": {
+				"OBJECTID": 67722,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469618",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68755,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941959,
+					1.386642
+				]
+			},
+			"properties": {
+				"OBJECTID": 68755,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469352",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15247,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944334,
+					1.385529
+				]
+			},
+			"properties": {
+				"OBJECTID": 15247,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469148",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15273,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944455,
+					1.385225
+				]
+			},
+			"properties": {
+				"OBJECTID": 15273,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469083",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68752,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942435,
+					1.386388
+				]
+			},
+			"properties": {
+				"OBJECTID": 68752,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469317",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15227,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944079,
+					1.386199
+				]
+			},
+			"properties": {
+				"OBJECTID": 15227,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469278",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67733,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939281,
+					1.38827
+				]
+			},
+			"properties": {
+				"OBJECTID": 67733,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469709",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53524,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941904,
+					1.387414
+				]
+			},
+			"properties": {
+				"OBJECTID": 53524,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469458",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35548,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944665,
+					1.385204
+				]
+			},
+			"properties": {
+				"OBJECTID": 35548,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469078",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68769,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942616,
+					1.386748
+				]
+			},
+			"properties": {
+				"OBJECTID": 68769,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1962",
+				"COMMON_NM": "Burma Padauk",
+				"SPSC_NM": "Pterocarpus macrocarpus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus macrocarpus,Burma Padauk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469364",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53484,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939635,
+					1.388891
+				]
+			},
+			"properties": {
+				"OBJECTID": 53484,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "16",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469856",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68721,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941734,
+					1.386741
+				]
+			},
+			"properties": {
+				"OBJECTID": 68721,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469362",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15267,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943658,
+					1.385032
+				]
+			},
+			"properties": {
+				"OBJECTID": 15267,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469044",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53495,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941194,
+					1.387984
+				]
+			},
+			"properties": {
+				"OBJECTID": 53495,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469599",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68735,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943289,
+					1.385927
+				]
+			},
+			"properties": {
+				"OBJECTID": 68735,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469211",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68729,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942597,
+					1.386216
+				]
+			},
+			"properties": {
+				"OBJECTID": 68729,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469282",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68715,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941456,
+					1.387429
+				]
+			},
+			"properties": {
+				"OBJECTID": 68715,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469461",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.93902,
+					1.387754
+				]
+			},
+			"properties": {
+				"OBJECTID": 67719,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469531",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15213,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943451,
+					1.386477
+				]
+			},
+			"properties": {
+				"OBJECTID": 15213,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469331",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 28140,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94376,
+					1.385937
+				]
+			},
+			"properties": {
+				"OBJECTID": 28140,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12937218",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68689,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939524,
+					1.388541
+				]
+			},
+			"properties": {
+				"OBJECTID": 68689,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469794",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68738,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943468,
+					1.385611
+				]
+			},
+			"properties": {
+				"OBJECTID": 68738,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469160",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67739,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939362,
+					1.38845
+				]
+			},
+			"properties": {
+				"OBJECTID": 67739,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469766",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15236,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944093,
+					1.385953
+				]
+			},
+			"properties": {
+				"OBJECTID": 15236,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469218",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68695,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939757,
+					1.388496
+				]
+			},
+			"properties": {
+				"OBJECTID": 68695,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469782",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68709,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941051,
+					1.387763
+				]
+			},
+			"properties": {
+				"OBJECTID": 68709,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469533",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15207,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943084,
+					1.38653
+				]
+			},
+			"properties": {
+				"OBJECTID": 15207,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469340",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15244,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944465,
+					1.385668
+				]
+			},
+			"properties": {
+				"OBJECTID": 15244,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469168",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35565,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944742,
+					1.385083
+				]
+			},
+			"properties": {
+				"OBJECTID": 35565,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10469052",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68758,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941725,
+					1.38722
+				]
+			},
+			"properties": {
+				"OBJECTID": 68758,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469442",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15274,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944422,
+					1.385154
+				]
+			},
+			"properties": {
+				"OBJECTID": 15274,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469066",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35551,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944543,
+					1.384992
+				]
+			},
+			"properties": {
+				"OBJECTID": 35551,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469038",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15228,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944099,
+					1.386145
+				]
+			},
+			"properties": {
+				"OBJECTID": 15228,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469266",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67734,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.93938,
+					1.388351
+				]
+			},
+			"properties": {
+				"OBJECTID": 67734,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469735",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68724,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941941,
+					1.386452
+				]
+			},
+			"properties": {
+				"OBJECTID": 68724,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469327",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15205,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943163,
+					1.386618
+				]
+			},
+			"properties": {
+				"OBJECTID": 15205,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469349",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68747,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943558,
+					1.385791
+				]
+			},
+			"properties": {
+				"OBJECTID": 68747,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469187",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68770,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942708,
+					1.386661
+				]
+			},
+			"properties": {
+				"OBJECTID": 68770,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469354",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68736,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943379,
+					1.385819
+				]
+			},
+			"properties": {
+				"OBJECTID": 68736,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469197",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942714,
+					1.386253
+				]
+			},
+			"properties": {
+				"OBJECTID": 68730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469291",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53533,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942713,
+					1.38683
+				]
+			},
+			"properties": {
+				"OBJECTID": 53533,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469379",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15222,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943805,
+					1.38624
+				]
+			},
+			"properties": {
+				"OBJECTID": 15222,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469288",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53513,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941439,
+					1.387612
+				]
+			},
+			"properties": {
+				"OBJECTID": 53513,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469493",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68716,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941581,
+					1.387157
+				]
+			},
+			"properties": {
+				"OBJECTID": 68716,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469425",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68690,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939641,
+					1.388577
+				]
+			},
+			"properties": {
+				"OBJECTID": 68690,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469806",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15239,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94424,
+					1.385813
+				]
+			},
+			"properties": {
+				"OBJECTID": 15239,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469196",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53493,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94112,
+					1.388026
+				]
+			},
+			"properties": {
+				"OBJECTID": 53493,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469612",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68767,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942255,
+					1.386895
+				]
+			},
+			"properties": {
+				"OBJECTID": 68767,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469389",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15208,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943194,
+					1.386583
+				]
+			},
+			"properties": {
+				"OBJECTID": 15208,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469347",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68710,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941141,
+					1.38779
+				]
+			},
+			"properties": {
+				"OBJECTID": 68710,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469541",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 9600,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944786,
+					1.385246
+				]
+			},
+			"properties": {
+				"OBJECTID": 9600,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "6",
+				"SPCS_CD": "1322",
+				"COMMON_NM": "Kelapa",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Kelapa",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11012502",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35554,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944612,
+					1.385048
+				]
+			},
+			"properties": {
+				"OBJECTID": 35554,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469047",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67728,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94403,
+					1.385454
+				]
+			},
+			"properties": {
+				"OBJECTID": 67728,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469134",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68753,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942246,
+					1.386443
+				]
+			},
+			"properties": {
+				"OBJECTID": 68753,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469325",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15245,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944493,
+					1.385603
+				]
+			},
+			"properties": {
+				"OBJECTID": 15245,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469158",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35560,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944624,
+					1.384986
+				]
+			},
+			"properties": {
+				"OBJECTID": 35560,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469037",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68727,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942426,
+					1.386244
+				]
+			},
+			"properties": {
+				"OBJECTID": 68727,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469289",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67731,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939128,
+					1.388061
+				]
+			},
+			"properties": {
+				"OBJECTID": 67731,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469625",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68704,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.940683,
+					1.388053
+				]
+			},
+			"properties": {
+				"OBJECTID": 68704,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469622",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15225,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943828,
+					1.386133
+				]
+			},
+			"properties": {
+				"OBJECTID": 15225,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469261",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68773,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943028,
+					1.38647
+				]
+			},
+			"properties": {
+				"OBJECTID": 68773,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469329",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68750,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.942848,
+					1.386316
+				]
+			},
+			"properties": {
+				"OBJECTID": 68750,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469304",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53522,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94185,
+					1.387475
+				]
+			},
+			"properties": {
+				"OBJECTID": 53522,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469466",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67737,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939029,
+					1.388071
+				]
+			},
+			"properties": {
+				"OBJECTID": 67737,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469628",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68733,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943028,
+					1.386135
+				]
+			},
+			"properties": {
+				"OBJECTID": 68733,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469263",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15219,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943682,
+					1.386144
+				]
+			},
+			"properties": {
+				"OBJECTID": 15219,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469265",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53482,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939575,
+					1.38886
+				]
+			},
+			"properties": {
+				"OBJECTID": 53482,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469846",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53490,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941004,
+					1.388043
+				]
+			},
+			"properties": {
+				"OBJECTID": 53490,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469617",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68764,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941734,
+					1.387031
+				]
+			},
+			"properties": {
+				"OBJECTID": 68764,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "16",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469407",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35563,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944695,
+					1.385044
+				]
+			},
+			"properties": {
+				"OBJECTID": 35563,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "29367",
+				"COMMON_NM": null,
+				"SPSC_NM": "Cocos nucifera 'Nam Hon'",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera 'Nam Hon',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10469046",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53516,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941545,
+					1.387597
+				]
+			},
+			"properties": {
+				"OBJECTID": 53516,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10469490",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68713,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941294,
+					1.387628
+				]
+			},
+			"properties": {
+				"OBJECTID": 68713,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469496",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15211,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.943488,
+					1.386531
+				]
+			},
+			"properties": {
+				"OBJECTID": 15211,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469341",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68693,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939946,
+					1.388595
+				]
+			},
+			"properties": {
+				"OBJECTID": 68693,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469809",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68744,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944367,
+					1.385068
+				]
+			},
+			"properties": {
+				"OBJECTID": 68744,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469050",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67725,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.939677,
+					1.388387
+				]
+			},
+			"properties": {
+				"OBJECTID": 67725,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469749",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15242,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944321,
+					1.38571
+				]
+			},
+			"properties": {
+				"OBJECTID": 15242,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469173",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 28183,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.944215,
+					1.385674
+				]
+			},
+			"properties": {
+				"OBJECTID": 28183,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12938554",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53510,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941418,
+					1.387688
+				]
+			},
+			"properties": {
+				"OBJECTID": 53510,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10469510",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68707,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94097,
+					1.387944
+				]
+			},
+			"properties": {
+				"OBJECTID": 68707,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469586",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68756,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94186,
+					1.386714
+				]
+			},
+			"properties": {
+				"OBJECTID": 68756,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "16",
+				"SPCS_CD": "1815",
+				"COMMON_NM": "Rain Tree",
+				"SPSC_NM": "Samanea saman (small leaves)",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman (small leaves),Rain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10469361",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

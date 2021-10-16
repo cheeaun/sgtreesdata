@@ -1,0 +1,107 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 6711,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94369,
+					1.41248
+				]
+			},
+			"properties": {
+				"OBJECTID": 6711,
+				"Type": "HERITAGE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "5",
+				"SPCS_CD": "29867",
+				"COMMON_NM": "Collared fig",
+				"SPSC_NM": "Ficus crassiramea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus crassiramea,Collared fig",
+				"ACTUAL_TREE_TYPE": "HERITAGE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Found in Pulau Ubin, along Ketam bike trail, near Pipit Hut",
+				"Hert_age": "2016",
+				"Girth": "> 1.5",
+				"Public_treeid": "10691298",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699387,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.935986,
+					1.418636
+				]
+			},
+			"properties": {
+				"OBJECTID": 699387,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Fish-killer Tree",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Fish-killer Tree",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13007078",
+				"EYTreeId": "{1CF155FF-6968-42C5-9A09-1A71B52011C0}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2475,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.94369,
+					1.41248
+				]
+			},
+			"properties": {
+				"OBJECTID": 2475,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "5",
+				"SPCS_CD": "29867",
+				"COMMON_NM": "Collared Fig",
+				"SPSC_NM": "Ficus crassiramea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus crassiramea,Collared Fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939954",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

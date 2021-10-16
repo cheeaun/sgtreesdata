@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 698596,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.017704,
+					1.357335
+				]
+			},
+			"properties": {
+				"OBJECTID": 698596,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Burmese Rosewood",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Burmese Rosewood",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "2 best years of my entire life",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13043210",
+				"EYTreeId": "{952C6116-3B4B-4348-88F6-D8F4C2CE305B}",
+				"Name": "Sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Sep2,#andrd"
+			}
+		}
+	]
+}

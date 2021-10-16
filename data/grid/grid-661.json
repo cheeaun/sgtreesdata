@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 698560,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.042424,
+					1.433701
+				]
+			},
+			"properties": {
+				"OBJECTID": 698560,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Millettia pinnata ",
+				"SPSC_NM": "Pongamia pinnata",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Pongamia pinnata, Millettia pinnata ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13042039",
+				"EYTreeId": "{26FFE846-23D9-45BF-B350-FE12082D6AD1}",
+				"Name": "",
+				"Email": "Ruchimahesh@gmail.com",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

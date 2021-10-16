@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 698769,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.782962,
+					1.3901
+				]
+			},
+			"properties": {
+				"OBJECTID": 698769,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "100",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Burmese Rosewood",
+				"SPSC_NM": "Baccaurea bracteata",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Baccaurea bracteata, Burmese Rosewood",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "nope",
+				"Hert_age": "",
+				"Girth": "> 1.5m",
+				"Public_treeid": "11746160",
+				"EYTreeId": "{1BF1225A-3B13-4F20-9CA4-D8B98A7FD926}",
+				"Name": "Bur",
+				"Email": "QWERYS@gmail.com",
+				"UserKeywords": null
+			}
+		}
+	]
+}

@@ -1,0 +1,5139 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 494389,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763078,
+					1.435701
+				]
+			},
+			"properties": {
+				"OBJECTID": 494389,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147005",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531621,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767151,
+					1.439269
+				]
+			},
+			"properties": {
+				"OBJECTID": 531621,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "13",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10149018",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319444,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76837,
+					1.435366
+				]
+			},
+			"properties": {
+				"OBJECTID": 319444,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1696",
+				"COMMON_NM": null,
+				"SPSC_NM": "Lagerstroemia langkawiensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Lagerstroemia langkawiensis,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11141714",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627742,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.766761,
+					1.438921
+				]
+			},
+			"properties": {
+				"OBJECTID": 627742,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10148796",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 630968,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768077,
+					1.440988
+				]
+			},
+			"properties": {
+				"OBJECTID": 630968,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11091478",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531546,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763208,
+					1.435523
+				]
+			},
+			"properties": {
+				"OBJECTID": 531546,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10146813",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627736,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765727,
+					1.437984
+				]
+			},
+			"properties": {
+				"OBJECTID": 627736,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147982",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768483,
+					1.440414
+				]
+			},
+			"properties": {
+				"OBJECTID": 516719,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1606",
+				"COMMON_NM": "Banyan Tree",
+				"SPSC_NM": "Ficus benghalensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus benghalensis,Banyan Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11370600",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516713,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768587,
+					1.440076
+				]
+			},
+			"properties": {
+				"OBJECTID": 516713,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1606",
+				"COMMON_NM": "Banyan Tree",
+				"SPSC_NM": "Ficus benghalensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus benghalensis,Banyan Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11369747",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687132,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768328,
+					1.436738
+				]
+			},
+			"properties": {
+				"OBJECTID": 687132,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11247109",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319450,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768378,
+					1.435468
+				]
+			},
+			"properties": {
+				"OBJECTID": 319450,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1696",
+				"COMMON_NM": null,
+				"SPSC_NM": "Lagerstroemia langkawiensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Lagerstroemia langkawiensis,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11203244",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 494383,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.764305,
+					1.43693
+				]
+			},
+			"properties": {
+				"OBJECTID": 494383,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10146472",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627745,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767294,
+					1.439598
+				]
+			},
+			"properties": {
+				"OBJECTID": 627745,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149138",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687126,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768327,
+					1.436939
+				]
+			},
+			"properties": {
+				"OBJECTID": 687126,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11246655",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 477512,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768592,
+					1.440361
+				]
+			},
+			"properties": {
+				"OBJECTID": 477512,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10149494",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627753,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767753,
+					1.439822
+				]
+			},
+			"properties": {
+				"OBJECTID": 627753,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149286",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627759,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768558,
+					1.44109
+				]
+			},
+			"properties": {
+				"OBJECTID": 627759,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149640",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 349583,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.758241,
+					1.436138
+				]
+			},
+			"properties": {
+				"OBJECTID": 349583,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "0",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "13025717",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687118,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768298,
+					1.43719
+				]
+			},
+			"properties": {
+				"OBJECTID": 687118,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11246566",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627739,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76638,
+					1.43857
+				]
+			},
+			"properties": {
+				"OBJECTID": 627739,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10148488",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 151965,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765086,
+					1.437357
+				]
+			},
+			"properties": {
+				"OBJECTID": 151965,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147732",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531549,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763248,
+					1.435576
+				]
+			},
+			"properties": {
+				"OBJECTID": 531549,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "13",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10146844",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627785,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768632,
+					1.441127
+				]
+			},
+			"properties": {
+				"OBJECTID": 627785,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1610",
+				"COMMON_NM": null,
+				"SPSC_NM": "Ficus benjamina 'Variegated White'",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus benjamina 'Variegated White',",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10149624",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627762,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768615,
+					1.441183
+				]
+			},
+			"properties": {
+				"OBJECTID": 627762,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10149745",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 494392,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.764213,
+					1.436846
+				]
+			},
+			"properties": {
+				"OBJECTID": 494392,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147542",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319447,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768353,
+					1.435918
+				]
+			},
+			"properties": {
+				"OBJECTID": 319447,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11141712",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531618,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763656,
+					1.435961
+				]
+			},
+			"properties": {
+				"OBJECTID": 531618,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147149",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627733,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765498,
+					1.438058
+				]
+			},
+			"properties": {
+				"OBJECTID": 627733,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10148192",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516722,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768607,
+					1.441094
+				]
+			},
+			"properties": {
+				"OBJECTID": 516722,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11372710",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531609,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763435,
+					1.435757
+				]
+			},
+			"properties": {
+				"OBJECTID": 531609,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10146997",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 281059,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767782,
+					1.440297
+				]
+			},
+			"properties": {
+				"OBJECTID": 281059,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "13",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149526",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687135,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768347,
+					1.436158
+				]
+			},
+			"properties": {
+				"OBJECTID": 687135,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11285751",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319453,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768336,
+					1.43637
+				]
+			},
+			"properties": {
+				"OBJECTID": 319453,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11086833",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627776,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768575,
+					1.440514
+				]
+			},
+			"properties": {
+				"OBJECTID": 627776,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10149533",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687129,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768335,
+					1.43688
+				]
+			},
+			"properties": {
+				"OBJECTID": 687129,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11285750",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516716,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768529,
+					1.440247
+				]
+			},
+			"properties": {
+				"OBJECTID": 516716,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1606",
+				"COMMON_NM": "Banyan Tree",
+				"SPSC_NM": "Ficus benghalensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus benghalensis,Banyan Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11371858",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 125161,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76579,
+					1.438358
+				]
+			},
+			"properties": {
+				"OBJECTID": 125161,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10144718",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 173508,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.758295,
+					1.435776
+				]
+			},
+			"properties": {
+				"OBJECTID": 173508,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "18",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12467978",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 513115,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.766187,
+					1.438411
+				]
+			},
+			"properties": {
+				"OBJECTID": 513115,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "18",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10148363",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 349586,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.758335,
+					1.435645
+				]
+			},
+			"properties": {
+				"OBJECTID": 349586,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "0",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "13025720",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627756,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767639,
+					1.440148
+				]
+			},
+			"properties": {
+				"OBJECTID": 627756,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149461",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627740,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765667,
+					1.438229
+				]
+			},
+			"properties": {
+				"OBJECTID": 627740,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10148339",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 640452,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768314,
+					1.437035
+				]
+			},
+			"properties": {
+				"OBJECTID": 640452,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11587685",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531550,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763385,
+					1.435713
+				]
+			},
+			"properties": {
+				"OBJECTID": 531550,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10146925",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687124,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768322,
+					1.436978
+				]
+			},
+			"properties": {
+				"OBJECTID": 687124,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11246653",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319448,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768357,
+					1.435815
+				]
+			},
+			"properties": {
+				"OBJECTID": 319448,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11141711",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 494395,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76404,
+					1.436343
+				]
+			},
+			"properties": {
+				"OBJECTID": 494395,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147317",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 208462,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.764562,
+					1.437147
+				]
+			},
+			"properties": {
+				"OBJECTID": 208462,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10145014",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627734,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765573,
+					1.438137
+				]
+			},
+			"properties": {
+				"OBJECTID": 627734,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10148235",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 518700,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.766946,
+					1.439294
+				]
+			},
+			"properties": {
+				"OBJECTID": 518700,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11166342",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531610,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763536,
+					1.435844
+				]
+			},
+			"properties": {
+				"OBJECTID": 531610,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10147067",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627751,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767605,
+					1.439683
+				]
+			},
+			"properties": {
+				"OBJECTID": 627751,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10164368",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516717,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768522,
+					1.440304
+				]
+			},
+			"properties": {
+				"OBJECTID": 516717,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1606",
+				"COMMON_NM": "Banyan Tree",
+				"SPSC_NM": "Ficus benghalensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus benghalensis,Banyan Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11371985",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627771,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768633,
+					1.441337
+				]
+			},
+			"properties": {
+				"OBJECTID": 627771,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149814",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 7220,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.757163,
+					1.436884
+				]
+			},
+			"properties": {
+				"OBJECTID": 7220,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "1997",
+				"Girth": "> 1.5",
+				"Public_treeid": "10969255",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687130,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768324,
+					1.436835
+				]
+			},
+			"properties": {
+				"OBJECTID": 687130,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11285740",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627757,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767565,
+					1.440087
+				]
+			},
+			"properties": {
+				"OBJECTID": 627757,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149489",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516711,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768638,
+					1.439976
+				]
+			},
+			"properties": {
+				"OBJECTID": 516711,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1606",
+				"COMMON_NM": "Banyan Tree",
+				"SPSC_NM": "Ficus benghalensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus benghalensis,Banyan Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11369746",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 349581,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.758229,
+					1.436252
+				]
+			},
+			"properties": {
+				"OBJECTID": 349581,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1740",
+				"COMMON_NM": "Inda",
+				"SPSC_NM": "Morinda citrifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Morinda citrifolia,Inda",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "13025715",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 513116,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.766479,
+					1.438656
+				]
+			},
+			"properties": {
+				"OBJECTID": 513116,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "18",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10148402",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687121,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76831,
+					1.437058
+				]
+			},
+			"properties": {
+				"OBJECTID": 687121,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11285739",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627737,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765431,
+					1.437703
+				]
+			},
+			"properties": {
+				"OBJECTID": 627737,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147830",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 151963,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.764411,
+					1.437022
+				]
+			},
+			"properties": {
+				"OBJECTID": 151963,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10434820",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319445,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768354,
+					1.435869
+				]
+			},
+			"properties": {
+				"OBJECTID": 319445,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11203245",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531547,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763161,
+					1.435482
+				]
+			},
+			"properties": {
+				"OBJECTID": 531547,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10146854",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627768,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768552,
+					1.441156
+				]
+			},
+			"properties": {
+				"OBJECTID": 627768,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149711",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 518703,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767132,
+					1.439465
+				]
+			},
+			"properties": {
+				"OBJECTID": 518703,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11166343",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 7349,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.756139,
+					1.437024
+				]
+			},
+			"properties": {
+				"OBJECTID": 7349,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "1997",
+				"Girth": "> 1.5",
+				"Public_treeid": "10969688",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627777,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76861,
+					1.440609
+				]
+			},
+			"properties": {
+				"OBJECTID": 627777,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10149544",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627731,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765338,
+					1.437901
+				]
+			},
+			"properties": {
+				"OBJECTID": 627731,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10148121",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687133,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768334,
+					1.436563
+				]
+			},
+			"properties": {
+				"OBJECTID": 687133,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11246723",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627774,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768628,
+					1.441328
+				]
+			},
+			"properties": {
+				"OBJECTID": 627774,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10162732",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627748,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767565,
+					1.43985
+				]
+			},
+			"properties": {
+				"OBJECTID": 627748,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149234",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 432294,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768106,
+					1.440161
+				]
+			},
+			"properties": {
+				"OBJECTID": 432294,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1609",
+				"COMMON_NM": "Java Willow",
+				"SPSC_NM": "Ficus benjamina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus benjamina,Java Willow",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12943146",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516714,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768555,
+					1.440127
+				]
+			},
+			"properties": {
+				"OBJECTID": 516714,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1606",
+				"COMMON_NM": "Banyan Tree",
+				"SPSC_NM": "Ficus benghalensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus benghalensis,Banyan Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11370599",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319451,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768375,
+					1.435527
+				]
+			},
+			"properties": {
+				"OBJECTID": 319451,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1696",
+				"COMMON_NM": null,
+				"SPSC_NM": "Lagerstroemia langkawiensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Lagerstroemia langkawiensis,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11143967",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687127,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768329,
+					1.436919
+				]
+			},
+			"properties": {
+				"OBJECTID": 687127,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11285749",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627754,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767441,
+					1.439973
+				]
+			},
+			"properties": {
+				"OBJECTID": 627754,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10173520",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627760,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768579,
+					1.441115
+				]
+			},
+			"properties": {
+				"OBJECTID": 627760,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10149651",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687122,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768317,
+					1.437018
+				]
+			},
+			"properties": {
+				"OBJECTID": 687122,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11247007",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627763,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76864,
+					1.441233
+				]
+			},
+			"properties": {
+				"OBJECTID": 627763,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10149766",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 518698,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767225,
+					1.439564
+				]
+			},
+			"properties": {
+				"OBJECTID": 518698,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11317917",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 151964,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76466,
+					1.437235
+				]
+			},
+			"properties": {
+				"OBJECTID": 151964,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10434832",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531548,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763297,
+					1.435623
+				]
+			},
+			"properties": {
+				"OBJECTID": 531548,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "13",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10146878",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531619,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763582,
+					1.435891
+				]
+			},
+			"properties": {
+				"OBJECTID": 531619,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10147108",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319446,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768349,
+					1.436011
+				]
+			},
+			"properties": {
+				"OBJECTID": 319446,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11141713",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516723,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768636,
+					1.441164
+				]
+			},
+			"properties": {
+				"OBJECTID": 516723,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11370717",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627769,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768628,
+					1.441279
+				]
+			},
+			"properties": {
+				"OBJECTID": 627769,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10149780",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 494393,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763706,
+					1.43601
+				]
+			},
+			"properties": {
+				"OBJECTID": 494393,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147188",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627778,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7686,
+					1.440559
+				]
+			},
+			"properties": {
+				"OBJECTID": 627778,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149558",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765422,
+					1.437981
+				]
+			},
+			"properties": {
+				"OBJECTID": 627732,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10148157",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627775,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76859,
+					1.44041
+				]
+			},
+			"properties": {
+				"OBJECTID": 627775,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149517",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627749,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767189,
+					1.439747
+				]
+			},
+			"properties": {
+				"OBJECTID": 627749,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149317",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687136,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768362,
+					1.435714
+				]
+			},
+			"properties": {
+				"OBJECTID": 687136,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11246568",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 432295,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768104,
+					1.440101
+				]
+			},
+			"properties": {
+				"OBJECTID": 432295,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1609",
+				"COMMON_NM": "Java Willow",
+				"SPSC_NM": "Ficus benjamina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus benjamina,Java Willow",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12943147",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687128,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768332,
+					1.4369
+				]
+			},
+			"properties": {
+				"OBJECTID": 687128,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11246656",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531545,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763051,
+					1.435375
+				]
+			},
+			"properties": {
+				"OBJECTID": 531545,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10146655",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516709,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768548,
+					1.440954
+				]
+			},
+			"properties": {
+				"OBJECTID": 516709,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11370858",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 173509,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.758281,
+					1.435849
+				]
+			},
+			"properties": {
+				"OBJECTID": 173509,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "18",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12467979",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627755,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767483,
+					1.440013
+				]
+			},
+			"properties": {
+				"OBJECTID": 627755,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149430",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531622,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767269,
+					1.439372
+				]
+			},
+			"properties": {
+				"OBJECTID": 531622,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10149077",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 494390,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763338,
+					1.435664
+				]
+			},
+			"properties": {
+				"OBJECTID": 494390,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10146885",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687125,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768324,
+					1.436959
+				]
+			},
+			"properties": {
+				"OBJECTID": 687125,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11246654",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627766,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768498,
+					1.441074
+				]
+			},
+			"properties": {
+				"OBJECTID": 627766,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10149644",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627743,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.766879,
+					1.439028
+				]
+			},
+			"properties": {
+				"OBJECTID": 627743,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10148869",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627735,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765318,
+					1.437598
+				]
+			},
+			"properties": {
+				"OBJECTID": 627735,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147805",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 630969,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768075,
+					1.441048
+				]
+			},
+			"properties": {
+				"OBJECTID": 630969,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11112505",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 518701,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767071,
+					1.439367
+				]
+			},
+			"properties": {
+				"OBJECTID": 518701,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11285387",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627752,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767661,
+					1.439739
+				]
+			},
+			"properties": {
+				"OBJECTID": 627752,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149265",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531611,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763483,
+					1.435801
+				]
+			},
+			"properties": {
+				"OBJECTID": 531611,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147048",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516720,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768464,
+					1.440468
+				]
+			},
+			"properties": {
+				"OBJECTID": 516720,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1606",
+				"COMMON_NM": "Banyan Tree",
+				"SPSC_NM": "Ficus benghalensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus benghalensis,Banyan Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11372615",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627772,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768507,
+					1.441147
+				]
+			},
+			"properties": {
+				"OBJECTID": 627772,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149697",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 477513,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768594,
+					1.440307
+				]
+			},
+			"properties": {
+				"OBJECTID": 477513,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "21",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149484",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627746,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767363,
+					1.439661
+				]
+			},
+			"properties": {
+				"OBJECTID": 627746,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149172",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 7029,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.762961,
+					1.435593
+				]
+			},
+			"properties": {
+				"OBJECTID": 7029,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "1997",
+				"Girth": "> 1.5",
+				"Public_treeid": "10969673",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687119,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768304,
+					1.437129
+				]
+			},
+			"properties": {
+				"OBJECTID": 687119,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11246567",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 494391,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.764114,
+					1.436754
+				]
+			},
+			"properties": {
+				"OBJECTID": 494391,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147469",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627738,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765248,
+					1.437804
+				]
+			},
+			"properties": {
+				"OBJECTID": 627738,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10148045",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531623,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767366,
+					1.439458
+				]
+			},
+			"properties": {
+				"OBJECTID": 531623,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10149109",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627761,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768602,
+					1.441156
+				]
+			},
+			"properties": {
+				"OBJECTID": 627761,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10149698",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 513595,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.757914,
+					1.436425
+				]
+			},
+			"properties": {
+				"OBJECTID": 513595,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12561915",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627767,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768588,
+					1.44113
+				]
+			},
+			"properties": {
+				"OBJECTID": 627767,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149655",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 689653,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.758234,
+					1.436179
+				]
+			},
+			"properties": {
+				"OBJECTID": 689653,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12972268",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 518702,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767126,
+					1.439403
+				]
+			},
+			"properties": {
+				"OBJECTID": 518702,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11285291",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516721,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768578,
+					1.441024
+				]
+			},
+			"properties": {
+				"OBJECTID": 516721,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11369713",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687137,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768343,
+					1.436211
+				]
+			},
+			"properties": {
+				"OBJECTID": 687137,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11285752",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7652,
+					1.437757
+				]
+			},
+			"properties": {
+				"OBJECTID": 627730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10148003",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687134,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.76834,
+					1.436265
+				]
+			},
+			"properties": {
+				"OBJECTID": 687134,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11246657",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319452,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768338,
+					1.436319
+				]
+			},
+			"properties": {
+				"OBJECTID": 319452,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11203243",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516715,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768536,
+					1.440179
+				]
+			},
+			"properties": {
+				"OBJECTID": 516715,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1606",
+				"COMMON_NM": "Banyan Tree",
+				"SPSC_NM": "Ficus benghalensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus benghalensis,Banyan Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11371857",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627747,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767505,
+					1.439793
+				]
+			},
+			"properties": {
+				"OBJECTID": 627747,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149204",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687120,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768308,
+					1.437081
+				]
+			},
+			"properties": {
+				"OBJECTID": 687120,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11285738",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 513114,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765994,
+					1.438237
+				]
+			},
+			"properties": {
+				"OBJECTID": 513114,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "18",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10148318",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 513604,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7582,
+					1.436359
+				]
+			},
+			"properties": {
+				"OBJECTID": 513604,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1556",
+				"COMMON_NM": "Velvet Persimmon",
+				"SPSC_NM": "Diospyros blancoi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Diospyros blancoi,Velvet Persimmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12502274",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 518699,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767208,
+					1.43949
+				]
+			},
+			"properties": {
+				"OBJECTID": 518699,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11285290",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687123,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768319,
+					1.436998
+				]
+			},
+			"properties": {
+				"OBJECTID": 687123,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11246652",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 531620,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.766541,
+					1.438701
+				]
+			},
+			"properties": {
+				"OBJECTID": 531620,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10148514",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627741,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.765733,
+					1.438294
+				]
+			},
+			"properties": {
+				"OBJECTID": 627741,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10173544",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 494388,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.762961,
+					1.435593
+				]
+			},
+			"properties": {
+				"OBJECTID": 494388,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11418626",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319449,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768348,
+					1.436078
+				]
+			},
+			"properties": {
+				"OBJECTID": 319449,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "9",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11143968",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 494394,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.763911,
+					1.436185
+				]
+			},
+			"properties": {
+				"OBJECTID": 494394,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10147263",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516718,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768503,
+					1.440359
+				]
+			},
+			"properties": {
+				"OBJECTID": 516718,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1606",
+				"COMMON_NM": "Banyan Tree",
+				"SPSC_NM": "Ficus benghalensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus benghalensis,Banyan Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11370859",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627750,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767542,
+					1.439627
+				]
+			},
+			"properties": {
+				"OBJECTID": 627750,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10149168",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687131,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768326,
+					1.436789
+				]
+			},
+			"properties": {
+				"OBJECTID": 687131,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1791",
+				"COMMON_NM": "Lansir",
+				"SPSC_NM": "Pometia pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pometia pinnata,Lansir",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234722",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 432296,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768164,
+					1.440107
+				]
+			},
+			"properties": {
+				"OBJECTID": 432296,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "1",
+				"SPCS_CD": "1609",
+				"COMMON_NM": "Java Willow",
+				"SPSC_NM": "Ficus benjamina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus benjamina,Java Willow",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12943148",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 7227,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.766834,
+					1.438959
+				]
+			},
+			"properties": {
+				"OBJECTID": 7227,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "1997",
+				"Girth": "> 1.5",
+				"Public_treeid": "10969262",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 627758,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768537,
+					1.44108
+				]
+			},
+			"properties": {
+				"OBJECTID": 627758,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10149633",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 516712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768619,
+					1.44003
+				]
+			},
+			"properties": {
+				"OBJECTID": 516712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "1",
+				"SPCS_CD": "1606",
+				"COMMON_NM": "Banyan Tree",
+				"SPSC_NM": "Ficus benghalensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus benghalensis,Banyan Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11371984",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 513117,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.767462,
+					1.439548
+				]
+			},
+			"properties": {
+				"OBJECTID": 513117,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "18",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10148666",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 173510,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.758267,
+					1.43599
+				]
+			},
+			"properties": {
+				"OBJECTID": 173510,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "18",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12467980",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 687117,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.768294,
+					1.43723
+				]
+			},
+			"properties": {
+				"OBJECTID": 687117,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1755",
+				"COMMON_NM": "White Gutta",
+				"SPSC_NM": "Palaquium obovatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Palaquium obovatum,White Gutta",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11285737",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

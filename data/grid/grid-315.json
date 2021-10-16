@@ -1,0 +1,6193 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 3913,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810967,
+					1.374825
+				]
+			},
+			"properties": {
+				"OBJECTID": 3913,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938750",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1042,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810898,
+					1.375264
+				]
+			},
+			"properties": {
+				"OBJECTID": 1042,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940976",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2207,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811502,
+					1.374407
+				]
+			},
+			"properties": {
+				"OBJECTID": 2207,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938763",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1397,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811733,
+					1.374056
+				]
+			},
+			"properties": {
+				"OBJECTID": 1397,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938785",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2591,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811712,
+					1.374526
+				]
+			},
+			"properties": {
+				"OBJECTID": 2591,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938768",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1512,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811782,
+					1.373942
+				]
+			},
+			"properties": {
+				"OBJECTID": 1512,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941039",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1904,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81012,
+					1.374974
+				]
+			},
+			"properties": {
+				"OBJECTID": 1904,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940266",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4111,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811088,
+					1.373702
+				]
+			},
+			"properties": {
+				"OBJECTID": 4111,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10938776",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4552,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81101,
+					1.374784
+				]
+			},
+			"properties": {
+				"OBJECTID": 4552,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942149",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4798,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810977,
+					1.374591
+				]
+			},
+			"properties": {
+				"OBJECTID": 4798,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940998",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3000,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811391,
+					1.373539
+				]
+			},
+			"properties": {
+				"OBJECTID": 3000,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941004",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5064,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81086,
+					1.374106
+				]
+			},
+			"properties": {
+				"OBJECTID": 5064,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10942448",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4801,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810873,
+					1.375431
+				]
+			},
+			"properties": {
+				"OBJECTID": 4801,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940250",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1291,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811398,
+					1.374514
+				]
+			},
+			"properties": {
+				"OBJECTID": 1291,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940256",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2053,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811003,
+					1.373977
+				]
+			},
+			"properties": {
+				"OBJECTID": 2053,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938978",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2571,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811335,
+					1.373584
+				]
+			},
+			"properties": {
+				"OBJECTID": 2571,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10940249",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2104,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810527,
+					1.374718
+				]
+			},
+			"properties": {
+				"OBJECTID": 2104,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10942569",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1085,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810938,
+					1.375066
+				]
+			},
+			"properties": {
+				"OBJECTID": 1085,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940993",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4025,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810821,
+					1.375228
+				]
+			},
+			"properties": {
+				"OBJECTID": 4025,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942052",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5021,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811154,
+					1.374382
+				]
+			},
+			"properties": {
+				"OBJECTID": 5021,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10942055",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3882,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810148,
+					1.374878
+				]
+			},
+			"properties": {
+				"OBJECTID": 3882,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938888",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1326,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811043,
+					1.374504
+				]
+			},
+			"properties": {
+				"OBJECTID": 1326,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938893",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699501,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.816053,
+					1.376447
+				]
+			},
+			"properties": {
+				"OBJECTID": 699501,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15m",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Saraca declinata",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Saraca declinata",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13002482",
+				"EYTreeId": "{66115533-E8A4-4F70-9D50-E79223D9E62D}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3770,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.813386,
+					1.381194
+				]
+			},
+			"properties": {
+				"OBJECTID": 3770,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "3",
+				"SPCS_CD": "1942",
+				"COMMON_NM": "Ten Men Tree",
+				"SPSC_NM": "Ixonanthes reticulata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ixonanthes reticulata,Ten Men Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939284",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 928,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810831,
+					1.375465
+				]
+			},
+			"properties": {
+				"OBJECTID": 928,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940241",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1586,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811679,
+					1.374501
+				]
+			},
+			"properties": {
+				"OBJECTID": 1586,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938797",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2250,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81174,
+					1.374002
+				]
+			},
+			"properties": {
+				"OBJECTID": 2250,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938914",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2273,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810838,
+					1.375131
+				]
+			},
+			"properties": {
+				"OBJECTID": 2273,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940972",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 945,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810142,
+					1.375138
+				]
+			},
+			"properties": {
+				"OBJECTID": 945,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940245",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4958,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811497,
+					1.373786
+				]
+			},
+			"properties": {
+				"OBJECTID": 4958,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938499",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3776,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811048,
+					1.374718
+				]
+			},
+			"properties": {
+				"OBJECTID": 3776,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942051",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5081,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810887,
+					1.375319
+				]
+			},
+			"properties": {
+				"OBJECTID": 5081,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940978",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2542,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811205,
+					1.374574
+				]
+			},
+			"properties": {
+				"OBJECTID": 2542,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1476",
+				"COMMON_NM": "Purple Millettia",
+				"SPSC_NM": "Callerya atropurpurea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Callerya atropurpurea,Purple Millettia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938982",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1692,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811201,
+					1.3745
+				]
+			},
+			"properties": {
+				"OBJECTID": 1692,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1578",
+				"COMMON_NM": "Cemantung Merah",
+				"SPSC_NM": "Elaeocarpus mastersii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Elaeocarpus mastersii,Cemantung Merah",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942570",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2233,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811776,
+					1.373896
+				]
+			},
+			"properties": {
+				"OBJECTID": 2233,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939811",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2582,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810599,
+					1.375059
+				]
+			},
+			"properties": {
+				"OBJECTID": 2582,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "4",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938986",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4108,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810839,
+					1.375178
+				]
+			},
+			"properties": {
+				"OBJECTID": 4108,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942356",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1108,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810717,
+					1.374326
+				]
+			},
+			"properties": {
+				"OBJECTID": 1108,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940979",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4849,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810711,
+					1.375075
+				]
+			},
+			"properties": {
+				"OBJECTID": 4849,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938777",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700036,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811359,
+					1.383799
+				]
+			},
+			"properties": {
+				"OBJECTID": 700036,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Purple Aril Mischocarp",
+				"SPSC_NM": "Mischocarpus Sundaicus",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Mischocarpus Sundaicus, Purple Aril Mischocarp",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13009157",
+				"EYTreeId": "{73A6FC96-23FE-4C01-98C5-32B79DE23AD9}",
+				"Name": "AT tree",
+				"Email": "Atyl62@singnet.com.sg",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3779,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810937,
+					1.375245
+				]
+			},
+			"properties": {
+				"OBJECTID": 3779,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942053",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3899,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810237,
+					1.375564
+				]
+			},
+			"properties": {
+				"OBJECTID": 3899,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938985",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4085,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811777,
+					1.37396
+				]
+			},
+			"properties": {
+				"OBJECTID": 4085,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940239",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5310,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811561,
+					1.373829
+				]
+			},
+			"properties": {
+				"OBJECTID": 5310,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940237",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1779,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810792,
+					1.375499
+				]
+			},
+			"properties": {
+				"OBJECTID": 1779,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940231",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2088,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811276,
+					1.373594
+				]
+			},
+			"properties": {
+				"OBJECTID": 2088,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": null,
+				"Public_treeid": "10942178",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4080,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810192,
+					1.375362
+				]
+			},
+			"properties": {
+				"OBJECTID": 4080,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940242",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3485,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81087,
+					1.375034
+				]
+			},
+			"properties": {
+				"OBJECTID": 3485,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938912",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3462,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811503,
+					1.374909
+				]
+			},
+			"properties": {
+				"OBJECTID": 3462,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940240",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4295,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.817433,
+					1.377926
+				]
+			},
+			"properties": {
+				"OBJECTID": 4295,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "19",
+				"SPCS_CD": "1692",
+				"COMMON_NM": "Penang Sloe",
+				"SPSC_NM": "Kopsia arborea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Kopsia arborea,Penang Sloe",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10561259",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3556,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810586,
+					1.375015
+				]
+			},
+			"properties": {
+				"OBJECTID": 3556,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938913",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699922,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81048,
+					1.376184
+				]
+			},
+			"properties": {
+				"OBJECTID": 699922,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18m",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Shorea leprosula",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Shorea leprosula",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Masting",
+				"Hert_age": "",
+				"Girth": "> 1.5m",
+				"Public_treeid": "13033903",
+				"EYTreeId": "{6A371454-DDF2-4942-8E2E-99013CA71AE7}",
+				"Name": "Karl",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4558,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.807839,
+					1.376388
+				]
+			},
+			"properties": {
+				"OBJECTID": 4558,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1411",
+				"COMMON_NM": "Pulai",
+				"SPSC_NM": "Alstonia angustiloba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Alstonia angustiloba,Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939285",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2048,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811188,
+					1.37445
+				]
+			},
+			"properties": {
+				"OBJECTID": 2048,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1578",
+				"COMMON_NM": "Cemantung Merah",
+				"SPSC_NM": "Elaeocarpus mastersii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Elaeocarpus mastersii,Cemantung Merah",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940230",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3917,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810638,
+					1.373904
+				]
+			},
+			"properties": {
+				"OBJECTID": 3917,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938774",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1704,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81062,
+					1.375125
+				]
+			},
+			"properties": {
+				"OBJECTID": 1704,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938915",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5036,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810702,
+					1.375264
+				]
+			},
+			"properties": {
+				"OBJECTID": 5036,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10942565",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3568,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811395,
+					1.374858
+				]
+			},
+			"properties": {
+				"OBJECTID": 3568,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938796",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1650,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810549,
+					1.374048
+				]
+			},
+			"properties": {
+				"OBJECTID": 1650,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938977",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2042,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811387,
+					1.373959
+				]
+			},
+			"properties": {
+				"OBJECTID": 2042,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1476",
+				"COMMON_NM": "Purple Millettia",
+				"SPSC_NM": "Callerya atropurpurea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Callerya atropurpurea,Purple Millettia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938981",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3047,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810669,
+					1.374488
+				]
+			},
+			"properties": {
+				"OBJECTID": 3047,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940999",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2549,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810167,
+					1.374752
+				]
+			},
+			"properties": {
+				"OBJECTID": 2549,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940206",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2812,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810872,
+					1.375275
+				]
+			},
+			"properties": {
+				"OBJECTID": 2812,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10942566",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1481,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811608,
+					1.3746
+				]
+			},
+			"properties": {
+				"OBJECTID": 1481,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1512",
+				"COMMON_NM": "Japanese Camphor Tree",
+				"SPSC_NM": "Cinnamomum camphora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cinnamomum camphora,Japanese Camphor Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938924",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3880,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810792,
+					1.375423
+				]
+			},
+			"properties": {
+				"OBJECTID": 3880,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938983",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2171,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811252,
+					1.373626
+				]
+			},
+			"properties": {
+				"OBJECTID": 2171,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": null,
+				"Public_treeid": "10942446",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5225,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811039,
+					1.374792
+				]
+			},
+			"properties": {
+				"OBJECTID": 5225,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940977",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4784,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81081,
+					1.374419
+				]
+			},
+			"properties": {
+				"OBJECTID": 4784,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940980",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2022,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810746,
+					1.375477
+				]
+			},
+			"properties": {
+				"OBJECTID": 2022,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940997",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4584,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810579,
+					1.374712
+				]
+			},
+			"properties": {
+				"OBJECTID": 4584,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938753",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81136,
+					1.374827
+				]
+			},
+			"properties": {
+				"OBJECTID": 2712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938892",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3339,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810547,
+					1.374611
+				]
+			},
+			"properties": {
+				"OBJECTID": 3339,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10942150",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1716,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810687,
+					1.375373
+				]
+			},
+			"properties": {
+				"OBJECTID": 1716,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938907",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2606,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811519,
+					1.37489
+				]
+			},
+			"properties": {
+				"OBJECTID": 2606,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938778",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2849,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810706,
+					1.373859
+				]
+			},
+			"properties": {
+				"OBJECTID": 2849,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938980",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2955,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810987,
+					1.375268
+				]
+			},
+			"properties": {
+				"OBJECTID": 2955,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10942388",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1475,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810816,
+					1.374548
+				]
+			},
+			"properties": {
+				"OBJECTID": 1475,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941000",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2941,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811603,
+					1.374579
+				]
+			},
+			"properties": {
+				"OBJECTID": 2941,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940280",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 926,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810755,
+					1.3753
+				]
+			},
+			"properties": {
+				"OBJECTID": 926,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938765",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2039,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810743,
+					1.374716
+				]
+			},
+			"properties": {
+				"OBJECTID": 2039,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938908",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3559,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81097,
+					1.37514
+				]
+			},
+			"properties": {
+				"OBJECTID": 3559,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940243",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2772,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810756,
+					1.375508
+				]
+			},
+			"properties": {
+				"OBJECTID": 2772,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940265",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1515,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811163,
+					1.374327
+				]
+			},
+			"properties": {
+				"OBJECTID": 1515,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938769",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2795,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811733,
+					1.373868
+				]
+			},
+			"properties": {
+				"OBJECTID": 2795,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938923",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 997,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81151,
+					1.374922
+				]
+			},
+			"properties": {
+				"OBJECTID": 997,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941037",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3087,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.8106,
+					1.373949
+				]
+			},
+			"properties": {
+				"OBJECTID": 3087,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": null,
+				"Public_treeid": "10942355",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4292,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.818843,
+					1.378559
+				]
+			},
+			"properties": {
+				"OBJECTID": 4292,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "19",
+				"SPCS_CD": "1692",
+				"COMMON_NM": "Penang Sloe",
+				"SPSC_NM": "Kopsia arborea",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Kopsia arborea,Penang Sloe",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "NO",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10561260",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1358,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810935,
+					1.375153
+				]
+			},
+			"properties": {
+				"OBJECTID": 1358,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939823",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4939,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810794,
+					1.374056
+				]
+			},
+			"properties": {
+				"OBJECTID": 4939,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938500",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1049,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811578,
+					1.374624
+				]
+			},
+			"properties": {
+				"OBJECTID": 1049,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1512",
+				"COMMON_NM": "Japanese Camphor Tree",
+				"SPSC_NM": "Cinnamomum camphora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cinnamomum camphora,Japanese Camphor Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941019",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2972,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811675,
+					1.374537
+				]
+			},
+			"properties": {
+				"OBJECTID": 2972,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940992",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5282,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810835,
+					1.375335
+				]
+			},
+			"properties": {
+				"OBJECTID": 5282,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938773",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3327,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811553,
+					1.374878
+				]
+			},
+			"properties": {
+				"OBJECTID": 3327,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940991",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1847,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810984,
+					1.374666
+				]
+			},
+			"properties": {
+				"OBJECTID": 1847,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1819",
+				"COMMON_NM": "Kahuruan",
+				"SPSC_NM": "Saraca declinata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Saraca declinata,Kahuruan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940989",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4996,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811639,
+					1.374556
+				]
+			},
+			"properties": {
+				"OBJECTID": 4996,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940996",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4793,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811567,
+					1.373992
+				]
+			},
+			"properties": {
+				"OBJECTID": 4793,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940260",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5142,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811552,
+					1.373865
+				]
+			},
+			"properties": {
+				"OBJECTID": 5142,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941009",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3419,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810774,
+					1.37381
+				]
+			},
+			"properties": {
+				"OBJECTID": 3419,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10941003",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4687,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811024,
+					1.375003
+				]
+			},
+			"properties": {
+				"OBJECTID": 4687,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938887",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2125,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810201,
+					1.375457
+				]
+			},
+			"properties": {
+				"OBJECTID": 2125,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941005",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3971,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810805,
+					1.375401
+				]
+			},
+			"properties": {
+				"OBJECTID": 3971,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942568",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3997,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811382,
+					1.375088
+				]
+			},
+			"properties": {
+				"OBJECTID": 3997,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940259",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1192,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810758,
+					1.375144
+				]
+			},
+			"properties": {
+				"OBJECTID": 1192,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942086",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4867,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810906,
+					1.375194
+				]
+			},
+			"properties": {
+				"OBJECTID": 4867,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941002",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5165,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810927,
+					1.374743
+				]
+			},
+			"properties": {
+				"OBJECTID": 5165,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940236",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1044,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810867,
+					1.374807
+				]
+			},
+			"properties": {
+				"OBJECTID": 1044,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10942151",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5289,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.809561,
+					1.377467
+				]
+			},
+			"properties": {
+				"OBJECTID": 5289,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "3",
+				"SPCS_CD": "1411",
+				"COMMON_NM": "Pulai",
+				"SPSC_NM": "Alstonia angustiloba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Alstonia angustiloba,Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939400",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3059,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810767,
+					1.37499
+				]
+			},
+			"properties": {
+				"OBJECTID": 3059,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1418",
+				"COMMON_NM": "Cabbage Tree",
+				"SPSC_NM": "Andira inermis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Andira inermis,Cabbage Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10942386",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5266,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811785,
+					1.373981
+				]
+			},
+			"properties": {
+				"OBJECTID": 5266,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940995",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1825,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811015,
+					1.37458
+				]
+			},
+			"properties": {
+				"OBJECTID": 1825,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942387",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2418,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811777,
+					1.374032
+				]
+			},
+			"properties": {
+				"OBJECTID": 2418,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941011",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4742,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81049,
+					1.375309
+				]
+			},
+			"properties": {
+				"OBJECTID": 4742,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938976",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5097,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810769,
+					1.374149
+				]
+			},
+			"properties": {
+				"OBJECTID": 5097,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938987",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4195,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811453,
+					1.374919
+				]
+			},
+			"properties": {
+				"OBJECTID": 4195,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940990",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3136,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811556,
+					1.374405
+				]
+			},
+			"properties": {
+				"OBJECTID": 3136,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941012",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2226,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810518,
+					1.37418
+				]
+			},
+			"properties": {
+				"OBJECTID": 2226,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938786",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1201,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811407,
+					1.373855
+				]
+			},
+			"properties": {
+				"OBJECTID": 1201,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1476",
+				"COMMON_NM": "Purple Millettia",
+				"SPSC_NM": "Callerya atropurpurea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Callerya atropurpurea,Purple Millettia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938783",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2481,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811521,
+					1.375057
+				]
+			},
+			"properties": {
+				"OBJECTID": 2481,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940258",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3520,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811129,
+					1.37468
+				]
+			},
+			"properties": {
+				"OBJECTID": 3520,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1578",
+				"COMMON_NM": "Cemantung Merah",
+				"SPSC_NM": "Elaeocarpus mastersii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Elaeocarpus mastersii,Cemantung Merah",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942056",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5137,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811692,
+					1.374231
+				]
+			},
+			"properties": {
+				"OBJECTID": 5137,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940248",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3076,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810899,
+					1.373763
+				]
+			},
+			"properties": {
+				"OBJECTID": 3076,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938771",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4115,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810759,
+					1.375036
+				]
+			},
+			"properties": {
+				"OBJECTID": 4115,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938751",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2598,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810853,
+					1.37494
+				]
+			},
+			"properties": {
+				"OBJECTID": 2598,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940251",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3829,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811072,
+					1.37482
+				]
+			},
+			"properties": {
+				"OBJECTID": 3829,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940267",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5160,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810613,
+					1.374968
+				]
+			},
+			"properties": {
+				"OBJECTID": 5160,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10942567",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 569321,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.818658,
+					1.382154
+				]
+			},
+			"properties": {
+				"OBJECTID": 569321,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12434448",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4676,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811119,
+					1.373683
+				]
+			},
+			"properties": {
+				"OBJECTID": 4676,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938988",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1330,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811481,
+					1.37379
+				]
+			},
+			"properties": {
+				"OBJECTID": 1330,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941001",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3866,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81013,
+					1.375007
+				]
+			},
+			"properties": {
+				"OBJECTID": 3866,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940233",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1705,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811755,
+					1.373881
+				]
+			},
+			"properties": {
+				"OBJECTID": 1705,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938922",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1141,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810763,
+					1.375425
+				]
+			},
+			"properties": {
+				"OBJECTID": 1141,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938752",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3133,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811016,
+					1.373731
+				]
+			},
+			"properties": {
+				"OBJECTID": 3133,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938989",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2323,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810738,
+					1.375331
+				]
+			},
+			"properties": {
+				"OBJECTID": 2323,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940208",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2300,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811449,
+					1.373791
+				]
+			},
+			"properties": {
+				"OBJECTID": 2300,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942447",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2876,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811108,
+					1.374691
+				]
+			},
+			"properties": {
+				"OBJECTID": 2876,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938764",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4204,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811556,
+					1.37385
+				]
+			},
+			"properties": {
+				"OBJECTID": 4204,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938890",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1001,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811541,
+					1.373893
+				]
+			},
+			"properties": {
+				"OBJECTID": 1001,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940234",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4052,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811641,
+					1.374302
+				]
+			},
+			"properties": {
+				"OBJECTID": 4052,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938904",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3417,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81106,
+					1.37411
+				]
+			},
+			"properties": {
+				"OBJECTID": 3417,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940246",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3271,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810874,
+					1.37379
+				]
+			},
+			"properties": {
+				"OBJECTID": 3271,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938772",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2266,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810676,
+					1.375243
+				]
+			},
+			"properties": {
+				"OBJECTID": 2266,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940207",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3305,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811506,
+					1.374889
+				]
+			},
+			"properties": {
+				"OBJECTID": 3305,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938891",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2223,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810154,
+					1.375179
+				]
+			},
+			"properties": {
+				"OBJECTID": 2223,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940227",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2023,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811372,
+					1.374549
+				]
+			},
+			"properties": {
+				"OBJECTID": 2023,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10941038",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4728,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810572,
+					1.374016
+				]
+			},
+			"properties": {
+				"OBJECTID": 4728,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940252",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1676,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810893,
+					1.375056
+				]
+			},
+			"properties": {
+				"OBJECTID": 1676,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5014,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810941,
+					1.374994
+				]
+			},
+			"properties": {
+				"OBJECTID": 5014,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940235",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3299,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811565,
+					1.373816
+				]
+			},
+			"properties": {
+				"OBJECTID": 3299,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10941020",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2801,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810363,
+					1.374366
+				]
+			},
+			"properties": {
+				"OBJECTID": 2801,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940268",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2587,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811551,
+					1.373835
+				]
+			},
+			"properties": {
+				"OBJECTID": 2587,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938793",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2819,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811158,
+					1.373665
+				]
+			},
+			"properties": {
+				"OBJECTID": 2819,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": null,
+				"Public_treeid": "10942177",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5026,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810655,
+					1.375056
+				]
+			},
+			"properties": {
+				"OBJECTID": 5026,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938916",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2178,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811758,
+					1.373982
+				]
+			},
+			"properties": {
+				"OBJECTID": 2178,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10940261",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1299,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810918,
+					1.375115
+				]
+			},
+			"properties": {
+				"OBJECTID": 1299,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942054",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5341,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811055,
+					1.374867
+				]
+			},
+			"properties": {
+				"OBJECTID": 5341,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1476",
+				"COMMON_NM": "Purple Millettia",
+				"SPSC_NM": "Callerya atropurpurea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Callerya atropurpurea,Purple Millettia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940973",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1986,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810739,
+					1.374768
+				]
+			},
+			"properties": {
+				"OBJECTID": 1986,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938911",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2387,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810821,
+					1.375079
+				]
+			},
+			"properties": {
+				"OBJECTID": 2387,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10938906",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4648,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810753,
+					1.374207
+				]
+			},
+			"properties": {
+				"OBJECTID": 4648,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938910",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3263,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81081,
+					1.375169
+				]
+			},
+			"properties": {
+				"OBJECTID": 3263,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940971",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4923,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811582,
+					1.374589
+				]
+			},
+			"properties": {
+				"OBJECTID": 4923,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938794",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4688,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810269,
+					1.374497
+				]
+			},
+			"properties": {
+				"OBJECTID": 4688,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938782",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4760,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810793,
+					1.375229
+				]
+			},
+			"properties": {
+				"OBJECTID": 4760,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10942153",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3778,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811509,
+					1.374095
+				]
+			},
+			"properties": {
+				"OBJECTID": 3778,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940238",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4076,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810976,
+					1.375199
+				]
+			},
+			"properties": {
+				"OBJECTID": 4076,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1306",
+				"COMMON_NM": "Satra Palm",
+				"SPSC_NM": "Bismarckia nobilis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Bismarckia nobilis,Satra Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942152",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1322,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810524,
+					1.374085
+				]
+			},
+			"properties": {
+				"OBJECTID": 1322,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": null,
+				"Public_treeid": "10938501",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1379,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810988,
+					1.374998
+				]
+			},
+			"properties": {
+				"OBJECTID": 1379,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10942385",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1030,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811303,
+					1.37419
+				]
+			},
+			"properties": {
+				"OBJECTID": 1030,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1476",
+				"COMMON_NM": "Purple Millettia",
+				"SPSC_NM": "Callerya atropurpurea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Callerya atropurpurea,Purple Millettia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940232",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5146,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811506,
+					1.373792
+				]
+			},
+			"properties": {
+				"OBJECTID": 5146,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940264",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2158,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811223,
+					1.373625
+				]
+			},
+			"properties": {
+				"OBJECTID": 2158,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940269",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4960,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811426,
+					1.374918
+				]
+			},
+			"properties": {
+				"OBJECTID": 4960,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938767",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4534,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810425,
+					1.374358
+				]
+			},
+			"properties": {
+				"OBJECTID": 4534,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941013",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5284,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810988,
+					1.374877
+				]
+			},
+			"properties": {
+				"OBJECTID": 5284,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": null,
+				"COMMON_NM": null,
+				"SPSC_NM": null,
+				"PRUNING": null,
+				"SPCS_COMMON_NM": ",",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10942354",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2636,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810304,
+					1.374537
+				]
+			},
+			"properties": {
+				"OBJECTID": 2636,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938909",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4542,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811639,
+					1.374582
+				]
+			},
+			"properties": {
+				"OBJECTID": 4542,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1512",
+				"COMMON_NM": "Japanese Camphor Tree",
+				"SPSC_NM": "Cinnamomum camphora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cinnamomum camphora,Japanese Camphor Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10941018",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1766,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811497,
+					1.375118
+				]
+			},
+			"properties": {
+				"OBJECTID": 1766,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940229",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1462,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811275,
+					1.374321
+				]
+			},
+			"properties": {
+				"OBJECTID": 1462,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1476",
+				"COMMON_NM": "Purple Millettia",
+				"SPSC_NM": "Callerya atropurpurea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Callerya atropurpurea,Purple Millettia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938979",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1319,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810766,
+					1.37522
+				]
+			},
+			"properties": {
+				"OBJECTID": 1319,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938766",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3283,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81134,
+					1.374079
+				]
+			},
+			"properties": {
+				"OBJECTID": 3283,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1476",
+				"COMMON_NM": "Purple Millettia",
+				"SPSC_NM": "Callerya atropurpurea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Callerya atropurpurea,Purple Millettia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10942085",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2058,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810551,
+					1.374786
+				]
+			},
+			"properties": {
+				"OBJECTID": 2058,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10942087",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3695,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811555,
+					1.373842
+				]
+			},
+			"properties": {
+				"OBJECTID": 3695,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938993",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4036,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811705,
+					1.373881
+				]
+			},
+			"properties": {
+				"OBJECTID": 4036,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941016",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5312,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811206,
+					1.373646
+				]
+			},
+			"properties": {
+				"OBJECTID": 5312,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938784",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

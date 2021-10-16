@@ -1,0 +1,7480 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1072",
+    "tree_id": "10940941",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.971906,
+     1.409397
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1104",
+    "tree_id": "10940104",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.965282,
+     1.404407
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1159",
+    "tree_id": "10940091",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.969646,
+     1.406638
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1165",
+    "tree_id": "10942612",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 17,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.775285,
+     1.380287
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1283",
+    "tree_id": "10940940",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972156,
+     1.4096
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1323",
+    "tree_id": "10940943",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972128,
+     1.409904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1325",
+    "tree_id": "10940865",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.96464,
+     1.406519
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1344",
+    "tree_id": "10940142",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.967384,
+     1.407942
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1386",
+    "tree_id": "10940594",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972364,
+     1.409896
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1413",
+    "tree_id": "10938714",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.971826,
+     1.40941
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1417",
+    "tree_id": "10938864",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972305,
+     1.409725
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1580",
+    "tree_id": "10938716",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972258,
+     1.40951
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1745",
+    "tree_id": "10940885",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.96603,
+     1.406902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1746",
+    "tree_id": "10940168",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.77701,
+     1.363389
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1748",
+    "tree_id": "10939545",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.775467,
+     1.379738
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1840",
+    "tree_id": "10940540",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.965774,
+     1.406929
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1865",
+    "tree_id": "10939293",
+    "species_id": "29703",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio singaporensis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.731784,
+     1.421187
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1871",
+    "tree_id": "10939605",
+    "species_id": "29703",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio singaporensis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.731846,
+     1.421353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1877",
+    "tree_id": "10939592",
+    "species_id": "29703",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio singaporensis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.731358,
+     1.420618
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1958",
+    "tree_id": "10938717",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.971883,
+     1.409115
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1959",
+    "tree_id": "10940591",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972073,
+     1.409588
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1965",
+    "tree_id": "12394647",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.766501,
+     1.36304
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1971",
+    "tree_id": "10940590",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.9723,
+     1.409252
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2149",
+    "tree_id": "10940960",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">21 but ≤24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.776403,
+     1.364044
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2153",
+    "tree_id": "10939851",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.776544,
+     1.358877
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2192",
+    "tree_id": "10940411",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.757812,
+     1.354157
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "7282",
+    "tree_id": "10690239",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 5,
+    "flowering": false,
+    "heritage": true,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.96498,
+     1.406473
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2416",
+    "tree_id": "10938481",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.969619,
+     1.406622
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2430",
+    "tree_id": "10940141",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.965819,
+     1.406694
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2438",
+    "tree_id": "10940129",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.967684,
+     1.407865
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2558",
+    "tree_id": "10940889",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">21 but ≤24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.968327,
+     1.408227
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2592",
+    "tree_id": "10938842",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.971113,
+     1.408911
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2664",
+    "tree_id": "10940595",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972656,
+     1.409712
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2732",
+    "tree_id": "10938840",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.983495,
+     1.409537
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2742",
+    "tree_id": "10940933",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972566,
+     1.409713
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2796",
+    "tree_id": "10938843",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.96948,
+     1.408964
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3090",
+    "tree_id": "10940435",
+    "species_id": "32864",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">24",
+    "height_est": 24,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.824302,
+     1.36082
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3098",
+    "tree_id": "10940596",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.971795,
+     1.409568
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3119",
+    "tree_id": "13013354",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">21 but ≤24",
+    "height_est": 24,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.968314,
+     1.408239
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3199",
+    "tree_id": "11319028",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.979422,
+     1.410702
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3254",
+    "tree_id": "13001032",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 0,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.969549,
+     1.406306
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3265",
+    "tree_id": "11319010",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.979564,
+     1.41061
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3461",
+    "tree_id": "10940593",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.971707,
+     1.409443
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3508",
+    "tree_id": "10940939",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972029,
+     1.409136
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3512",
+    "tree_id": "10940592",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.971989,
+     1.409488
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3555",
+    "tree_id": "10938713",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972115,
+     1.409314
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3827",
+    "tree_id": "10938482",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.96956,
+     1.406677
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4017",
+    "tree_id": "10940900",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">21 but ≤24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.776649,
+     1.364194
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4127",
+    "tree_id": "10940140",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.967365,
+     1.408122
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4163",
+    "tree_id": "10940597",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972463,
+     1.409203
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4344",
+    "tree_id": "10938711",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.971866,
+     1.409395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4533",
+    "tree_id": "10940937",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.971948,
+     1.409472
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4577",
+    "tree_id": "11373029",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.776709,
+     1.358901
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4701",
+    "tree_id": "10940934",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.971705,
+     1.409641
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4816",
+    "tree_id": "10940932",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972171,
+     1.409566
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4820",
+    "tree_id": "12394646",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.766495,
+     1.363061
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4824",
+    "tree_id": "10940863",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.969568,
+     1.408976
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4871",
+    "tree_id": "10940585",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972119,
+     1.409684
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4904",
+    "tree_id": "10940588",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.97192,
+     1.409417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4919",
+    "tree_id": "10940890",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.968378,
+     1.408213
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4920",
+    "tree_id": "10938863",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972277,
+     1.409698
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4922",
+    "tree_id": "10938862",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972278,
+     1.409457
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "5002",
+    "tree_id": "10939749",
+    "species_id": "32864",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826731,
+     1.361131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "5080",
+    "tree_id": "10938712",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972165,
+     1.409331
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "5086",
+    "tree_id": "10940888",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.968338,
+     1.408215
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "5151",
+    "tree_id": "10940587",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.97194,
+     1.409156
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "5230",
+    "tree_id": "10939965",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.96971,
+     1.406592
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "5325",
+    "tree_id": "13013355",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">24",
+    "height_est": 24,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.968317,
+     1.408241
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "6188",
+    "tree_id": "10690676",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.965797,
+     1.407151
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "6333",
+    "tree_id": "10690679",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.972177,
+     1.409561
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "7377",
+    "tree_id": "10968945",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">21 but ≤24",
+    "height_est": 24,
+    "age": 5,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.768317,
+     1.323813
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "9437",
+    "tree_id": "11022059",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 8,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.84742,
+     1.294507
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "15164",
+    "tree_id": "10980664",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 9,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.839309,
+     1.282392
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "17916",
+    "tree_id": "10470889",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 11,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.843018,
+     1.425365
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "17920",
+    "tree_id": "10470817",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 11,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.842627,
+     1.424716
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "20292",
+    "tree_id": "10454743",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 12,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.839182,
+     1.282395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "20293",
+    "tree_id": "10454747",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 12,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.83922,
+     1.282389
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "20294",
+    "tree_id": "10454746",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 12,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.839214,
+     1.282402
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "22688",
+    "tree_id": "10463978",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 21,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.766521,
+     1.346456
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "23072",
+    "tree_id": "11006930",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.792571,
+     1.283945
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "27448",
+    "tree_id": "11384913",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847761,
+     1.293385
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "31545",
+    "tree_id": "13021124",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 0,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.882767,
+     1.398513
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "32062",
+    "tree_id": "11017735",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 9,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.90664,
+     1.406952
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "33601",
+    "tree_id": "13013524",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 0,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.882769,
+     1.398489
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "33619",
+    "tree_id": "13013542",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 0,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.882753,
+     1.398682
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "33620",
+    "tree_id": "13013543",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 0,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.882753,
+     1.398712
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "36024",
+    "tree_id": "10470230",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 13,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.852225,
+     1.390599
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "36102",
+    "tree_id": "13004630",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 0,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.725267,
+     1.332587
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "41872",
+    "tree_id": "10975119",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 9,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.822857,
+     1.270479
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "44374",
+    "tree_id": "10988175",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 9,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.778279,
+     1.44991
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "45172",
+    "tree_id": "11005045",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 11,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.836882,
+     1.345789
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "45178",
+    "tree_id": "11005054",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 11,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.835225,
+     1.342477
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "45179",
+    "tree_id": "10999338",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 11,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.835183,
+     1.34254
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "45180",
+    "tree_id": "10994847",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 11,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.835146,
+     1.342547
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "54454",
+    "tree_id": "11025525",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.79224,
+     1.284288
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "58786",
+    "tree_id": "11002675",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.842266,
+     1.423882
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "64522",
+    "tree_id": "10979773",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">21 but ≤24",
+    "height_est": 24,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.822827,
+     1.270514
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "65139",
+    "tree_id": "11374591",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.7861,
+     1.338614
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "66649",
+    "tree_id": "11416027",
+    "species_id": "32381",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio macrophyllus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847695,
+     1.293909
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78681",
+    "tree_id": "11416120",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847738,
+     1.293621
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78699",
+    "tree_id": "11416138",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847705,
+     1.293816
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78700",
+    "tree_id": "11416139",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847711,
+     1.293827
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78712",
+    "tree_id": "11416151",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847681,
+     1.293954
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78713",
+    "tree_id": "11416152",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847689,
+     1.293944
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78714",
+    "tree_id": "11416153",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847686,
+     1.293931
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78715",
+    "tree_id": "11416154",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847694,
+     1.293888
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78716",
+    "tree_id": "11416155",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847697,
+     1.29387
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78717",
+    "tree_id": "11416156",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847705,
+     1.293852
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78719",
+    "tree_id": "11416158",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847711,
+     1.293882
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78720",
+    "tree_id": "11416159",
+    "species_id": "29673",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio graveolens"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847723,
+     1.293864
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78721",
+    "tree_id": "11416160",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847702,
+     1.293835
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "78722",
+    "tree_id": "11416161",
+    "species_id": "29702",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio lowianus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847718,
+     1.293901
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "81411",
+    "tree_id": "12937611",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.833234,
+     1.341503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "92779",
+    "tree_id": "11373952",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.748142,
+     1.387834
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "92780",
+    "tree_id": "11373948",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.748266,
+     1.388674
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "92781",
+    "tree_id": "11373949",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.748355,
+     1.38876
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "92782",
+    "tree_id": "11373950",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.748244,
+     1.388836
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "92785",
+    "tree_id": "11373946",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.748106,
+     1.387317
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "92786",
+    "tree_id": "11374472",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.748044,
+     1.387104
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "92787",
+    "tree_id": "11374590",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.748122,
+     1.387055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "92789",
+    "tree_id": "11374488",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.748161,
+     1.387476
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "93881",
+    "tree_id": "11009625",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 10,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826741,
+     1.438996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "94128",
+    "tree_id": "11419535",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847761,
+     1.293413
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "94129",
+    "tree_id": "11419536",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847772,
+     1.293434
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "94131",
+    "tree_id": "11419538",
+    "species_id": "32381",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio macrophyllus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847791,
+     1.293439
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "94132",
+    "tree_id": "11419539",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.847768,
+     1.293353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "96201",
+    "tree_id": "11321853",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.842736,
+     1.423927
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "102750",
+    "tree_id": "11545485",
+    "species_id": "32864",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.77985,
+     1.448684
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "102751",
+    "tree_id": "11545486",
+    "species_id": "32864",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.779851,
+     1.448695
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "102752",
+    "tree_id": "11545487",
+    "species_id": "32864",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.779852,
+     1.448727
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "102753",
+    "tree_id": "11545488",
+    "species_id": "32864",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.779851,
+     1.448746
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "102754",
+    "tree_id": "11545489",
+    "species_id": "32864",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.779841,
+     1.448806
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "102755",
+    "tree_id": "11545490",
+    "species_id": "32864",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.77983,
+     1.448847
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "102756",
+    "tree_id": "11545491",
+    "species_id": "32864",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.77982,
+     1.448906
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "102769",
+    "tree_id": "11545506",
+    "species_id": "32864",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.77991,
+     1.449278
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "102968",
+    "tree_id": "11000677",
+    "species_id": "33154",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio dulcis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.842428,
+     1.423703
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "107096",
+    "tree_id": "11028924",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.816721,
+     1.316819
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "107175",
+    "tree_id": "11034052",
+    "species_id": "33156",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio kinabaluensis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.814055,
+     1.312968
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "108139",
+    "tree_id": "11545639",
+    "species_id": "32792",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio kutejensis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.816446,
+     1.310733
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "108291",
+    "tree_id": "11029025",
+    "species_id": "32381",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio macrophyllus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.813963,
+     1.312914
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "108343",
+    "tree_id": "11545638",
+    "species_id": "29672",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio griffithii"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.81667,
+     1.310642
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "108980",
+    "tree_id": "11545637",
+    "species_id": "32864",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.816592,
+     1.31071
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "108995",
+    "tree_id": "11545642",
+    "species_id": "33154",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio dulcis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.816536,
+     1.310747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "110088",
+    "tree_id": "11545634",
+    "species_id": "32792",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio kutejensis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.816494,
+     1.310732
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "110256",
+    "tree_id": "11028899",
+    "species_id": "33156",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio kinabaluensis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.813798,
+     1.313207
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "110393",
+    "tree_id": "11034009",
+    "species_id": "29673",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio graveolens"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.813301,
+     1.31269
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "111209",
+    "tree_id": "11028898",
+    "species_id": "29673",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio graveolens"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.813394,
+     1.312761
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "111967",
+    "tree_id": "11028480",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.815878,
+     1.315326
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "112200",
+    "tree_id": "11545636",
+    "species_id": "29673",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio graveolens"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.816581,
+     1.310741
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "112518",
+    "tree_id": "11028905",
+    "species_id": "33158",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio macrantha"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.813907,
+     1.313494
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "112593",
+    "tree_id": "11034063",
+    "species_id": "32381",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio macrophyllus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.813467,
+     1.312729
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "112862",
+    "tree_id": "11030610",
+    "species_id": "29703",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio singaporensis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.814539,
+     1.32116
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "112884",
+    "tree_id": "11031254",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.815459,
+     1.318233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "113082",
+    "tree_id": "12940140",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.815274,
+     1.316073
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "113551",
+    "tree_id": "11033491",
+    "species_id": "29673",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio graveolens"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.81666,
+     1.310554
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "113576",
+    "tree_id": "11031304",
+    "species_id": "33159",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio testudinarum"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.813827,
+     1.313215
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "113685",
+    "tree_id": "11446131",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.81364,
+     1.313292
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "113692",
+    "tree_id": "11033490",
+    "species_id": "33154",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio dulcis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.816746,
+     1.310678
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "114626",
+    "tree_id": "11028925",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">21 but ≤24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.815572,
+     1.318232
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "133797",
+    "tree_id": "12401552",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.812194,
+     1.329701
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "150760",
+    "tree_id": "11071303",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 9,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.702059,
+     1.406719
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "153519",
+    "tree_id": "10957192",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.823306,
+     1.266434
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "155946",
+    "tree_id": "11368348",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.780542,
+     1.339529
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "162397",
+    "tree_id": "10950153",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.907702,
+     1.41397
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "171536",
+    "tree_id": "10110633",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 15,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.97279,
+     1.363805
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "197442",
+    "tree_id": "10951640",
+    "species_id": "29673",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 5,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio graveolens"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.866903,
+     1.368948
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "203040",
+    "tree_id": "10962529",
+    "species_id": "32864",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.832979,
+     1.321686
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "209228",
+    "tree_id": "11250649",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825764,
+     1.411836
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "209229",
+    "tree_id": "11220037",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825858,
+     1.411763
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "209230",
+    "tree_id": "11220036",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825945,
+     1.411701
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "209231",
+    "tree_id": "11250648",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.82604,
+     1.411635
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "209232",
+    "tree_id": "11220035",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.82449,
+     1.415922
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "209233",
+    "tree_id": "11220034",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.82433,
+     1.416001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "209234",
+    "tree_id": "11251432",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.82417,
+     1.416081
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "209235",
+    "tree_id": "11056962",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.824077,
+     1.416126
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "234020",
+    "tree_id": "10947318",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 5,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.835793,
+     1.34239
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "258229",
+    "tree_id": "11283991",
+    "species_id": "29673",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio graveolens"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.766082,
+     1.338092
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "276451",
+    "tree_id": "10949850",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.774108,
+     1.370488
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "278656",
+    "tree_id": "10968116",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.765817,
+     1.322331
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "282477",
+    "tree_id": "10943870",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825519,
+     1.361501
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "282772",
+    "tree_id": "11263435",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.874945,
+     1.343863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "287480",
+    "tree_id": "10085434",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.95742,
+     1.339689
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "289271",
+    "tree_id": "10947815",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.829432,
+     1.369406
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "289273",
+    "tree_id": "10957370",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.829233,
+     1.369404
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "294426",
+    "tree_id": "11071274",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 9,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.700335,
+     1.415111
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "313201",
+    "tree_id": "11816524",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.777755,
+     1.340288
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "313296",
+    "tree_id": "12943551",
+    "species_id": "29703",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio singaporensis"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.822832,
+     1.340718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "316425",
+    "tree_id": "11367289",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.843612,
+     1.414037
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "316426",
+    "tree_id": "11367318",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.843585,
+     1.414079
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "329244",
+    "tree_id": "12514106",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.726819,
+     1.436778
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "347651",
+    "tree_id": "12476134",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 15,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.816852,
+     1.295298
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "352138",
+    "tree_id": "10954031",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.908257,
+     1.419747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "352139",
+    "tree_id": "10954029",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.908282,
+     1.419748
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "352143",
+    "tree_id": "10950246",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.90821,
+     1.419113
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "353869",
+    "tree_id": "10946990",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 5,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.90611,
+     1.415146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "357159",
+    "tree_id": "10079414",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.7735,
+     1.335092
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "377640",
+    "tree_id": "10967003",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 5,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.835955,
+     1.342482
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "388505",
+    "tree_id": "10966784",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.757847,
+     1.328488
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "399045",
+    "tree_id": "10966709",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">21 but ≤24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.759502,
+     1.33036
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "399046",
+    "tree_id": "10966711",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.759536,
+     1.330407
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "399048",
+    "tree_id": "10947736",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.759447,
+     1.330505
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "399051",
+    "tree_id": "10955264",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.759469,
+     1.330584
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "399052",
+    "tree_id": "10944193",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.759395,
+     1.330638
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "403364",
+    "tree_id": "10944144",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.816362,
+     1.335224
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "404663",
+    "tree_id": "11370881",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.823115,
+     1.318236
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "419957",
+    "tree_id": "12515255",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.730401,
+     1.437922
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "419958",
+    "tree_id": "12515256",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.729783,
+     1.437735
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "419959",
+    "tree_id": "12515257",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.730305,
+     1.437893
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "419960",
+    "tree_id": "12515258",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.730219,
+     1.437867
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "419961",
+    "tree_id": "12515259",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.730086,
+     1.437826
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "419962",
+    "tree_id": "12515260",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.729967,
+     1.43779
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "431764",
+    "tree_id": "10954842",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">24",
+    "height_est": 24,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.802698,
+     1.336414
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "437678",
+    "tree_id": "11361880",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.884609,
+     1.33922
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "444415",
+    "tree_id": "10960163",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826046,
+     1.361544
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "454531",
+    "tree_id": "11348256",
+    "species_id": "32864",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.926316,
+     1.309384
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "454535",
+    "tree_id": "11348275",
+    "species_id": "32864",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.926321,
+     1.309388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "454537",
+    "tree_id": "11348249",
+    "species_id": "32864",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.926368,
+     1.309387
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "454539",
+    "tree_id": "11348258",
+    "species_id": "32864",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio sp."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.926326,
+     1.309392
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "464715",
+    "tree_id": "10947819",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.812883,
+     1.402813
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "464716",
+    "tree_id": "10957223",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.812906,
+     1.402786
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "464717",
+    "tree_id": "10964176",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.812935,
+     1.402784
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "464718",
+    "tree_id": "10967286",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.812916,
+     1.402809
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "464857",
+    "tree_id": "10945723",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.78117,
+     1.317969
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "467164",
+    "tree_id": "10955682",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">21 but ≤24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.757796,
+     1.382337
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "467168",
+    "tree_id": "10955683",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">21 but ≤24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.757702,
+     1.382412
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "467180",
+    "tree_id": "10968178",
+    "species_id": "29673",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio graveolens"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.757551,
+     1.382628
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "473649",
+    "tree_id": "10951851",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.74493,
+     1.32291
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "477191",
+    "tree_id": "13028343",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": "≤3",
+    "height_est": 3,
+    "age": 0,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.759376,
+     1.417928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "477219",
+    "tree_id": "13028377",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 0,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.759874,
+     1.417596
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "482834",
+    "tree_id": "11247825",
+    "species_id": "1572",
+    "girth": "0.0 - 0.5",
+    "girth_size": "XS",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 2,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.71179,
+     1.327895
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "501608",
+    "tree_id": "12436035",
+    "species_id": "29673",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 5,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio graveolens"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.836668,
+     1.386276
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "515623",
+    "tree_id": "12469951",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.793168,
+     1.348301
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "551537",
+    "tree_id": "10945830",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.788512,
+     1.320659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "551604",
+    "tree_id": "10945712",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.788332,
+     1.320403
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "564237",
+    "tree_id": "10948323",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.764878,
+     1.32258
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "576935",
+    "tree_id": "10959734",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 3,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825878,
+     1.436501
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "586210",
+    "tree_id": "10967657",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">24",
+    "height_est": 24,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.812123,
+     1.329508
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "586219",
+    "tree_id": "10948022",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.812192,
+     1.329716
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "602498",
+    "tree_id": "12999222",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 0,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.830904,
+     1.383817
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "602499",
+    "tree_id": "12999223",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 0,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.830818,
+     1.383833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "602500",
+    "tree_id": "12999224",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 0,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.831191,
+     1.383146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "604112",
+    "tree_id": "10943992",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.788725,
+     1.321166
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "616171",
+    "tree_id": "11367304",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.843646,
+     1.413882
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "630240",
+    "tree_id": "12120382",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.77019,
+     1.348073
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "631068",
+    "tree_id": "10947273",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 5,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.771527,
+     1.427043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "631069",
+    "tree_id": "10947271",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 5,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.771546,
+     1.427146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648393",
+    "tree_id": "11251448",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.824745,
+     1.412555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648394",
+    "tree_id": "11056989",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.824847,
+     1.412508
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648395",
+    "tree_id": "11056988",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.82505,
+     1.412369
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648396",
+    "tree_id": "11250657",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825021,
+     1.412548
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648397",
+    "tree_id": "11251447",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.827508,
+     1.41088
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648398",
+    "tree_id": "11056987",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.827334,
+     1.410887
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648399",
+    "tree_id": "11056986",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.827327,
+     1.411121
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648400",
+    "tree_id": "11056985",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.827287,
+     1.41104
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648401",
+    "tree_id": "11056984",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.827095,
+     1.411066
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648402",
+    "tree_id": "11250656",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826975,
+     1.411055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648403",
+    "tree_id": "11056983",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.827022,
+     1.411106
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648404",
+    "tree_id": "11251446",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.82691,
+     1.411095
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648405",
+    "tree_id": "11251445",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826957,
+     1.411157
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648406",
+    "tree_id": "11056982",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.827026,
+     1.411179
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648407",
+    "tree_id": "11220050",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826943,
+     1.411219
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648408",
+    "tree_id": "11251444",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826729,
+     1.41127
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648409",
+    "tree_id": "11220049",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826667,
+     1.411358
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648410",
+    "tree_id": "11220048",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.82662,
+     1.411259
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648411",
+    "tree_id": "11220047",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826558,
+     1.41142
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648412",
+    "tree_id": "11220046",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826703,
+     1.411445
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648413",
+    "tree_id": "11220045",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826366,
+     1.412033
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648414",
+    "tree_id": "11250655",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826232,
+     1.412157
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648415",
+    "tree_id": "11250654",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826149,
+     1.412245
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648416",
+    "tree_id": "11220044",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826061,
+     1.412362
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648417",
+    "tree_id": "11251443",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825982,
+     1.412424
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648418",
+    "tree_id": "11056981",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825924,
+     1.412489
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648419",
+    "tree_id": "11251442",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825724,
+     1.412624
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648420",
+    "tree_id": "11056980",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825655,
+     1.412537
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648421",
+    "tree_id": "11056979",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825742,
+     1.412464
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648422",
+    "tree_id": "11250653",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825815,
+     1.412402
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648423",
+    "tree_id": "11056978",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825945,
+     1.41227
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648424",
+    "tree_id": "11251441",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826138,
+     1.412081
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648425",
+    "tree_id": "11251440",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826232,
+     1.412019
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648426",
+    "tree_id": "11056977",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826297,
+     1.411956
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648427",
+    "tree_id": "11056976",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826236,
+     1.411862
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648428",
+    "tree_id": "11250652",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826141,
+     1.411924
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648429",
+    "tree_id": "11056975",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826058,
+     1.411989
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648430",
+    "tree_id": "11056974",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825978,
+     1.412066
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648431",
+    "tree_id": "11056973",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825877,
+     1.412186
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648432",
+    "tree_id": "11056972",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825655,
+     1.412391
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648433",
+    "tree_id": "11056971",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825565,
+     1.412467
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648434",
+    "tree_id": "11251439",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825478,
+     1.412383
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648435",
+    "tree_id": "11251438",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825565,
+     1.412318
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648436",
+    "tree_id": "11251437",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825648,
+     1.412245
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648437",
+    "tree_id": "11251436",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825721,
+     1.412165
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648438",
+    "tree_id": "11056970",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825789,
+     1.41211
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648439",
+    "tree_id": "11056969",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825924,
+     1.411989
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648440",
+    "tree_id": "11251435",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825993,
+     1.41192
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648441",
+    "tree_id": "11056968",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826083,
+     1.411858
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648442",
+    "tree_id": "11056967",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826167,
+     1.411789
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648443",
+    "tree_id": "11250651",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.826112,
+     1.411708
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648444",
+    "tree_id": "11220043",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825996,
+     1.411781
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648445",
+    "tree_id": "11220042",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825815,
+     1.411902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648446",
+    "tree_id": "11220041",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.82575,
+     1.411971
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648447",
+    "tree_id": "11251434",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.82567,
+     1.412033
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648448",
+    "tree_id": "11056966",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825615,
+     1.412102
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648449",
+    "tree_id": "11056965",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825532,
+     1.412161
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648450",
+    "tree_id": "11251433",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825463,
+     1.412234
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648451",
+    "tree_id": "11056964",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825369,
+     1.412289
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648452",
+    "tree_id": "11056963",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825293,
+     1.412212
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648453",
+    "tree_id": "11250650",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825376,
+     1.41215
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648454",
+    "tree_id": "11220040",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825539,
+     1.412022
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648455",
+    "tree_id": "11220039",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825619,
+     1.411964
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648456",
+    "tree_id": "11220038",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": null,
+    "height_est": 0,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.825684,
+     1.411909
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "648790",
+    "tree_id": "11203579",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.884593,
+     1.339242
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "663433",
+    "tree_id": "12478618",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">3 but ≤6",
+    "height_est": 6,
+    "age": 5,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.871396,
+     1.399764
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "665573",
+    "tree_id": "11144340",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 7,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.808076,
+     1.334294
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "666300",
+    "tree_id": "11372894",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.79744,
+     1.328683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "670004",
+    "tree_id": "10967287",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">18 but ≤21",
+    "height_est": 21,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.812713,
+     1.402715
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "685724",
+    "tree_id": "11372790",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 1,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.797463,
+     1.328634
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "688503",
+    "tree_id": "12514141",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.730972,
+     1.438339
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "688506",
+    "tree_id": "12514144",
+    "species_id": "1572",
+    "girth": "1.1 - 1.5",
+    "girth_size": "M",
+    "height": ">6 but ≤9",
+    "height_est": 9,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.731175,
+     1.438196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "688507",
+    "tree_id": "12514145",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.728806,
+     1.437719
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "688510",
+    "tree_id": "12514148",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">9 but ≤12",
+    "height_est": 12,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.728987,
+     1.437745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "688780",
+    "tree_id": "10942958",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">21 but ≤24",
+    "height_est": 24,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.777726,
+     1.340337
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "688787",
+    "tree_id": "10942959",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">15 but ≤18",
+    "height_est": 18,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.777773,
+     1.340271
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "688795",
+    "tree_id": "10953588",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">24",
+    "height_est": 24,
+    "age": 24,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.777963,
+     1.340084
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "695553",
+    "tree_id": "10944270",
+    "species_id": "1572",
+    "girth": "0.6 - 1.0",
+    "girth_size": "S",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 4,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.765632,
+     1.322338
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "696773",
+    "tree_id": "12424879",
+    "species_id": "1572",
+    "girth": "> 1.5",
+    "girth_size": "L",
+    "height": ">12 but ≤15",
+    "height_est": 15,
+    "age": 10,
+    "flowering": false,
+    "heritage": false,
+    "species_name": "Durio zibethinus"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.976195,
+     1.3907
+    ]
+   }
+  }
+ ]
+}

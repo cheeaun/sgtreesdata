@@ -1,0 +1,107 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 699384,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941307,
+					1.423956
+				]
+			},
+			"properties": {
+				"OBJECTID": 699384,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Platter Leaf",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Platter Leaf",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13007076",
+				"EYTreeId": "{1489D6B7-D161-479A-A9FA-97744FBAC0A2}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699385,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.941227,
+					1.423984
+				]
+			},
+			"properties": {
+				"OBJECTID": 699385,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Sea Grape",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Sea Grape",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13007077",
+				"EYTreeId": "{D184C4DF-B449-4B3F-B25D-C495C44C822D}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699388,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.933582,
+					1.424643
+				]
+			},
+			"properties": {
+				"OBJECTID": 699388,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "zoom13",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "zoom13",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13007079",
+				"EYTreeId": "{F0F31BD4-7D98-4E28-9AC2-E912E19EB683}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

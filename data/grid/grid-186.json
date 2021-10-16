@@ -1,0 +1,549 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 419971,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725287,
+					1.434454
+				]
+			},
+			"properties": {
+				"OBJECTID": 419971,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12515269",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 419968,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725539,
+					1.434927
+				]
+			},
+			"properties": {
+				"OBJECTID": 419968,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12515266",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 688498,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725663,
+					1.435296
+				]
+			},
+			"properties": {
+				"OBJECTID": 688498,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12514136",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 571229,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725375,
+					1.434627
+				]
+			},
+			"properties": {
+				"OBJECTID": 571229,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12457404",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 386495,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725583,
+					1.435022
+				]
+			},
+			"properties": {
+				"OBJECTID": 386495,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12514129",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 386492,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725624,
+					1.435068
+				]
+			},
+			"properties": {
+				"OBJECTID": 386492,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12514126",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 419969,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725477,
+					1.434813
+				]
+			},
+			"properties": {
+				"OBJECTID": 419969,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12515267",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 419972,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725196,
+					1.434282
+				]
+			},
+			"properties": {
+				"OBJECTID": 419972,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12515270",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 688499,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725595,
+					1.435106
+				]
+			},
+			"properties": {
+				"OBJECTID": 688499,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12514137",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 571230,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725251,
+					1.434379
+				]
+			},
+			"properties": {
+				"OBJECTID": 571230,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12457405",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1868,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726135,
+					1.422904
+				]
+			},
+			"properties": {
+				"OBJECTID": 1868,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "3",
+				"SPCS_CD": "1332",
+				"COMMON_NM": "Macaw Fat",
+				"SPSC_NM": "Elaeis guineensis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Elaeis guineensis,Macaw Fat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939406",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 419973,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72514,
+					1.434175
+				]
+			},
+			"properties": {
+				"OBJECTID": 419973,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12515271",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 688494,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72566,
+					1.435113
+				]
+			},
+			"properties": {
+				"OBJECTID": 688494,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12514132",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 688497,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72563,
+					1.435161
+				]
+			},
+			"properties": {
+				"OBJECTID": 688497,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12514135",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 419970,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725426,
+					1.434727
+				]
+			},
+			"properties": {
+				"OBJECTID": 419970,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12515268",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 571228,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.725336,
+					1.43454
+				]
+			},
+			"properties": {
+				"OBJECTID": 571228,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12457403",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

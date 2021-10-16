@@ -1,0 +1,1331 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 1898,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728478,
+					1.416719
+				]
+			},
+			"properties": {
+				"OBJECTID": 1898,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939516",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1875,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72692,
+					1.420829
+				]
+			},
+			"properties": {
+				"OBJECTID": 1875,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939606",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4214,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72694,
+					1.416562
+				]
+			},
+			"properties": {
+				"OBJECTID": 4214,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "5",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940050",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3026,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726745,
+					1.420137
+				]
+			},
+			"properties": {
+				"OBJECTID": 3026,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11365319",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4211,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.721031,
+					1.418625
+				]
+			},
+			"properties": {
+				"OBJECTID": 4211,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1443",
+				"COMMON_NM": "Belimbing Besi",
+				"SPSC_NM": "Averrhoa carambola",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Averrhoa carambola,Belimbing Besi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940049",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1881,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.729589,
+					1.421279
+				]
+			},
+			"properties": {
+				"OBJECTID": 1881,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939600",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1867,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726433,
+					1.422734
+				]
+			},
+			"properties": {
+				"OBJECTID": 1867,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939405",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3029,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726799,
+					1.420257
+				]
+			},
+			"properties": {
+				"OBJECTID": 3029,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11365317",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3023,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726715,
+					1.420793
+				]
+			},
+			"properties": {
+				"OBJECTID": 3023,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11365322",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1858,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.729084,
+					1.421405
+				]
+			},
+			"properties": {
+				"OBJECTID": 1858,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939411",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1878,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.730749,
+					1.420329
+				]
+			},
+			"properties": {
+				"OBJECTID": 1878,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "3",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939289",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1873,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726362,
+					1.422611
+				]
+			},
+			"properties": {
+				"OBJECTID": 1873,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939789",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3021,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.727772,
+					1.416378
+				]
+			},
+			"properties": {
+				"OBJECTID": 3021,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11342673",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1896,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728019,
+					1.41637
+				]
+			},
+			"properties": {
+				"OBJECTID": 1896,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1860",
+				"COMMON_NM": "Jambu Air Mawar",
+				"SPSC_NM": "Syzygium aqueum",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium aqueum,Jambu Air Mawar",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938442",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3024,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726746,
+					1.420692
+				]
+			},
+			"properties": {
+				"OBJECTID": 3024,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11365315",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4209,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72859,
+					1.417072
+				]
+			},
+			"properties": {
+				"OBJECTID": 4209,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941081",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1859,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728963,
+					1.421555
+				]
+			},
+			"properties": {
+				"OBJECTID": 1859,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939792",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1879,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.730331,
+					1.420262
+				]
+			},
+			"properties": {
+				"OBJECTID": 1879,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939290",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1899,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728876,
+					1.416442
+				]
+			},
+			"properties": {
+				"OBJECTID": 1899,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "4",
+				"SPCS_CD": "33359",
+				"COMMON_NM": null,
+				"SPSC_NM": "Albizia sp.",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Albizia sp.,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939339",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3027,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726616,
+					1.418623
+				]
+			},
+			"properties": {
+				"OBJECTID": 3027,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11365320",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4212,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.722648,
+					1.418425
+				]
+			},
+			"properties": {
+				"OBJECTID": 4212,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940807",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1882,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.729566,
+					1.421132
+				]
+			},
+			"properties": {
+				"OBJECTID": 1882,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939294",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1854,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726734,
+					1.420118
+				]
+			},
+			"properties": {
+				"OBJECTID": 1854,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11365324",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3030,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726774,
+					1.420261
+				]
+			},
+			"properties": {
+				"OBJECTID": 3030,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11365316",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1874,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726621,
+					1.422502
+				]
+			},
+			"properties": {
+				"OBJECTID": 1874,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939407",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1897,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728252,
+					1.416368
+				]
+			},
+			"properties": {
+				"OBJECTID": 1897,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940809",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4215,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.723009,
+					1.418377
+				]
+			},
+			"properties": {
+				"OBJECTID": 4215,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1402",
+				"COMMON_NM": "Brown Salwood",
+				"SPSC_NM": "Acacia mangium",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Acacia mangium,Brown Salwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938441",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3022,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.727983,
+					1.416327
+				]
+			},
+			"properties": {
+				"OBJECTID": 3022,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11342676",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1888,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.73086,
+					1.420438
+				]
+			},
+			"properties": {
+				"OBJECTID": 1888,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "3",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939403",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1900,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728825,
+					1.416553
+				]
+			},
+			"properties": {
+				"OBJECTID": 1900,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1734",
+				"COMMON_NM": "Pongam",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Millettia pinnata,Pongam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939518",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3028,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726837,
+					1.420367
+				]
+			},
+			"properties": {
+				"OBJECTID": 3028,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11365318",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4213,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.723029,
+					1.418254
+				]
+			},
+			"properties": {
+				"OBJECTID": 4213,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939918",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1883,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.728656,
+					1.42141
+				]
+			},
+			"properties": {
+				"OBJECTID": 1883,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939603",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3031,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.726756,
+					1.420112
+				]
+			},
+			"properties": {
+				"OBJECTID": 3031,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11365321",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1889,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.730791,
+					1.420408
+				]
+			},
+			"properties": {
+				"OBJECTID": 1889,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "3",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939594",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3025,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.72671,
+					1.420109
+				]
+			},
+			"properties": {
+				"OBJECTID": 3025,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "2",
+				"SPCS_CD": "1839",
+				"COMMON_NM": "Panchot",
+				"SPSC_NM": "Spathodea campanulata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Spathodea campanulata,Panchot",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11365323",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4210,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.720658,
+					1.419994
+				]
+			},
+			"properties": {
+				"OBJECTID": 4210,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "29162",
+				"COMMON_NM": "Reuse Wattel",
+				"SPSC_NM": "Leucaena leucocephala",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Leucaena leucocephala,Reuse Wattel",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940806",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1880,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.730165,
+					1.420674
+				]
+			},
+			"properties": {
+				"OBJECTID": 1880,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "3",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939599",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1872,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.727,
+					1.422315
+				]
+			},
+			"properties": {
+				"OBJECTID": 1872,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939295",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

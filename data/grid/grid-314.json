@@ -1,0 +1,1875 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 699383,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 699383,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Shore Laurel",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Neolitsea cassia, Shore Laurel",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13007075",
+				"EYTreeId": "{55C81EC6-413C-4FF1-97E9-C9ED93E72DFF}",
+				"Name": "Fea Omer",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698550,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.81663,
+					1.367532
+				]
+			},
+			"properties": {
+				"OBJECTID": 698550,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13042046",
+				"EYTreeId": "{D7F3D110-6A20-4422-ADD9-65AD0D8C5E1E}",
+				"Name": "Manjunath",
+				"Email": "manju1307@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698556,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 698556,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "3",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Barringtonia",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia asiatica, Barringtonia",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Such a wonderful experience!!",
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13042035",
+				"EYTreeId": "{163F0933-F1FD-4FFB-A876-7C461DF25991}",
+				"Name": "Algena Koh",
+				"Email": "Algenakoh@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700153,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 700153,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18m",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "STan's celebica",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Garcinia celebica, STan's celebica",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "It’s exhausting but I guess it would be worth it in the long run",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13031588",
+				"EYTreeId": "{8BE67C5B-C788-47EC-A159-2F7C6720103E}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": "#Sharinetree"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698914,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 698914,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "red saraca",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "red saraca",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13002516",
+				"EYTreeId": "{BE406C0C-0CAD-4EA9-B596-D28E15D31C19}",
+				"Name": "Darius WYK Tree",
+				"Email": "violeteng@hotmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699973,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80827,
+					1.36046
+				]
+			},
+			"properties": {
+				"OBJECTID": 699973,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Eugenia",
+				"SPSC_NM": "Syzygium leucoxylon",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Syzygium leucoxylon, Eugenia",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13002453",
+				"EYTreeId": "{E357E6E2-7755-435B-BB19-09D347CC72B9}",
+				"Name": "Janice chen",
+				"Email": "Janz.chen@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2554,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808974,
+					1.36043
+				]
+			},
+			"properties": {
+				"OBJECTID": 2554,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "2",
+				"SPCS_CD": "31230",
+				"COMMON_NM": "Perawas",
+				"SPSC_NM": "Litsea elliptica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Litsea elliptica,Perawas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940483",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699415,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808463,
+					1.360959
+				]
+			},
+			"properties": {
+				"OBJECTID": 699415,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pink Mempat",
+				"SPSC_NM": "Cratoxylum formosum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cratoxylum formosum, Pink Mempat",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13009138",
+				"EYTreeId": "{5260612E-CC16-483F-BD56-5A4E55D09FFA}",
+				"Name": "Wong sze keed",
+				"Email": "Szekeed@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699515,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80879,
+					1.360991
+				]
+			},
+			"properties": {
+				"OBJECTID": 699515,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18m",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Diospyros tristis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Diospyros tristis",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Fun and enriching time spent planting the tree :)",
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13002495",
+				"EYTreeId": "{CC708D1A-9FA2-4EC9-8210-2467A6F7B853}",
+				"Name": "Cindy Wong",
+				"Email": "tycindy@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698932,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.812561,
+					1.361147
+				]
+			},
+			"properties": {
+				"OBJECTID": 698932,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Sakura",
+				"SPSC_NM": "Cratoxylum formosum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cratoxylum formosum, Sakura",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Amazing One Million Trees movement. Thank you everybody for the effort and making the earth healthier and Green.",
+				"Hert_age": "",
+				"Girth": "1.1-1.5m",
+				"Public_treeid": "13002409",
+				"EYTreeId": "{71F056AB-9C36-4EBC-9D74-DC8CA0DFE5EE}",
+				"Name": "Cyn",
+				"Email": "cyndigzx@yahoo.com.sg",
+				"UserKeywords": "#Fantastic"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698955,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.809181,
+					1.363839
+				]
+			},
+			"properties": {
+				"OBJECTID": 698955,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Syzygium leucoxylon",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Syzygium leucoxylon",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13002430",
+				"EYTreeId": "{6DE2DA18-96E1-47C8-89B2-00DF9EB6AEA9}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698554,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 698554,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "3",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pongamia pinnata",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Millettia pinnata, Pongamia pinnata",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13042033",
+				"EYTreeId": "{EAB30D67-D695-4552-B6D6-050A885F07D4}",
+				"Name": "Algena koh",
+				"Email": "Algenakoh@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1787,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.809003,
+					1.360352
+				]
+			},
+			"properties": {
+				"OBJECTID": 1787,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "2",
+				"SPCS_CD": "31230",
+				"COMMON_NM": "Perawas",
+				"SPSC_NM": "Litsea elliptica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Litsea elliptica,Perawas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941548",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698571,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 698571,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia asiatica",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13042442",
+				"EYTreeId": "{7C8819A2-B156-42DC-842E-EEDEA4715C43}",
+				"Name": "Manjunath Venkataraman ",
+				"Email": "manju1307@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700157,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 700157,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Seashore mangosteen",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Garcinia celebica, Seashore mangosteen",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13031592",
+				"EYTreeId": "{72F9E8C8-00C7-4635-88B9-30A084C0486E}",
+				"Name": "",
+				"Email": "lynnarriffin@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698505,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80827,
+					1.36046
+				]
+			},
+			"properties": {
+				"OBJECTID": 698505,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Nipis Kulik",
+				"SPSC_NM": "Memecylon ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Memecylon , Nipis Kulik",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Great to be part of the event",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13005757",
+				"EYTreeId": "{D5652F8C-1EF7-4469-9BED-3EE5AD12714F}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700048,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808355,
+					1.360015
+				]
+			},
+			"properties": {
+				"OBJECTID": 700048,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Abc",
+				"SPSC_NM": "Abc",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Abc, Abc",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13024700",
+				"EYTreeId": "{4E94F121-C502-4DB1-883C-99B814359054}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700134,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.812218,
+					1.364236
+				]
+			},
+			"properties": {
+				"OBJECTID": 700134,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13031629",
+				"EYTreeId": "{81371825-54CF-497E-872B-1CD74C3942D7}",
+				"Name": "",
+				"Email": "ecmy23@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699971,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80827,
+					1.36046
+				]
+			},
+			"properties": {
+				"OBJECTID": 699971,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Elaeocarpus mastersii",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Elaeocarpus mastersii",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Beautiful day!",
+				"Hert_age": "",
+				"Girth": "1.1-1.5m",
+				"Public_treeid": "13002451",
+				"EYTreeId": "{143E9D8E-098A-4EEC-B04A-9EBD62BEBBA0}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698551,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.807942,
+					1.361129
+				]
+			},
+			"properties": {
+				"OBJECTID": 698551,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13043033",
+				"EYTreeId": "{9C72E4D1-CAFE-4176-B636-89A4E728E11D}",
+				"Name": "Manjunath Venkataraman ",
+				"Email": "manju1307@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3221,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.809024,
+					1.360283
+				]
+			},
+			"properties": {
+				"OBJECTID": 3221,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1485",
+				"COMMON_NM": "Serentang",
+				"SPSC_NM": "Campnosperma auriculatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Campnosperma auriculatum,Serentang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940484",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698946,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.809764,
+					1.361702
+				]
+			},
+			"properties": {
+				"OBJECTID": 698946,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Aphanamixis polystachya",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Aphanamixis polystachya",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13002421",
+				"EYTreeId": "{0E6D29B4-BE03-47A0-AC51-5B8E11F5FA07}",
+				"Name": "Blau11",
+				"Email": "bondyhobonglau@hotmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698966,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.812904,
+					1.364007
+				]
+			},
+			"properties": {
+				"OBJECTID": 698966,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "3",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Menchali Pahang",
+				"SPSC_NM": "Dipterocarpus charteceus",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dipterocarpus charteceus, Menchali Pahang",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Very fun \r\n",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13002441",
+				"EYTreeId": "{57121298-B2D7-431F-A78F-DA6486CB196A}",
+				"Name": "Alexander Linuxa Widi Ardhans",
+				"Email": "alexanderlinuxa.280604@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699444,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.818853,
+					1.361983
+				]
+			},
+			"properties": {
+				"OBJECTID": 699444,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Banana",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Banana",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "12975015",
+				"EYTreeId": "{C7CBE26D-9287-4274-BB2E-5375F1F43A3D}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": "#Banana"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699811,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 699811,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Indonesian Bayleaf",
+				"SPSC_NM": "Syzygium polyanthum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Syzygium polyanthum, Indonesian Bayleaf",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Planted on 1 Jul 2021, to commemorate the 10th anniversary of the Rail Corridor",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13031654",
+				"EYTreeId": "{421AEE09-09C5-4765-9218-E7B81DC3E777}",
+				"Name": "Lai Chee Kien",
+				"Email": "cheekien.lai@gmail.com",
+				"UserKeywords": "#Indonesian,#bay,#leaf,#LaiCheeKien"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698947,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80827,
+					1.36046
+				]
+			},
+			"properties": {
+				"OBJECTID": 698947,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Syzygium polyanthum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Syzygium polyanthum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Good experience! ",
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13002422",
+				"EYTreeId": "{0FACAFA1-D801-40BD-8BD3-B32249CB4A81}",
+				"Name": "KopioKat ",
+				"Email": "mng_kl@ymail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698652,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80827,
+					1.36046
+				]
+			},
+			"properties": {
+				"OBJECTID": 698652,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Cherry shrub",
+				"SPSC_NM": "Memecylon pauciflorum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Memecylon pauciflorum, Cherry shrub",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Exciting interesting ",
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13044401",
+				"EYTreeId": "{206B8EA2-F001-423D-9232-65253EC1ABF1}",
+				"Name": "Veronica liaw",
+				"Email": "veronica.liaw@sc.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698944,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 698944,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Syzygium leucoxylon",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Syzygium leucoxylon",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13002419",
+				"EYTreeId": "{C054115D-F2BC-4566-9BB0-4C331E23A0CB}",
+				"Name": "Johnathan Lee",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700112,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.809122,
+					1.361281
+				]
+			},
+			"properties": {
+				"OBJECTID": 700112,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Memecylon ovatum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Memecylon ovatum",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13031607",
+				"EYTreeId": "{B91F3DA3-90C6-41F4-8A73-714897A722AD}",
+				"Name": "Eka",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3929,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.812202,
+					1.360245
+				]
+			},
+			"properties": {
+				"OBJECTID": 3929,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "2",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940464",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698575,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 698575,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Barringtonia asiatica",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13042442",
+				"EYTreeId": "{7C8819A2-B156-42DC-842E-EEDEA4715C43}",
+				"Name": "Manjunath Venkataraman ",
+				"Email": "manju1307@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699522,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810844,
+					1.365265
+				]
+			},
+			"properties": {
+				"OBJECTID": 699522,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15m",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Red Saraca",
+				"SPSC_NM": "Saraca declinata",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Saraca declinata, Red Saraca",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Very hot and tiring but very interesting and fun",
+				"Hert_age": "",
+				"Girth": "> 1.5m",
+				"Public_treeid": "13002502",
+				"EYTreeId": "{1FEB6502-69ED-4CB2-B854-49F1ECC515F8}",
+				"Name": "Ying En",
+				"Email": "leeyingen@hotmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698950,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808465,
+					1.360771
+				]
+			},
+			"properties": {
+				"OBJECTID": 698950,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Elaeocarpus mastersii",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Elaeocarpus mastersii",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Beautiful day!",
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13002425",
+				"EYTreeId": "{8D707DBA-DDE5-4C15-BA61-EB9A75F791EE}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698603,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.807755,
+					1.360803
+				]
+			},
+			"properties": {
+				"OBJECTID": 698603,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Hi sheryl",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Hi sheryl",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Testing for Sheryl on iphone",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13043304",
+				"EYTreeId": "{967B6ED5-72B5-444C-97B9-27D5B715FDD5}",
+				"Name": "Sheryl ng",
+				"Email": "Sheryl.ng@sg.ey.com",
+				"UserKeywords": "#3sep,#Iphone"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698503,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 698503,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Nipis Kulik ",
+				"SPSC_NM": "Memecylon caeruleum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Memecylon caeruleum, Nipis Kulik ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13005755",
+				"EYTreeId": "{55F8A168-2ABA-4A50-A1E1-5B9DCD3A68A9}",
+				"Name": "Benjamin Lee",
+				"Email": "blkheng@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698686,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 698686,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Seashore ardisia",
+				"SPSC_NM": "Ardisia elliptica",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Ardisia elliptica, Seashore ardisia",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Awesome! Please keep our forests in Singapore! ",
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13046945",
+				"EYTreeId": "{227BE6E8-C231-47A0-BF7B-5E318733F7DC}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698492,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811193,
+					1.365619
+				]
+			},
+			"properties": {
+				"OBJECTID": 698492,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Petal Laut",
+				"SPSC_NM": "Dendrolobium umbellatum 'Aurea'",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum 'Aurea', Petal Laut",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "18 April 2021",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13005035",
+				"EYTreeId": "{98F7BAD4-42D5-42F2-B1D4-99F5422749EA}",
+				"Name": "Choo Tree 1",
+				"Email": "Choo@email.com",
+				"UserKeywords": "#ChooTree"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699817,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 699817,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Petai",
+				"SPSC_NM": "Parkia speciosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Parkia speciosa, Petai",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13031661",
+				"EYTreeId": "{89F2B97A-1362-4244-8E3E-D77962BB0009}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2366,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810559,
+					1.361298
+				]
+			},
+			"properties": {
+				"OBJECTID": 2366,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "0",
+				"SPCS_CD": "32034",
+				"COMMON_NM": "Unknown",
+				"SPSC_NM": "Wild Species",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Wild Species,Unknown",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "13021503",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698970,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.811818,
+					1.362112
+				]
+			},
+			"properties": {
+				"OBJECTID": 698970,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "3",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Hopea",
+				"SPSC_NM": "Hopea sulcata",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Hopea sulcata, Hopea",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Demo tree for students ",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13002445",
+				"EYTreeId": "{F3B0E2BF-382B-4588-9E3F-2AA411EB3171}",
+				"Name": "Fong Feng ",
+				"Email": "Leong_Fong_Feng@nparks.gov.sg",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699511,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 699511,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Saraca Declinata",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Saraca Declinata",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13031579",
+				"EYTreeId": "{50B44F7F-0038-4BB8-BD12-73C40306F463}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698959,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808098,
+					1.369727
+				]
+			},
+			"properties": {
+				"OBJECTID": 698959,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "3",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Hopea sulcata",
+				"SPSC_NM": "Hopea sulcata",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Hopea sulcata, Hopea sulcata",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Fun and exciting! Looking forward to plant more! \r\n-Vincent and Quan \r\nSJI Green Club",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13002434",
+				"EYTreeId": "{DB0928AF-BED2-49E0-A6F1-B7343BB9CA77}",
+				"Name": "Vincentius Markandeya Santosa ",
+				"Email": "vincentius.santosa@gmail.com",
+				"UserKeywords": "#SJIGreenClub"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698936,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.809048,
+					1.361259
+				]
+			},
+			"properties": {
+				"OBJECTID": 698936,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Malayan Eaglewood Tree",
+				"SPSC_NM": "Aquilaria Malaccensis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Aquilaria Malaccensis, Malayan Eaglewood Tree",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Hard work and good fun!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13002412",
+				"EYTreeId": "{1780DBA1-7BCB-42DA-880F-0779D4297DCE}",
+				"Name": "Our Tree",
+				"Email": "bryanykm@hotmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698558,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 698558,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pongamia pinnata",
+				"SPSC_NM": "Millettia pinnata",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Millettia pinnata, Pongamia pinnata",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13042037",
+				"EYTreeId": "{AA441D62-D46A-4658-9D98-B0E80390D901}",
+				"Name": "Sini",
+				"Email": "Sn51171ster@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698604,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.807851,
+					1.361224
+				]
+			},
+			"properties": {
+				"OBJECTID": 698604,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Testing on iphone",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13043305",
+				"EYTreeId": "{0F96393D-5598-4B02-A11C-1D849C17D502}",
+				"Name": "Sheryl",
+				"Email": "Sheryl.Ng@sg.ey.com",
+				"UserKeywords": "#3sep,#Iphone"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698504,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.810158,
+					1.365609
+				]
+			},
+			"properties": {
+				"OBJECTID": 698504,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "BMAC",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Garcinia celebica, BMAC",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13005756",
+				"EYTreeId": "{F9FE78F3-750D-4EE0-95B7-3A3838A6B529}",
+				"Name": "BMAC Plant-a-Tree",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699394,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.809384,
+					1.360382
+				]
+			},
+			"properties": {
+				"OBJECTID": 699394,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "zoom20",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "zoom20",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13007085",
+				"EYTreeId": "{D00581DE-BC74-4E79-8A6E-610A91B0ED11}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698561,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 698561,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Lim bang quan",
+				"SPSC_NM": "Pongamia pinnata",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Pongamia pinnata, Lim bang quan",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "sense of belonging",
+				"Hert_age": "",
+				"Girth": "1.1-1.5m",
+				"Public_treeid": "13042040",
+				"EYTreeId": "{919B70F4-FBF4-4A4D-A32B-454B72F08462}",
+				"Name": "",
+				"Email": "lim_bq@yahoo.com.sg",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699818,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808943,
+					1.360076
+				]
+			},
+			"properties": {
+				"OBJECTID": 699818,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Indonesian Bayleaf",
+				"SPSC_NM": "Syzygium polyanthum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Syzygium polyanthum, Indonesian Bayleaf",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13031662",
+				"EYTreeId": "{9938E5E1-A2DC-4AA5-94AE-041FD6C59B7A}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699912,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 699912,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Test - Sheryl ",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Test - Sheryl ",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Test - sheryl",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13033892",
+				"EYTreeId": "{8A6E8449-EBB3-4A80-A161-800AEE3ABE55}",
+				"Name": "Sheryl",
+				"Email": "Sheryl.ng@sg.ey.com",
+				"UserKeywords": "#aug11,#ipad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699414,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.80827,
+					1.36046
+				]
+			},
+			"properties": {
+				"OBJECTID": 699414,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Pink Mempat",
+				"SPSC_NM": "Cratoxylum formosum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cratoxylum formosum, Pink Mempat",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13009137",
+				"EYTreeId": "{8349B4A2-6FCD-44A4-9D0D-74D4A72E0CFF}",
+				"Name": "Aileen Tan",
+				"Email": "Atyl62@singnet.com.sg",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699111,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.813556,
+					1.363892
+				]
+			},
+			"properties": {
+				"OBJECTID": 699111,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Diospyros tristis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Diospyros tristis",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13005016",
+				"EYTreeId": "{0E5EA5C0-091C-4C60-98A9-C386D5E075D9}",
+				"Name": "Akash Raj Narayanadoss",
+				"Email": "akashraj95@gmail.com",
+				"UserKeywords": "#Happy,#beginning"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699938,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808545,
+					1.360183
+				]
+			},
+			"properties": {
+				"OBJECTID": 699938,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Cratoxylum formosum (Jack) dyer",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Cratoxylum formosum (Jack) dyer",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "#kokkianplantatree",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13004003",
+				"EYTreeId": "{9E65D333-2AB7-49C5-8DC3-74AD29DE151A}",
+				"Name": "",
+				"Email": "Tarmacat@yahoo.com.sg",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699958,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808375,
+					1.360365
+				]
+			},
+			"properties": {
+				"OBJECTID": 699958,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Red Water Tree",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Pterocarpus indicus, Red Water Tree",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13033897",
+				"EYTreeId": "{13639259-1225-4547-A510-6356B633ACA2}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1966,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.808843,
+					1.360474
+				]
+			},
+			"properties": {
+				"OBJECTID": 1966,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "1",
+				"SPCS_CD": "5192",
+				"COMMON_NM": "Champedah",
+				"SPSC_NM": "Artocarpus integer",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Artocarpus integer,Champedah",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11587759",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

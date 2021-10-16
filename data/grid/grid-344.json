@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 589190,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.843122,
+					1.271642
+				]
+			},
+			"properties": {
+				"OBJECTID": 589190,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "6",
+				"SPCS_CD": "1779",
+				"COMMON_NM": "Frangipani",
+				"SPSC_NM": "Plumeria obtusa",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Plumeria obtusa,Frangipani",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12575541",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

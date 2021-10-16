@@ -1,0 +1,8029 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 203449,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692934,
+					1.3647
+				]
+			},
+			"properties": {
+				"OBJECTID": 203449,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524058",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203432,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692856,
+					1.364265
+				]
+			},
+			"properties": {
+				"OBJECTID": 203432,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524054",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203501,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692753,
+					1.365058
+				]
+			},
+			"properties": {
+				"OBJECTID": 203501,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160955",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203403,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693061,
+					1.362702
+				]
+			},
+			"properties": {
+				"OBJECTID": 203403,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179556",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399287,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692573,
+					1.364486
+				]
+			},
+			"properties": {
+				"OBJECTID": 399287,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012570",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203495,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693012,
+					1.365502
+				]
+			},
+			"properties": {
+				"OBJECTID": 203495,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179830",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616020,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692938,
+					1.365097
+				]
+			},
+			"properties": {
+				"OBJECTID": 616020,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11161692",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219765,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69308,
+					1.362302
+				]
+			},
+			"properties": {
+				"OBJECTID": 219765,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1834",
+				"COMMON_NM": "Temak",
+				"SPSC_NM": "Shorea roxburghii",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Shorea roxburghii,Temak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11070714",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203438,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692892,
+					1.364553
+				]
+			},
+			"properties": {
+				"OBJECTID": 203438,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524057",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399281,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692514,
+					1.363988
+				]
+			},
+			"properties": {
+				"OBJECTID": 399281,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012678",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219817,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692832,
+					1.36386
+				]
+			},
+			"properties": {
+				"OBJECTID": 219817,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11167255",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616057,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69273,
+					1.363344
+				]
+			},
+			"properties": {
+				"OBJECTID": 616057,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11095884",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219825,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692848,
+					1.36357
+				]
+			},
+			"properties": {
+				"OBJECTID": 219825,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11070735",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203509,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692614,
+					1.364631
+				]
+			},
+			"properties": {
+				"OBJECTID": 203509,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160691",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616037,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692963,
+					1.362652
+				]
+			},
+			"properties": {
+				"OBJECTID": 616037,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11095881",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500142,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688104,
+					1.370402
+				]
+			},
+			"properties": {
+				"OBJECTID": 500142,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12494610",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219831,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692867,
+					1.363363
+				]
+			},
+			"properties": {
+				"OBJECTID": 219831,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12514908",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500134,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687708,
+					1.370218
+				]
+			},
+			"properties": {
+				"OBJECTID": 500134,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "19",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12494602",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399261,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692932,
+					1.362345
+				]
+			},
+			"properties": {
+				"OBJECTID": 399261,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012658",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616043,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69276,
+					1.363258
+				]
+			},
+			"properties": {
+				"OBJECTID": 616043,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11161711",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203409,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692827,
+					1.364086
+				]
+			},
+			"properties": {
+				"OBJECTID": 203409,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11230331",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 359968,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692534,
+					1.363786
+				]
+			},
+			"properties": {
+				"OBJECTID": 359968,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11070695",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 557672,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692665,
+					1.363079
+				]
+			},
+			"properties": {
+				"OBJECTID": 557672,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315213",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203515,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692562,
+					1.364407
+				]
+			},
+			"properties": {
+				"OBJECTID": 203515,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315074",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500128,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.686972,
+					1.370009
+				]
+			},
+			"properties": {
+				"OBJECTID": 500128,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12540818",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203452,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693033,
+					1.364915
+				]
+			},
+			"properties": {
+				"OBJECTID": 203452,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524061",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661676,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688617,
+					1.370841
+				]
+			},
+			"properties": {
+				"OBJECTID": 661676,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484791",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399267,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692769,
+					1.362791
+				]
+			},
+			"properties": {
+				"OBJECTID": 399267,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012664",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616023,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692915,
+					1.365068
+				]
+			},
+			"properties": {
+				"OBJECTID": 616023,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1834",
+				"COMMON_NM": "Temak",
+				"SPSC_NM": "Shorea roxburghii",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Shorea roxburghii,Temak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11197197",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219814,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692852,
+					1.364215
+				]
+			},
+			"properties": {
+				"OBJECTID": 219814,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11070717",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203521,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692549,
+					1.364269
+				]
+			},
+			"properties": {
+				"OBJECTID": 203521,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315756",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488220,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69264,
+					1.363169
+				]
+			},
+			"properties": {
+				"OBJECTID": 488220,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315361",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 557683,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693058,
+					1.362035
+				]
+			},
+			"properties": {
+				"OBJECTID": 557683,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179659",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203406,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69304,
+					1.36277
+				]
+			},
+			"properties": {
+				"OBJECTID": 203406,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179558",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698762,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69279,
+					1.362498
+				]
+			},
+			"properties": {
+				"OBJECTID": 698762,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Chen Jingwen",
+				"SPSC_NM": "Chen Jingwen",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Chen Jingwen, Chen Jingwen",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Plants give us air btw I’m a 9 year old kid",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "11665637",
+				"EYTreeId": "{EC390FDA-189F-48F5-B27D-F5F106A110EB}",
+				"Name": "Chwee xing",
+				"Email": "20189169j@admiraltypri.edu.sg",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203429,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692862,
+					1.364333
+				]
+			},
+			"properties": {
+				"OBJECTID": 203429,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179822",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203446,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692928,
+					1.364667
+				]
+			},
+			"properties": {
+				"OBJECTID": 203446,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315758",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500145,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687573,
+					1.37016
+				]
+			},
+			"properties": {
+				"OBJECTID": 500145,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12494613",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616017,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692826,
+					1.364854
+				]
+			},
+			"properties": {
+				"OBJECTID": 616017,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11095864",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 206352,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693021,
+					1.362857
+				]
+			},
+			"properties": {
+				"OBJECTID": 206352,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13015587",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399275,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692533,
+					1.36372
+				]
+			},
+			"properties": {
+				"OBJECTID": 399275,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012672",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203435,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692867,
+					1.364447
+				]
+			},
+			"properties": {
+				"OBJECTID": 203435,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179575",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661668,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.689088,
+					1.371416
+				]
+			},
+			"properties": {
+				"OBJECTID": 661668,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484783",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399284,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692552,
+					1.364318
+				]
+			},
+			"properties": {
+				"OBJECTID": 399284,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012567",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 359985,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692985,
+					1.365207
+				]
+			},
+			"properties": {
+				"OBJECTID": 359985,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11306623",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203492,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693025,
+					1.36553
+				]
+			},
+			"properties": {
+				"OBJECTID": 203492,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315762",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219828,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692858,
+					1.363519
+				]
+			},
+			"properties": {
+				"OBJECTID": 219828,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12514907",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203512,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692706,
+					1.364921
+				]
+			},
+			"properties": {
+				"OBJECTID": 203512,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160951",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399278,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692536,
+					1.363827
+				]
+			},
+			"properties": {
+				"OBJECTID": 399278,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012675",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488209,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692548,
+					1.364243
+				]
+			},
+			"properties": {
+				"OBJECTID": 488209,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315078",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616040,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692801,
+					1.363108
+				]
+			},
+			"properties": {
+				"OBJECTID": 616040,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11161709",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488217,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692547,
+					1.363582
+				]
+			},
+			"properties": {
+				"OBJECTID": 488217,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315057",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 359965,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69297,
+					1.362273
+				]
+			},
+			"properties": {
+				"OBJECTID": 359965,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11306449",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203518,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6926,
+					1.364557
+				]
+			},
+			"properties": {
+				"OBJECTID": 203518,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11179821",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203412,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692827,
+					1.363886
+				]
+			},
+			"properties": {
+				"OBJECTID": 203412,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11158755",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399264,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692958,
+					1.362296
+				]
+			},
+			"properties": {
+				"OBJECTID": 399264,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012661",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500131,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687129,
+					1.369989
+				]
+			},
+			"properties": {
+				"OBJECTID": 500131,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12494599",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 557675,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692687,
+					1.363007
+				]
+			},
+			"properties": {
+				"OBJECTID": 557675,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315587",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399258,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693003,
+					1.362191
+				]
+			},
+			"properties": {
+				"OBJECTID": 399258,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012655",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203524,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692517,
+					1.363906
+				]
+			},
+			"properties": {
+				"OBJECTID": 203524,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160952",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488221,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692653,
+					1.36312
+				]
+			},
+			"properties": {
+				"OBJECTID": 488221,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160957",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 359969,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692531,
+					1.363704
+				]
+			},
+			"properties": {
+				"OBJECTID": 359969,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11070513",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203407,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692927,
+					1.363269
+				]
+			},
+			"properties": {
+				"OBJECTID": 203407,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11230343",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661677,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688723,
+					1.370988
+				]
+			},
+			"properties": {
+				"OBJECTID": 661677,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12484792",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203430,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692863,
+					1.364411
+				]
+			},
+			"properties": {
+				"OBJECTID": 203430,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11230434",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 212160,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69009,
+					1.37195
+				]
+			},
+			"properties": {
+				"OBJECTID": 212160,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "12",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12521029",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399293,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693019,
+					1.365518
+				]
+			},
+			"properties": {
+				"OBJECTID": 399293,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012576",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399270,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692649,
+					1.363141
+				]
+			},
+			"properties": {
+				"OBJECTID": 399270,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012667",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616018,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692836,
+					1.364892
+				]
+			},
+			"properties": {
+				"OBJECTID": 616018,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11095865",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203493,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69299,
+					1.365475
+				]
+			},
+			"properties": {
+				"OBJECTID": 203493,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179829",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661671,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688847,
+					1.371096
+				]
+			},
+			"properties": {
+				"OBJECTID": 661671,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484786",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616032,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692989,
+					1.362571
+				]
+			},
+			"properties": {
+				"OBJECTID": 616032,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1834",
+				"COMMON_NM": "Temak",
+				"SPSC_NM": "Shorea roxburghii",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Shorea roxburghii,Temak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11198150",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399276,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692535,
+					1.36374
+				]
+			},
+			"properties": {
+				"OBJECTID": 399276,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012673",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203447,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692911,
+					1.364614
+				]
+			},
+			"properties": {
+				"OBJECTID": 203447,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315356",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 414235,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687267,
+					1.370009
+				]
+			},
+			"properties": {
+				"OBJECTID": 414235,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12494617",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203441,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692943,
+					1.364735
+				]
+			},
+			"properties": {
+				"OBJECTID": 203441,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315753",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 359986,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692887,
+					1.365008
+				]
+			},
+			"properties": {
+				"OBJECTID": 359986,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11182069",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500140,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688653,
+					1.370884
+				]
+			},
+			"properties": {
+				"OBJECTID": 500140,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12494608",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616035,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693001,
+					1.362518
+				]
+			},
+			"properties": {
+				"OBJECTID": 616035,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11095880",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488212,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692542,
+					1.363613
+				]
+			},
+			"properties": {
+				"OBJECTID": 488212,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315079",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399279,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692517,
+					1.363925
+				]
+			},
+			"properties": {
+				"OBJECTID": 399279,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012676",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 344477,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688652,
+					1.370856
+				]
+			},
+			"properties": {
+				"OBJECTID": 344477,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1307",
+				"COMMON_NM": "Silver Bismarck Palm",
+				"SPSC_NM": "Bismarckia nobilis 'Silver'",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Bismarckia nobilis 'Silver',Silver Bismarck Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12432051",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219829,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692863,
+					1.363455
+				]
+			},
+			"properties": {
+				"OBJECTID": 219829,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11167298",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 359966,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693023,
+					1.362142
+				]
+			},
+			"properties": {
+				"OBJECTID": 359966,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11305307",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616041,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692933,
+					1.36271
+				]
+			},
+			"properties": {
+				"OBJECTID": 616041,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1834",
+				"COMMON_NM": "Temak",
+				"SPSC_NM": "Shorea roxburghii",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Shorea roxburghii,Temak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11161710",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488218,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692616,
+					1.363267
+				]
+			},
+			"properties": {
+				"OBJECTID": 488218,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179831",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203507,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692647,
+					1.364746
+				]
+			},
+			"properties": {
+				"OBJECTID": 203507,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315354",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 557678,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692767,
+					1.362802
+				]
+			},
+			"properties": {
+				"OBJECTID": 557678,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315216",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 271636,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688146,
+					1.370399
+				]
+			},
+			"properties": {
+				"OBJECTID": 271636,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1307",
+				"COMMON_NM": "Silver Bismarck Palm",
+				"SPSC_NM": "Bismarckia nobilis 'Silver'",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Bismarckia nobilis 'Silver',Silver Bismarck Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12493701",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399259,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692986,
+					1.362229
+				]
+			},
+			"properties": {
+				"OBJECTID": 399259,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012656",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500126,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.686886,
+					1.370046
+				]
+			},
+			"properties": {
+				"OBJECTID": 500126,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12540816",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203513,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692605,
+					1.364582
+				]
+			},
+			"properties": {
+				"OBJECTID": 203513,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160695",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 414232,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687533,
+					1.37014
+				]
+			},
+			"properties": {
+				"OBJECTID": 414232,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12494614",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661674,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688598,
+					1.370779
+				]
+			},
+			"properties": {
+				"OBJECTID": 661674,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484789",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399290,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69267,
+					1.364809
+				]
+			},
+			"properties": {
+				"OBJECTID": 399290,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012573",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203450,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692977,
+					1.364833
+				]
+			},
+			"properties": {
+				"OBJECTID": 203450,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524059",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203504,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692712,
+					1.364944
+				]
+			},
+			"properties": {
+				"OBJECTID": 203504,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160949",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399296,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692679,
+					1.364831
+				]
+			},
+			"properties": {
+				"OBJECTID": 399296,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012579",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203527,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692529,
+					1.3641
+				]
+			},
+			"properties": {
+				"OBJECTID": 203527,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315077",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203404,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69307,
+					1.362676
+				]
+			},
+			"properties": {
+				"OBJECTID": 203404,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11131732",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399273,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69255,
+					1.363513
+				]
+			},
+			"properties": {
+				"OBJECTID": 399273,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012670",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203433,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692826,
+					1.363921
+				]
+			},
+			"properties": {
+				"OBJECTID": 203433,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11158759",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203496,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69274,
+					1.365025
+				]
+			},
+			"properties": {
+				"OBJECTID": 203496,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160954",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219812,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693078,
+					1.365024
+				]
+			},
+			"properties": {
+				"OBJECTID": 219812,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11306448",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203444,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692963,
+					1.364799
+				]
+			},
+			"properties": {
+				"OBJECTID": 203444,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11158762",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399282,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692514,
+					1.363956
+				]
+			},
+			"properties": {
+				"OBJECTID": 399282,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "13012565",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219826,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692853,
+					1.363545
+				]
+			},
+			"properties": {
+				"OBJECTID": 219826,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11070736",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203510,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692655,
+					1.364766
+				]
+			},
+			"properties": {
+				"OBJECTID": 203510,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179828",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500143,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687787,
+					1.370247
+				]
+			},
+			"properties": {
+				"OBJECTID": 500143,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "19",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12494611",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500137,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.689033,
+					1.371388
+				]
+			},
+			"properties": {
+				"OBJECTID": 500137,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12494605",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616015,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692751,
+					1.364426
+				]
+			},
+			"properties": {
+				"OBJECTID": 616015,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11178926",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219832,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692895,
+					1.36331
+				]
+			},
+			"properties": {
+				"OBJECTID": 219832,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11182062",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616038,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692891,
+					1.362851
+				]
+			},
+			"properties": {
+				"OBJECTID": 616038,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11197184",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488215,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692558,
+					1.36345
+				]
+			},
+			"properties": {
+				"OBJECTID": 488215,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160956",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616044,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692871,
+					1.362917
+				]
+			},
+			"properties": {
+				"OBJECTID": 616044,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11178923",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203410,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69284,
+					1.363639
+				]
+			},
+			"properties": {
+				"OBJECTID": 203410,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524076",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203516,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692555,
+					1.364366
+				]
+			},
+			"properties": {
+				"OBJECTID": 203516,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315752",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500129,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687008,
+					1.369998
+				]
+			},
+			"properties": {
+				"OBJECTID": 500129,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12540819",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399268,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692727,
+					1.362898
+				]
+			},
+			"properties": {
+				"OBJECTID": 399268,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012665",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203405,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693045,
+					1.362746
+				]
+			},
+			"properties": {
+				"OBJECTID": 203405,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179557",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661675,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688224,
+					1.37043
+				]
+			},
+			"properties": {
+				"OBJECTID": 661675,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484790",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399291,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692718,
+					1.364959
+				]
+			},
+			"properties": {
+				"OBJECTID": 399291,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012574",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203499,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692849,
+					1.365225
+				]
+			},
+			"properties": {
+				"OBJECTID": 203499,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160704",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203522,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692547,
+					1.364214
+				]
+			},
+			"properties": {
+				"OBJECTID": 203522,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315757",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203428,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692824,
+					1.364027
+				]
+			},
+			"properties": {
+				"OBJECTID": 203428,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179567",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399274,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692537,
+					1.363639
+				]
+			},
+			"properties": {
+				"OBJECTID": 399274,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012671",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661669,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688972,
+					1.371255
+				]
+			},
+			"properties": {
+				"OBJECTID": 661669,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484784",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399285,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69256,
+					1.364385
+				]
+			},
+			"properties": {
+				"OBJECTID": 399285,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012568",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203436,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692862,
+					1.364377
+				]
+			},
+			"properties": {
+				"OBJECTID": 203436,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524055",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203445,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693008,
+					1.364868
+				]
+			},
+			"properties": {
+				"OBJECTID": 203445,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11160682",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 414233,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687404,
+					1.370064
+				]
+			},
+			"properties": {
+				"OBJECTID": 414233,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12494615",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219827,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692861,
+					1.363493
+				]
+			},
+			"properties": {
+				"OBJECTID": 219827,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11070737",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203511,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692684,
+					1.36485
+				]
+			},
+			"properties": {
+				"OBJECTID": 203511,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315355",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488210,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69257,
+					1.363381
+				]
+			},
+			"properties": {
+				"OBJECTID": 488210,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11230432",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.690101,
+					1.37198
+				]
+			},
+			"properties": {
+				"OBJECTID": 698732,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "11",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Pterocarpus indicus, Sena",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Nice",
+				"Hert_age": "",
+				"Girth": "> 1.5m",
+				"Public_treeid": "11421458",
+				"EYTreeId": "{D987547B-F71D-4C0D-92D1-0ABC4B9B6299}",
+				"Name": "Darren",
+				"Email": "Lightpriest6123@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616039,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692832,
+					1.362989
+				]
+			},
+			"properties": {
+				"OBJECTID": 616039,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11214542",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500144,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687649,
+					1.370195
+				]
+			},
+			"properties": {
+				"OBJECTID": 500144,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "19",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12494612",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500138,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688849,
+					1.37116
+				]
+			},
+			"properties": {
+				"OBJECTID": 500138,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12494606",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616016,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692761,
+					1.364523
+				]
+			},
+			"properties": {
+				"OBJECTID": 616016,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1834",
+				"COMMON_NM": "Temak",
+				"SPSC_NM": "Shorea roxburghii",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Shorea roxburghii,Temak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11095863",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488216,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692553,
+					1.363489
+				]
+			},
+			"properties": {
+				"OBJECTID": 488216,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160698",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 206353,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69301,
+					1.36293
+				]
+			},
+			"properties": {
+				"OBJECTID": 206353,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13015588",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 206379,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69305,
+					1.362728
+				]
+			},
+			"properties": {
+				"OBJECTID": 206379,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13015614",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203505,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69269,
+					1.36487
+				]
+			},
+			"properties": {
+				"OBJECTID": 203505,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315754",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203519,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692622,
+					1.364659
+				]
+			},
+			"properties": {
+				"OBJECTID": 203519,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160696",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 557676,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692717,
+					1.36294
+				]
+			},
+			"properties": {
+				"OBJECTID": 557676,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315588",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500132,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.68718,
+					1.369986
+				]
+			},
+			"properties": {
+				"OBJECTID": 500132,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12494600",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488222,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69267,
+					1.363057
+				]
+			},
+			"properties": {
+				"OBJECTID": 488222,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315362",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399265,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692778,
+					1.362763
+				]
+			},
+			"properties": {
+				"OBJECTID": 399265,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012662",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399271,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692621,
+					1.36324
+				]
+			},
+			"properties": {
+				"OBJECTID": 399271,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012668",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203408,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692834,
+					1.363693
+				]
+			},
+			"properties": {
+				"OBJECTID": 203408,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11132760",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203402,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693082,
+					1.362655
+				]
+			},
+			"properties": {
+				"OBJECTID": 203402,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179555",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203456,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693065,
+					1.36499
+				]
+			},
+			"properties": {
+				"OBJECTID": 203456,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315072",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203525,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69253,
+					1.36414
+				]
+			},
+			"properties": {
+				"OBJECTID": 203525,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11158764",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203502,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692826,
+					1.365171
+				]
+			},
+			"properties": {
+				"OBJECTID": 203502,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160948",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399294,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693069,
+					1.365573
+				]
+			},
+			"properties": {
+				"OBJECTID": 399294,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012577",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 364472,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688634,
+					1.370812
+				]
+			},
+			"properties": {
+				"OBJECTID": 364472,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1307",
+				"COMMON_NM": "Silver Bismarck Palm",
+				"SPSC_NM": "Bismarckia nobilis 'Silver'",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Bismarckia nobilis 'Silver',Silver Bismarck Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12493699",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 206350,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692824,
+					1.363996
+				]
+			},
+			"properties": {
+				"OBJECTID": 206350,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13015585",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203448,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69302,
+					1.364894
+				]
+			},
+			"properties": {
+				"OBJECTID": 203448,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315759",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661672,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688807,
+					1.371058
+				]
+			},
+			"properties": {
+				"OBJECTID": 661672,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484787",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219824,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692846,
+					1.3636
+				]
+			},
+			"properties": {
+				"OBJECTID": 219824,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11183278",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399288,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692607,
+					1.364598
+				]
+			},
+			"properties": {
+				"OBJECTID": 399288,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012571",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616019,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692945,
+					1.365121
+				]
+			},
+			"properties": {
+				"OBJECTID": 616019,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11095866",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399277,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692536,
+					1.36381
+				]
+			},
+			"properties": {
+				"OBJECTID": 399277,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012674",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 359987,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692855,
+					1.364942
+				]
+			},
+			"properties": {
+				"OBJECTID": 359987,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11070524",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203439,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692899,
+					1.364572
+				]
+			},
+			"properties": {
+				"OBJECTID": 203439,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315070",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203442,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692919,
+					1.364639
+				]
+			},
+			"properties": {
+				"OBJECTID": 203442,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11158760",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219818,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692832,
+					1.363813
+				]
+			},
+			"properties": {
+				"OBJECTID": 219818,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11070719",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 557673,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692634,
+					1.363198
+				]
+			},
+			"properties": {
+				"OBJECTID": 557673,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11315214",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616036,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693062,
+					1.362351
+				]
+			},
+			"properties": {
+				"OBJECTID": 616036,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11095867",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 344478,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688239,
+					1.370442
+				]
+			},
+			"properties": {
+				"OBJECTID": 344478,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12432052",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488213,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692532,
+					1.363677
+				]
+			},
+			"properties": {
+				"OBJECTID": 488213,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315056",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500141,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688554,
+					1.37078
+				]
+			},
+			"properties": {
+				"OBJECTID": 500141,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12494609",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399262,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69292,
+					1.362364
+				]
+			},
+			"properties": {
+				"OBJECTID": 399262,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012659",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 557679,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692761,
+					1.362823
+				]
+			},
+			"properties": {
+				"OBJECTID": 557679,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11179667",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 206376,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693029,
+					1.362826
+				]
+			},
+			"properties": {
+				"OBJECTID": 206376,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1560",
+				"COMMON_NM": "Komoi",
+				"SPSC_NM": "Diospyros malabarica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Diospyros malabarica,Komoi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13015611",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488219,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692627,
+					1.363219
+				]
+			},
+			"properties": {
+				"OBJECTID": 488219,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179832",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500135,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.686838,
+					1.370065
+				]
+			},
+			"properties": {
+				"OBJECTID": 500135,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12494603",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203508,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69263,
+					1.364687
+				]
+			},
+			"properties": {
+				"OBJECTID": 203508,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160694",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203459,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693048,
+					1.364951
+				]
+			},
+			"properties": {
+				"OBJECTID": 203459,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11230430",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 346027,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687866,
+					1.370285
+				]
+			},
+			"properties": {
+				"OBJECTID": 346027,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1307",
+				"COMMON_NM": "Silver Bismarck Palm",
+				"SPSC_NM": "Bismarckia nobilis 'Silver'",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Bismarckia nobilis 'Silver',Silver Bismarck Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12546480",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661673,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688736,
+					1.370961
+				]
+			},
+			"properties": {
+				"OBJECTID": 661673,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484788",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399289,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692635,
+					1.364711
+				]
+			},
+			"properties": {
+				"OBJECTID": 399289,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012572",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203497,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692838,
+					1.365193
+				]
+			},
+			"properties": {
+				"OBJECTID": 203497,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315763",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203503,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692871,
+					1.365258
+				]
+			},
+			"properties": {
+				"OBJECTID": 203503,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179827",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399266,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692774,
+					1.36278
+				]
+			},
+			"properties": {
+				"OBJECTID": 399266,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012663",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399272,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69259,
+					1.363353
+				]
+			},
+			"properties": {
+				"OBJECTID": 399272,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012669",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203451,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692903,
+					1.36459
+				]
+			},
+			"properties": {
+				"OBJECTID": 203451,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524060",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 364473,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688671,
+					1.370855
+				]
+			},
+			"properties": {
+				"OBJECTID": 364473,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1307",
+				"COMMON_NM": "Silver Bismarck Palm",
+				"SPSC_NM": "Bismarckia nobilis 'Silver'",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Bismarckia nobilis 'Silver',Silver Bismarck Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12493700",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203526,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692531,
+					1.363882
+				]
+			},
+			"properties": {
+				"OBJECTID": 203526,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11315076",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 206351,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692944,
+					1.36322
+				]
+			},
+			"properties": {
+				"OBJECTID": 206351,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13015586",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203434,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692862,
+					1.364298
+				]
+			},
+			"properties": {
+				"OBJECTID": 203434,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160681",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219819,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692833,
+					1.363837
+				]
+			},
+			"properties": {
+				"OBJECTID": 219819,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12514906",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399283,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69255,
+					1.364294
+				]
+			},
+			"properties": {
+				"OBJECTID": 399283,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012566",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203443,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692955,
+					1.364768
+				]
+			},
+			"properties": {
+				"OBJECTID": 203443,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11158761",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616028,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693031,
+					1.362433
+				]
+			},
+			"properties": {
+				"OBJECTID": 616028,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11197178",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203440,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692876,
+					1.364519
+				]
+			},
+			"properties": {
+				"OBJECTID": 203440,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179577",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 557674,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692606,
+					1.363297
+				]
+			},
+			"properties": {
+				"OBJECTID": 557674,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11179666",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616014,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692724,
+					1.364282
+				]
+			},
+			"properties": {
+				"OBJECTID": 616014,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11161691",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 206377,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693017,
+					1.362892
+				]
+			},
+			"properties": {
+				"OBJECTID": 206377,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1560",
+				"COMMON_NM": "Komoi",
+				"SPSC_NM": "Diospyros malabarica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Diospyros malabarica,Komoi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13015612",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488214,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692536,
+					1.363766
+				]
+			},
+			"properties": {
+				"OBJECTID": 488214,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179565",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203411,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692825,
+					1.36396
+				]
+			},
+			"properties": {
+				"OBJECTID": 203411,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524077",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 557680,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692701,
+					1.362974
+				]
+			},
+			"properties": {
+				"OBJECTID": 557680,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11160852",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219833,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69298,
+					1.363142
+				]
+			},
+			"properties": {
+				"OBJECTID": 219833,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11182083",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203517,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692554,
+					1.364346
+				]
+			},
+			"properties": {
+				"OBJECTID": 203517,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315075",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500136,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.689189,
+					1.371593
+				]
+			},
+			"properties": {
+				"OBJECTID": 500136,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12494604",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399263,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692904,
+					1.362394
+				]
+			},
+			"properties": {
+				"OBJECTID": 399263,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012660",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616045,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692908,
+					1.3628
+				]
+			},
+			"properties": {
+				"OBJECTID": 616045,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11197179",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500130,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687052,
+					1.369992
+				]
+			},
+			"properties": {
+				"OBJECTID": 500130,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12494598",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399257,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693041,
+					1.362098
+				]
+			},
+			"properties": {
+				"OBJECTID": 399257,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012654",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203500,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692727,
+					1.364992
+				]
+			},
+			"properties": {
+				"OBJECTID": 203500,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315351",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399292,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69299,
+					1.365465
+				]
+			},
+			"properties": {
+				"OBJECTID": 399292,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012575",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203523,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692526,
+					1.364064
+				]
+			},
+			"properties": {
+				"OBJECTID": 203523,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11586791",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 359970,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692949,
+					1.362314
+				]
+			},
+			"properties": {
+				"OBJECTID": 359970,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1454",
+				"COMMON_NM": "Fish-Killer Tree",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Barringtonia racemosa,Fish-Killer Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11084697",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203431,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692831,
+					1.364138
+				]
+			},
+			"properties": {
+				"OBJECTID": 203431,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524053",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399269,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692682,
+					1.363032
+				]
+			},
+			"properties": {
+				"OBJECTID": 399269,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1927",
+				"COMMON_NM": "Kandis",
+				"SPSC_NM": "Garcinia cowa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Garcinia cowa,Kandis",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012666",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661670,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688869,
+					1.371125
+				]
+			},
+			"properties": {
+				"OBJECTID": 661670,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1878",
+				"COMMON_NM": "Pink Poui",
+				"SPSC_NM": "Tabebuia rosea",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Tabebuia rosea,Pink Poui",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12484785",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219822,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692831,
+					1.363741
+				]
+			},
+			"properties": {
+				"OBJECTID": 219822,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11183277",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399286,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692572,
+					1.364455
+				]
+			},
+			"properties": {
+				"OBJECTID": 399286,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012569",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203494,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692969,
+					1.365435
+				]
+			},
+			"properties": {
+				"OBJECTID": 203494,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11179826",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203437,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692872,
+					1.364483
+				]
+			},
+			"properties": {
+				"OBJECTID": 203437,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "29078",
+				"COMMON_NM": "Beruas",
+				"SPSC_NM": "Garcinia celebica",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Garcinia celebica,Beruas",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12524056",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 414234,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.687347,
+					1.370038
+				]
+			},
+			"properties": {
+				"OBJECTID": 414234,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12494616",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399280,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692528,
+					1.363899
+				]
+			},
+			"properties": {
+				"OBJECTID": 399280,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13012677",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 488211,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692549,
+					1.363547
+				]
+			},
+			"properties": {
+				"OBJECTID": 488211,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315055",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698733,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.689205,
+					1.371636
+				]
+			},
+			"properties": {
+				"OBJECTID": 698733,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "18",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande ",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Syzygium grande , Jambu Laut",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Small",
+				"Hert_age": "",
+				"Girth": "1.1-1.5m",
+				"Public_treeid": "11421459",
+				"EYTreeId": "{2D65E787-D7D1-430D-9941-56443F459C0B}",
+				"Name": "Darren",
+				"Email": "Lightpriest6123@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616034,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.693049,
+					1.36239
+				]
+			},
+			"properties": {
+				"OBJECTID": 616034,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11161693",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500139,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.688753,
+					1.371032
+				]
+			},
+			"properties": {
+				"OBJECTID": 500139,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12494607",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 616042,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692816,
+					1.363054
+				]
+			},
+			"properties": {
+				"OBJECTID": 616042,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1834",
+				"COMMON_NM": "Temak",
+				"SPSC_NM": "Shorea roxburghii",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Shorea roxburghii,Temak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11198144",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203506,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692663,
+					1.364791
+				]
+			},
+			"properties": {
+				"OBJECTID": 203506,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11160950",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500133,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6875,
+					1.370134
+				]
+			},
+			"properties": {
+				"OBJECTID": 500133,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12494601",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 557677,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69275,
+					1.362859
+				]
+			},
+			"properties": {
+				"OBJECTID": 557677,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315215",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 359967,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692531,
+					1.363865
+				]
+			},
+			"properties": {
+				"OBJECTID": 359967,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "2",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11306619",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203520,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692565,
+					1.36443
+				]
+			},
+			"properties": {
+				"OBJECTID": 203520,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315755",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 399260,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692941,
+					1.362331
+				]
+			},
+			"properties": {
+				"OBJECTID": 399260,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1848",
+				"COMMON_NM": "Kelumpang Burong",
+				"SPSC_NM": "Sterculia parviflora",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sterculia parviflora,Kelumpang Burong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "13012657",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 500127,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.686938,
+					1.370026
+				]
+			},
+			"properties": {
+				"OBJECTID": 500127,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12540817",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 557671,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.6926,
+					1.363326
+				]
+			},
+			"properties": {
+				"OBJECTID": 557671,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315212",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203514,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.692597,
+					1.364533
+				]
+			},
+			"properties": {
+				"OBJECTID": 203514,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1978",
+				"COMMON_NM": "Kelat Hitam",
+				"SPSC_NM": "Syzygium syzygioides",
+				"PRUNING": "Q1 2022",
+				"SPCS_COMMON_NM": "Syzygium syzygioides,Kelat Hitam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11315073",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

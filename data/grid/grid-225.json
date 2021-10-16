@@ -1,0 +1,3337 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 596601,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745777,
+					1.436363
+				]
+			},
+			"properties": {
+				"OBJECTID": 596601,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11286589",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 436642,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755134,
+					1.435558
+				]
+			},
+			"properties": {
+				"OBJECTID": 436642,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1552",
+				"COMMON_NM": "Katmon",
+				"SPSC_NM": "Dillenia philippinensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dillenia philippinensis,Katmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026619",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234515,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754992,
+					1.435763
+				]
+			},
+			"properties": {
+				"OBJECTID": 234515,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1873",
+				"COMMON_NM": "Kelat Nasi Nasi",
+				"SPSC_NM": "Syzygium zeylanicum",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Syzygium zeylanicum,Kelat Nasi Nasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944344",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596593,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745653,
+					1.435794
+				]
+			},
+			"properties": {
+				"OBJECTID": 596593,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11249498",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149151,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754806,
+					1.436295
+				]
+			},
+			"properties": {
+				"OBJECTID": 149151,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12622295",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154845,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755033,
+					1.436243
+				]
+			},
+			"properties": {
+				"OBJECTID": 154845,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "0",
+				"SPCS_CD": "1440",
+				"COMMON_NM": "Nangka",
+				"SPSC_NM": "Artocarpus heterophyllus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Artocarpus heterophyllus,Nangka",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026239",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 119539,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754771,
+					1.436533
+				]
+			},
+			"properties": {
+				"OBJECTID": 119539,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1454",
+				"COMMON_NM": "Fish-Killer Tree",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia racemosa,Fish-Killer Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13024317",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234521,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755008,
+					1.435639
+				]
+			},
+			"properties": {
+				"OBJECTID": 234521,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944350",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234530,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755047,
+					1.435356
+				]
+			},
+			"properties": {
+				"OBJECTID": 234530,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1506",
+				"COMMON_NM": "Pong pong Tree",
+				"SPSC_NM": "Cerbera manghas",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Cerbera manghas,Pong pong Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944360",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661287,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755147,
+					1.435479
+				]
+			},
+			"properties": {
+				"OBJECTID": 661287,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "3",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12484392",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149154,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754762,
+					1.436599
+				]
+			},
+			"properties": {
+				"OBJECTID": 149154,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12622298",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149174,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754975,
+					1.436687
+				]
+			},
+			"properties": {
+				"OBJECTID": 149174,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12454996",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234518,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755003,
+					1.435668
+				]
+			},
+			"properties": {
+				"OBJECTID": 234518,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1873",
+				"COMMON_NM": "Kelat Nasi Nasi",
+				"SPSC_NM": "Syzygium zeylanicum",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Syzygium zeylanicum,Kelat Nasi Nasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944347",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154842,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754972,
+					1.436713
+				]
+			},
+			"properties": {
+				"OBJECTID": 154842,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1659",
+				"COMMON_NM": "Looking-Glass Tree",
+				"SPSC_NM": "Heritiera littoralis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Heritiera littoralis,Looking-Glass Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026236",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626643,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754982,
+					1.435809
+				]
+			},
+			"properties": {
+				"OBJECTID": 626643,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12455000",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234524,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755007,
+					1.435596
+				]
+			},
+			"properties": {
+				"OBJECTID": 234524,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1873",
+				"COMMON_NM": "Kelat Nasi Nasi",
+				"SPSC_NM": "Syzygium zeylanicum",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Syzygium zeylanicum,Kelat Nasi Nasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944353",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661284,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755083,
+					1.436028
+				]
+			},
+			"properties": {
+				"OBJECTID": 661284,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12484389",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596590,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.74549,
+					1.435406
+				]
+			},
+			"properties": {
+				"OBJECTID": 596590,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11249499",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149177,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754953,
+					1.436014
+				]
+			},
+			"properties": {
+				"OBJECTID": 149177,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12454999",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 436650,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755127,
+					1.435614
+				]
+			},
+			"properties": {
+				"OBJECTID": 436650,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1454",
+				"COMMON_NM": "Fish-Killer Tree",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia racemosa,Fish-Killer Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026627",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596584,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745614,
+					1.435612
+				]
+			},
+			"properties": {
+				"OBJECTID": 596584,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11071255",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149171,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755064,
+					1.436074
+				]
+			},
+			"properties": {
+				"OBJECTID": 149171,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12454993",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2205,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743945,
+					1.436076
+				]
+			},
+			"properties": {
+				"OBJECTID": 2205,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "3",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939560",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154837,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754975,
+					1.436675
+				]
+			},
+			"properties": {
+				"OBJECTID": 154837,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1454",
+				"COMMON_NM": "Fish-Killer Tree",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia racemosa,Fish-Killer Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026231",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 436648,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755158,
+					1.435436
+				]
+			},
+			"properties": {
+				"OBJECTID": 436648,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1454",
+				"COMMON_NM": "Fish-Killer Tree",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia racemosa,Fish-Killer Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026625",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234525,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.75501,
+					1.435575
+				]
+			},
+			"properties": {
+				"OBJECTID": 234525,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1507",
+				"COMMON_NM": "Pong-pong",
+				"SPSC_NM": "Cerbera odollam",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Cerbera odollam,Pong-pong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944354",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234513,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754974,
+					1.43585
+				]
+			},
+			"properties": {
+				"OBJECTID": 234513,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944342",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149149,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754857,
+					1.435917
+				]
+			},
+			"properties": {
+				"OBJECTID": 149149,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12622293",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1249,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743981,
+					1.435941
+				]
+			},
+			"properties": {
+				"OBJECTID": 1249,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941107",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 119534,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754784,
+					1.436445
+				]
+			},
+			"properties": {
+				"OBJECTID": 119534,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1454",
+				"COMMON_NM": "Fish-Killer Tree",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia racemosa,Fish-Killer Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13024312",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596599,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745744,
+					1.436296
+				]
+			},
+			"properties": {
+				"OBJECTID": 596599,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11249496",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 119537,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754769,
+					1.436552
+				]
+			},
+			"properties": {
+				"OBJECTID": 119537,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1552",
+				"COMMON_NM": "Katmon",
+				"SPSC_NM": "Dillenia philippinensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dillenia philippinensis,Katmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13024315",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3502,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743595,
+					1.436651
+				]
+			},
+			"properties": {
+				"OBJECTID": 3502,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "9",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941221",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596585,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745623,
+					1.435525
+				]
+			},
+			"properties": {
+				"OBJECTID": 596585,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11071254",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5397,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.744018,
+					1.438133
+				]
+			},
+			"properties": {
+				"OBJECTID": 5397,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Burmese Rosewood, Red Sandalwood, Philippine Mahogany, Pokok Sena, Sena, Angsana, Andaman Redwood, Narra, Padauk, Padouk",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "1997",
+				"Girth": "> 1.5",
+				"Public_treeid": "10969257",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661285,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755103,
+					1.435898
+				]
+			},
+			"properties": {
+				"OBJECTID": 661285,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "3",
+				"SPCS_CD": "1440",
+				"COMMON_NM": "Nangka",
+				"SPSC_NM": "Artocarpus heterophyllus",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Artocarpus heterophyllus,Nangka",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12484390",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149172,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755019,
+					1.436378
+				]
+			},
+			"properties": {
+				"OBJECTID": 149172,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12454994",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596602,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745841,
+					1.436166
+				]
+			},
+			"properties": {
+				"OBJECTID": 596602,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11085915",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 436668,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754976,
+					1.436659
+				]
+			},
+			"properties": {
+				"OBJECTID": 436668,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1659",
+				"COMMON_NM": "Looking-Glass Tree",
+				"SPSC_NM": "Heritiera littoralis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Heritiera littoralis,Looking-Glass Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026230",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234516,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754996,
+					1.435731
+				]
+			},
+			"properties": {
+				"OBJECTID": 234516,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944345",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596596,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745544,
+					1.435902
+				]
+			},
+			"properties": {
+				"OBJECTID": 596596,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11286590",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149152,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754787,
+					1.436425
+				]
+			},
+			"properties": {
+				"OBJECTID": 149152,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12622296",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 294384,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745876,
+					1.436564
+				]
+			},
+			"properties": {
+				"OBJECTID": 294384,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11085914",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626655,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755036,
+					1.435455
+				]
+			},
+			"properties": {
+				"OBJECTID": 626655,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12455012",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234522,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755005,
+					1.435607
+				]
+			},
+			"properties": {
+				"OBJECTID": 234522,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944351",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234510,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754963,
+					1.435953
+				]
+			},
+			"properties": {
+				"OBJECTID": 234510,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944339",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661288,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755177,
+					1.435341
+				]
+			},
+			"properties": {
+				"OBJECTID": 661288,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12484393",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149155,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754746,
+					1.436682
+				]
+			},
+			"properties": {
+				"OBJECTID": 149155,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12622299",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596582,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745666,
+					1.43541
+				]
+			},
+			"properties": {
+				"OBJECTID": 596582,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11085920",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149175,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754967,
+					1.436759
+				]
+			},
+			"properties": {
+				"OBJECTID": 149175,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12454997",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149169,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755095,
+					1.435939
+				]
+			},
+			"properties": {
+				"OBJECTID": 149169,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12454991",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596603,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745946,
+					1.436377
+				]
+			},
+			"properties": {
+				"OBJECTID": 596603,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11249494",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234517,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754999,
+					1.435699
+				]
+			},
+			"properties": {
+				"OBJECTID": 234517,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1507",
+				"COMMON_NM": "Pong-pong",
+				"SPSC_NM": "Cerbera odollam",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Cerbera odollam,Pong-pong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944346",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 343204,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.753617,
+					1.436571
+				]
+			},
+			"properties": {
+				"OBJECTID": 343204,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12614636",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626644,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754968,
+					1.435912
+				]
+			},
+			"properties": {
+				"OBJECTID": 626644,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12455001",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154843,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754969,
+					1.436738
+				]
+			},
+			"properties": {
+				"OBJECTID": 154843,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1552",
+				"COMMON_NM": "Katmon",
+				"SPSC_NM": "Dillenia philippinensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dillenia philippinensis,Katmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026237",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1052,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743565,
+					1.436705
+				]
+			},
+			"properties": {
+				"OBJECTID": 1052,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "9",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941198",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 436663,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755028,
+					1.436325
+				]
+			},
+			"properties": {
+				"OBJECTID": 436663,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1552",
+				"COMMON_NM": "Katmon",
+				"SPSC_NM": "Dillenia philippinensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dillenia philippinensis,Katmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026640",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149147,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754945,
+					1.435377
+				]
+			},
+			"properties": {
+				"OBJECTID": 149147,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12622291",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596597,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745751,
+					1.435983
+				]
+			},
+			"properties": {
+				"OBJECTID": 596597,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11249497",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596591,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745422,
+					1.43551
+				]
+			},
+			"properties": {
+				"OBJECTID": 596591,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11286592",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 294385,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745934,
+					1.436674
+				]
+			},
+			"properties": {
+				"OBJECTID": 294385,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11249491",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 352925,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754846,
+					1.436001
+				]
+			},
+			"properties": {
+				"OBJECTID": 352925,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "9",
+				"SPCS_CD": "29609",
+				"COMMON_NM": "Velvet Tamarind",
+				"SPSC_NM": "Dialium indum",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Dialium indum,Velvet Tamarind",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12611830",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149170,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755031,
+					1.436293
+				]
+			},
+			"properties": {
+				"OBJECTID": 149170,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12454992",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 436666,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755009,
+					1.436464
+				]
+			},
+			"properties": {
+				"OBJECTID": 436666,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1552",
+				"COMMON_NM": "Katmon",
+				"SPSC_NM": "Dillenia philippinensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dillenia philippinensis,Katmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026228",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 294382,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745895,
+					1.436279
+				]
+			},
+			"properties": {
+				"OBJECTID": 294382,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11286588",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596594,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745624,
+					1.435693
+				]
+			},
+			"properties": {
+				"OBJECTID": 596594,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11085916",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149150,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754833,
+					1.436084
+				]
+			},
+			"properties": {
+				"OBJECTID": 149150,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12622294",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154846,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755118,
+					1.435658
+				]
+			},
+			"properties": {
+				"OBJECTID": 154846,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1552",
+				"COMMON_NM": "Katmon",
+				"SPSC_NM": "Dillenia philippinensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dillenia philippinensis,Katmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026240",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596600,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745694,
+					1.436193
+				]
+			},
+			"properties": {
+				"OBJECTID": 596600,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11249495",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 119535,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754783,
+					1.436471
+				]
+			},
+			"properties": {
+				"OBJECTID": 119535,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1552",
+				"COMMON_NM": "Katmon",
+				"SPSC_NM": "Dillenia philippinensis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dillenia philippinensis,Katmon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13024313",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 119538,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754765,
+					1.436587
+				]
+			},
+			"properties": {
+				"OBJECTID": 119538,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "1454",
+				"COMMON_NM": "Fish-Killer Tree",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia racemosa,Fish-Killer Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13024316",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149110,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.753877,
+					1.436607
+				]
+			},
+			"properties": {
+				"OBJECTID": 149110,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12622237",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234508,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754948,
+					1.436051
+				]
+			},
+			"properties": {
+				"OBJECTID": 234508,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1507",
+				"COMMON_NM": "Pong-pong",
+				"SPSC_NM": "Cerbera odollam",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Cerbera odollam,Pong-pong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944337",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149153,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754773,
+					1.43651
+				]
+			},
+			"properties": {
+				"OBJECTID": 149153,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12622297",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149173,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754984,
+					1.436614
+				]
+			},
+			"properties": {
+				"OBJECTID": 149173,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12454995",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 436667,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754981,
+					1.436638
+				]
+			},
+			"properties": {
+				"OBJECTID": 436667,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1454",
+				"COMMON_NM": "Fish-Killer Tree",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia racemosa,Fish-Killer Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026229",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596595,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745505,
+					1.43583
+				]
+			},
+			"properties": {
+				"OBJECTID": 596595,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11286591",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 294383,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.746031,
+					1.436543
+				]
+			},
+			"properties": {
+				"OBJECTID": 294383,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11249493",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234523,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755009,
+					1.435586
+				]
+			},
+			"properties": {
+				"OBJECTID": 234523,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1903",
+				"COMMON_NM": "Pelawan",
+				"SPSC_NM": "Tristaniopsis whiteana",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Tristaniopsis whiteana,Pelawan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944352",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 119536,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754778,
+					1.436492
+				]
+			},
+			"properties": {
+				"OBJECTID": 119536,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1659",
+				"COMMON_NM": "Looking-Glass Tree",
+				"SPSC_NM": "Heritiera littoralis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Heritiera littoralis,Looking-Glass Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13024314",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234509,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.75496,
+					1.43598
+				]
+			},
+			"properties": {
+				"OBJECTID": 234509,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1873",
+				"COMMON_NM": "Kelat Nasi Nasi",
+				"SPSC_NM": "Syzygium zeylanicum",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Syzygium zeylanicum,Kelat Nasi Nasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944338",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149176,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.75494,
+					1.436104
+				]
+			},
+			"properties": {
+				"OBJECTID": 149176,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12454998",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3045,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743737,
+					1.436372
+				]
+			},
+			"properties": {
+				"OBJECTID": 3045,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "9",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941363",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149168,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.75516,
+					1.43541
+				]
+			},
+			"properties": {
+				"OBJECTID": 149168,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12622312",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 343205,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.753707,
+					1.436644
+				]
+			},
+			"properties": {
+				"OBJECTID": 343205,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12614637",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234526,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755005,
+					1.435621
+				]
+			},
+			"properties": {
+				"OBJECTID": 234526,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1507",
+				"COMMON_NM": "Pong-pong",
+				"SPSC_NM": "Cerbera odollam",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Cerbera odollam,Pong-pong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944355",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 611740,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754935,
+					1.436139
+				]
+			},
+			"properties": {
+				"OBJECTID": 611740,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1873",
+				"COMMON_NM": "Kelat Nasi Nasi",
+				"SPSC_NM": "Syzygium zeylanicum",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Syzygium zeylanicum,Kelat Nasi Nasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944335",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149148,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754869,
+					1.435821
+				]
+			},
+			"properties": {
+				"OBJECTID": 149148,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12622292",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 436664,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755024,
+					1.436352
+				]
+			},
+			"properties": {
+				"OBJECTID": 436664,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1454",
+				"COMMON_NM": "Fish-Killer Tree",
+				"SPSC_NM": "Barringtonia racemosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia racemosa,Fish-Killer Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "13026226",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 626645,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755045,
+					1.435384
+				]
+			},
+			"properties": {
+				"OBJECTID": 626645,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12455002",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4597,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.743694,
+					1.436462
+				]
+			},
+			"properties": {
+				"OBJECTID": 4597,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "9",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10941362",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596598,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745638,
+					1.436082
+				]
+			},
+			"properties": {
+				"OBJECTID": 596598,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11071252",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 596592,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7457,
+					1.43588
+				]
+			},
+			"properties": {
+				"OBJECTID": 596592,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11071253",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234529,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755038,
+					1.435431
+				]
+			},
+			"properties": {
+				"OBJECTID": 234529,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1873",
+				"COMMON_NM": "Kelat Nasi Nasi",
+				"SPSC_NM": "Syzygium zeylanicum",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Syzygium zeylanicum,Kelat Nasi Nasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944358",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 294386,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.745977,
+					1.436762
+				]
+			},
+			"properties": {
+				"OBJECTID": 294386,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1577",
+				"COMMON_NM": "Fairy Petticoat",
+				"SPSC_NM": "Elaeocarpus grandiflorus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Elaeocarpus grandiflorus,Fairy Petticoat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11286587",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 661286,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.755109,
+					1.435859
+				]
+			},
+			"properties": {
+				"OBJECTID": 661286,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "3",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12484391",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234512,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.754971,
+					1.435879
+				]
+			},
+			"properties": {
+				"OBJECTID": 234512,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1507",
+				"COMMON_NM": "Pong-pong",
+				"SPSC_NM": "Cerbera odollam",
+				"PRUNING": "Q4 2021",
+				"SPCS_COMMON_NM": "Cerbera odollam,Pong-pong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12944341",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

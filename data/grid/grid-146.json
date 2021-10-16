@@ -1,0 +1,6635 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 243790,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701738,
+					1.407088
+				]
+			},
+			"properties": {
+				"OBJECTID": 243790,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228215",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188035,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701775,
+					1.407461
+				]
+			},
+			"properties": {
+				"OBJECTID": 188035,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11355658",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702019,
+					1.406182
+				]
+			},
+			"properties": {
+				"OBJECTID": 425730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137742",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329162,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700727,
+					1.409986
+				]
+			},
+			"properties": {
+				"OBJECTID": 329162,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138572",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238712,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701559,
+					1.407585
+				]
+			},
+			"properties": {
+				"OBJECTID": 238712,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11186097",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 308352,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702128,
+					1.406153
+				]
+			},
+			"properties": {
+				"OBJECTID": 308352,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11354598",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329145,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701406,
+					1.408064
+				]
+			},
+			"properties": {
+				"OBJECTID": 329145,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138255",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329151,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70114,
+					1.408871
+				]
+			},
+			"properties": {
+				"OBJECTID": 329151,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138372",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 580471,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701641,
+					1.407345
+				]
+			},
+			"properties": {
+				"OBJECTID": 580471,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1722",
+				"COMMON_NM": "Pokok sapu tangan",
+				"SPSC_NM": "Cynometra browneoides",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra browneoides,Pokok sapu tangan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11040156",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 270820,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700903,
+					1.409557
+				]
+			},
+			"properties": {
+				"OBJECTID": 270820,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1564",
+				"COMMON_NM": "Keruing Pekat",
+				"SPSC_NM": "Dipterocarpus grandiflorus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Dipterocarpus grandiflorus,Keruing Pekat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11040152",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329154,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700981,
+					1.409353
+				]
+			},
+			"properties": {
+				"OBJECTID": 329154,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138402",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243804,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701804,
+					1.404725
+				]
+			},
+			"properties": {
+				"OBJECTID": 243804,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228201",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256917,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701637,
+					1.403357
+				]
+			},
+			"properties": {
+				"OBJECTID": 256917,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447103",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188026,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701528,
+					1.408096
+				]
+			},
+			"properties": {
+				"OBJECTID": 188026,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11355832",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243778,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701364,
+					1.408211
+				]
+			},
+			"properties": {
+				"OBJECTID": 243778,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228227",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 212165,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701892,
+					1.40371
+				]
+			},
+			"properties": {
+				"OBJECTID": 212165,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12521034",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329131,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701676,
+					1.407239
+				]
+			},
+			"properties": {
+				"OBJECTID": 329131,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10138022",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 270811,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702062,
+					1.405956
+				]
+			},
+			"properties": {
+				"OBJECTID": 270811,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1416",
+				"COMMON_NM": "Cashew",
+				"SPSC_NM": "Anacardium occidentale",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Anacardium occidentale,Cashew",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11145345",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256937,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701456,
+					1.403251
+				]
+			},
+			"properties": {
+				"OBJECTID": 256937,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447123",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243784,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701518,
+					1.407716
+				]
+			},
+			"properties": {
+				"OBJECTID": 243784,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228221",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329111,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70078,
+					1.410097
+				]
+			},
+			"properties": {
+				"OBJECTID": 329111,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10139010",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 309500,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702126,
+					1.406152
+				]
+			},
+			"properties": {
+				"OBJECTID": 309500,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954253",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243798,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701725,
+					1.404544
+				]
+			},
+			"properties": {
+				"OBJECTID": 243798,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11187918",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188018,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700928,
+					1.409732
+				]
+			},
+			"properties": {
+				"OBJECTID": 188018,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1446",
+				"COMMON_NM": "Common Rambai",
+				"SPSC_NM": "Baccaurea motleyana",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Baccaurea motleyana,Common Rambai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11355440",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 543998,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700812,
+					1.409536
+				]
+			},
+			"properties": {
+				"OBJECTID": 543998,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11355644",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238729,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701501,
+					1.407776
+				]
+			},
+			"properties": {
+				"OBJECTID": 238729,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11203856",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329125,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702072,
+					1.406366
+				]
+			},
+			"properties": {
+				"OBJECTID": 329125,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137814",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329142,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70151,
+					1.40775
+				]
+			},
+			"properties": {
+				"OBJECTID": 329142,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138225",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425710,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702059,
+					1.406006
+				]
+			},
+			"properties": {
+				"OBJECTID": 425710,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137716",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256931,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701712,
+					1.403521
+				]
+			},
+			"properties": {
+				"OBJECTID": 256931,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447117",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 580474,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701352,
+					1.408257
+				]
+			},
+			"properties": {
+				"OBJECTID": 580474,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1722",
+				"COMMON_NM": "Pokok sapu tangan",
+				"SPSC_NM": "Cynometra browneoides",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra browneoides,Pokok sapu tangan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11186095",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 150760,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702059,
+					1.406719
+				]
+			},
+			"properties": {
+				"OBJECTID": 150760,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "9",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "11071303",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329148,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70128,
+					1.408473
+				]
+			},
+			"properties": {
+				"OBJECTID": 329148,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138283",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 270817,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701327,
+					1.408339
+				]
+			},
+			"properties": {
+				"OBJECTID": 270817,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1722",
+				"COMMON_NM": "Pokok sapu tangan",
+				"SPSC_NM": "Cynometra browneoides",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra browneoides,Pokok sapu tangan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11145339",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243770,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701657,
+					1.404519
+				]
+			},
+			"properties": {
+				"OBJECTID": 243770,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228235",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 212168,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701773,
+					1.40356
+				]
+			},
+			"properties": {
+				"OBJECTID": 212168,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12521037",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243801,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701764,
+					1.404635
+				]
+			},
+			"properties": {
+				"OBJECTID": 243801,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228204",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256920,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701679,
+					1.403444
+				]
+			},
+			"properties": {
+				"OBJECTID": 256920,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447106",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 270814,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701727,
+					1.407109
+				]
+			},
+			"properties": {
+				"OBJECTID": 270814,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11186098",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329134,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701608,
+					1.407447
+				]
+			},
+			"properties": {
+				"OBJECTID": 329134,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10138065",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243781,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701431,
+					1.407994
+				]
+			},
+			"properties": {
+				"OBJECTID": 243781,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228224",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243807,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701843,
+					1.404815
+				]
+			},
+			"properties": {
+				"OBJECTID": 243807,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10228198",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 683428,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701085,
+					1.409348
+				]
+			},
+			"properties": {
+				"OBJECTID": 683428,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11038422",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256934,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701968,
+					1.403635
+				]
+			},
+			"properties": {
+				"OBJECTID": 256934,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447120",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243787,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701689,
+					1.40723
+				]
+			},
+			"properties": {
+				"OBJECTID": 243787,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228218",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425773,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701981,
+					1.406226
+				]
+			},
+			"properties": {
+				"OBJECTID": 425773,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137840",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 309497,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702127,
+					1.406159
+				]
+			},
+			"properties": {
+				"OBJECTID": 309497,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954250",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238726,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701607,
+					1.404336
+				]
+			},
+			"properties": {
+				"OBJECTID": 238726,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11203859",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329128,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701736,
+					1.407069
+				]
+			},
+			"properties": {
+				"OBJECTID": 329128,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137992",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329122,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701734,
+					1.407391
+				]
+			},
+			"properties": {
+				"OBJECTID": 329122,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138220",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256928,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701631,
+					1.403384
+				]
+			},
+			"properties": {
+				"OBJECTID": 256928,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447114",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 580475,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701267,
+					1.408523
+				]
+			},
+			"properties": {
+				"OBJECTID": 580475,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1722",
+				"COMMON_NM": "Pokok sapu tangan",
+				"SPSC_NM": "Cynometra browneoides",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra browneoides,Pokok sapu tangan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11040154",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329120,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70186,
+					1.406695
+				]
+			},
+			"properties": {
+				"OBJECTID": 329120,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137929",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256932,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701542,
+					1.403425
+				]
+			},
+			"properties": {
+				"OBJECTID": 256932,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447118",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329143,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701439,
+					1.40797
+				]
+			},
+			"properties": {
+				"OBJECTID": 329143,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138231",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329137,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701566,
+					1.407558
+				]
+			},
+			"properties": {
+				"OBJECTID": 329137,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138131",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 580469,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702074,
+					1.405741
+				]
+			},
+			"properties": {
+				"OBJECTID": 580469,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11186100",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329160,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700773,
+					1.409839
+				]
+			},
+			"properties": {
+				"OBJECTID": 329160,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138543",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243773,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701591,
+					1.404388
+				]
+			},
+			"properties": {
+				"OBJECTID": 243773,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228232",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 270818,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701238,
+					1.408598
+				]
+			},
+			"properties": {
+				"OBJECTID": 270818,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11145338",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256949,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70177,
+					1.403516
+				]
+			},
+			"properties": {
+				"OBJECTID": 256949,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1404",
+				"COMMON_NM": "Coral Bean Tree",
+				"SPSC_NM": "Adenanthera pavonina",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Adenanthera pavonina,Coral Bean Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12447135",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329149,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701252,
+					1.408565
+				]
+			},
+			"properties": {
+				"OBJECTID": 329149,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138332",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 270815,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701666,
+					1.407275
+				]
+			},
+			"properties": {
+				"OBJECTID": 270815,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11040157",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243802,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701777,
+					1.404665
+				]
+			},
+			"properties": {
+				"OBJECTID": 243802,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228203",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329129,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701715,
+					1.40713
+				]
+			},
+			"properties": {
+				"OBJECTID": 329129,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137998",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 308353,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702138,
+					1.406054
+				]
+			},
+			"properties": {
+				"OBJECTID": 308353,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11354599",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 590144,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701652,
+					1.404434
+				]
+			},
+			"properties": {
+				"OBJECTID": 590144,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11040158",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243782,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701444,
+					1.407957
+				]
+			},
+			"properties": {
+				"OBJECTID": 243782,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1722",
+				"COMMON_NM": "Pokok sapu tangan",
+				"SPSC_NM": "Cynometra browneoides",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra browneoides,Pokok sapu tangan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228223",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256935,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701526,
+					1.403298
+				]
+			},
+			"properties": {
+				"OBJECTID": 256935,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447121",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256923,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701613,
+					1.403457
+				]
+			},
+			"properties": {
+				"OBJECTID": 256923,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447109",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 212163,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701998,
+					1.403706
+				]
+			},
+			"properties": {
+				"OBJECTID": 212163,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12521032",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425762,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70193,
+					1.406308
+				]
+			},
+			"properties": {
+				"OBJECTID": 425762,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137833",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 309498,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702108,
+					1.4063
+				]
+			},
+			"properties": {
+				"OBJECTID": 309498,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954251",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 212169,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701769,
+					1.403538
+				]
+			},
+			"properties": {
+				"OBJECTID": 212169,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12521038",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243796,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701744,
+					1.404595
+				]
+			},
+			"properties": {
+				"OBJECTID": 243796,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11187919",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238727,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701744,
+					1.407052
+				]
+			},
+			"properties": {
+				"OBJECTID": 238727,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11203858",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329123,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701755,
+					1.407343
+				]
+			},
+			"properties": {
+				"OBJECTID": 329123,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10137963",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188024,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701541,
+					1.408141
+				]
+			},
+			"properties": {
+				"OBJECTID": 188024,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11355419",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256929,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70151,
+					1.403429
+				]
+			},
+			"properties": {
+				"OBJECTID": 256929,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447115",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329140,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701513,
+					1.407732
+				]
+			},
+			"properties": {
+				"OBJECTID": 329140,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10138198",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238715,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701301,
+					1.408415
+				]
+			},
+			"properties": {
+				"OBJECTID": 238715,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11186094",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 311636,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701942,
+					1.406938
+				]
+			},
+			"properties": {
+				"OBJECTID": 311636,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11356471",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243776,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70129,
+					1.408444
+				]
+			},
+			"properties": {
+				"OBJECTID": 243776,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1722",
+				"COMMON_NM": "Pokok sapu tangan",
+				"SPSC_NM": "Cynometra browneoides",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra browneoides,Pokok sapu tangan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228229",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 580472,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701533,
+					1.407659
+				]
+			},
+			"properties": {
+				"OBJECTID": 580472,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11203857",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329146,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701338,
+					1.408315
+				]
+			},
+			"properties": {
+				"OBJECTID": 329146,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138261",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329100,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701932,
+					1.406441
+				]
+			},
+			"properties": {
+				"OBJECTID": 329100,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137859",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243779,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701393,
+					1.408098
+				]
+			},
+			"properties": {
+				"OBJECTID": 243779,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228226",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425745,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702041,
+					1.406107
+				]
+			},
+			"properties": {
+				"OBJECTID": 425745,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10137786",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 212166,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701845,
+					1.403618
+				]
+			},
+			"properties": {
+				"OBJECTID": 212166,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12521035",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188027,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701577,
+					1.408013
+				]
+			},
+			"properties": {
+				"OBJECTID": 188027,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "2",
+				"SPCS_CD": "1440",
+				"COMMON_NM": "Nangka",
+				"SPSC_NM": "Artocarpus heterophyllus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus heterophyllus,Nangka",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11355833",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 309495,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702147,
+					1.40593
+				]
+			},
+			"properties": {
+				"OBJECTID": 309495,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954248",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329106,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701881,
+					1.406597
+				]
+			},
+			"properties": {
+				"OBJECTID": 329106,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137880",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 270812,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702035,
+					1.406155
+				]
+			},
+			"properties": {
+				"OBJECTID": 270812,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1416",
+				"COMMON_NM": "Cashew",
+				"SPSC_NM": "Anacardium occidentale",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Anacardium occidentale,Cashew",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11145344",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329157,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700868,
+					1.409642
+				]
+			},
+			"properties": {
+				"OBJECTID": 329157,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138461",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243805,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701817,
+					1.404755
+				]
+			},
+			"properties": {
+				"OBJECTID": 243805,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228200",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243785,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701529,
+					1.407677
+				]
+			},
+			"properties": {
+				"OBJECTID": 243785,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228220",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243799,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701738,
+					1.404574
+				]
+			},
+			"properties": {
+				"OBJECTID": 243799,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11144793",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329126,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701778,
+					1.40693
+				]
+			},
+			"properties": {
+				"OBJECTID": 329126,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137971",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243793,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701932,
+					1.40635
+				]
+			},
+			"properties": {
+				"OBJECTID": 243793,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228212",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188021,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700831,
+					1.409531
+				]
+			},
+			"properties": {
+				"OBJECTID": 188021,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "2",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11356173",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256926,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701653,
+					1.403527
+				]
+			},
+			"properties": {
+				"OBJECTID": 256926,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447112",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 642510,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702142,
+					1.406005
+				]
+			},
+			"properties": {
+				"OBJECTID": 642510,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11104572",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 309501,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702122,
+					1.406187
+				]
+			},
+			"properties": {
+				"OBJECTID": 309501,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954254",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256930,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70155,
+					1.403476
+				]
+			},
+			"properties": {
+				"OBJECTID": 256930,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447116",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329141,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70149,
+					1.407819
+				]
+			},
+			"properties": {
+				"OBJECTID": 329141,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138213",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 580473,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701448,
+					1.40794
+				]
+			},
+			"properties": {
+				"OBJECTID": 580473,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11203855",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329118,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701115,
+					1.409226
+				]
+			},
+			"properties": {
+				"OBJECTID": 329118,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138551",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238716,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701228,
+					1.408642
+				]
+			},
+			"properties": {
+				"OBJECTID": 238716,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11186093",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329089,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701903,
+					1.406535
+				]
+			},
+			"properties": {
+				"OBJECTID": 329089,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137847",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243771,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701582,
+					1.40435
+				]
+			},
+			"properties": {
+				"OBJECTID": 243771,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228234",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 580467,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70186,
+					1.404961
+				]
+			},
+			"properties": {
+				"OBJECTID": 580467,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11203862",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243780,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701418,
+					1.408035
+				]
+			},
+			"properties": {
+				"OBJECTID": 243780,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228225",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 212167,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701783,
+					1.403602
+				]
+			},
+			"properties": {
+				"OBJECTID": 212167,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "12",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12521036",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 309496,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702138,
+					1.40603
+				]
+			},
+			"properties": {
+				"OBJECTID": 309496,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1483",
+				"COMMON_NM": "Malang-Malang",
+				"SPSC_NM": "Calophyllum soulattri",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Calophyllum soulattri,Malang-Malang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954249",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 270813,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701628,
+					1.404383
+				]
+			},
+			"properties": {
+				"OBJECTID": 270813,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11186099",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 590142,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701889,
+					1.405074
+				]
+			},
+			"properties": {
+				"OBJECTID": 590142,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11040159",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329158,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700833,
+					1.409714
+				]
+			},
+			"properties": {
+				"OBJECTID": 329158,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138488",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243808,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701856,
+					1.404845
+				]
+			},
+			"properties": {
+				"OBJECTID": 243808,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10228197",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329135,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701594,
+					1.407479
+				]
+			},
+			"properties": {
+				"OBJECTID": 329135,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10138084",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 212161,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701898,
+					1.403692
+				]
+			},
+			"properties": {
+				"OBJECTID": 212161,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "12",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12521030",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243800,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701751,
+					1.404605
+				]
+			},
+			"properties": {
+				"OBJECTID": 243800,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11187917",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243788,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7017,
+					1.407199
+				]
+			},
+			"properties": {
+				"OBJECTID": 243788,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228217",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256927,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701815,
+					1.403581
+				]
+			},
+			"properties": {
+				"OBJECTID": 256927,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447113",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256921,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701438,
+					1.40317
+				]
+			},
+			"properties": {
+				"OBJECTID": 256921,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447107",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329121,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701622,
+					1.407726
+				]
+			},
+			"properties": {
+				"OBJECTID": 329121,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10138233",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243794,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701825,
+					1.404741
+				]
+			},
+			"properties": {
+				"OBJECTID": 243794,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228211",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243768,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701613,
+					1.404422
+				]
+			},
+			"properties": {
+				"OBJECTID": 243768,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228237",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243791,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701754,
+					1.407029
+				]
+			},
+			"properties": {
+				"OBJECTID": 243791,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228214",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329144,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701371,
+					1.408181
+				]
+			},
+			"properties": {
+				"OBJECTID": 329144,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138239",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256933,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70192,
+					1.403583
+				]
+			},
+			"properties": {
+				"OBJECTID": 256933,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447119",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238713,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701476,
+					1.407865
+				]
+			},
+			"properties": {
+				"OBJECTID": 238713,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "9",
+				"SPCS_CD": "33411",
+				"COMMON_NM": null,
+				"SPSC_NM": "Saraca sp.",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Saraca sp.,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11186096",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329138,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701546,
+					1.407625
+				]
+			},
+			"properties": {
+				"OBJECTID": 329138,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10138153",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329161,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700746,
+					1.409918
+				]
+			},
+			"properties": {
+				"OBJECTID": 329161,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138557",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243774,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701232,
+					1.408612
+				]
+			},
+			"properties": {
+				"OBJECTID": 243774,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1722",
+				"COMMON_NM": "Pokok sapu tangan",
+				"SPSC_NM": "Cynometra browneoides",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra browneoides,Pokok sapu tangan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228231",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 580470,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701705,
+					1.407158
+				]
+			},
+			"properties": {
+				"OBJECTID": 580470,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11145342",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329152,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701113,
+					1.40894
+				]
+			},
+			"properties": {
+				"OBJECTID": 329152,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138381",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256918,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701721,
+					1.403408
+				]
+			},
+			"properties": {
+				"OBJECTID": 256918,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447104",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188025,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701491,
+					1.408167
+				]
+			},
+			"properties": {
+				"OBJECTID": 188025,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1660",
+				"COMMON_NM": "Rubber Tree",
+				"SPSC_NM": "Hevea brasiliensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Hevea brasiliensis,Rubber Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11356174",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329132,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701652,
+					1.407315
+				]
+			},
+			"properties": {
+				"OBJECTID": 329132,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138034",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425700,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702065,
+					1.405647
+				]
+			},
+			"properties": {
+				"OBJECTID": 425700,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137707",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329155,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700917,
+					1.409504
+				]
+			},
+			"properties": {
+				"OBJECTID": 329155,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138424",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243777,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701321,
+					1.408363
+				]
+			},
+			"properties": {
+				"OBJECTID": 243777,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228228",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 308354,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702141,
+					1.405898
+				]
+			},
+			"properties": {
+				"OBJECTID": 308354,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11354600",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 311651,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701478,
+					1.407554
+				]
+			},
+			"properties": {
+				"OBJECTID": 311651,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1440",
+				"COMMON_NM": "Nangka",
+				"SPSC_NM": "Artocarpus heterophyllus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus heterophyllus,Nangka",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11355700",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256924,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701721,
+					1.403574
+				]
+			},
+			"properties": {
+				"OBJECTID": 256924,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447110",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243797,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701731,
+					1.404563
+				]
+			},
+			"properties": {
+				"OBJECTID": 243797,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11288663",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188019,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700943,
+					1.409668
+				]
+			},
+			"properties": {
+				"OBJECTID": 188019,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "2",
+				"SPCS_CD": "1446",
+				"COMMON_NM": "Common Rambai",
+				"SPSC_NM": "Baccaurea motleyana",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Baccaurea motleyana,Common Rambai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11356244",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 212164,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701967,
+					1.403734
+				]
+			},
+			"properties": {
+				"OBJECTID": 212164,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12521033",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 309499,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70213,
+					1.406117
+				]
+			},
+			"properties": {
+				"OBJECTID": 309499,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954252",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701093,
+					1.409014
+				]
+			},
+			"properties": {
+				"OBJECTID": 238730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1722",
+				"COMMON_NM": "Pokok sapu tangan",
+				"SPSC_NM": "Cynometra browneoides",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra browneoides,Pokok sapu tangan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11145337",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329124,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701827,
+					1.40679
+				]
+			},
+			"properties": {
+				"OBJECTID": 329124,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137949",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243792,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701843,
+					1.406729
+				]
+			},
+			"properties": {
+				"OBJECTID": 243792,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228213",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238714,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701388,
+					1.408143
+				]
+			},
+			"properties": {
+				"OBJECTID": 238714,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1722",
+				"COMMON_NM": "Pokok sapu tangan",
+				"SPSC_NM": "Cynometra browneoides",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra browneoides,Pokok sapu tangan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11145340",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329139,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701523,
+					1.407696
+				]
+			},
+			"properties": {
+				"OBJECTID": 329139,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10138182",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243775,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701257,
+					1.408545
+				]
+			},
+			"properties": {
+				"OBJECTID": 243775,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228230",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329147,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701309,
+					1.408379
+				]
+			},
+			"properties": {
+				"OBJECTID": 329147,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138271",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243769,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701541,
+					1.404315
+				]
+			},
+			"properties": {
+				"OBJECTID": 243769,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228236",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425721,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701932,
+					1.406269
+				]
+			},
+			"properties": {
+				"OBJECTID": 425721,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137724",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329156,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700884,
+					1.409595
+				]
+			},
+			"properties": {
+				"OBJECTID": 329156,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138437",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256919,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701527,
+					1.40339
+				]
+			},
+			"properties": {
+				"OBJECTID": 256919,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447105",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329133,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701632,
+					1.407377
+				]
+			},
+			"properties": {
+				"OBJECTID": 329133,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138052",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243806,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70183,
+					1.404785
+				]
+			},
+			"properties": {
+				"OBJECTID": 243806,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10228199",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 311652,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701575,
+					1.407345
+				]
+			},
+			"properties": {
+				"OBJECTID": 311652,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "2",
+				"SPCS_CD": "1410",
+				"COMMON_NM": "Red-leaved Pulai",
+				"SPSC_NM": "Alstonia angustifolia",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Alstonia angustifolia,Red-leaved Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11356432",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243786,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701552,
+					1.407606
+				]
+			},
+			"properties": {
+				"OBJECTID": 243786,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228219",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238725,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701933,
+					1.405001
+				]
+			},
+			"properties": {
+				"OBJECTID": 238725,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11040160",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329127,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701761,
+					1.407006
+				]
+			},
+			"properties": {
+				"OBJECTID": 329127,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137985",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238731,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700942,
+					1.409457
+				]
+			},
+			"properties": {
+				"OBJECTID": 238731,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1564",
+				"COMMON_NM": "Keruing Pekat",
+				"SPSC_NM": "Dipterocarpus grandiflorus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Dipterocarpus grandiflorus,Keruing Pekat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11145335",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256925,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701728,
+					1.403506
+				]
+			},
+			"properties": {
+				"OBJECTID": 256925,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447111",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329119,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701293,
+					1.408781
+				]
+			},
+			"properties": {
+				"OBJECTID": 329119,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138256",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238717,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701041,
+					1.409147
+				]
+			},
+			"properties": {
+				"OBJECTID": 238717,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "9",
+				"SPCS_CD": "1564",
+				"COMMON_NM": "Keruing Pekat",
+				"SPSC_NM": "Dipterocarpus grandiflorus",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Dipterocarpus grandiflorus,Keruing Pekat",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11040153",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188034,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701715,
+					1.407661
+				]
+			},
+			"properties": {
+				"OBJECTID": 188034,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "2",
+				"SPCS_CD": "1624",
+				"COMMON_NM": "Variegated fig",
+				"SPSC_NM": "Ficus variegata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus variegata,Variegated fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11355698",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238711,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701573,
+					1.404265
+				]
+			},
+			"properties": {
+				"OBJECTID": 238711,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11145343",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425752,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702041,
+					1.406062
+				]
+			},
+			"properties": {
+				"OBJECTID": 425752,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10137826",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243772,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701629,
+					1.404472
+				]
+			},
+			"properties": {
+				"OBJECTID": 243772,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1766",
+				"COMMON_NM": "White Pelong-Tree",
+				"SPSC_NM": "Pentaspadon motleyi",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Pentaspadon motleyi,White Pelong-Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228233",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 580468,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701894,
+					1.405154
+				]
+			},
+			"properties": {
+				"OBJECTID": 580468,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11203861",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329150,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701212,
+					1.408681
+				]
+			},
+			"properties": {
+				"OBJECTID": 329150,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138349",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 425741,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702063,
+					1.405915
+				]
+			},
+			"properties": {
+				"OBJECTID": 425741,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10137758",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 270819,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70107,
+					1.409075
+				]
+			},
+			"properties": {
+				"OBJECTID": 270819,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "1722",
+				"COMMON_NM": "Pokok sapu tangan",
+				"SPSC_NM": "Cynometra browneoides",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra browneoides,Pokok sapu tangan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11145336",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243803,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70179,
+					1.404695
+				]
+			},
+			"properties": {
+				"OBJECTID": 243803,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10228202",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 270816,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701425,
+					1.408009
+				]
+			},
+			"properties": {
+				"OBJECTID": 270816,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11040155",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329153,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701012,
+					1.409227
+				]
+			},
+			"properties": {
+				"OBJECTID": 329153,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138390",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329130,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701697,
+					1.407181
+				]
+			},
+			"properties": {
+				"OBJECTID": 329130,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138014",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243783,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701499,
+					1.407801
+				]
+			},
+			"properties": {
+				"OBJECTID": 243783,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228222",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329159,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700804,
+					1.409785
+				]
+			},
+			"properties": {
+				"OBJECTID": 329159,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138514",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 329136,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70158,
+					1.407517
+				]
+			},
+			"properties": {
+				"OBJECTID": 329136,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "24",
+				"SPCS_CD": "1857",
+				"COMMON_NM": "American Mahogany",
+				"SPSC_NM": "Swietenia macrophylla",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Swietenia macrophylla,American Mahogany",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10138106",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 590143,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702057,
+					1.405971
+				]
+			},
+			"properties": {
+				"OBJECTID": 590143,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11203860",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 212162,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702027,
+					1.403664
+				]
+			},
+			"properties": {
+				"OBJECTID": 212162,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12521031",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256936,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701586,
+					1.403502
+				]
+			},
+			"properties": {
+				"OBJECTID": 256936,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447122",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 476123,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.702146,
+					1.405825
+				]
+			},
+			"properties": {
+				"OBJECTID": 476123,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "24",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10141388",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188031,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701617,
+					1.407871
+				]
+			},
+			"properties": {
+				"OBJECTID": 188031,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "2",
+				"SPCS_CD": "1624",
+				"COMMON_NM": "Variegated fig",
+				"SPSC_NM": "Ficus variegata",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Ficus variegata,Variegated fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "11355442",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243795,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701831,
+					1.404774
+				]
+			},
+			"properties": {
+				"OBJECTID": 243795,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "7",
+				"SPCS_CD": "1438",
+				"COMMON_NM": "Sukun",
+				"SPSC_NM": "Artocarpus altilis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Artocarpus altilis,Sukun",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11187920",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 243789,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701712,
+					1.407144
+				]
+			},
+			"properties": {
+				"OBJECTID": 243789,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "7",
+				"SPCS_CD": "1490",
+				"COMMON_NM": "Sisik Puyuh",
+				"SPSC_NM": "Carallia suffruticosa",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Carallia suffruticosa,Sisik Puyuh",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10228216",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188023,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701378,
+					1.408581
+				]
+			},
+			"properties": {
+				"OBJECTID": 188023,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11356470",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 256922,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701672,
+					1.40342
+				]
+			},
+			"properties": {
+				"OBJECTID": 256922,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "24",
+				"SPCS_CD": "1330",
+				"COMMON_NM": "Butterfly Palm",
+				"SPSC_NM": "Dypsis madagascariensis",
+				"PRUNING": "Q4 2022",
+				"SPCS_COMMON_NM": "Dypsis madagascariensis,Butterfly Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12447108",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 238728,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701686,
+					1.40721
+				]
+			},
+			"properties": {
+				"OBJECTID": 238728,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "29087",
+				"COMMON_NM": "Katong",
+				"SPSC_NM": "Cynometra malaccensis",
+				"PRUNING": "Q2 2022",
+				"SPCS_COMMON_NM": "Cynometra malaccensis,Katong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11145341",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

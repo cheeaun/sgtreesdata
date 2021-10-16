@@ -1,0 +1,73 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 700100,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.001496,
+					1.356928
+				]
+			},
+			"properties": {
+				"OBJECTID": 700100,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18m",
+				"AGE": "4",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Planting 4 life",
+				"Hert_age": "",
+				"Girth": "1.1-1.5m",
+				"Public_treeid": "13029528",
+				"EYTreeId": "{2F1FA95B-04B5-4719-BB4C-1059EBFC0A0B}",
+				"Name": "Sheryl",
+				"Email": "Sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Plant4life"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698523,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.003495,
+					1.354036
+				]
+			},
+			"properties": {
+				"OBJECTID": 698523,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "hubert",
+				"SPSC_NM": "Palaquium gutta",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Palaquium gutta, hubert",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "ffcvhvv",
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13039129",
+				"EYTreeId": "{6BC020B3-5F6C-46D9-B58B-225FC5F30FA3}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": "#cgtf"
+			}
+		}
+	]
+}

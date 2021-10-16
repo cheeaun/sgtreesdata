@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 699981,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.739078,
+					1.4521
+				]
+			},
+			"properties": {
+				"OBJECTID": 699981,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15m",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Merlimau",
+				"SPSC_NM": "Suregada multiflora",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Suregada multiflora, Merlimau",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "excellent engagement with nparks officers and workers!",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13003200",
+				"EYTreeId": "{9E0D306E-41BD-4A0B-9E65-2D9864788BC8}",
+				"Name": "jiayao",
+				"Email": "jesusloveskahming@gmail.com",
+				"UserKeywords": "#plantatree"
+			}
+		}
+	]
+}

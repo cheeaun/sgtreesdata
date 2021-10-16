@@ -1,0 +1,3269 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 185479,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699174,
+					1.436846
+				]
+			},
+			"properties": {
+				"OBJECTID": 185479,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11340971",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380847,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699143,
+					1.436869
+				]
+			},
+			"properties": {
+				"OBJECTID": 380847,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11181815",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470882,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701042,
+					1.438951
+				]
+			},
+			"properties": {
+				"OBJECTID": 470882,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11336042",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380881,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70023,
+					1.437946
+				]
+			},
+			"properties": {
+				"OBJECTID": 380881,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234509",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185496,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701141,
+					1.439023
+				]
+			},
+			"properties": {
+				"OBJECTID": 185496,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11338366",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185490,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700115,
+					1.438033
+				]
+			},
+			"properties": {
+				"OBJECTID": 185490,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11325066",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 541213,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699632,
+					1.437387
+				]
+			},
+			"properties": {
+				"OBJECTID": 541213,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11336625",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470802,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699843,
+					1.437433
+				]
+			},
+			"properties": {
+				"OBJECTID": 470802,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11332853",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470871,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700351,
+					1.438105
+				]
+			},
+			"properties": {
+				"OBJECTID": 470871,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11338730",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380867,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701072,
+					1.43897
+				]
+			},
+			"properties": {
+				"OBJECTID": 380867,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11318587",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470865,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699828,
+					1.437412
+				]
+			},
+			"properties": {
+				"OBJECTID": 470865,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11339811",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185476,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699136,
+					1.436872
+				]
+			},
+			"properties": {
+				"OBJECTID": 185476,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11336036",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185499,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701426,
+					1.439213
+				]
+			},
+			"properties": {
+				"OBJECTID": 185499,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11339780",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470885,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700793,
+					1.438771
+				]
+			},
+			"properties": {
+				"OBJECTID": 470885,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11338731",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185493,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700688,
+					1.438688
+				]
+			},
+			"properties": {
+				"OBJECTID": 185493,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11332851",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380884,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70073,
+					1.438718
+				]
+			},
+			"properties": {
+				"OBJECTID": 380884,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11167648",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380890,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699949,
+					1.437563
+				]
+			},
+			"properties": {
+				"OBJECTID": 380890,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11138708",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185487,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699945,
+					1.437806
+				]
+			},
+			"properties": {
+				"OBJECTID": 185487,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11341000",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 541216,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7004,
+					1.438412
+				]
+			},
+			"properties": {
+				"OBJECTID": 541216,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11328891",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470874,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700669,
+					1.438485
+				]
+			},
+			"properties": {
+				"OBJECTID": 470874,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11326432",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380878,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701584,
+					1.439337
+				]
+			},
+			"properties": {
+				"OBJECTID": 380878,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234508",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380870,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701369,
+					1.439178
+				]
+			},
+			"properties": {
+				"OBJECTID": 380870,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11318376",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470868,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700776,
+					1.438577
+				]
+			},
+			"properties": {
+				"OBJECTID": 470868,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11338729",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380864,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7019,
+					1.439579
+				]
+			},
+			"properties": {
+				"OBJECTID": 380864,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234483",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185502,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701794,
+					1.439498
+				]
+			},
+			"properties": {
+				"OBJECTID": 185502,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11338368",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185494,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700911,
+					1.438856
+				]
+			},
+			"properties": {
+				"OBJECTID": 185494,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11323553",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470800,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700023,
+					1.43767
+				]
+			},
+			"properties": {
+				"OBJECTID": 470800,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11325016",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185485,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699503,
+					1.437214
+				]
+			},
+			"properties": {
+				"OBJECTID": 185485,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11338365",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185488,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700001,
+					1.437882
+				]
+			},
+			"properties": {
+				"OBJECTID": 185488,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11332850",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380853,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699361,
+					1.437032
+				]
+			},
+			"properties": {
+				"OBJECTID": 380853,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11181818",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380873,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699971,
+					1.437842
+				]
+			},
+			"properties": {
+				"OBJECTID": 380873,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11318739",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380879,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701694,
+					1.43942
+				]
+			},
+			"properties": {
+				"OBJECTID": 380879,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234486",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 541211,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699539,
+					1.437265
+				]
+			},
+			"properties": {
+				"OBJECTID": 541211,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11340436",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470877,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700455,
+					1.43824
+				]
+			},
+			"properties": {
+				"OBJECTID": 470877,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11325070",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470869,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700321,
+					1.438069
+				]
+			},
+			"properties": {
+				"OBJECTID": 470869,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11336039",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380865,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700886,
+					1.438836
+				]
+			},
+			"properties": {
+				"OBJECTID": 380865,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11138690",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185482,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69933,
+					1.436993
+				]
+			},
+			"properties": {
+				"OBJECTID": 185482,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11332848",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470883,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700881,
+					1.438832
+				]
+			},
+			"properties": {
+				"OBJECTID": 470883,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11326474",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185491,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700323,
+					1.43831
+				]
+			},
+			"properties": {
+				"OBJECTID": 185491,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11338668",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 541219,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700488,
+					1.4385
+				]
+			},
+			"properties": {
+				"OBJECTID": 541219,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11325670",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380856,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699527,
+					1.437242
+				]
+			},
+			"properties": {
+				"OBJECTID": 380856,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11097277",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380850,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69918,
+					1.43684
+				]
+			},
+			"properties": {
+				"OBJECTID": 380850,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11097276",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470880,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700537,
+					1.438341
+				]
+			},
+			"properties": {
+				"OBJECTID": 470880,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11325071",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380876,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701464,
+					1.439243
+				]
+			},
+			"properties": {
+				"OBJECTID": 380876,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11138706",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470866,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699865,
+					1.437455
+				]
+			},
+			"properties": {
+				"OBJECTID": 470866,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11339590",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185500,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701624,
+					1.439366
+				]
+			},
+			"properties": {
+				"OBJECTID": 185500,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11323554",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185477,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699149,
+					1.436864
+				]
+			},
+			"properties": {
+				"OBJECTID": 185477,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11338726",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470884,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701113,
+					1.439
+				]
+			},
+			"properties": {
+				"OBJECTID": 470884,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11323613",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185483,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699387,
+					1.437067
+				]
+			},
+			"properties": {
+				"OBJECTID": 185483,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11332849",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380877,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700366,
+					1.438369
+				]
+			},
+			"properties": {
+				"OBJECTID": 380877,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11318589",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470875,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700412,
+					1.438179
+				]
+			},
+			"properties": {
+				"OBJECTID": 470875,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11325025",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380851,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69925,
+					1.436892
+				]
+			},
+			"properties": {
+				"OBJECTID": 380851,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11181816",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380871,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699857,
+					1.437692
+				]
+			},
+			"properties": {
+				"OBJECTID": 380871,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234506",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380857,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69969,
+					1.437467
+				]
+			},
+			"properties": {
+				"OBJECTID": 380857,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234505",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185497,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701236,
+					1.439086
+				]
+			},
+			"properties": {
+				"OBJECTID": 185497,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11338367",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185503,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701879,
+					1.439564
+				]
+			},
+			"properties": {
+				"OBJECTID": 185503,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11326614",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185480,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699186,
+					1.436837
+				]
+			},
+			"properties": {
+				"OBJECTID": 185480,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11340972",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470881,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700568,
+					1.438379
+				]
+			},
+			"properties": {
+				"OBJECTID": 470881,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11326473",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380848,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699155,
+					1.436859
+				]
+			},
+			"properties": {
+				"OBJECTID": 380848,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234640",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 541217,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700429,
+					1.438441
+				]
+			},
+			"properties": {
+				"OBJECTID": 541217,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11328892",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185486,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699888,
+					1.437731
+				]
+			},
+			"properties": {
+				"OBJECTID": 185486,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11328084",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185489,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700058,
+					1.437957
+				]
+			},
+			"properties": {
+				"OBJECTID": 185489,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11341021",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380888,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700117,
+					1.437793
+				]
+			},
+			"properties": {
+				"OBJECTID": 380888,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11318740",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380854,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699416,
+					1.437102
+				]
+			},
+			"properties": {
+				"OBJECTID": 380854,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11096845",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 541214,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699645,
+					1.437405
+				]
+			},
+			"properties": {
+				"OBJECTID": 541214,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11324609",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380874,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700029,
+					1.437916
+				]
+			},
+			"properties": {
+				"OBJECTID": 380874,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11318588",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380880,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701825,
+					1.439523
+				]
+			},
+			"properties": {
+				"OBJECTID": 380880,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11138707",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470801,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699971,
+					1.437598
+				]
+			},
+			"properties": {
+				"OBJECTID": 470801,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11325017",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470878,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700483,
+					1.438276
+				]
+			},
+			"properties": {
+				"OBJECTID": 470878,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11336041",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470872,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700639,
+					1.438448
+				]
+			},
+			"properties": {
+				"OBJECTID": 470872,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11326430",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380868,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701178,
+					1.439049
+				]
+			},
+			"properties": {
+				"OBJECTID": 380868,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234484",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380889,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700061,
+					1.437716
+				]
+			},
+			"properties": {
+				"OBJECTID": 380889,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11318591",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380866,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700948,
+					1.438885
+				]
+			},
+			"properties": {
+				"OBJECTID": 380866,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11318586",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185498,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701331,
+					1.43915
+				]
+			},
+			"properties": {
+				"OBJECTID": 185498,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11335941",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185504,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700144,
+					1.437827
+				]
+			},
+			"properties": {
+				"OBJECTID": 185504,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11326424",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185481,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699272,
+					1.43692
+				]
+			},
+			"properties": {
+				"OBJECTID": 185481,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11323552",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 541218,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700458,
+					1.43847
+				]
+			},
+			"properties": {
+				"OBJECTID": 541218,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11328893",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185492,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700762,
+					1.438748
+				]
+			},
+			"properties": {
+				"OBJECTID": 185492,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11326423",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380855,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699471,
+					1.437172
+				]
+			},
+			"properties": {
+				"OBJECTID": 380855,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11318759",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470879,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700508,
+					1.438307
+				]
+			},
+			"properties": {
+				"OBJECTID": 470879,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11339628",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470873,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700382,
+					1.438142
+				]
+			},
+			"properties": {
+				"OBJECTID": 470873,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11326431",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380849,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699168,
+					1.43685
+				]
+			},
+			"properties": {
+				"OBJECTID": 380849,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234641",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380875,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700086,
+					1.437991
+				]
+			},
+			"properties": {
+				"OBJECTID": 380875,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11138705",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380869,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701264,
+					1.439107
+				]
+			},
+			"properties": {
+				"OBJECTID": 380869,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234485",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470867,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.70029,
+					1.438032
+				]
+			},
+			"properties": {
+				"OBJECTID": 470867,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11323611",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380863,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700346,
+					1.438341
+				]
+			},
+			"properties": {
+				"OBJECTID": 380863,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11318375",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185478,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699161,
+					1.436855
+				]
+			},
+			"properties": {
+				"OBJECTID": 185478,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11340970",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185501,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701731,
+					1.439446
+				]
+			},
+			"properties": {
+				"OBJECTID": 185501,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11326613",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185484,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699445,
+					1.43714
+				]
+			},
+			"properties": {
+				"OBJECTID": 185484,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11328083",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380846,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.69913,
+					1.436878
+				]
+			},
+			"properties": {
+				"OBJECTID": 380846,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11318758",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185495,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.701017,
+					1.438931
+				]
+			},
+			"properties": {
+				"OBJECTID": 185495,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11335940",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470876,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.7007,
+					1.438522
+				]
+			},
+			"properties": {
+				"OBJECTID": 470876,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11325069",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 541212,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699552,
+					1.437282
+				]
+			},
+			"properties": {
+				"OBJECTID": 541212,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11339105",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380852,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699306,
+					1.436962
+				]
+			},
+			"properties": {
+				"OBJECTID": 380852,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11181817",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 470870,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.700608,
+					1.438411
+				]
+			},
+			"properties": {
+				"OBJECTID": 470870,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11336040",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 380872,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.699914,
+					1.437767
+				]
+			},
+			"properties": {
+				"OBJECTID": 380872,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "2",
+				"SPCS_CD": "29607",
+				"COMMON_NM": "Petai Belalang",
+				"SPSC_NM": "Dendrolobium umbellatum",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Dendrolobium umbellatum,Petai Belalang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11234507",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

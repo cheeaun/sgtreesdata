@@ -1,0 +1,73 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 699828,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.797765,
+					1.382427
+				]
+			},
+			"properties": {
+				"OBJECTID": 699828,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "dillenia indica",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "dillenia indica",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13031672",
+				"EYTreeId": "{1384EB58-2546-45AB-8B71-35A9FACCF3E1}",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698935,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.804975,
+					1.377497
+				]
+			},
+			"properties": {
+				"OBJECTID": 698935,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Bau Langit",
+				"SPSC_NM": "Lophetadium Wightanum",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Lophetadium Wightanum, Bau Langit",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "What a great experience helping to keep Singapore a city in nature.",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13002411",
+				"EYTreeId": "{7C424718-FB13-477E-A393-CC850923D46A}",
+				"Name": "Jeffrey J",
+				"Email": "Jjaensubhakij@gmail.com",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

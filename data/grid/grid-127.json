@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 698739,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.68256,
+					1.398343
+				]
+			},
+			"properties": {
+				"OBJECTID": 698739,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Angsana",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Pterocarpus indicus, Angsana",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "I like planting trees",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "11448562",
+				"EYTreeId": "{407B67B4-CFFF-4019-8FB4-4E4A963F502F}",
+				"Name": "Celina",
+				"Email": "celinatuyang@gmail.com",
+				"UserKeywords": null
+			}
+		}
+	]
+}

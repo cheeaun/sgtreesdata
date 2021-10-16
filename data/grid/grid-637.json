@@ -1,0 +1,7995 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 233333,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027475,
+					1.360307
+				]
+			},
+			"properties": {
+				"OBJECTID": 233333,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954635",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233310,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027872,
+					1.360127
+				]
+			},
+			"properties": {
+				"OBJECTID": 233310,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954612",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233287,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028469,
+					1.359831
+				]
+			},
+			"properties": {
+				"OBJECTID": 233287,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954589",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319985,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026793,
+					1.360199
+				]
+			},
+			"properties": {
+				"OBJECTID": 319985,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518781",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319968,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026641,
+					1.360263
+				]
+			},
+			"properties": {
+				"OBJECTID": 319968,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518764",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333954,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027165,
+					1.360057
+				]
+			},
+			"properties": {
+				"OBJECTID": 333954,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518794",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162636,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025982,
+					1.360782
+				]
+			},
+			"properties": {
+				"OBJECTID": 162636,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12974521",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333931,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027632,
+					1.359874
+				]
+			},
+			"properties": {
+				"OBJECTID": 333931,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518870",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233339,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027349,
+					1.360346
+				]
+			},
+			"properties": {
+				"OBJECTID": 233339,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954641",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233302,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028086,
+					1.36001
+				]
+			},
+			"properties": {
+				"OBJECTID": 233302,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954604",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233385,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027003,
+					1.360488
+				]
+			},
+			"properties": {
+				"OBJECTID": 233385,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954687",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319945,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02701,
+					1.360115
+				]
+			},
+			"properties": {
+				"OBJECTID": 319945,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12519182",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233350,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027191,
+					1.360407
+				]
+			},
+			"properties": {
+				"OBJECTID": 233350,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954652",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233293,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02831,
+					1.35991
+				]
+			},
+			"properties": {
+				"OBJECTID": 233293,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954595",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319951,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02686,
+					1.360169
+				]
+			},
+			"properties": {
+				"OBJECTID": 319951,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12519188",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319954,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026779,
+					1.360205
+				]
+			},
+			"properties": {
+				"OBJECTID": 319954,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518750",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698659,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.020894,
+					1.361402
+				]
+			},
+			"properties": {
+				"OBJECTID": 698659,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "15",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Purple Simpoh",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Purple Simpoh",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "15 years of happiness",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13045148",
+				"EYTreeId": "{A1471540-DB12-4E5C-A12A-3937C16587B8}",
+				"Name": "sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Sep15,#Chrm"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233299,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028163,
+					1.359974
+				]
+			},
+			"properties": {
+				"OBJECTID": 233299,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954601",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 306054,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.024752,
+					1.361473
+				]
+			},
+			"properties": {
+				"OBJECTID": 306054,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "11163160",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700010,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.023232,
+					1.361148
+				]
+			},
+			"properties": {
+				"OBJECTID": 700010,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">9m but ≤12m",
+				"AGE": "5",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Burmese Rosewood",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Burmese Rosewood",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "5 best years of my life",
+				"Hert_age": "",
+				"Girth": "0.6m – 1.0m",
+				"Public_treeid": "13048968",
+				"EYTreeId": "{153674AB-0804-4F37-B29B-8739583FBC82}",
+				"Name": "Sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Oct5,#andrd"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698585,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02747,
+					1.363608
+				]
+			},
+			"properties": {
+				"OBJECTID": 698585,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Padouk",
+				"SPSC_NM": "Kopsia singapurensis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Kopsia singapurensis, Padouk",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13043026",
+				"EYTreeId": "{F33E3ED7-88E9-462E-BEEA-58D622EA5818}",
+				"Name": "Kundan",
+				"Email": "kundandalmia@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649969,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.024874,
+					1.361258
+				]
+			},
+			"properties": {
+				"OBJECTID": 649969,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1710",
+				"COMMON_NM": "Golden Chain Tree",
+				"SPSC_NM": "Lophanthera lactescens",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Lophanthera lactescens,Golden Chain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10107383",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699847,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.021666,
+					1.362448
+				]
+			},
+			"properties": {
+				"OBJECTID": 699847,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "16",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Aug4 - 16 years",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13031692",
+				"EYTreeId": "{0149E523-904D-4CCB-8378-F1B6B9A53D95}",
+				"Name": "Sheryl",
+				"Email": "Sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Aug4"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333937,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027596,
+					1.359893
+				]
+			},
+			"properties": {
+				"OBJECTID": 333937,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518876",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233313,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027824,
+					1.360146
+				]
+			},
+			"properties": {
+				"OBJECTID": 233313,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954615",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233362,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02792,
+					1.360096
+				]
+			},
+			"properties": {
+				"OBJECTID": 233362,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954664",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319971,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02656,
+					1.360303
+				]
+			},
+			"properties": {
+				"OBJECTID": 319971,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518767",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333951,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02728,
+					1.360034
+				]
+			},
+			"properties": {
+				"OBJECTID": 333951,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518791",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233319,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027729,
+					1.360183
+				]
+			},
+			"properties": {
+				"OBJECTID": 233319,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954621",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319977,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02647,
+					1.360343
+				]
+			},
+			"properties": {
+				"OBJECTID": 319977,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518773",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162639,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026011,
+					1.36077
+				]
+			},
+			"properties": {
+				"OBJECTID": 162639,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974524",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233330,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027525,
+					1.360286
+				]
+			},
+			"properties": {
+				"OBJECTID": 233330,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954632",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233336,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027425,
+					1.360328
+				]
+			},
+			"properties": {
+				"OBJECTID": 233336,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954638",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233353,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027148,
+					1.360424
+				]
+			},
+			"properties": {
+				"OBJECTID": 233353,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954655",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233359,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027966,
+					1.360072
+				]
+			},
+			"properties": {
+				"OBJECTID": 233359,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954661",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233382,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027064,
+					1.360463
+				]
+			},
+			"properties": {
+				"OBJECTID": 233382,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954684",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333934,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027563,
+					1.359907
+				]
+			},
+			"properties": {
+				"OBJECTID": 333934,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518873",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319965,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026705,
+					1.360238
+				]
+			},
+			"properties": {
+				"OBJECTID": 319965,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518761",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333957,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027109,
+					1.36007
+				]
+			},
+			"properties": {
+				"OBJECTID": 333957,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518797",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233290,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028383,
+					1.359878
+				]
+			},
+			"properties": {
+				"OBJECTID": 233290,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954592",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319948,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026949,
+					1.360129
+				]
+			},
+			"properties": {
+				"OBJECTID": 319948,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12519185",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319957,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026744,
+					1.360221
+				]
+			},
+			"properties": {
+				"OBJECTID": 319957,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518753",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333928,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027696,
+					1.359845
+				]
+			},
+			"properties": {
+				"OBJECTID": 333928,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518867",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233342,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027306,
+					1.360363
+				]
+			},
+			"properties": {
+				"OBJECTID": 233342,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954644",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233296,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028236,
+					1.359942
+				]
+			},
+			"properties": {
+				"OBJECTID": 233296,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954598",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649972,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025429,
+					1.361163
+				]
+			},
+			"properties": {
+				"OBJECTID": 649972,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10107665",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233322,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027681,
+					1.360202
+				]
+			},
+			"properties": {
+				"OBJECTID": 233322,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954624",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698682,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.022353,
+					1.361451
+				]
+			},
+			"properties": {
+				"OBJECTID": 698682,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "21",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Angsana",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Angsana",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "21 best years of my life",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13045848",
+				"EYTreeId": "{D8A10134-BBE1-4213-AC99-BCAD384DCDD5}",
+				"Name": "Sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Sep21,#andrd"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698639,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.0214,
+					1.362196
+				]
+			},
+			"properties": {
+				"OBJECTID": 698639,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "10",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Buah Pala",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Buah Pala",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "10 best years of my life",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13044388",
+				"EYTreeId": "{0E0A512B-9FA8-4FCD-B8FD-DD3C7AF70313}",
+				"Name": "Sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Sep10,#andrd"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233316,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027776,
+					1.360165
+				]
+			},
+			"properties": {
+				"OBJECTID": 233316,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954618",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233373,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02662,
+					1.360643
+				]
+			},
+			"properties": {
+				"OBJECTID": 233373,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954675",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333940,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027512,
+					1.359925
+				]
+			},
+			"properties": {
+				"OBJECTID": 333940,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518879",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649992,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02541,
+					1.360863
+				]
+			},
+			"properties": {
+				"OBJECTID": 649992,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10107278",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649980,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025209,
+					1.36095
+				]
+			},
+			"properties": {
+				"OBJECTID": 649980,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10107331",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233365,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026782,
+					1.360581
+				]
+			},
+			"properties": {
+				"OBJECTID": 233365,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954667",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700007,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.021966,
+					1.361028
+				]
+			},
+			"properties": {
+				"OBJECTID": 700007,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">12m but ≤15m",
+				"AGE": "28",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Rainbow Eucalyptus",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Rainbow Eucalyptus",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "28 best years of my life",
+				"Hert_age": "",
+				"Girth": "0.6m – 1.0m",
+				"Public_treeid": "13047677",
+				"EYTreeId": "{0B1E4225-EA83-45E0-9736-C89FB497571E}",
+				"Name": "Sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Sep28,#andrd"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319974,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026513,
+					1.360323
+				]
+			},
+			"properties": {
+				"OBJECTID": 319974,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518770",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333948,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027322,
+					1.360007
+				]
+			},
+			"properties": {
+				"OBJECTID": 333948,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518788",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233285,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028527,
+					1.359805
+				]
+			},
+			"properties": {
+				"OBJECTID": 233285,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954587",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319943,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027045,
+					1.360103
+				]
+			},
+			"properties": {
+				"OBJECTID": 319943,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518801",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333929,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027669,
+					1.359855
+				]
+			},
+			"properties": {
+				"OBJECTID": 333929,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518868",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333935,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027575,
+					1.359903
+				]
+			},
+			"properties": {
+				"OBJECTID": 333935,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518874",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700068,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.021802,
+					1.362436
+				]
+			},
+			"properties": {
+				"OBJECTID": 700068,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "13",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "happy 13 years",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13028067",
+				"EYTreeId": "{9CF59936-0CF4-4341-9ADC-7DB455E8163D}",
+				"Name": "sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#trees13"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233308,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027996,
+					1.360057
+				]
+			},
+			"properties": {
+				"OBJECTID": 233308,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954610",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319966,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026686,
+					1.360247
+				]
+			},
+			"properties": {
+				"OBJECTID": 319966,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518762",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333958,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027091,
+					1.360078
+				]
+			},
+			"properties": {
+				"OBJECTID": 333958,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518798",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162634,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025771,
+					1.360879
+				]
+			},
+			"properties": {
+				"OBJECTID": 162634,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12974519",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233331,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027509,
+					1.360293
+				]
+			},
+			"properties": {
+				"OBJECTID": 233331,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954633",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233291,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028358,
+					1.359889
+				]
+			},
+			"properties": {
+				"OBJECTID": 233291,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954593",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319960,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027185,
+					1.360051
+				]
+			},
+			"properties": {
+				"OBJECTID": 319960,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518756",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233337,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027408,
+					1.360335
+				]
+			},
+			"properties": {
+				"OBJECTID": 233337,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954639",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233348,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02722,
+					1.360396
+				]
+			},
+			"properties": {
+				"OBJECTID": 233348,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954650",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319949,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026931,
+					1.36014
+				]
+			},
+			"properties": {
+				"OBJECTID": 319949,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12519186",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333923,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027851,
+					1.359798
+				]
+			},
+			"properties": {
+				"OBJECTID": 333923,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518862",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233391,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02688,
+					1.360538
+				]
+			},
+			"properties": {
+				"OBJECTID": 233391,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954693",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233297,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028212,
+					1.359952
+				]
+			},
+			"properties": {
+				"OBJECTID": 233297,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954599",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698657,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.022823,
+					1.361978
+				]
+			},
+			"properties": {
+				"OBJECTID": 698657,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "13",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Angsana",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Angsana",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "13 best years of my life",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13044537",
+				"EYTreeId": "{1BF3978A-EB1A-4D2C-A953-15FBCE23F63B}",
+				"Name": "Sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Sep13,#andrd"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649975,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.024944,
+					1.361375
+				]
+			},
+			"properties": {
+				"OBJECTID": 649975,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10107567",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319969,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026618,
+					1.360276
+				]
+			},
+			"properties": {
+				"OBJECTID": 319969,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518765",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333949,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027305,
+					1.360021
+				]
+			},
+			"properties": {
+				"OBJECTID": 333949,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518789",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233325,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027609,
+					1.360252
+				]
+			},
+			"properties": {
+				"OBJECTID": 233325,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954627",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233374,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.0266,
+					1.360651
+				]
+			},
+			"properties": {
+				"OBJECTID": 233374,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954676",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319983,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026331,
+					1.360405
+				]
+			},
+			"properties": {
+				"OBJECTID": 319983,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518779",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649981,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025103,
+					1.361006
+				]
+			},
+			"properties": {
+				"OBJECTID": 649981,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10107368",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233317,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027761,
+					1.360171
+				]
+			},
+			"properties": {
+				"OBJECTID": 233317,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954619",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333943,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027426,
+					1.359966
+				]
+			},
+			"properties": {
+				"OBJECTID": 333943,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518783",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233368,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026721,
+					1.360604
+				]
+			},
+			"properties": {
+				"OBJECTID": 233368,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954670",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233334,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027458,
+					1.360314
+				]
+			},
+			"properties": {
+				"OBJECTID": 233334,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954636",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233311,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027856,
+					1.360133
+				]
+			},
+			"properties": {
+				"OBJECTID": 233311,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954613",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162637,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025854,
+					1.360841
+				]
+			},
+			"properties": {
+				"OBJECTID": 162637,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974522",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233288,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028432,
+					1.359857
+				]
+			},
+			"properties": {
+				"OBJECTID": 233288,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954590",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233305,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028041,
+					1.360033
+				]
+			},
+			"properties": {
+				"OBJECTID": 233305,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954607",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319963,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026894,
+					1.360154
+				]
+			},
+			"properties": {
+				"OBJECTID": 319963,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518759",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333955,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027142,
+					1.360061
+				]
+			},
+			"properties": {
+				"OBJECTID": 333955,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518795",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233380,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027134,
+					1.360429
+				]
+			},
+			"properties": {
+				"OBJECTID": 233380,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954682",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333932,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027541,
+					1.359916
+				]
+			},
+			"properties": {
+				"OBJECTID": 333932,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518871",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233351,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027177,
+					1.360413
+				]
+			},
+			"properties": {
+				"OBJECTID": 233351,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954653",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233388,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026941,
+					1.360513
+				]
+			},
+			"properties": {
+				"OBJECTID": 233388,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954690",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319946,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02699,
+					1.360124
+				]
+			},
+			"properties": {
+				"OBJECTID": 319946,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12519183",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333926,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027743,
+					1.359827
+				]
+			},
+			"properties": {
+				"OBJECTID": 333926,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518865",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233294,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028285,
+					1.35992
+				]
+			},
+			"properties": {
+				"OBJECTID": 233294,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954596",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319952,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026842,
+					1.360176
+				]
+			},
+			"properties": {
+				"OBJECTID": 319952,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12519189",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233345,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027263,
+					1.360379
+				]
+			},
+			"properties": {
+				"OBJECTID": 233345,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954647",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698660,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.023281,
+					1.361518
+				]
+			},
+			"properties": {
+				"OBJECTID": 698660,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "15",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Nutmeg",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Nutmeg",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "15 best years of my life",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13045149",
+				"EYTreeId": "{89D3EF80-7E4E-4DA3-9876-19C6E33D08E4}",
+				"Name": "Sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Sep15"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162631,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025758,
+					1.36103
+				]
+			},
+			"properties": {
+				"OBJECTID": 162631,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1845",
+				"COMMON_NM": "Kelumpang",
+				"SPSC_NM": "Sterculia macrophylla",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia macrophylla,Kelumpang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974516",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649978,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025466,
+					1.360837
+				]
+			},
+			"properties": {
+				"OBJECTID": 649978,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10107248",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233328,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027559,
+					1.360272
+				]
+			},
+			"properties": {
+				"OBJECTID": 233328,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954630",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233314,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027808,
+					1.360152
+				]
+			},
+			"properties": {
+				"OBJECTID": 233314,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954616",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319972,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026545,
+					1.360311
+				]
+			},
+			"properties": {
+				"OBJECTID": 319972,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518768",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333952,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027267,
+					1.360035
+				]
+			},
+			"properties": {
+				"OBJECTID": 333952,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518792",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233371,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026661,
+					1.360627
+				]
+			},
+			"properties": {
+				"OBJECTID": 233371,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954673",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319980,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026441,
+					1.360356
+				]
+			},
+			"properties": {
+				"OBJECTID": 319980,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518776",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333946,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027363,
+					1.359994
+				]
+			},
+			"properties": {
+				"OBJECTID": 333946,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518786",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 306057,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025363,
+					1.361184
+				]
+			},
+			"properties": {
+				"OBJECTID": 306057,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11066427",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233312,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02784,
+					1.360139
+				]
+			},
+			"properties": {
+				"OBJECTID": 233312,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954614",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162638,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025929,
+					1.360811
+				]
+			},
+			"properties": {
+				"OBJECTID": 162638,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974523",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233360,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02795,
+					1.36008
+				]
+			},
+			"properties": {
+				"OBJECTID": 233360,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954662",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233383,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027044,
+					1.360471
+				]
+			},
+			"properties": {
+				"OBJECTID": 233383,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954685",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233329,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027542,
+					1.360279
+				]
+			},
+			"properties": {
+				"OBJECTID": 233329,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954631",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233306,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028026,
+					1.360041
+				]
+			},
+			"properties": {
+				"OBJECTID": 233306,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954608",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319964,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026873,
+					1.360163
+				]
+			},
+			"properties": {
+				"OBJECTID": 319964,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518760",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319947,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026969,
+					1.360123
+				]
+			},
+			"properties": {
+				"OBJECTID": 319947,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12519184",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333927,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027718,
+					1.359835
+				]
+			},
+			"properties": {
+				"OBJECTID": 333927,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518866",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698606,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.022381,
+					1.362428
+				]
+			},
+			"properties": {
+				"OBJECTID": 698606,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "3",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Burmese Rosewood",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Burmese Rosewood",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "3 best years of my life",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13043307",
+				"EYTreeId": "{4FE8403A-2433-4876-AA19-16A552120DC5}",
+				"Name": "Sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Sep3,#andrd"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233352,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027162,
+					1.360418
+				]
+			},
+			"properties": {
+				"OBJECTID": 233352,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954654",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319958,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026731,
+					1.360227
+				]
+			},
+			"properties": {
+				"OBJECTID": 319958,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518754",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233289,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028407,
+					1.359867
+				]
+			},
+			"properties": {
+				"OBJECTID": 233289,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954591",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233389,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026921,
+					1.360521
+				]
+			},
+			"properties": {
+				"OBJECTID": 233389,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954691",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233343,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027292,
+					1.360368
+				]
+			},
+			"properties": {
+				"OBJECTID": 233343,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954645",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233346,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027249,
+					1.360385
+				]
+			},
+			"properties": {
+				"OBJECTID": 233346,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954648",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233323,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027665,
+					1.360208
+				]
+			},
+			"properties": {
+				"OBJECTID": 233323,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954625",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649993,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025263,
+					1.360927
+				]
+			},
+			"properties": {
+				"OBJECTID": 649993,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10107314",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162632,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025634,
+					1.361081
+				]
+			},
+			"properties": {
+				"OBJECTID": 162632,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974517",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649973,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.024787,
+					1.361458
+				]
+			},
+			"properties": {
+				"OBJECTID": 649973,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10107653",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319981,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026425,
+					1.360364
+				]
+			},
+			"properties": {
+				"OBJECTID": 319981,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518777",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698632,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.022782,
+					1.361753
+				]
+			},
+			"properties": {
+				"OBJECTID": 698632,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "9",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Buah Pala",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Buah Pala",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "9 best years of my life",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13044269",
+				"EYTreeId": "{B239C830-1C36-45D8-AAF8-E776D06EEC66}",
+				"Name": "Sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Sep9,#andrd"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649979,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025359,
+					1.360889
+				]
+			},
+			"properties": {
+				"OBJECTID": 649979,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10107291",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233366,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026761,
+					1.360588
+				]
+			},
+			"properties": {
+				"OBJECTID": 233366,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954668",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233372,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026641,
+					1.360635
+				]
+			},
+			"properties": {
+				"OBJECTID": 233372,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954674",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333941,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027495,
+					1.359934
+				]
+			},
+			"properties": {
+				"OBJECTID": 333941,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518880",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333947,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02734,
+					1.360006
+				]
+			},
+			"properties": {
+				"OBJECTID": 333947,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518787",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319975,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026496,
+					1.360331
+				]
+			},
+			"properties": {
+				"OBJECTID": 319975,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518771",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233286,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028498,
+					1.359818
+				]
+			},
+			"properties": {
+				"OBJECTID": 233286,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954588",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233309,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027888,
+					1.360121
+				]
+			},
+			"properties": {
+				"OBJECTID": 233309,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954611",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319944,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027023,
+					1.360117
+				]
+			},
+			"properties": {
+				"OBJECTID": 319944,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12519181",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333930,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027646,
+					1.359867
+				]
+			},
+			"properties": {
+				"OBJECTID": 333930,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518869",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319961,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027222,
+					1.360035
+				]
+			},
+			"properties": {
+				"OBJECTID": 319961,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518757",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319967,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026661,
+					1.360253
+				]
+			},
+			"properties": {
+				"OBJECTID": 319967,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518763",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333953,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027205,
+					1.360043
+				]
+			},
+			"properties": {
+				"OBJECTID": 333953,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518793",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162635,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025889,
+					1.360823
+				]
+			},
+			"properties": {
+				"OBJECTID": 162635,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12974520",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233332,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027492,
+					1.3603
+				]
+			},
+			"properties": {
+				"OBJECTID": 233332,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954634",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233292,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028334,
+					1.359899
+				]
+			},
+			"properties": {
+				"OBJECTID": 233292,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954594",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233303,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028071,
+					1.360018
+				]
+			},
+			"properties": {
+				"OBJECTID": 233303,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954605",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233340,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027335,
+					1.360352
+				]
+			},
+			"properties": {
+				"OBJECTID": 233340,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954642",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233349,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027206,
+					1.360402
+				]
+			},
+			"properties": {
+				"OBJECTID": 233349,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954651",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233386,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026982,
+					1.360496
+				]
+			},
+			"properties": {
+				"OBJECTID": 233386,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954688",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333924,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027826,
+					1.359808
+				]
+			},
+			"properties": {
+				"OBJECTID": 333924,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518863",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319955,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026756,
+					1.360215
+				]
+			},
+			"properties": {
+				"OBJECTID": 319955,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518751",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233392,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02686,
+					1.360546
+				]
+			},
+			"properties": {
+				"OBJECTID": 233392,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954694",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233369,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026701,
+					1.360612
+				]
+			},
+			"properties": {
+				"OBJECTID": 233369,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954671",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 306055,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.024902,
+					1.361391
+				]
+			},
+			"properties": {
+				"OBJECTID": 306055,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "3",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11114984",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698658,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.023021,
+					1.362158
+				]
+			},
+			"properties": {
+				"OBJECTID": 698658,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "14",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Nutmeg",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Nutmeg",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "14 best years of my life",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13044806",
+				"EYTreeId": "{2413927F-6FA4-48F5-A3B4-EEAEC645BD9B}",
+				"Name": "Sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Sep14,#andrd"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233300,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028138,
+					1.359984
+				]
+			},
+			"properties": {
+				"OBJECTID": 233300,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954602",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700109,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.021815,
+					1.36186
+				]
+			},
+			"properties": {
+				"OBJECTID": 700109,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "17",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "17 years - 4 Aug",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13031189",
+				"EYTreeId": "{97C32579-4095-4AD3-A54B-1792A5FA7DCC}",
+				"Name": "sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#4Aug"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698586,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027621,
+					1.363474
+				]
+			},
+			"properties": {
+				"OBJECTID": 698586,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13043027",
+				"EYTreeId": "{A1F941F5-91A6-4912-B49E-988D8B4C0C2F}",
+				"Name": "Kundan",
+				"Email": "kundandalmia@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649976,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025731,
+					1.360715
+				]
+			},
+			"properties": {
+				"OBJECTID": 649976,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10107183",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162629,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02566,
+					1.360924
+				]
+			},
+			"properties": {
+				"OBJECTID": 162629,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1813",
+				"COMMON_NM": "Pukul Lima",
+				"SPSC_NM": "Samanea saman",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Samanea saman,Pukul Lima",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12974514",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649970,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025066,
+					1.361174
+				]
+			},
+			"properties": {
+				"OBJECTID": 649970,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1710",
+				"COMMON_NM": "Golden Chain Tree",
+				"SPSC_NM": "Lophanthera lactescens",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Lophanthera lactescens,Golden Chain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10107347",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162630,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025581,
+					1.360957
+				]
+			},
+			"properties": {
+				"OBJECTID": 162630,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1795",
+				"COMMON_NM": "Menasi",
+				"SPSC_NM": "Planchonella obovata",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Planchonella obovata,Menasi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974515",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162633,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02583,
+					1.360997
+				]
+			},
+			"properties": {
+				"OBJECTID": 162633,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "0",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12974518",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233295,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028261,
+					1.359931
+				]
+			},
+			"properties": {
+				"OBJECTID": 233295,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954597",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233298,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028187,
+					1.359963
+				]
+			},
+			"properties": {
+				"OBJECTID": 233298,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1451",
+				"COMMON_NM": "Fish Poison Tree",
+				"SPSC_NM": "Barringtonia asiatica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Barringtonia asiatica,Fish Poison Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954600",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233301,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028101,
+					1.360002
+				]
+			},
+			"properties": {
+				"OBJECTID": 233301,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954603",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233304,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028056,
+					1.360025
+				]
+			},
+			"properties": {
+				"OBJECTID": 233304,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954606",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233307,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.028011,
+					1.360049
+				]
+			},
+			"properties": {
+				"OBJECTID": 233307,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954609",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233315,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027792,
+					1.360158
+				]
+			},
+			"properties": {
+				"OBJECTID": 233315,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954617",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233318,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027745,
+					1.360177
+				]
+			},
+			"properties": {
+				"OBJECTID": 233318,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954620",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233320,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027713,
+					1.36019
+				]
+			},
+			"properties": {
+				"OBJECTID": 233320,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954622",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233321,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027697,
+					1.360196
+				]
+			},
+			"properties": {
+				"OBJECTID": 233321,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954623",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233324,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027626,
+					1.360245
+				]
+			},
+			"properties": {
+				"OBJECTID": 233324,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954626",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233326,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027592,
+					1.360258
+				]
+			},
+			"properties": {
+				"OBJECTID": 233326,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954628",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233327,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027576,
+					1.360265
+				]
+			},
+			"properties": {
+				"OBJECTID": 233327,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954629",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233335,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027442,
+					1.360321
+				]
+			},
+			"properties": {
+				"OBJECTID": 233335,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954637",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233338,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027364,
+					1.360341
+				]
+			},
+			"properties": {
+				"OBJECTID": 233338,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954640",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233341,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027321,
+					1.360357
+				]
+			},
+			"properties": {
+				"OBJECTID": 233341,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954643",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233344,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027277,
+					1.360374
+				]
+			},
+			"properties": {
+				"OBJECTID": 233344,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954646",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233347,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027234,
+					1.360391
+				]
+			},
+			"properties": {
+				"OBJECTID": 233347,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954649",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233358,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027981,
+					1.360064
+				]
+			},
+			"properties": {
+				"OBJECTID": 233358,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954660",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233361,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027935,
+					1.360088
+				]
+			},
+			"properties": {
+				"OBJECTID": 233361,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954663",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233363,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026822,
+					1.360565
+				]
+			},
+			"properties": {
+				"OBJECTID": 233363,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954665",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233364,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026802,
+					1.360573
+				]
+			},
+			"properties": {
+				"OBJECTID": 233364,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954666",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233367,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026741,
+					1.360596
+				]
+			},
+			"properties": {
+				"OBJECTID": 233367,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954669",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233370,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026681,
+					1.36062
+				]
+			},
+			"properties": {
+				"OBJECTID": 233370,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954672",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233378,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027119,
+					1.360435
+				]
+			},
+			"properties": {
+				"OBJECTID": 233378,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954680",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233381,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027084,
+					1.360455
+				]
+			},
+			"properties": {
+				"OBJECTID": 233381,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954683",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233384,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027023,
+					1.36048
+				]
+			},
+			"properties": {
+				"OBJECTID": 233384,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954686",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233387,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026962,
+					1.360505
+				]
+			},
+			"properties": {
+				"OBJECTID": 233387,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954689",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233390,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026901,
+					1.36053
+				]
+			},
+			"properties": {
+				"OBJECTID": 233390,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12954692",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 306053,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.0247,
+					1.361493
+				]
+			},
+			"properties": {
+				"OBJECTID": 306053,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11114983",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 306056,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.024976,
+					1.36136
+				]
+			},
+			"properties": {
+				"OBJECTID": 306056,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "11133610",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319942,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027059,
+					1.360097
+				]
+			},
+			"properties": {
+				"OBJECTID": 319942,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518800",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319950,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026912,
+					1.360148
+				]
+			},
+			"properties": {
+				"OBJECTID": 319950,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12519187",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319953,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026825,
+					1.360186
+				]
+			},
+			"properties": {
+				"OBJECTID": 319953,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518749",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319956,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026809,
+					1.360192
+				]
+			},
+			"properties": {
+				"OBJECTID": 319956,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518752",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319959,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027472,
+					1.359947
+				]
+			},
+			"properties": {
+				"OBJECTID": 319959,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518755",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319962,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027002,
+					1.360128
+				]
+			},
+			"properties": {
+				"OBJECTID": 319962,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518758",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319970,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026593,
+					1.360288
+				]
+			},
+			"properties": {
+				"OBJECTID": 319970,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518766",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319973,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02653,
+					1.360318
+				]
+			},
+			"properties": {
+				"OBJECTID": 319973,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518769",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319976,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026483,
+					1.360338
+				]
+			},
+			"properties": {
+				"OBJECTID": 319976,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518772",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319978,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026575,
+					1.360297
+				]
+			},
+			"properties": {
+				"OBJECTID": 319978,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518774",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319979,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026455,
+					1.36035
+				]
+			},
+			"properties": {
+				"OBJECTID": 319979,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319982,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026399,
+					1.360375
+				]
+			},
+			"properties": {
+				"OBJECTID": 319982,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518778",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 319984,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.026294,
+					1.36042
+				]
+			},
+			"properties": {
+				"OBJECTID": 319984,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518780",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333925,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027755,
+					1.359826
+				]
+			},
+			"properties": {
+				"OBJECTID": 333925,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "29090",
+				"COMMON_NM": "Kelat Gelam",
+				"SPSC_NM": "Syzygium gratum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium gratum,Kelat Gelam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518864",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333933,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02755,
+					1.359912
+				]
+			},
+			"properties": {
+				"OBJECTID": 333933,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518872",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333936,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027585,
+					1.359899
+				]
+			},
+			"properties": {
+				"OBJECTID": 333936,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1944",
+				"COMMON_NM": "Sea Tristania",
+				"SPSC_NM": "Tristaniopsis obovata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Tristaniopsis obovata,Sea Tristania",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518875",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333938,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027606,
+					1.359891
+				]
+			},
+			"properties": {
+				"OBJECTID": 333938,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518877",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333939,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027619,
+					1.359883
+				]
+			},
+			"properties": {
+				"OBJECTID": 333939,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1969",
+				"COMMON_NM": "Tejur",
+				"SPSC_NM": "Neolitsea cassia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Neolitsea cassia,Tejur",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518878",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333942,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027448,
+					1.359955
+				]
+			},
+			"properties": {
+				"OBJECTID": 333942,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518782",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333944,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027406,
+					1.359974
+				]
+			},
+			"properties": {
+				"OBJECTID": 333944,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1515",
+				"COMMON_NM": "提琴木",
+				"SPSC_NM": "Citharexylum spinosum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Citharexylum spinosum,提琴木",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518784",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333945,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027383,
+					1.359983
+				]
+			},
+			"properties": {
+				"OBJECTID": 333945,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518785",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333950,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027292,
+					1.360029
+				]
+			},
+			"properties": {
+				"OBJECTID": 333950,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518790",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333956,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027125,
+					1.360063
+				]
+			},
+			"properties": {
+				"OBJECTID": 333956,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1661",
+				"COMMON_NM": "Beach Hibiscus",
+				"SPSC_NM": "Hibiscus tiliaceus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Hibiscus tiliaceus,Beach Hibiscus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518796",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 333959,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027074,
+					1.360088
+				]
+			},
+			"properties": {
+				"OBJECTID": 333959,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "1",
+				"SPCS_CD": "1524",
+				"COMMON_NM": "Jamaican Kino",
+				"SPSC_NM": "Coccoloba uvifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Coccoloba uvifera,Jamaican Kino",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12518799",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649971,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025272,
+					1.361083
+				]
+			},
+			"properties": {
+				"OBJECTID": 649971,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1710",
+				"COMMON_NM": "Golden Chain Tree",
+				"SPSC_NM": "Lophanthera lactescens",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Lophanthera lactescens,Golden Chain Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10107304",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649974,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025068,
+					1.361326
+				]
+			},
+			"properties": {
+				"OBJECTID": 649974,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10107608",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649977,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025609,
+					1.360776
+				]
+			},
+			"properties": {
+				"OBJECTID": 649977,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "12",
+				"SPCS_CD": "1846",
+				"COMMON_NM": "China Chestnut",
+				"SPSC_NM": "Sterculia monosperma",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Sterculia monosperma,China Chestnut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10107212",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649990,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02568,
+					1.360743
+				]
+			},
+			"properties": {
+				"OBJECTID": 649990,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10107200",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649991,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.025537,
+					1.360806
+				]
+			},
+			"properties": {
+				"OBJECTID": 649991,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10107230",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 649994,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.02516,
+					1.360978
+				]
+			},
+			"properties": {
+				"OBJECTID": 649994,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "12",
+				"SPCS_CD": "1907",
+				"COMMON_NM": "Golden Myrtle",
+				"SPSC_NM": "Xanthostemon chrysanthus",
+				"PRUNING": "Q3 2022",
+				"SPCS_COMMON_NM": "Xanthostemon chrysanthus,Golden Myrtle",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10107349",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698587,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.027771,
+					1.36334
+				]
+			},
+			"properties": {
+				"OBJECTID": 698587,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Kopsia singapurensis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Kopsia singapurensis",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "-1",
+				"Public_treeid": "13043028",
+				"EYTreeId": "{6F30A543-4FF5-4278-AAE6-853144BC23BA}",
+				"Name": "Kundan",
+				"Email": "kundandalmia@gmail.com",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698630,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.022274,
+					1.361844
+				]
+			},
+			"properties": {
+				"OBJECTID": 698630,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "8",
+				"SPCS_CD": "0",
+				"COMMON_NM": "Yellow Saraca",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Yellow Saraca",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "8 best years of my life",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13043835",
+				"EYTreeId": "{B1E6157C-FDD7-4EE2-8EFE-F7FA5192F890}",
+				"Name": "Sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Sep8,#andrd"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699878,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.021799,
+					1.362691
+				]
+			},
+			"properties": {
+				"OBJECTID": 699878,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15m",
+				"AGE": "15",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "4 Aug",
+				"Hert_age": "",
+				"Girth": "1.1-1.5m",
+				"Public_treeid": "13031727",
+				"EYTreeId": "{81EBBB20-6B67-4C89-B6F7-BECE73054F37}",
+				"Name": "sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#4Aug"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 699918,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.020845,
+					1.361935
+				]
+			},
+			"properties": {
+				"OBJECTID": 699918,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "19",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "19 years",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13033899",
+				"EYTreeId": "{7D86D5FF-90A0-487B-9332-7C6A2FA7FAE0}",
+				"Name": "sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#Aug19"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 700087,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.022119,
+					1.362312
+				]
+			},
+			"properties": {
+				"OBJECTID": 700087,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "14",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": null,
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "14 happy years",
+				"Hert_age": "",
+				"Girth": "0.6 – 1.0m",
+				"Public_treeid": "13028579",
+				"EYTreeId": "{048B6654-7AA4-4304-BDCD-EDD8EFB5DE4F}",
+				"Name": "sheryl",
+				"Email": "sheryl.ng@sg.ey.com",
+				"UserKeywords": "#tree14"
+			}
+		}
+	]
+}

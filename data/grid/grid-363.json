@@ -1,0 +1,413 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 438299,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856166,
+					1.271406
+				]
+			},
+			"properties": {
+				"OBJECTID": 438299,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1557",
+				"COMMON_NM": null,
+				"SPSC_NM": "Diospyros buxifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Diospyros buxifolia,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12438372",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 364545,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856033,
+					1.2715
+				]
+			},
+			"properties": {
+				"OBJECTID": 364545,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12445935",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 438296,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856115,
+					1.271478
+				]
+			},
+			"properties": {
+				"OBJECTID": 438296,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12438377",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 438300,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856225,
+					1.271412
+				]
+			},
+			"properties": {
+				"OBJECTID": 438300,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12438373",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 438291,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855887,
+					1.271586
+				]
+			},
+			"properties": {
+				"OBJECTID": 438291,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1557",
+				"COMMON_NM": null,
+				"SPSC_NM": "Diospyros buxifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Diospyros buxifolia,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12438380",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 438297,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856119,
+					1.271434
+				]
+			},
+			"properties": {
+				"OBJECTID": 438297,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "5",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12438378",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 592048,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856061,
+					1.271477
+				]
+			},
+			"properties": {
+				"OBJECTID": 592048,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1557",
+				"COMMON_NM": null,
+				"SPSC_NM": "Diospyros buxifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Diospyros buxifolia,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12595905",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 438288,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855936,
+					1.271597
+				]
+			},
+			"properties": {
+				"OBJECTID": 438288,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "12438383",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 438294,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855936,
+					1.271554
+				]
+			},
+			"properties": {
+				"OBJECTID": 438294,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "5",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12438375",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 438295,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.855972,
+					1.271527
+				]
+			},
+			"properties": {
+				"OBJECTID": 438295,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1557",
+				"COMMON_NM": null,
+				"SPSC_NM": "Diospyros buxifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Diospyros buxifolia,",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12438376",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 438292,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.85602,
+					1.271542
+				]
+			},
+			"properties": {
+				"OBJECTID": 438292,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "12438381",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 438301,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.856229,
+					1.271369
+				]
+			},
+			"properties": {
+				"OBJECTID": 438301,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1837",
+				"COMMON_NM": "Sepetir Daun Tebal",
+				"SPSC_NM": "Sindora wallichii",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sindora wallichii,Sepetir Daun Tebal",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "12438374",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}

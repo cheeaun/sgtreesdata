@@ -1,0 +1,39 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 699925,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.892212,
+					1.239642
+				]
+			},
+			"properties": {
+				"OBJECTID": 699925,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "1",
+				"SPCS_CD": "0",
+				"COMMON_NM": "ff",
+				"SPSC_NM": "Ficus virens",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Ficus virens, ff",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "I love it.",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "13033906",
+				"EYTreeId": "{38A96D50-26F2-410B-98C4-47F03E177071}",
+				"Name": "Free",
+				"Email": "kysj1805@gmail.com",
+				"UserKeywords": "#ff"
+			}
+		}
+	]
+}

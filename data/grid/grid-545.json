@@ -1,0 +1,5717 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 1589,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96645,
+					1.401062
+				]
+			},
+			"properties": {
+				"OBJECTID": 1589,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939956",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2562,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.959012,
+					1.407643
+				]
+			},
+			"properties": {
+				"OBJECTID": 2562,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940984",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1543,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966088,
+					1.401265
+				]
+			},
+			"properties": {
+				"OBJECTID": 1543,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940089",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4815,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96793,
+					1.401298
+				]
+			},
+			"properties": {
+				"OBJECTID": 4815,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940068",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3278,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966867,
+					1.401113
+				]
+			},
+			"properties": {
+				"OBJECTID": 3278,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939927",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4692,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958281,
+					1.406306
+				]
+			},
+			"properties": {
+				"OBJECTID": 4692,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "2005",
+				"COMMON_NM": "Kelat Layu",
+				"SPSC_NM": "Lepisanthes rubiginosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Lepisanthes rubiginosa,Kelat Layu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940963",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3080,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.959589,
+					1.408052
+				]
+			},
+			"properties": {
+				"OBJECTID": 3080,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1404",
+				"COMMON_NM": "Coral Bean Tree",
+				"SPSC_NM": "Adenanthera pavonina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adenanthera pavonina,Coral Bean Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940218",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3372,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966335,
+					1.40102
+				]
+			},
+			"properties": {
+				"OBJECTID": 3372,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939958",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5287,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967929,
+					1.401603
+				]
+			},
+			"properties": {
+				"OBJECTID": 5287,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1404",
+				"COMMON_NM": "Coral Bean Tree",
+				"SPSC_NM": "Adenanthera pavonina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adenanthera pavonina,Coral Bean Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940058",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2631,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958356,
+					1.406322
+				]
+			},
+			"properties": {
+				"OBJECTID": 2631,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "2005",
+				"COMMON_NM": "Kelat Layu",
+				"SPSC_NM": "Lepisanthes rubiginosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Lepisanthes rubiginosa,Kelat Layu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940964",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2857,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.9585,
+					1.406236
+				]
+			},
+			"properties": {
+				"OBJECTID": 2857,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1816",
+				"COMMON_NM": "Santol",
+				"SPSC_NM": "Sandoricum koetjape",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Sandoricum koetjape,Santol",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940961",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2479,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967047,
+					1.401309
+				]
+			},
+			"properties": {
+				"OBJECTID": 2479,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940820",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1483,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958314,
+					1.406097
+				]
+			},
+			"properties": {
+				"OBJECTID": 1483,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940613",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4686,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.959403,
+					1.407793
+				]
+			},
+			"properties": {
+				"OBJECTID": 4686,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938725",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4735,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.959376,
+					1.407794
+				]
+			},
+			"properties": {
+				"OBJECTID": 4735,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "4",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938876",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5164,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967698,
+					1.402356
+				]
+			},
+			"properties": {
+				"OBJECTID": 5164,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1624",
+				"COMMON_NM": "Variegated fig",
+				"SPSC_NM": "Ficus variegata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus variegata,Variegated fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939935",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2863,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967964,
+					1.401327
+				]
+			},
+			"properties": {
+				"OBJECTID": 2863,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940811",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4629,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965844,
+					1.401137
+				]
+			},
+			"properties": {
+				"OBJECTID": 4629,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939960",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2651,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.959253,
+					1.407727
+				]
+			},
+			"properties": {
+				"OBJECTID": 2651,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938726",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2416,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969619,
+					1.406622
+				]
+			},
+			"properties": {
+				"OBJECTID": 2416,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938481",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1377,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968128,
+					1.402879
+				]
+			},
+			"properties": {
+				"OBJECTID": 1377,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938449",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1575,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966198,
+					1.401087
+				]
+			},
+			"properties": {
+				"OBJECTID": 1575,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940087",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5362,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969289,
+					1.406437
+				]
+			},
+			"properties": {
+				"OBJECTID": 5362,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "0",
+				"SPCS_CD": "1439",
+				"COMMON_NM": "Getah Terup",
+				"SPSC_NM": "Artocarpus elasticus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Artocarpus elasticus,Getah Terup",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "13001031",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3747,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96592,
+					1.401232
+				]
+			},
+			"properties": {
+				"OBJECTID": 3747,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940842",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4079,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958578,
+					1.406133
+				]
+			},
+			"properties": {
+				"OBJECTID": 4079,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940611",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958342,
+					1.406384
+				]
+			},
+			"properties": {
+				"OBJECTID": 1732,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938898",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2914,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958471,
+					1.406296
+				]
+			},
+			"properties": {
+				"OBJECTID": 2914,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "4",
+				"SPCS_CD": "1404",
+				"COMMON_NM": "Coral Bean Tree",
+				"SPSC_NM": "Adenanthera pavonina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adenanthera pavonina,Coral Bean Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938740",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1609,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966756,
+					1.401281
+				]
+			},
+			"properties": {
+				"OBJECTID": 1609,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939934",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5150,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965313,
+					1.404413
+				]
+			},
+			"properties": {
+				"OBJECTID": 5150,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1624",
+				"COMMON_NM": "Variegated fig",
+				"SPSC_NM": "Ficus variegata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus variegata,Variegated fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939975",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1749,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966951,
+					1.4011
+				]
+			},
+			"properties": {
+				"OBJECTID": 1749,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940065",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2342,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967076,
+					1.401147
+				]
+			},
+			"properties": {
+				"OBJECTID": 2342,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938454",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2093,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967942,
+					1.401248
+				]
+			},
+			"properties": {
+				"OBJECTID": 2093,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940069",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1406,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958298,
+					1.40608
+				]
+			},
+			"properties": {
+				"OBJECTID": 1406,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938741",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2926,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96784,
+					1.401335
+				]
+			},
+			"properties": {
+				"OBJECTID": 2926,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940814",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3567,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966099,
+					1.401076
+				]
+			},
+			"properties": {
+				"OBJECTID": 3567,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940088",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5190,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965407,
+					1.406692
+				]
+			},
+			"properties": {
+				"OBJECTID": 5190,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "4",
+				"SPCS_CD": "1411",
+				"COMMON_NM": "Pulai",
+				"SPSC_NM": "Alstonia angustiloba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Alstonia angustiloba,Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938668",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5087,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.95841,
+					1.406227
+				]
+			},
+			"properties": {
+				"OBJECTID": 5087,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938899",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2740,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966556,
+					1.401301
+				]
+			},
+			"properties": {
+				"OBJECTID": 2740,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940086",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5230,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96971,
+					1.406592
+				]
+			},
+			"properties": {
+				"OBJECTID": 5230,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939965",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698988,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967004,
+					1.401574
+				]
+			},
+			"properties": {
+				"OBJECTID": 698988,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "-1",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Caryota mitis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Caryota mitis",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Tree Planting 13-Dec-2020",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12643158",
+				"EYTreeId": "{368CA313-1A8B-4609-970A-F53EE0D3B914}",
+				"Name": "Yu Feng",
+				"Email": "johnnylye74@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1337,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96833,
+					1.401499
+				]
+			},
+			"properties": {
+				"OBJECTID": 1337,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1609",
+				"COMMON_NM": "Java Willow",
+				"SPSC_NM": "Ficus benjamina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus benjamina,Java Willow",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939922",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3948,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967989,
+					1.402255
+				]
+			},
+			"properties": {
+				"OBJECTID": 3948,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1825",
+				"COMMON_NM": "Siamese Cassia",
+				"SPSC_NM": "Senna siamea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Senna siamea,Siamese Cassia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940815",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3836,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968059,
+					1.401321
+				]
+			},
+			"properties": {
+				"OBJECTID": 3836,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940056",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3089,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96957,
+					1.406325
+				]
+			},
+			"properties": {
+				"OBJECTID": 3089,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1440",
+				"COMMON_NM": "Nangka",
+				"SPSC_NM": "Artocarpus heterophyllus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Artocarpus heterophyllus,Nangka",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940844",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5224,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958286,
+					1.406281
+				]
+			},
+			"properties": {
+				"OBJECTID": 5224,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "4",
+				"SPCS_CD": "31233",
+				"COMMON_NM": "Malayan Teak",
+				"SPSC_NM": "Vitex pinnata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Vitex pinnata,Malayan Teak",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938742",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2997,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967982,
+					1.401492
+				]
+			},
+			"properties": {
+				"OBJECTID": 2997,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1421",
+				"COMMON_NM": "Currantwood",
+				"SPSC_NM": "Antidesma bunius",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Antidesma bunius,Currantwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940053",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3748,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970104,
+					1.402752
+				]
+			},
+			"properties": {
+				"OBJECTID": 3748,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1622",
+				"COMMON_NM": "Sacred Fig Tree",
+				"SPSC_NM": "Ficus religiosa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus religiosa,Sacred Fig Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938792",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1687,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967839,
+					1.40231
+				]
+			},
+			"properties": {
+				"OBJECTID": 1687,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1871",
+				"COMMON_NM": "Salam",
+				"SPSC_NM": "Syzygium polyanthum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium polyanthum,Salam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939930",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3061,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965919,
+					1.40104
+				]
+			},
+			"properties": {
+				"OBJECTID": 3061,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940090",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2437,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969011,
+					1.402911
+				]
+			},
+			"properties": {
+				"OBJECTID": 2437,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "31231",
+				"COMMON_NM": "Fragrant Mango",
+				"SPSC_NM": "Mangifera × odorata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mangifera × odorata,Fragrant Mango",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10939933",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698986,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967017,
+					1.401532
+				]
+			},
+			"properties": {
+				"OBJECTID": 698986,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Alsophila latebrosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Alsophila latebrosa",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Tree Planing 13-Dec-20",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12643156",
+				"EYTreeId": "{B207A665-AADE-4B3F-A7BA-45B201365099}",
+				"Name": "Judy Eng",
+				"Email": "johnnylye74@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3422,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966287,
+					1.401098
+				]
+			},
+			"properties": {
+				"OBJECTID": 3422,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939957",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5045,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969714,
+					1.402716
+				]
+			},
+			"properties": {
+				"OBJECTID": 5045,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941015",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4598,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968333,
+					1.401447
+				]
+			},
+			"properties": {
+				"OBJECTID": 4598,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938456",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4896,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967965,
+					1.401343
+				]
+			},
+			"properties": {
+				"OBJECTID": 4896,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939924",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5139,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967836,
+					1.401444
+				]
+			},
+			"properties": {
+				"OBJECTID": 5139,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939920",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2142,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967907,
+					1.402393
+				]
+			},
+			"properties": {
+				"OBJECTID": 2142,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1871",
+				"COMMON_NM": "Salam",
+				"SPSC_NM": "Syzygium polyanthum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium polyanthum,Salam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939929",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698989,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967067,
+					1.40157
+				]
+			},
+			"properties": {
+				"OBJECTID": 698989,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Alsophila latebrosa",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Alsophila latebrosa",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Tree Planting 13-Dec-2020",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12643159",
+				"EYTreeId": "{C789B5DA-4733-4461-8786-AE58D13F361A}",
+				"Name": "Johnny Lye",
+				"Email": "johnnylye74@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3210,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965913,
+					1.406745
+				]
+			},
+			"properties": {
+				"OBJECTID": 3210,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "4",
+				"SPCS_CD": "1439",
+				"COMMON_NM": "Getah Terup",
+				"SPSC_NM": "Artocarpus elasticus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Artocarpus elasticus,Getah Terup",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940144",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5325,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968317,
+					1.408241
+				]
+			},
+			"properties": {
+				"OBJECTID": 5325,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "1",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "13013355",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1581,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969801,
+					1.402673
+				]
+			},
+			"properties": {
+				"OBJECTID": 1581,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "29366",
+				"COMMON_NM": "Cama",
+				"SPSC_NM": "Clausena excavata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Clausena excavata,Cama",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940255",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3290,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968323,
+					1.408226
+				]
+			},
+			"properties": {
+				"OBJECTID": 3290,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "4",
+				"SPCS_CD": "5192",
+				"COMMON_NM": "Champedah",
+				"SPSC_NM": "Artocarpus integer",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Artocarpus integer,Champedah",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938665",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1667,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958315,
+					1.406404
+				]
+			},
+			"properties": {
+				"OBJECTID": 1667,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938879",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4919,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968378,
+					1.408213
+				]
+			},
+			"properties": {
+				"OBJECTID": 4919,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940890",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1730,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965189,
+					1.404396
+				]
+			},
+			"properties": {
+				"OBJECTID": 1730,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1624",
+				"COMMON_NM": "Variegated fig",
+				"SPSC_NM": "Ficus variegata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus variegata,Variegated fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940523",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2540,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966752,
+					1.401192
+				]
+			},
+			"properties": {
+				"OBJECTID": 2540,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940821",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2889,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969541,
+					1.40274
+				]
+			},
+			"properties": {
+				"OBJECTID": 2889,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1720",
+				"COMMON_NM": "Mangga",
+				"SPSC_NM": "Mangifera indica",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Mangifera indica,Mangga",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938918",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1661,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965939,
+					1.401197
+				]
+			},
+			"properties": {
+				"OBJECTID": 1661,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940841",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3267,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958603,
+					1.407341
+				]
+			},
+			"properties": {
+				"OBJECTID": 3267,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1602",
+				"COMMON_NM": "Tembusu Hutan",
+				"SPSC_NM": "Cyrtophyllum fragrans",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cyrtophyllum fragrans,Tembusu Hutan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10941077",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2377,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968342,
+					1.402664
+				]
+			},
+			"properties": {
+				"OBJECTID": 2377,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938446",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3373,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969072,
+					1.40283
+				]
+			},
+			"properties": {
+				"OBJECTID": 3373,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1573",
+				"COMMON_NM": "Jelutung",
+				"SPSC_NM": "Dyera costulata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dyera costulata,Jelutung",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939777",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3762,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969367,
+					1.403272
+				]
+			},
+			"properties": {
+				"OBJECTID": 3762,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "5",
+				"SPCS_CD": "1895",
+				"COMMON_NM": "Cacao",
+				"SPSC_NM": "Theobroma cacao",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Theobroma cacao,Cacao",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10938450",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3173,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968278,
+					1.401766
+				]
+			},
+			"properties": {
+				"OBJECTID": 3173,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1865",
+				"COMMON_NM": "Jambolan",
+				"SPSC_NM": "Syzygium cumini",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium cumini,Jambolan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938453",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1993,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96904,
+					1.402884
+				]
+			},
+			"properties": {
+				"OBJECTID": 1993,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "3",
+				"SPCS_CD": "1573",
+				"COMMON_NM": "Jelutung",
+				"SPSC_NM": "Dyera costulata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dyera costulata,Jelutung",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10939287",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3734,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967927,
+					1.401256
+				]
+			},
+			"properties": {
+				"OBJECTID": 3734,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940070",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2148,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968379,
+					1.401605
+				]
+			},
+			"properties": {
+				"OBJECTID": 2148,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1609",
+				"COMMON_NM": "Java Willow",
+				"SPSC_NM": "Ficus benjamina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus benjamina,Java Willow",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940817",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3742,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958331,
+					1.406416
+				]
+			},
+			"properties": {
+				"OBJECTID": 3742,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938878",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4618,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968152,
+					1.40193
+				]
+			},
+			"properties": {
+				"OBJECTID": 4618,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1865",
+				"COMMON_NM": "Jambolan",
+				"SPSC_NM": "Syzygium cumini",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium cumini,Jambolan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940813",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1770,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958809,
+					1.407464
+				]
+			},
+			"properties": {
+				"OBJECTID": 1770,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938754",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4824,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969568,
+					1.408976
+				]
+			},
+			"properties": {
+				"OBJECTID": 4824,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940863",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2311,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96498,
+					1.406473
+				]
+			},
+			"properties": {
+				"OBJECTID": 2311,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "5",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "12682111",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4625,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96601,
+					1.401189
+				]
+			},
+			"properties": {
+				"OBJECTID": 4625,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940840",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3036,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.959427,
+					1.408021
+				]
+			},
+			"properties": {
+				"OBJECTID": 3036,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938875",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5220,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958677,
+					1.407373
+				]
+			},
+			"properties": {
+				"OBJECTID": 5220,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940985",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2203,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968361,
+					1.408212
+				]
+			},
+			"properties": {
+				"OBJECTID": 2203,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "1",
+				"SPCS_CD": "1689",
+				"COMMON_NM": "Gerahan",
+				"SPSC_NM": "Knema globularia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Knema globularia,Gerahan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "13013356",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6331,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96464,
+					1.406519
+				]
+			},
+			"properties": {
+				"OBJECTID": 6331,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong, Durian",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong, Durian",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "2017",
+				"Girth": "> 1.5",
+				"Public_treeid": "10690677",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4842,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968159,
+					1.402732
+				]
+			},
+			"properties": {
+				"OBJECTID": 4842,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1869",
+				"COMMON_NM": "Gelam Tikus",
+				"SPSC_NM": "Syzygium lineatum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium lineatum,Gelam Tikus",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938445",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2635,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958302,
+					1.406648
+				]
+			},
+			"properties": {
+				"OBJECTID": 2635,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938755",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5091,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968296,
+					1.401393
+				]
+			},
+			"properties": {
+				"OBJECTID": 5091,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938457",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1224,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968174,
+					1.401988
+				]
+			},
+			"properties": {
+				"OBJECTID": 1224,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1865",
+				"COMMON_NM": "Jambolan",
+				"SPSC_NM": "Syzygium cumini",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium cumini,Jambolan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940812",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2126,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969059,
+					1.402859
+				]
+			},
+			"properties": {
+				"OBJECTID": 2126,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "3",
+				"SPCS_CD": "1573",
+				"COMMON_NM": "Jelutung",
+				"SPSC_NM": "Dyera costulata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dyera costulata,Jelutung",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10939590",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4639,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968044,
+					1.401501
+				]
+			},
+			"properties": {
+				"OBJECTID": 4639,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1421",
+				"COMMON_NM": "Currantwood",
+				"SPSC_NM": "Antidesma bunius",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Antidesma bunius,Currantwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939921",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1344,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967384,
+					1.407942
+				]
+			},
+			"properties": {
+				"OBJECTID": 1344,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940142",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2947,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966307,
+					1.40118
+				]
+			},
+			"properties": {
+				"OBJECTID": 2947,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10940839",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 949,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968031,
+					1.401385
+				]
+			},
+			"properties": {
+				"OBJECTID": 949,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939923",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5123,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958336,
+					1.40683
+				]
+			},
+			"properties": {
+				"OBJECTID": 5123,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940986",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2893,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967978,
+					1.40165
+				]
+			},
+			"properties": {
+				"OBJECTID": 2893,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1404",
+				"COMMON_NM": "Coral Bean Tree",
+				"SPSC_NM": "Adenanthera pavonina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adenanthera pavonina,Coral Bean Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938443",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2183,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958581,
+					1.406187
+				]
+			},
+			"properties": {
+				"OBJECTID": 2183,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940612",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4954,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966902,
+					1.401257
+				]
+			},
+			"properties": {
+				"OBJECTID": 4954,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938455",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5031,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968264,
+					1.401737
+				]
+			},
+			"properties": {
+				"OBJECTID": 5031,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1865",
+				"COMMON_NM": "Jambolan",
+				"SPSC_NM": "Syzygium cumini",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium cumini,Jambolan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940060",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2469,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96693,
+					1.401104
+				]
+			},
+			"properties": {
+				"OBJECTID": 2469,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940819",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5008,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969288,
+					1.403273
+				]
+			},
+			"properties": {
+				"OBJECTID": 5008,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1409",
+				"COMMON_NM": "Buah Keras",
+				"SPSC_NM": "Aleurites moluccanus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Aleurites moluccanus,Buah Keras",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938444",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1805,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958301,
+					1.406083
+				]
+			},
+			"properties": {
+				"OBJECTID": 1805,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940614",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 955,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958245,
+					1.406283
+				]
+			},
+			"properties": {
+				"OBJECTID": 955,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "4",
+				"SPCS_CD": "31224",
+				"COMMON_NM": "Coconut Palm",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Coconut Palm",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940962",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2438,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967684,
+					1.407865
+				]
+			},
+			"properties": {
+				"OBJECTID": 2438,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940129",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698987,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967,
+					1.401553
+				]
+			},
+			"properties": {
+				"OBJECTID": 698987,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "0",
+				"SPCS_CD": "0",
+				"COMMON_NM": "",
+				"SPSC_NM": "Caryota mitis",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "Caryota mitis",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Tree Planting 13-Dec-2020",
+				"Hert_age": "",
+				"Girth": "0.0 – 0.5m",
+				"Public_treeid": "12643157",
+				"EYTreeId": "{D79B6DC5-261B-42B8-BAFD-D770C76557D0}",
+				"Name": "Yu Xuan",
+				"Email": "johnnylye74@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2724,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967968,
+					1.401609
+				]
+			},
+			"properties": {
+				"OBJECTID": 2724,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1404",
+				"COMMON_NM": "Coral Bean Tree",
+				"SPSC_NM": "Adenanthera pavonina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adenanthera pavonina,Coral Bean Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939926",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1350,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966002,
+					1.400979
+				]
+			},
+			"properties": {
+				"OBJECTID": 1350,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938478",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1502,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967943,
+					1.40242
+				]
+			},
+			"properties": {
+				"OBJECTID": 1502,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1871",
+				"COMMON_NM": "Salam",
+				"SPSC_NM": "Syzygium polyanthum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium polyanthum,Salam",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940061",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6322,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967684,
+					1.407865
+				]
+			},
+			"properties": {
+				"OBJECTID": 6322,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong, Durian",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong, Durian",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "2017",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10690995",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1745,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96603,
+					1.406902
+				]
+			},
+			"properties": {
+				"OBJECTID": 1745,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940885",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3517,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966818,
+					1.401196
+				]
+			},
+			"properties": {
+				"OBJECTID": 3517,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940066",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5386,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965782,
+					1.401099
+				]
+			},
+			"properties": {
+				"OBJECTID": 5386,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939961",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3119,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968314,
+					1.408239
+				]
+			},
+			"properties": {
+				"OBJECTID": 3119,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "1",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "13013354",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1104,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965282,
+					1.404407
+				]
+			},
+			"properties": {
+				"OBJECTID": 1104,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940104",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 698990,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96712,
+					1.401049
+				]
+			},
+			"properties": {
+				"OBJECTID": 698990,
+				"Type": "USERTREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "12",
+				"SPCS_CD": "0",
+				"COMMON_NM": "test tree",
+				"SPSC_NM": "test tree",
+				"PRUNING": "",
+				"SPCS_COMMON_NM": "test tree, test tree",
+				"ACTUAL_TREE_TYPE": "USERTREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "1123",
+				"Hert_age": "",
+				"Girth": "1.1-1.5m",
+				"Public_treeid": "12658139",
+				"EYTreeId": "{37575114-D186-4DD1-B800-856C751D0D42}",
+				"Name": "Tester",
+				"Email": "Tester@gmail.com",
+				"UserKeywords": null
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2552,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967855,
+					1.401269
+				]
+			},
+			"properties": {
+				"OBJECTID": 2552,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940057",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2146,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966019,
+					1.401109
+				]
+			},
+			"properties": {
+				"OBJECTID": 2146,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938477",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5226,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969042,
+					1.402807
+				]
+			},
+			"properties": {
+				"OBJECTID": 5226,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "3",
+				"SPCS_CD": "1573",
+				"COMMON_NM": "Jelutung",
+				"SPSC_NM": "Dyera costulata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dyera costulata,Jelutung",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939778",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2103,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969733,
+					1.406292
+				]
+			},
+			"properties": {
+				"OBJECTID": 2103,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1624",
+				"COMMON_NM": "Variegated fig",
+				"SPSC_NM": "Ficus variegata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus variegata,Variegated fig",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940092",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2864,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968154,
+					1.401298
+				]
+			},
+			"properties": {
+				"OBJECTID": 2864,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940822",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3434,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967961,
+					1.402283
+				]
+			},
+			"properties": {
+				"OBJECTID": 3434,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1825",
+				"COMMON_NM": "Siamese Cassia",
+				"SPSC_NM": "Senna siamea",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Senna siamea,Siamese Cassia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940816",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 941,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96579,
+					1.406794
+				]
+			},
+			"properties": {
+				"OBJECTID": 941,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "4",
+				"SPCS_CD": "29235",
+				"COMMON_NM": "Sacking tree",
+				"SPSC_NM": "Antiaris toxicaria",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Antiaris toxicaria,Sacking tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940130",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3740,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966239,
+					1.401224
+				]
+			},
+			"properties": {
+				"OBJECTID": 3740,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939959",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5214,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969647,
+					1.40272
+				]
+			},
+			"properties": {
+				"OBJECTID": 5214,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1800",
+				"COMMON_NM": "Sena",
+				"SPSC_NM": "Pterocarpus indicus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Pterocarpus indicus,Sena",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938919",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2558,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968327,
+					1.408227
+				]
+			},
+			"properties": {
+				"OBJECTID": 2558,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">21 but ≤24",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940889",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2301,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965246,
+					1.406683
+				]
+			},
+			"properties": {
+				"OBJECTID": 2301,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "4",
+				"SPCS_CD": "1411",
+				"COMMON_NM": "Pulai",
+				"SPSC_NM": "Alstonia angustiloba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Alstonia angustiloba,Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940131",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2796,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96948,
+					1.408964
+				]
+			},
+			"properties": {
+				"OBJECTID": 2796,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938843",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2370,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968199,
+					1.401715
+				]
+			},
+			"properties": {
+				"OBJECTID": 2370,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939919",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4362,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.959474,
+					1.408041
+				]
+			},
+			"properties": {
+				"OBJECTID": 4362,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938874",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2295,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967976,
+					1.401299
+				]
+			},
+			"properties": {
+				"OBJECTID": 2295,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "5",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940067",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1608,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967129,
+					1.401236
+				]
+			},
+			"properties": {
+				"OBJECTID": 1608,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940063",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1405,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96816,
+					1.401676
+				]
+			},
+			"properties": {
+				"OBJECTID": 1405,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940052",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3266,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967988,
+					1.401436
+				]
+			},
+			"properties": {
+				"OBJECTID": 3266,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1421",
+				"COMMON_NM": "Currantwood",
+				"SPSC_NM": "Antidesma bunius",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Antidesma bunius,Currantwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940055",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2725,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966065,
+					1.401056
+				]
+			},
+			"properties": {
+				"OBJECTID": 2725,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938476",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2825,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967801,
+					1.401306
+				]
+			},
+			"properties": {
+				"OBJECTID": 2825,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938447",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1159,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969646,
+					1.406638
+				]
+			},
+			"properties": {
+				"OBJECTID": 1159,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940091",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1700,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958469,
+					1.406018
+				]
+			},
+			"properties": {
+				"OBJECTID": 1700,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1513",
+				"COMMON_NM": "Clove Cinnamon",
+				"SPSC_NM": "Cinnamomum iners",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cinnamomum iners,Clove Cinnamon",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10938743",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4090,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966603,
+					1.401085
+				]
+			},
+			"properties": {
+				"OBJECTID": 4090,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939928",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1840,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965774,
+					1.406929
+				]
+			},
+			"properties": {
+				"OBJECTID": 1840,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940540",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2430,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965819,
+					1.406694
+				]
+			},
+			"properties": {
+				"OBJECTID": 2430,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940141",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5086,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968338,
+					1.408215
+				]
+			},
+			"properties": {
+				"OBJECTID": 5086,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940888",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3827,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96956,
+					1.406677
+				]
+			},
+			"properties": {
+				"OBJECTID": 3827,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938482",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2765,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.959302,
+					1.407731
+				]
+			},
+			"properties": {
+				"OBJECTID": 2765,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "4",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10938877",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1926,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967899,
+					1.401296
+				]
+			},
+			"properties": {
+				"OBJECTID": 1926,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": "≤3",
+				"AGE": "5",
+				"SPCS_CD": "1763",
+				"COMMON_NM": "Jemerlang Laut",
+				"SPSC_NM": "Peltophorum pterocarpum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Peltophorum pterocarpum,Jemerlang Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939925",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2404,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96789,
+					1.401556
+				]
+			},
+			"properties": {
+				"OBJECTID": 2404,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1404",
+				"COMMON_NM": "Coral Bean Tree",
+				"SPSC_NM": "Adenanthera pavonina",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Adenanthera pavonina,Coral Bean Tree",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940059",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3300,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.959273,
+					1.407698
+				]
+			},
+			"properties": {
+				"OBJECTID": 3300,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1400",
+				"COMMON_NM": "Earleaf Acacia",
+				"SPSC_NM": "Acacia auriculiformis",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Acacia auriculiformis,Earleaf Acacia",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940983",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5015,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958573,
+					1.406199
+				]
+			},
+			"properties": {
+				"OBJECTID": 5015,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1322",
+				"COMMON_NM": "Kelapa",
+				"SPSC_NM": "Cocos nucifera",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Cocos nucifera,Kelapa",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940316",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4127,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967365,
+					1.408122
+				]
+			},
+			"properties": {
+				"OBJECTID": 4127,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">24",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940140",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 7282,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96498,
+					1.406473
+				]
+			},
+			"properties": {
+				"OBJECTID": 7282,
+				"Type": "HERITAGE",
+				"LOCATION": "",
+				"HEIGHT": null,
+				"AGE": "5",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong, Durian",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong, Durian",
+				"ACTUAL_TREE_TYPE": "HERITAGE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": "Found in Pulau Ubin, in forested knoll off Jalan Batu Ubin behind cemetary grounds",
+				"Hert_age": "2016",
+				"Girth": "> 1.5",
+				"Public_treeid": "10690239",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6188,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965797,
+					1.407151
+				]
+			},
+			"properties": {
+				"OBJECTID": 6188,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">15 but ≤18",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong, Durian",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong, Durian",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "2017",
+				"Girth": "> 1.5",
+				"Public_treeid": "10690676",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5344,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969105,
+					1.402875
+				]
+			},
+			"properties": {
+				"OBJECTID": 5344,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "3",
+				"SPCS_CD": "1573",
+				"COMMON_NM": "Jelutung",
+				"SPSC_NM": "Dyera costulata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dyera costulata,Jelutung",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939779",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1348,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.958513,
+					1.407161
+				]
+			},
+			"properties": {
+				"OBJECTID": 1348,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">18 but ≤21",
+				"AGE": "4",
+				"SPCS_CD": "1411",
+				"COMMON_NM": "Pulai",
+				"SPSC_NM": "Alstonia angustiloba",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Alstonia angustiloba,Pulai",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940219",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5292,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966704,
+					1.40129
+				]
+			},
+			"properties": {
+				"OBJECTID": 5292,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10939932",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3864,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.967053,
+					1.401326
+				]
+			},
+			"properties": {
+				"OBJECTID": 3864,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939931",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1156,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969044,
+					1.402838
+				]
+			},
+			"properties": {
+				"OBJECTID": 1156,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "3",
+				"SPCS_CD": "1573",
+				"COMMON_NM": "Jelutung",
+				"SPSC_NM": "Dyera costulata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dyera costulata,Jelutung",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.0 - 0.5",
+				"Public_treeid": "10939286",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3240,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.970072,
+					1.40271
+				]
+			},
+			"properties": {
+				"OBJECTID": 3240,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938920",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4806,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966523,
+					1.4012
+				]
+			},
+			"properties": {
+				"OBJECTID": 4806,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "4",
+				"SPCS_CD": "1867",
+				"COMMON_NM": "Jambu Laut",
+				"SPSC_NM": "Syzygium grande",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium grande,Jambu Laut",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939955",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5375,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969382,
+					1.402863
+				]
+			},
+			"properties": {
+				"OBJECTID": 5375,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1619",
+				"COMMON_NM": "Jejawi",
+				"SPSC_NM": "Ficus microcarpa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Ficus microcarpa,Jejawi",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940062",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4093,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968013,
+					1.401454
+				]
+			},
+			"properties": {
+				"OBJECTID": 4093,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1421",
+				"COMMON_NM": "Currantwood",
+				"SPSC_NM": "Antidesma bunius",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Antidesma bunius,Currantwood",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940054",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3234,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.966916,
+					1.401168
+				]
+			},
+			"properties": {
+				"OBJECTID": 3234,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1888",
+				"COMMON_NM": "Ketapang",
+				"SPSC_NM": "Terminalia catappa",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Terminalia catappa,Ketapang",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "10940064",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5324,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.965245,
+					1.404401
+				]
+			},
+			"properties": {
+				"OBJECTID": 5324,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "4",
+				"SPCS_CD": "1749",
+				"COMMON_NM": "Hairy Lychee",
+				"SPSC_NM": "Nephelium lappaceum",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Nephelium lappaceum,Hairy Lychee",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940524",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3254,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969549,
+					1.406306
+				]
+			},
+			"properties": {
+				"OBJECTID": 3254,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "0",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "1.1 - 1.5",
+				"Public_treeid": "13001032",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3732,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969105,
+					1.402809
+				]
+			},
+			"properties": {
+				"OBJECTID": 3732,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "3",
+				"SPCS_CD": "1573",
+				"COMMON_NM": "Jelutung",
+				"SPSC_NM": "Dyera costulata",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Dyera costulata,Jelutung",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10939775",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4628,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968332,
+					1.401735
+				]
+			},
+			"properties": {
+				"OBJECTID": 4628,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">6 but ≤9",
+				"AGE": "5",
+				"SPCS_CD": "1865",
+				"COMMON_NM": "Jambolan",
+				"SPSC_NM": "Syzygium cumini",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Syzygium cumini,Jambolan",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10938452",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1325,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.96464,
+					1.406519
+				]
+			},
+			"properties": {
+				"OBJECTID": 1325,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">12 but ≤15",
+				"AGE": "4",
+				"SPCS_CD": "1572",
+				"COMMON_NM": "Durian Kampong",
+				"SPSC_NM": "Durio zibethinus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Durio zibethinus,Durian Kampong",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "> 1.5",
+				"Public_treeid": "10940865",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4030,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.969218,
+					1.403276
+				]
+			},
+			"properties": {
+				"OBJECTID": 4030,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">3 but ≤6",
+				"AGE": "5",
+				"SPCS_CD": "1409",
+				"COMMON_NM": "Buah Keras",
+				"SPSC_NM": "Aleurites moluccanus",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Aleurites moluccanus,Buah Keras",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940810",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1574,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.968098,
+					1.401273
+				]
+			},
+			"properties": {
+				"OBJECTID": 1574,
+				"Type": "TREE",
+				"LOCATION": "",
+				"HEIGHT": ">9 but ≤12",
+				"AGE": "5",
+				"SPCS_CD": "1500",
+				"COMMON_NM": "Common Rhu",
+				"SPSC_NM": "Casuarina equisetifolia",
+				"PRUNING": null,
+				"SPCS_COMMON_NM": "Casuarina equisetifolia,Common Rhu",
+				"ACTUAL_TREE_TYPE": "TREE",
+				"FLOWERING": "No",
+				"FLOWERING_START_DATE": null,
+				"DESCRIPTION": null,
+				"Hert_age": "",
+				"Girth": "0.6 - 1.0",
+				"Public_treeid": "10940823",
+				"EYTreeId": "",
+				"Name": "",
+				"Email": "",
+				"UserKeywords": ""
+			}
+		}
+	]
+}
