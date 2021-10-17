@@ -20,7 +20,7 @@ Data pipeline
 
 ### Collection
 
-- `npm run trees` - fetch all raw tree data from [Trees.SG](http://trees.sg) (NOT included in this repository) and generate `grid-*.json` files in the `data/grid` folder.
+- `npm run trees` - fetch all raw tree data from [Trees.SG](http://trees.sg) and generate `grid-*.json` files in the `data/grid` folder.
 - `npm run family` - fetch family categories for the trees, and generate `species-info.json`, `families-species.json` and `families.json`.
 - `npm run pois` - fetch Points of Interets, mainly the parks, community gardens, heritage roads and skyrise greeneries.
   
@@ -33,7 +33,7 @@ Data pipeline
      - Data with two keys; `line` and `props`.
      - `line` = All tree coordinates combined into a single line encoded with the [Encoded Polyline Algorithm Format](https://developers.google.com/maps/documentation/utilities/polylinealgorithm).
      - `props` = All other values from GeoJSON `feature.properties`
-  -  `trees.min.mp.ico`
+  -  `trees.min.mp.ico`  (NOT included in this repository)
      - Same as `trees.min.json` but compressed with [MessagePack](https://msgpack.org/).
      - `.ico` file extension is used to mask the `.mp` extension which is actually a [MessagePack](https://msgpack.org/) file. It's NOT an icon file and the `.ico` file extension is meant to fool the server to apply Gzip/Brotli compression on it, since there's no official MIME type for MessagePack. GitHub Pages serves `.mp` as uncompressed `application/octet-stream`. Cloudflare [compresses](https://support.cloudflare.com/hc/en-us/articles/200168396-What-will-Cloudflare-compress-) `image/x-icon`.
   -  `trees.csv` - same as `trees-everything.geojson` but in CSV format. Includes raw coordinates.
