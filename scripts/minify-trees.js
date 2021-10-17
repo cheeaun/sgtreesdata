@@ -5,7 +5,9 @@ const brotliSize = require('brotli-size');
 const prettyBytes = require('pretty-bytes');
 const { generate } = require('lil-csv');
 
-console.time('Minifying');
+// Seems like CDN doesn't use max quality because it's too slow
+const brSize = (str) => brotliSize.sync(str, { quality: 5 });
+
 const data = JSON.parse(fs.readFileSync('data/trees-everything.geojson'));
 
 const heritageTrees = [];
@@ -29,7 +31,6 @@ const points = data.features.map((f) => f.geometry.coordinates);
 const line = polyline.encode(points);
 
 const finalData = { props, line };
-console.timeEnd('Minifying');
 console.log('---');
 
 const filePath = `data/trees.min.json`;
@@ -37,7 +38,7 @@ const jsonData = JSON.stringify(finalData);
 fs.writeFileSync(filePath, jsonData);
 console.log(`JSON file written: ${filePath}`);
 const fileSize = Buffer.byteLength(jsonData, 'utf8');
-const fileBrotliSize = brotliSize.sync(jsonData);
+const fileBrotliSize = brSize(jsonData);
 console.log(
   `File sizes: ${prettyBytes(fileSize)} (Brotli: ${prettyBytes(
     fileBrotliSize,
@@ -51,7 +52,7 @@ const mpFilePath = 'data/trees.min.mp.ico';
 fs.writeFileSync(mpFilePath, mpData);
 console.log(`MessagePack file written: ${mpFilePath}`);
 const mpFileSize = Buffer.byteLength(mpData, 'utf8');
-const mpFileBrotliSize = brotliSize.sync(mpData);
+const mpFileBrotliSize = brSize(mpData);
 console.log(
   `File sizes: ${prettyBytes(mpFileSize)} (Brotli: ${prettyBytes(
     mpFileBrotliSize,
@@ -73,7 +74,7 @@ const csvFilePath = 'data/trees.csv';
 fs.writeFileSync(csvFilePath, csvText);
 console.log(`CSV file written: ${csvFilePath}`);
 const csvFileSize = Buffer.byteLength(csvText, 'utf8');
-const csvFileBrotliSize = brotliSize.sync(csvText);
+const csvFileBrotliSize = brSize(csvText);
 console.log(
   `File sizes: ${prettyBytes(csvFileSize)} (Brotli: ${prettyBytes(
     csvFileBrotliSize,
@@ -86,7 +87,7 @@ const lineFilePath = 'data/trees.line.txt';
 fs.writeFileSync(lineFilePath, line);
 console.log(`Line file written: ${lineFilePath}`);
 const lineFileSize = Buffer.byteLength(line, 'utf8');
-const lineFileBrotliSize = brotliSize.sync(line);
+const lineFileBrotliSize = brSize(line);
 console.log(
   `File sizes: ${prettyBytes(lineFileSize)} (Brotli: ${prettyBytes(
     lineFileBrotliSize,
@@ -101,7 +102,7 @@ const csvNoCoordsFilePath = 'data/trees-no-coords.csv';
 fs.writeFileSync(csvNoCoordsFilePath, csvNoCoordsText);
 console.log(`CSV (no coords) file written: ${csvNoCoordsFilePath}`);
 const csvNoCoordsFileSize = Buffer.byteLength(csvNoCoordsText, 'utf8');
-const csvNoCoordsFileBrotliSize = brotliSize.sync(csvNoCoordsText);
+const csvNoCoordsFileBrotliSize = brSize(csvNoCoordsText);
 console.log(
   `File sizes: ${prettyBytes(csvNoCoordsFileSize)} (Brotli: ${prettyBytes(
     csvNoCoordsFileBrotliSize,
@@ -115,7 +116,7 @@ const heritageTreesData = JSON.stringify(heritageTrees);
 fs.writeFileSync(heritageTreesFilePath, heritageTreesData);
 console.log(`Heritage trees JSON file written: ${heritageTreesFilePath}`);
 const heritageTreesFileSize = Buffer.byteLength(heritageTreesData, 'utf8');
-const heritageTreesFileBrotliSize = brotliSize.sync(heritageTreesData);
+const heritageTreesFileBrotliSize = brSize(heritageTreesData);
 console.log(
   `File sizes: ${prettyBytes(heritageTreesFileSize)} (Brotli: ${prettyBytes(
     heritageTreesFileBrotliSize,
