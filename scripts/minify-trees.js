@@ -4,8 +4,6 @@ const msgpack = require('@ygoe/msgpack');
 const brotliSize = require('brotli-size');
 const prettyBytes = require('pretty-bytes');
 const { generate } = require('lil-csv');
-const Pbf = require('pbf');
-const geobuf = require('geobuf');
 
 // Seems like CDN doesn't use max quality because it's too slow
 const brSize = (str) => brotliSize.sync(str, { quality: 5 });
@@ -122,19 +120,5 @@ const heritageTreesFileBrotliSize = brSize(heritageTreesData);
 console.log(
   `File sizes: ${prettyBytes(heritageTreesFileSize)} (Brotli: ${prettyBytes(
     heritageTreesFileBrotliSize,
-  )})`,
-);
-
-console.log('---');
-
-const geoBufFilePath = 'data/trees.geobuf';
-const geoBufData = geobuf.encode(data, new Pbf());
-fs.writeFileSync(geoBufFilePath, geoBufData);
-console.log(`GeoBuf file written: ${geoBufFilePath}`);
-const geoBufFileSize = Buffer.byteLength(geoBufData, 'utf8');
-const geoBufFileBrotliSize = brSize(geoBufData);
-console.log(
-  `File sizes: ${prettyBytes(geoBufFileSize)} (Brotli: ${prettyBytes(
-    geoBufFileBrotliSize,
   )})`,
 );
