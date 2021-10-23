@@ -109,6 +109,11 @@ console.log(
   )})`,
 );
 
+// Alternative extension for CSV (some CDN doesn't gzip/brotli compress CSV files)
+const csvNoCoordsTextFilePath = 'data/trees-no-coords.csv.txt';
+fs.writeFileSync(csvNoCoordsTextFilePath, csvNoCoordsText);
+console.log(`CSV text file written: ${csvNoCoordsTextFilePath}`);
+
 console.log('---');
 
 const heritageTreesFilePath = 'data/heritage-trees.json';
